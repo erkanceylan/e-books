@@ -1,0 +1,7157 @@
+%PDF-1.3
+%âãÏÓ
+1 0 obj
+<<
+/Type/ExtGState
+/OPM 1
+>>
+endobj
+2 0 obj
+<<
+/Type/ExtGState
+/SM 0.01
+/FL 1
+>>
+endobj
+3 0 obj
+<<
+/Length 6382
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 231.849 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 285.7407 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(\336imdi biraz eski bilgileri tazeleyelim:)Tj
+0 -2.39069 TD
+-0.0075 Tc
+<A5>Tj
+0.80989 0 Td
+-0.008 Tc
+0.006 Tw
+(Bir LINUX bilgisayar\335ndaki t\237m diskler tek bir dizin alt\335nda; yani \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 351.9528 260.6384 Tm
+0 Tr
+0 g
+0 Tc
+(/)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 357.1513 260.6384 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.72211 0 Td
+-0.008 Tc
+0 Tw
+(di-)Tj
+-28.43206 -1.33333 TD
+0.025 Tw
+(zini alt\335nda toplan\335r.)Tj
+-0.80989 -1.76528 TD
+-0.0075 Tc
+<A5>Tj
+0.80989 0 TD
+-0.008 Tc
+0.006 Tw
+(LINUX\325ta, bir dosyan\335n yeri tarif edilirken hangi diskte bulundu\333u de\333il,)Tj
+0 -1.33333 TD
+(hangi dizinde yer ald\335\333\335 belirtilir. S\232z konusu dizinin ger\215ekte hangi fizik-)Tj
+T*
+0.162 Tw
+(sel diskte yer ald\335\333\335n\335, belirtilen dizine ili\337tirilmi\337 (mount edilmi\337) olan)Tj
+T*
+0.025 Tw
+(disk ya da disk b\232l\237m\237 belirler.)Tj
+-0.80989 -1.76527 TD
+-0.0075 Tc
+<A5>Tj
+0.80989 0.00001 TD
+-0.008 Tc
+0.006 Tw
+(Bir LINUX bilgisayar\335ndaki her bir donan\335m unsuru (fare dahil) )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 341.3343 167.5675 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(/dev)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 364.7357 167.5675 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(di)Tj
+0.80068 0.00001 TD
+0 Tc
+(-)Tj
+-29.23295 -1.33334 TD
+-0.008 Tc
+0.004 Tw
+(zini alt\335nda bir dosyaya; daha do\333rusu bir \322d\237\333\237m\323e ili\337tirilmi\337 olmal\335d\335r.)Tj
+0 -1.33333 TD
+0.034 Tw
+(LINUX \215ekirde\333i, bu \322d\237\333\237m\323\237n \232zelliklerinden ilgili donan\335m par\215as\335-)Tj
+-0.0076 Tc
+<6EDD>'
+1.0501 0 Td
+-0.008 Tc
+0.025 Tw
+(hangi \215ekirdek mod\237l\237n\237n denetleyece\333ini anlar. )Tj
+-1.86 -1.7653 TD
+-0.0075 Tc
+<A5>Tj
+0.8099 0 Td
+-0.008 Tc
+0.001 Tw
+(LINUX\325ta birinci IDE kanal\335n\335n \322master\323 diski )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 269.9076 107.0321 Tm
+0 Tr
+0 g
+-0.059 Tc
+0 Tw
+(/dev/hda)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 314.0523 107.0321 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.001 Tw
+(olarak isimlen-)Tj
+-23.6053 -1.3333 TD
+-0.005 Tw
+(dirilir. Birinci kanal\335n \322)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 164.5591 93.0321 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(slave)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 185.7473 93.0321 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.71065 0 Td
+-0.008 Tc
+0 Tw
+(diski )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 215.9335 93.0321 Tm
+0 Tr
+0 g
+-0.059 Tc
+0 Tw
+(/dev/hdb)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 257.5218 93.0321 Tm
+0 Tr
+0 g
+-0.0076 Tc
+(;)Tj
+0.47963 0 Td
+-0.008 Tc
+-0.005 Tw
+(ikinci IDE kanal\335n\335n \322)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 356.2778 93.0321 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(mas-)Tj
+-27.6268 -1.3333 TD
+(ter)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 78.0115 79.0321 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.7409 0 Td
+-0.008 Tc
+0.025 Tw
+(ve \322)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 102.9349 79.0321 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(slave)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 124.123 79.0321 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.74073 0 Td
+-0.008 Tc
+0.025 Tw
+(diskleri de s\335ras\335yla )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 215.0401 79.0321 Tm
+0 Tr
+0 g
+-0.059 Tc
+0 Tw
+(/dev/hdc)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 259.4373 79.0321 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(ve )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 271.6093 79.0321 Tm
+0 Tr
+0 g
+-0.059 Tc
+0 Tw
+(/dev/hdd)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 316.0064 79.0321 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(olarak an\335l\335r.)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(273)Tj
+ET
+0.8 g
+0 305.851 377.449 381.464 re
+f
+Q
+q
+BT
+/F4 1 Tf
+27.04 0 0 21.874 56.5621 578.604 Tm
+0 Tr
+0.3 g
+0 Tc
+0.022 Tw
+(Diskler, Disketler ve)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+21.874 0 0 21.874 56.5621 554.604 Tm
+0 Tr
+0.3 g
+-0.009 Tc
+0 Tw
+(mount)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+27.04 0 0 21.874 127.8108 554.604 Tm
+0 Tr
+0.3 g
+0 Tc
+0 Tw
+(Komutu)Tj
+ET
+0 J 0 j 10 M []0 d 0.5 w 
+0.3 G
+56.693 578.464 m
+478.716 578.464 l
+S
+56.693 554.618 m
+478.716 554.618 l
+S
+404.185 571.411 m
+404.185 556.6158 392.1912 544.622 377.396 544.622 c
+362.6008 544.622 350.607 556.6158 350.607 571.411 c
+350.607 586.2062 362.6008 598.2 377.396 598.2 c
+392.1912 598.2 404.185 586.2062 404.185 571.411 c
+f*
+q
+407.185 571.411 m
+407.185 554.959 393.848 541.622 377.396 541.622 c
+360.944 541.622 347.607 554.959 347.607 571.411 c
+347.607 587.863 360.944 601.2 377.396 601.2 c
+393.848 601.2 407.185 587.863 407.185 571.411 c
+W* n
+6 w 
+1 G
+407.185 571.411 m
+407.185 554.959 393.848 541.622 377.396 541.622 c
+360.944 541.622 347.607 554.959 347.607 571.411 c
+347.607 587.863 360.944 601.2 377.396 601.2 c
+393.848 601.2 407.185 587.863 407.185 571.411 c
+s
+Q
+Q
+q
+BT
+/F4 1 Tf
+41.871 0 0 31.015 357.2879 557.7162 Tm
+0 Tr
+1 g
+0.004 Tc
+0 Tw
+(08)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+14.76 0 0 12 65.1968 531.1176 Tm
+0 Tr
+0.3 g
+0 Tc
+<A5>Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+12 0 0 12 74.9786 531.1176 Tm
+0 Tr
+0.3 g
+-0.018 Tc
+0 Tw
+(mount)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+14.76 0 0 12 113.3109 531.1176 Tm
+0 Tr
+0.3 g
+-0.013 Tc
+0.022 Tw
+(Edilmi\337 Diskleri G\232rmek)Tj
+-3.25976 -1.5 TD
+[<A5>-256(Yeni Disk Takma)]TJ
+T*
+[<A5>-256(Dosya Sistemi Tipleri)]TJ
+0 Tc
+<A5>'
+ET
+Q
+q
+BT
+/F1 1 Tf
+12 0 0 12 74.9786 477.1176 Tm
+0 Tr
+0.3 g
+-0.018 Tc
+0 Tw
+(fsck)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+14.76 0 0 12 102.9192 477.1176 Tm
+0 Tr
+0.3 g
+-0.0134 Tc
+(:)Tj
+0.43936 0 Td
+-0.013 Tc
+0.022 Tw
+(Dosya Sistemi Kontrol Program\335)Tj
+-2.99508 -1.5 TD
+0 Tw
+[<A5>-256(supermount)]TJ
+T*
+0.022 Tw
+[<A5>-256(CD Kullan\335m\335)]TJ
+0 Tc
+<A5>'
+0.66272 0 TD
+-0.013 Tc
+(Disket Kullan\335m\335)Tj
+-0.66272 -1.5 TD
+0 Tc
+<A5>Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+12 0 0 12 74.9786 405.1176 Tm
+0 Tr
+0.3 g
+-0.018 Tc
+0 Tw
+(umount)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+14.76 0 0 12 120.2961 405.1176 Tm
+0 Tr
+0.3 g
+-0.013 Tc
+0 Tw
+(Komutu)Tj
+-3.73301 -1.5 TD
+0.022 Tw
+[<A5>-256(Ba\337ka UNIX Bilgisayarlardaki Diskleri Kullanmak)]TJ
+0 Tc
+<A5>'
+ET
+Q
+q
+BT
+/F1 1 Tf
+12 0 0 12 74.9786 369.1176 Tm
+0 Tr
+0.3 g
+-0.018 Tc
+0 Tw
+(mount)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+14.76 0 0 12 113.3109 369.1176 Tm
+0 Tr
+0.3 g
+-0.013 Tc
+0.022 Tw
+(\334\337lemlerini Otomatik Olarak Yapmak \()Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+12 0 0 12 332.174 369.1176 Tm
+0 Tr
+0.3 g
+-0.018 Tc
+0 Tw
+(fstab)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+14.76 0 0 12 367.0997 369.1176 Tm
+0 Tr
+0.3 g
+0 Tc
+(\))Tj
+-19.7914 -1.5 TD
+-0.0134 Tc
+<A5>Tj
+0.63736 0 Td
+-0.013 Tc
+0.022 Tw
+(Ba\337ka Bir Windows Bilgisayar\335n )Tj
+0.02079 -1.5 TD
+(Diskini Kullanmak)Tj
+-1.32087 -1.5 TD
+[<A5>-256(Dosya Sistemi Yaratman\335z Gerekirse...)]TJ
+ET
+Q
+
+endstream
+endobj
+4 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace/DeviceGray
+/Filter/FlateDecode
+/Height 367
+/Subtype/Image
+/Type/XObject
+/Length 4926
+/Width 552
+>>
+stream
+X…í=Ë6Å†Ò…€©¬ÄF!E›¼X„,"×&‚h*á-«,­ı%6’ÆÆ"ØX‰ ¼	¦1ÑêÉ5ß×Ì\³»÷}ï}?÷s?ÇùìÎ5×Ììî÷ìÇø1½î˜®®w×ƒéı×ĞİÒÕ£İ'w‘“k]Ë>›Nœ¼\I2Ğ%I†XoÂÉƒJ×KéÈÉËròúñûï¾ıæ«+i]’~[mì$I,¥3'¿üÕ¯ŸÿÃŸî{=ŒœL“bdGvßypıÏ¬À…DÆéÌÉ½wß{÷ÍW^¸÷ÔcÓ£ÌÉõTh±u}-A•‰]ë.{0aë+È>Î¨>İæÌVXjÈ:ªQ§*ôÁrçs¾Úeíƒ]kN¾Î
+\|=E¥ô×“”¹@sò›÷şşŞÛ¯¾øÜÓ?Ÿ¾.œ\K5Ëºƒ‰W;„Ëî:Ã‘}
+NfÊ‘Ã9±Zrû‚Ë5ç“ë/³_ÊX{©ô—>Ğœü®Ì'ÿ~x%“‚h’ç^ù‹œÄ‰"˜°û¸ÂÕò©•ˆgİCOd“œäâª±ì$»$SgŠµä©*¥Uû‹ç‘›ÓE¹Šé7eúšÍPÊÖzå°nã°šÆóÉ_|!Lb’’¸cZ¢ÁAsòÇ7ß~ó¯/=ÿì“?şûğJ^…D'õ­¹0³×K¶Ş=˜”PX·ÒCgü^eÔIÙ´i0U#‹¦&lİ)¦í“u»uÍáLd\Â:¶QÍrßùì³Ï„‚ILàBRwaL»x*Oœüxÿ•W_yé÷Ï=óøO¦ë‡WSCEş¤åªCóúê+¶%÷S'(»Ät2ƒ‹_¥søÃ¦Ìòy¨ƒ‘­ó­3ê³ßúãH¦¾MçÓ˜9eÙü¾MÍÂÉ§Ÿ~*C<‰	\HJâ.ŒiOå‰“ïï¿ğâÏ?÷‹'~&$ï\I[îùäCñITıhÃLì·0º)ÃäD
+Gî!£ãD·ç63Ïí9Q†}ÈIÕÀòy´£Şu¯3œÈ&ymÍTWù6§©úØ}AŒÄí5_Óz>ùä“Odl'1IIÜ…1-Ñà 8ùîş½çî=ûÌ¹×·®¤iÿ¦3•÷Ğa:ŠŠ‰’ŸPBzÁ½ãÄ~¯JBÄ¸*9±n>	Y~_<û¾3Èhï;²©TsàÍS†qĞVgÆóÉn5ç“³Ëp{©ôÇ>Pœ|{ÿ©§Ÿzòq™M„“7®¤åöûIé¾¿*íAˆ«lÓ½>‰[cŒçgrºvÊÓhÔ…ªht`²Ù‡4xhŸ|%Gµó“iG{Ä¡lul£šå¾óQVàâ#z¯”şh’2(N¾¹ÿèÿúÏÿd½~%mŸâôZ.Aœìªäz÷òzÒ‡.¢g'ŸWRúåÊÇN¤¤i7rŠÎ˜lõü({x±rq—'‘ø¦%›òNbc¦j4;·£úÀEÊİCÂ’váF5'Ë
+\HdœNœ|õ0è·Şxı/÷MNÌCíYš{Z`ë=w÷>ıú¼Ïf9.ÄÌ¤#'¯]U’Œ/ÃîçˆÉ.®;:ßÄúÎ^ë€Ç¼¼{¸Ÿ%&Gó½‰õ™öw’çäÏBBs
+œ1½ÑNÉÉ•à8ù\éÅ‰|`™ÄØ²Ê$¯Ïœ«à2}nÑ-åD‚á¨÷Å.İeÎUÈ„-Î¬ĞZ?t6œôyƒüa…”ï'çÏÉ4I`r"¿õ@€Rµ«Ì`TrU…Š“næ—RWâ!æº)Näò{PzNÒ`•ôÆEJ*˜81¬®š—À›Ä‰O6m×¸¡›áD&€bs¬=¿»0gúû$rJìR…Ò¼¾ïˆœœ''2.”!'æx…°pR¥–+ØÏ'& u3è<9©*?6Teå9v}…”#7ë8qİ'£÷=ˆzÛ<±¨„Ø+H¤ğÓp"»½)œHàBtFœ_ce_­+ KàDÆ|ÇQÿİ* KàİYN>Ğ‚dsÒNÉ‰Üm”à8‘»÷'NĞMr2Á	Zædz'h™“k8Ap‚àİ 'q/šn!XåWQ•˜]GŞ[s•íŞL#sûú¡VÑÃ9©k¶‚™‰vç$]ÈdÛ‹ìv•4VŒ´,»189:'2‡¡O ¸=Å|fí’
+ó`¤"1ƒéD7-q‹õj—”BgbÊWõÆ7ãMŒ¨Ş$«?t0'ùºÇ¹¼˜¥2V³K.SÙİ(š™­Œ{—¾%R<Kı¾•¢Ã8i.®kNÑ&å.p¢¢CNâˆ+1
+ƒæ#+™Ét=T…mÊ‰Ä}²¨“hæD²dê'·Ç¨¶%¢î 8S:Œ“ú×W&’ÏüR2ÏI‰éWiÙÇš‡k&Üw’ò„“q"6œÛ+öêQ7Ø<BÃaï?yTãbÕdÒı©*¤bÄxsÑ˜…¿ïœXÍ¼€àdŠşÑ#8Ap‚àÁ	œ 8Ap‚àÁ	‚'NàÁ	‚'Nœ 8Ap'h7N¦I‚ljI¦Ê/ÑÉK"óª«o.9„ªõ:5ÊB§äD‚59ğ\ßÅvcèö:×tEs’.d²íEv»J¶±¥át»]2J­lNn€™ÀÃUO×Şí)æ3[oÊ`™}õ§ÄU·w±èÙöP¹Ä.To.4ÎÌI“|(f®,»èy£ÎœmÚíãÀÓìÁí!;F’Oç™Bt'ÍÅõ?FkNÑ¦slrî!œ„‰!y¤iÂ…Ş§˜®•êB´)'÷I5ı@Wãr<N$«ñp¶9²ÎÉÎT®è0Nê__Å;à¾3W=Eë×"éÕÇšû¾SprJNÄÆÁqa{ÅÓ^ÏüŞä²‡Ö_]’©Ÿ,JªŸÔŠ‡î!¦B®ù~å¢1ÌÉ9IÍNæ@Ñ‚'ˆõU‰ÙGbt£êº[ÈB§]tû6œ,•³¾s.ë;Ê®^tûšá,vÉN.m0æÁHEbº_UÓŞÄTvcğÒÖUš_KuöšÏ¹³_øY<ÇõÅu@Ùóïu“¦ºnz'¡£ä‘ºu¡÷)¦k…uÀ³XŒfGN$¾ëŠaİC°Í‘±¾söë€œª7O¬Ş&NÄÆÁqáâ: ¢Ê#dm°±°y°ˆ1Öo'7±ÖÇ: œÂ‰ê	İaNœ 8A|·/¯5«—ûÔèid…×;,Ÿ='ÍÂÉ–Ïa}GÙUËÅ.®S³/º+‡NnÃ:`|%­>fÅ˜Ï¬]º‰&‰i9IôçI8“ÜX.¾ë;ë—‹[ë£ºÎîêUÚ‘åâóÿnŸ/îâr±3İ”ßMÎí«ÇÂ¯åâ[Ê‰Ä}rv¹ØgFŸ=£=n(Óz8ÛË€'ádßåâT°ûr±áYrX.>oNÄÆÁqáâr±äÆ‚<BöĞ6ÕÛËÅ·æ¾sFRs‚'Nœ t”u@yÏ¨_5Æ¦û”…òä#ıo~~¶¿ÕÌgÁÉNúÔæœ‡éÊ¢©òv{Áª_¦SzàÊ: ²+×‹ëÄÜ@ì^Ö~ƒ•`Ş¥OÀÉy¬û"uS‘˜³°§PL,“ _RN&x4ßU¤(f‹E¥3VÏn½XvÚ_Õuvó¡—¥häx˜Ù¨îF±ê¼é:àÚõâT`^•[Ï'Á%å.­r˜~àŞÄÜdæ8‰¢«Î§]/NËœˆ©WïtYukšçÄ*K¦4e5Öz8Ûu`Ì‚ŞT®¬·rŠ-Ş¬ê%3Ø†c-¹uq»
+eÙ°ê|"NÄÆËêÂ5ëÅ:“¯­=(Õï\İw¢Û<'4·U…°‡LmXu>Á}!8Ap‚àÁ	‚'N‚'Nœ 8Ap‚àÁ	œ 8Ap‚àÁ	º0N¦I‚ê²:µ^Çïáxš=¢'Yf¦LwÃÃÎó¹*=C¸)'%§ÄúÔ!×zß–Ê7ç¢IÎ;‰)7\YÑ¹˜ë°…øœú«#frÏKHKåçÃI*JÖ*³“Kîó˜*™18Œ“LŸŸ©$p&–IsÓsZ¬W3dz3Àü $+ÿJ\OEÏö 	t›’è<%pFºµg)‹¹m+ÄÂººêİ›Ü»yÒeÀCY¶’çŒq*’Rš“îÉIîFÏT²«ó1&³lÂZÓ^}šâ¶A>w4¿ÎÌ½­ÑÇÒÎÒ²7ÇŞºÌMòºtä²óeÕæz=œX¤ÆÂsONRÖ(V­«#Ò©p,sœ¤V¶èÁçö×x­‹Kù²=8éF*×«NL\ÜBİ»Ng”Lß…nvÈ^ô:”ëZ•²Ú¥¯°†“-zÎ'Ömºw1›¶L·gòO»îÁº+H–í¢ÊOZWÈÅU3ÕÙÎsâƒ=9±/D]Ì¼ª}…N6í¡ä„h3±ZnÜsœ8£›3¡µ“°»P×¸¸İ<ˆ¾‚5Xn_¾³á}gîøÜ
+S^téË¡Ûã¶]/?£M±U¿@zÓY?9ù¸ßÊÀÅF]˜2K¥`{x“©wã¤}C11’ÁÍ…³¦neÏûÎ­”‚n…çQº?ÙyÏ÷Ø[	JşÉÛ•¾ÜïöÁ	:Ù: Ÿäcx¬Ûí¦İÆUAı€åP%›Ê3«"GæÄ|ËÁ¶ùÀV;ŞøjÏ"'éÜëWÙîÕna°bmcNWé| ìF×|ƒV;ÿª še•ÃBÃËİlÁI>¶øáM,zï=Ó6dx³Ór ;t$YÕ/ŸŠõnßª ÎTßrt·bB¾± &$¼)U6ä$¥Õ¹¾~k> Î}–ÍÕ7ìè¢V­e½TÙXÌ.Ò},‘­8I§>^¥Kæ@NĞÑ€uíBá-XœC°vé×°B2OR¹ø(œŒWé’Ùˆ“;Î'·oUĞ¾<(—TœÚt¡Ïê¨Év3NV¬Ò†/¬˜l­ÆJæÖ•–Â´¹ï[œëª`;Ş~sñ…Ü¨Í‰3!8>'¤X,ta:±~"è¢ö€mŞ‘Ä/gUPgôğ+
+¼‰‘–,oR=U{ËûÎaï‹Í¥>Ş‹é\GŠ½uåxògò=öğá›bÇåDlŠU>&?ÃÆĞÉ8Ap‚àNœ 8Ap‚àÁ	‚'p‚àÁ	‚'Nœ 8'Nœ 8Ap‚àİyN¦i’bg%X’8­òÛªÙ”Õ™iûDÓ—HËÎJèLU&Y.WöªP—•¼˜+Á%qb^¾*qNfW´ddíÀIÙØºÛ«2»zWVZ‰Árb]Ò6™/Âî˜ø}Öa}SksWrØ°9	i»z_¦c9rYœÄß†¼‰©dÒ¥´Ë¢ƒvi8×“x?R>eºxob$·ïBİJ)‹õba¾Ä„ØNêßH1U^¶61ÅIu­üŞÏ¡ÆåÌ.zŞ¨3WÔ«û›oÚEš2³z¯5]ê[”ïÌ‰şQ]*'1lÌh4bª»¿,bL5{Nò%ïNF¦P{…d˜AZNúúuöİ*³¬é=„Ê‰úñ—Ôh0cêhœHVwıİ3ªÒ8“'}/kMpğ>)İ]‹C8ñÁ¸ïèñ.Á÷õJNøíÏƒ;¢*3¡ş2's7Æè‹1Ëê+‚ËáD.fŠ.Œ×Ø…Å¸=&Jf2ù‚×ã™/Ÿ3¾,º$SœÊÅ.Ñë8#Mqxq[ÅxLÕs¬¨ºÕ¹K¨OºœRnRLÈkÊT½”yAóÉú7ÊcKı¢7jíXõ÷şÖwÙœœJòS,¿O'Nœ 8ANœ 8Ap‚àÁ	‚'p‚àÁ	‚'Nœ 8'Nœ 8Ap‚àÁ	œ 8Ap‚àÁ	‚'NàÁ	‚'Nœ 8Ap‚œ 8Ap‚àÁ	‚'Á	‚'Nœ 8Ap‚àNœ 8Ap‚àÁ	‚'p‚àÁ	‚'Nœ 8'Nœ 8Ap‚àÁ	œ 8Ap‚àÁ	‚'N‚'Nœ 8Ap‚à!8Ap‚àÁ	‚'NœÀ	‚'Nœ 8Ap‚àNœ 8Ap‚àÁ	‚'p‚àÁ	‚'NĞÅpÒNÉÉ•à8ù\‰û‚'Nœ ÛÂ‰|5áû	âû	Úä{¬À'ˆïlˆçX'NĞíädš$€4ÏÉ$'h¡$€'hÌ‰0A'è0NxßAp‚àÁ	:/N>Ğ‚dsÒNœ ıï;•àñ‹àÁ	‚Ä: ‚tç8‰ pßAóœxPÄÀ	šåD@‘ NĞ'¼ï 8Ap‚NÄÉZp‚lNENš—ã¤Ì–5üÂÉ‡\?BwW,$àÁ	‚tRNäi¡%]Ë¢ BKú?=<£
+endstream
+endobj
+5 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</2.0<<
+/CropRect[0 2.241 550.104 368]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-B\205L\206M 7:mount)
+/Overprint false
+/Inks[/monochrome(Black) 1]
+/Size[553 368]
+/Version 2
+/Type/OPI
+/IncludedImageQuality 1
+>>
+>>
+/FormType 1
+/Name/Fm1
+/BBox[-0.28568 -0.54894 1.1752 2.64712]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Im1 4 0 R>>/ProcSet[/PDF/ImageB]>>
+/Type/XObject
+/Length 35
+>>
+stream
+/GS1 gs
+q
+1 0 0 1 0 0 cm
+/Im1 Do
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</1.3<<
+/CropRect[0 2 550 368]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-B\205L\206M 7:mount)
+/Overprint false
+/ImageType[1 8]
+/Position[91.463 116.533 91.463 328.673 410.52399 328.673 410.52399 116.533]
+/ColorType/Process
+/Color[0 0 0 1(Black)]
+/Size[553 368]
+/Version 1.3
+/CropFixed[0 2.241 550.104 368]
+/Type/OPI
+/Resolution[72 72]
+>>
+>>
+/FormType 1
+/Name/Fm0
+/BBox[0 0 467.71698 680.31494]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Fm1 5 0 R>>/ProcSet[/PDF]>>
+/Type/XObject
+/Length 62
+>>
+stream
+/GS1 gs
+q
+320.16101 0 0 212.8607 91.463 116.8473 cm
+/Fm1 Do
+Q
+
+endstream
+endobj
+7 0 obj
+<<
+/Length 4064
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 598.1719 Tm
+0 Tr
+0 g
+0.005 Tc
+<A5>Tj
+0.8099 0 Td
+0.024 Tw
+(Varsa; SCSI diskler ise SCSI adreslerine g\232re )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 299.6944 598.1719 Tm
+0 Tr
+0 g
+-0.045 Tc
+0 Tw
+(/dev/sda)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 342.338 598.1719 Tm
+0 Tr
+0 g
+0.005 Tc
+(,)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 347.9479 598.1719 Tm
+0 Tr
+0 g
+-0.045 Tc
+0 Tw
+(/dev/sdb)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 393.524 598.1719 Tm
+0 Tr
+0 g
+0.005 Tc
+0 Tw
+(gibi)Tj
+-28.01496 -1.31429 TD
+0.025 Tw
+(isimlerle an\335l\335r.)Tj
+-0.8099 -1.74623 TD
+<A5>Tj
+0.8099 0 Td
+0.037 Tw
+(Sistemin a\215\335l\335\337\335 s\335ras\335nda disk b\232l\237mlerinin hangi dizinlere ili\337tirilece\333i,)Tj
+0 -1.31429 TD
+0.025 Tw
+(yani mount edilece\333i )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 192.9443 552.2365 Tm
+0 Tr
+0 g
+-0.044 Tc
+0 Tw
+(/etc/fstab)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 249.1888 552.2365 Tm
+0 Tr
+0 g
+0.005 Tc
+0.025 Tw
+(dosyas\335nda belirtilir.)Tj
+-15.07866 -1.74624 TD
+<A5>Tj
+0.8099 0 Td
+0 Tc
+<D2>Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 104.4694 533.901 Tm
+0 Tr
+0 g
+0 Tc
+(/)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 109.7999 533.901 Tm
+0 Tr
+0 g
+0.0049 Tc
+<D3>Tj
+0.76573 0 Td
+0.005 Tc
+0.025 Tw
+(dizini mount edilmeden sistem a\215\335lamaz.)Tj
+-2.56925 -1.74622 TD
+<A5>Tj
+0.8099 0 Td
+0.006 Tw
+(LINUX, \215ok \215e\337itli disk formatlar\335n\335, \232rne\333in FAT16, FAT32 ve NTFS)Tj
+0 -1.31428 TD
+0.025 Tw
+(formatl\335 diskleri g\232rebilir. )Tj
+-0.8099 -1.74624 TD
+<A5>Tj
+0.8099 0 Td
+0.067 Tw
+(Yaln\335zca \237zerinde LINUX taraf\335ndan tan\335nan, ge\215erli bir \322dosya siste-)Tj
+0 -1.31429 TD
+0.04 Tw
+(mi\323 bulunan \215evre birimleri \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 230.3356 469.6301 Tm
+0 Tr
+0 g
+-0.05 Tc
+0 Tw
+(mount)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 256.9878 469.6301 Tm
+0 Tr
+0 g
+0.0049 Tc
+<D3>Tj
+0.78097 0 Td
+0.005 Tc
+0.04 Tw
+(edilebilir. Bunlar formatl\335 diskler)Tj
+-15.79249 -1.31429 TD
+0.0049 Tc
+(ve)Tj
+1.22835 0 Td
+0.005 Tc
+0.057 Tw
+(disk b\232l\237mleri, formatl\335 disketler, dolu CD\325ler, DVD\325ler ve ZIP s\237-)Tj
+-1.22835 -1.31429 TD
+0.035 Tw
+(r\237c\237s\237 gibi \232zel baz\335 donan\335mlard\335r. Teyp kasetleri ve kartu\337lar\335 )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 383.4241 442.0301 Tm
+0 Tr
+0 g
+-0.05 Tc
+0 Tw
+(mount)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 99.3669 428.2301 Tm
+0 Tr
+0 g
+0.005 Tc
+0.021 Tw
+(edilemez \215\237nk\237 veri i\215erse bile teyp kasetlerinin \237zerinde bir dosya sis-)Tj
+0 -1.31428 TD
+0.025 Tw
+(temi \()Tj
+ET
+Q
+q
+BT
+/F5 1 Tf
+10.5 0 0 10.5 125.115 414.4301 Tm
+0 Tr
+0 g
+0.005 Tc
+0.025 Tw
+(file system)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 169.985 414.4301 Tm
+0 Tr
+0 g
+0.0049 Tc
+(\))Tj
+0.61775 0 Td
+0.005 Tc
+0 Tw
+(yoktur. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+14.5 0 0 14.5 90.8629 384.7451 Tm
+0 Tr
+0 g
+-0.009 Tc
+0 Tw
+(mount)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+17.924 0 0 14.5 138.0927 384.7451 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Edilmi\337 Diskleri G\232rmek)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 361.3278 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.072 Tw
+(Bilgisayar\335n\335zda hangi disk b\232l\237mlerinin nerelere mount edilmi\337 oldu\333unu)Tj
+0 -1.33333 TD
+0.025 Tw
+(merak etti\333inizde )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 167.3516 347.3278 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+(mount)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 196.1531 347.3278 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(komutunu parametresiz olarak kullanmal\335s\335n\335z.)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(274)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+1 g
+90.363 116.364 320.161 212.624 re
+f
+q
+90.363 116.364 320.161 212.624 re
+W n
+/Fm0 Do
+Q
+0 J 0 j 10 M []0 d 0.5 w 
+0 G
+90.113 116.114 320.661 213.124 re
+s
+89.863 70.866 321.161 34.816 re
+f
+Q
+q
+BT
+/F3 1 Tf
+10.507 0 0 8.5 90.8629 96.2776 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Bu \323mount\323 komutu \215\335kt\335s\335, listenin kolay alg\335lanmas\335 i\215in )Tj
+0 -1.4118 TD
+(biraz k\335salt\335lm\335\337 ve yeniden d\237zenlenmi\337tir.)Tj
+ET
+Q
+
+endstream
+endobj
+8 0 obj
+<<
+/Length 7510
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.026 Tw
+(Yukar\335daki \232rnekte sistemin ikinci IDE kanal\335ndaki master diskin ikinci b\232-)Tj
+0 -1.33333 TD
+0.015 Tw
+(l\237m\237n\237n, yani )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 121.7931 584.3385 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/dev/hdc2)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 168.58 584.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.015 Tw
+(\325nin \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 192.6672 584.3385 Tm
+0 Tr
+0 g
+0 Tc
+(/)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 197.8657 584.3385 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.73051 0 Td
+-0.008 Tc
+0.015 Tw
+(dizini olarak )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 260.9615 584.3385 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+(mount)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 289.6559 584.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.015 Tw
+(edildi\333i ve dosya sis-)Tj
+-22.09171 -1.33333 TD
+0.025 Tw
+(temi tipinin \322reiserfs\323 oldu\333u g\232r\237lmektedir. )Tj
+0 -2.55568 TD
+-0.001 Tw
+(Bu bilgisayar \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 119.8604 543.5039 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+(lists)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 145.8532 543.5039 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.71427 0 Td
+-0.008 Tc
+-0.001 Tw
+(isimli bir ba\337ka bilgisayar\335n )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 270.7127 543.5039 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(/bcc)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 294.0378 543.5039 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(dizinini )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 328.4513 543.5039 Tm
+0 Tr
+0 g
+-0.075 Tc
+0 Tw
+(nfs)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 346.5779 543.5039 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(\237zerin-)Tj
+-27.51286 -1.33334 TD
+0.025 Tw
+(den kendi )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 103.1449 529.5039 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(/bcc)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 126.7479 529.5039 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(dizinine ba\333lam\335\337 (mount etmi\337) g\232r\237n\237yor.)Tj
+-6.57667 -2.55568 TD
+-0.01 Tc
+0.079 Tw
+(\205te yandan birinci IDE kanal\335n\335n ilk diskinin ikinci b\232l\237m\237n\237n de )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 350.4828 502.6693 Tm
+0 Tr
+0 g
+-0.067 Tc
+0 Tw
+(/depo)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 488.6692 Tm
+0 Tr
+0 g
+-0.01 Tc
+0.033 Tw
+(dizinine ili\337tirildi\333i g\232r\237l\237yor. Bu )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 201.201 488.6692 Tm
+0 Tr
+0 g
+-0.067 Tc
+0 Tw
+(mount)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 229.9279 488.6692 Tm
+0 Tr
+0 g
+-0.01 Tc
+0.033 Tw
+(i\337leminin yap\335labilmesi i\215in \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 351.8046 488.6692 Tm
+0 Tr
+0 g
+0 Tc
+(/)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 356.9768 488.6692 Tm
+0 Tr
+0 g
+-0.0101 Tc
+<D3>Tj
+0.7437 0 Td
+-0.01 Tc
+0 Tw
+(di-)Tj
+-29.24693 -1.33333 TD
+0.025 Tw
+(zini alt\335nda )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 107.2438 474.6692 Tm
+0 Tr
+0 g
+-0.067 Tc
+0 Tw
+(/depo)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 135.8875 474.6692 Tm
+0 Tr
+0 g
+-0.01 Tc
+0.025 Tw
+(isimli bo\337 bir dizinin bulunmas\335 gerekir.)Tj
+-7.4471 -2.55568 TD
+-0.008 Tc
+-0.028 Tw
+(Biraz kar\335\337\335k oldu; de\333il mi? En iyisi bir senaryo \237zerinde a\215\335klamak galiba...)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+17.924 0 0 14.5 57.6929 412.1066 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Yeni Disk Takma )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 390.1066 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.109 Tw
+(\336imdi farzedin ki sisteminizin ikinci IDE kanal\335na \322)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 283.2057 390.1066 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(slave)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 304.3939 390.1066 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.8243 0 Td
+-0.008 Tc
+0.109 Tw
+(olarak yeni bir)Tj
+-24.31963 -1.33333 TD
+0.025 Tw
+(disk takt\335n\335z. Bu diskte de tek bir disk b\232l\237m\237 var. )Tj
+0 -2.55569 TD
+0.089 Tw
+(Bu durumda diskinizin ad\335 )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 177.0651 349.2719 Tm
+0 Tr
+0 g
+-0.059 Tc
+0 Tw
+(/dev/hdd)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 218.6535 349.2719 Tm
+0 Tr
+0 g
+-0.0076 Tc
+(;)Tj
+0.57331 0 Td
+-0.008 Tc
+0.089 Tw
+(\237zerindeki yegane disk b\232l\237m\237n\237n)Tj
+-15.90289 -1.33333 TD
+0.025 Tw
+(ad\335 da )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 86.6391 335.2719 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/dev/hdd1)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 136.2348 335.2719 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(olacakt\335r.)Tj
+-7.48018 -2.55568 TD
+-0.016 Tw
+(Diski fiziksel olarak tak\335p bilgisayar\335n\335z\335 a\215man\335z bu diske eri\337ebilmeniz i\215in)Tj
+0 -1.33333 TD
+0.067 Tw
+(yeterli de\333ildir. \205nce diskin b\232l\237mlendirilmesi ve ard\335ndan formatlanmas\335)Tj
+T*
+0.025 Tw
+(ondan sonra da \237zerine bo\337 ve yeni bir dosya sistemi yarat\335lmas\335 gerekir. )Tj
+0 -2.55569 TD
+0.037 Tw
+(Diskleri b\232l\237mleme ve formatlama i\337lemi LINUX\325un )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 286.9305 253.6026 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+(fdisk)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 315.8548 253.6026 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.037 Tw
+(komutuyla ya)Tj
+5.45597 0 TD
+0 Tc
+(-)Tj
+-30.04281 -1.33334 TD
+-0.008 Tc
+0.007 Tw
+(p\335l\335r. Dosya sistemi yaratma i\337i de yaratmak istedi\333iniz dosya sistemine g\232re)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 57.6929 225.6026 Tm
+0 Tr
+0 g
+-0.062 Tc
+0 Tw
+(mke2fs)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 88.8842 225.6026 Tm
+0 Tr
+0 g
+-0.0075 Tc
+(,)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 94.2102 225.6026 Tm
+0 Tr
+0 g
+-0.062 Tc
+0 Tw
+(mke3fs)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 128.1813 225.6026 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(veya )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 149.4877 225.6026 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(mkreiserfs)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 204.253 225.6026 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.022 Tw
+(komutlar\335yla yap\335l\335r. \(\205zel bir nedeni ol)Tj
+16.08471 0 TD
+0 Tc
+(-)Tj
+-30.04281 -1.33334 TD
+-0.008 Tc
+0.054 Tw
+(mad\335k\215a t\237m disk b\232l\237mlerinizi \322)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 202.1263 211.6026 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(reiserfs)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 233.755 211.6026 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.76958 0 Td
+-0.008 Tc
+0.054 Tw
+(veya \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 268.4457 211.6026 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(ext3)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 289.2398 211.6026 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.76949 0 Td
+-0.008 Tc
+0.054 Tw
+(dosya sistemleriyle)Tj
+-22.82157 -1.33333 TD
+0.025 Tw
+(donatman\335z\335 \232neririz.\))Tj
+0 -2.55567 TD
+0.043 Tw
+(Bu a\337amada bilgisayar\335n\335za takt\335\333\335n\335z yeni diskin \237zerinde tek bir b\232l\237m\237n)Tj
+0 -1.33334 TD
+0.039 Tw
+(yer ald\335\333\335n\335 ve bu b\232l\237m \237zerinde de \322)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 223.318 156.768 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(reiserfs)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 254.9468 156.768 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.75427 0 Td
+-0.008 Tc
+0.039 Tw
+(format\335nda bir dosya siste-)Tj
+-19.54036 -1.33333 TD
+0.071 Tw
+(mi yarat\335lm\335\337 oldu\333unu varsay\335yoruz. B\232l\237mleme ve dosya sistemi yaratma)Tj
+T*
+0.025 Tw
+(i\337lemlerini daha ilerideki b\232l\237mlerde a\215\335klayaca\333\335z.)Tj
+0 -2.7462 TD
+-0.005 Tc
+-0.002 Tw
+(\205nce bu yeni diski ili\337tirmek i\215in bir dizin se\215melisiniz \()Tj
+ET
+Q
+q
+BT
+/F5 1 Tf
+10.5 0 0 10.5 296.0512 99.9333 Tm
+0 Tr
+0 g
+-0.005 Tc
+-0.002 Tw
+(mount point)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 347.6459 99.9333 Tm
+0 Tr
+0 g
+-0.005 Tc
+-0.002 Tw
+(\). E\333er)Tj
+-27.6146 -1.3333 TD
+(bu ama\215la se\215ebilece\333iniz bir dizin yoksa, yaratmal\335s\335n\335z. Yeni diskinizi, \232r-)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(275)Tj
+ET
+1 g
+56.693 624.786 320.756 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 242.317 627.3763 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Diskler, Disketler ve mount Komutu)Tj
+ET
+Q
+
+endstream
+endobj
+9 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace/DeviceGray
+/Filter/DCTDecode
+/Height 177
+/Subtype/Image
+/Type/XObject
+/Length 4144
+/Width 174
+>>
+stream
+ÿØÿà JFIF      ÿî Adobe e€    ÿÛ C 		
+ $.' ",#(7),01444'9=82<.342ÿÀ  ± ® ÿÄ           	
+ÿÄ µ   } !1AQa"q2‘¡#B±ÁRÑğ$3br‚	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚáâãäåæçèéêñòóôõö÷øùúÿÄ        	
+ÿÚ   ? öj(¢Š(¢Š(¢Š(¢Š(¢Š(¢Š(¢Š+È<kñÆËJšKÅõÂeZíÎ`SşÆÓóı~ïÖ¼wTøƒâİe‰¼×ïJŸùgù)ÿ |Çµkû[RÜûBïpïç6li~=ñ~™:/j¾êÇ,ÆTÿ ¾+úW¥xsãÍå´ñÚx§NV¡¹¶BŒ=ÊüJö­#YÓµí:;ı.ê+›Y>ëÆzêGcìjõQEQEQEW”üpñ|º&‰dæ;IXJê~ä#†_øqôÍ|İE¡¢I:´3mO&ºkšF¢«0üÈ»C*Ó~øâïÁ:êN…ŸN™•níÇñ/÷—ı¥Ï•}ggwogİ¤©-¼È²E"•”Œ‚*j(¢Š(¢Š(¢Š+åÏ—ÆóâUÜ<âÒ ÷Îÿ ı¼ú4ó&å\÷cCÆñ9GR¬;eZ‡M¾¸€Í•Ä®‘1_Ì
+IlŞ+xçWI"n¥vB;­_L|
+Ö$Ô<%”Ä–°¸1!?Ü*RkÓè¢Š(¢Š(¢Š(¯™~ hSkn4µ!MìĞ?ì˜“ÿ ‰5é74ù.<)3E¾©pßc>Tlß(V|cø«Ç¾&xDx;Å§[ÊòÙI
+Ïm¸ä¢’T©üTşbµşø&ÓÅZ½íÅñıÎŸåŸ(®w3nş[+ÒÏŒ¼¦ø…ô[o/%µV3Km4i·®:+şÈ5Æ|]ğ}¤zl/Ñå‰ìîŠ	|¯•X2üŒxå{ìí;ùÚõ¿ü³Ûş?8¯v¢Š(¢Š(¢Š(¢¼ÇwèŸ´MBàìƒË·gcü*K!5Îø¯Á"Ó> êqÚCæ[ê,‰/Hš9$7û¥—ò®ßYğeÇŒ›6«©\Ûµ”V©j¥‹€7¹cêGéZğÕÏƒõÉf†òææÚx‚\G4J7cîº•î¼}kÅ®üâ­W†8të³7šVŞ{PX3)ê¬¿wñÅz—Œ­áø	eáıJDkùÙQQ;[Í2°Ë÷x¯¯eıe	¯k0“ËÛFÃşÇükè*(¢Š(¢Š(¢Š+À~2i1ê_ôky$òã¸²TfÏİUw5ÚiÌb„¼’J±F©‘÷6ÅùWšè!ŒqùÖ‚â$U5JöúÒß÷nwÉÿ <×“ø×šüQ·Óî|!=äö*·P:ˆdS÷w0ÍxMzÁf-âºLÛc½…­rz%Jş«Æ¾¥¢Š(¢Š(¢Š(¢¾wøÿ q¾.ÒíãqçEióÿ ³–;k±´°¿Ñ4«[‹9ÌñtiQ×;[oÌËşÍjA¯Ë$•íwwNWõª×:¥ÔÇË–ğªŸ—lK·5=•„²íÛ“êYrÆ³ş x!õ_İ41Î÷6ËçÃ´ğJõR¿îæ¼7Âš­µ…û[_Å–CË”H2Ñ©ş&ƒJÒµx%ĞnùM¯û·-å°ÁR­_M|>ñ¿<3êü—â+¨¿»&:öOQ]UQEQEQ\Ç<maàíw8’æS²ÚÙO27sşèîkçß	ø{Rø£ã™îõ	 2	¯§^¯ğ¢ıví_@¾ÕôŞ—±­¬b8áUUEş_JçfÑ´ë‡/%¤a³É\¦ïš·§ø~İ^ŞÖ4ÿ ¦„d­tVº|VÇv77©íVú×Ì?|¾ñÔ,¢Ù¦ê²*"“ø“úş5æÕÖ|>ñœş
+ñ$w€3ÙKû»¨Wø“±ëÔWÖ–wvú…”–’¤¶Ó"¼R!ùYOB*z(¢Š(¢Š+œñ—ŒôÏéòù·Ìù[{d8i[ÓØ{×Êºö½©ø¿_këé7ÜNÁ#@p‘©?*.zkêx^×Â~µ°€)™—Ì¸“nÈzçıß»ÿ ®š£0BÏ¸Ä…½JÔ(¢¸ßŠZ2ëõHB–Ş?µEÏİ1òñİÃñ¯’¨¯IøeñBÌºn£ºmF$…kr‰}WÕké{;ËmBÎ+»9£ÚUİ‘œ«/¨5=QEQPİİEce=Üí¶#iú*®Oè+ãïxšïÆ>$¸Õ'Ø!Î|¨Çİ_óÜÕ¯‡šÎ¹ã(ííüØíäY¥'¢ªµõn™gqkn©,Ùÿ gÒ´)_Ï¸±ö§Ó]K.÷RK[£“Éú¡4+¬ñù‘2•t<«!]¦¾yøğğøVí5=4<š-Ëm^æİÿ ¸}¿»ô®ì‘N3g!f“ğßğZ¨T©*Av5ê?|q.‡¯Å¡ŞN³/[djÄŠbFÓøıßÊ¾•¢Š(¢Š+Íş5ø„hŞ{Ù~Ñ©·ªGü³¹ÿ ĞGã_8Hooœ_5ÄûYÂõû©_P|0ğRx;Ã(³Çÿ +°²\“ÕOdú/ó®ŞŠ(¢Š`ŒŠÇÖü9g®h×ºUÊÿ ¢İÄQ—ØİU×İHR>•ò\zZê·¶7Ò%³‘¢$¸e8ª·0­Ì2O$Gl»{ïVz±FVS´©È#µ}{ğëÄßğ–x*ÇP‘Õ®.±ÚTêµ¿àUÔÑEQMwH£gv
+ˆ¤±=WÊŞ?ñT^2ñÄ·hÄévHcƒı¤NIÿ 7éŠÓø5á³âO>«yûm?”Ê~âş'ş_LQHÇjíKEQE|³ñŸOÃâMëD»Væ(ç?R¸?úqšIÍï”[bKÆÇØ©ª5ì¿³îµäkz‹#|—0¬ñgûÈpGâ­ÿ ×ĞTQEW|oñÄš]’xkO“eÅÜ{®O)à'üŸÀ{×„Ù[¼š^ ê„¬k'Óæ¯¡şØGmà'»UÄ—WNXú…ÂäkÔ(¨æ8ˆÔ”QEWÎ_´!<a§Ëİì€ü˜ÿ y}™TK‰8XŠŒzU®ÛáÁ¶ø¡¢¶8g’3ÿ ‰—ù‘_XÑEQ_;|Xğ†¹¬|KšK)&ŠâŞ&GèŠv‘ŸªŸÎ¹+Ïø—Â6SBÉ……Â˜¤xœ:¯ıòkŞ>In~YÃÄr˜Õ¶ºsé]õÉFcüE>Š(¢Šù¯ã•ôwş>KE‘ÙZ¤nßİfËmüˆüëÍd’Ar»·3Ö¤µÓşÛ:Ao<[ÜíUìÉ®Ûá•pÿ ìXJ}‘%–UoáYUÿ Ç™kêJ(¢©M¬iöîc’ê=ëÕWæ#şùªòxLEùg.İ‘clŸÒ°#–{ëÇº› ±ùPÿ  şíYhã’†dWÆÖFRµä¾$Ñ5_‡™ñ„äx¬Y¿Ò-òYı–^éü«Ñ|ñ_EñjGirÉ§ê‡³Èß,‡ş™±ëşïZô
+k©ezƒšuQEsSÊÍ¨Üù¤:£•\Ÿº+Âş4<o®Ù­ãAåÒ*üÌxêkÌjÍ‡öØ–Ş#$Äâ5µô‡ÃŸ¯…,~ÛxŠúµÒbáÉå*vW§QETÕHô‹Ç…ŠÈ¶îP¯PvœW!§Ã~_rOSWƒ£5 @µöñ]A$F¯ªQ÷¯›¼sáI|)®´(	³›ç·nëÿ é]‡~4ê:3Caâ÷ÚxÂ¬ıfˆzçø‡ë_DY^[jPŞYÌ“[Lâ‘ÊÊzSÑECTvXcU$yÅré*›™•O*ÕÎxÃvºä&+¸‹¯ğ•ê¿î×>i¬ø7ª¾›“ÿ ‰®¿Ã^Ó4YDööÃÍ$îjìV-±íï]…Ú]@¼şñS×ëV¨¨çd·’6û¬…Oâ+‡ÒØ˜W'µiÑF3F1XŞ'ğå¯‰ôYtû‘Ï1Iÿ <ÛÖ¼ßá×Š®õYtûMâg‰ö4¡vÄ?àgú×Óü;sá_Øi’¤—ïgØrªY‹mSéÍtÔQEpÿ ~ hş±0K"Ï©²îŠÒ6ú¿÷V°¼/ws¨éğ]İŸßÌ›ßıã]9…Y9¦-ª©Ï2 AÅ:„Ü’	"b½­kMTI,pL›]¾Ueû¤Öfë×ßÙú<Ò+m•×Ë‹w×şÉÿ €×3¦Àb€gşù«üQE‡å¬‹İ^m
+èj6Ñy .'„u‘}¿Ú®‹Bñ¯‡|E;S·i‰Úmäaª}
+k~›$‘Â…äuDK
+æ5ˆşÑ#cs®ZHëİ[?šÿ ÷Êf¼‡Å_5-A×Ã¶¿Ùğ>Ñ.cşèû©úşäÏ4×·lò¼“Jãs±É$×Ñ>]š|)ıÔUZëGİ¥¢‘Š¨É TíÖA’S÷QI­]+KœL·W€!^R,ä©õ5¹Y ÑäÕ­bXeXå‰·.áòG*k›kvÉWuƒJ¿ôÅÕª›ëfÙ¶\BğŸîÈ…jhõÛvêE[‹R‚N*ÊÍ•üi$™I&¹MQÊhÁ×ƒx…#]bSFU'ëŠ§j÷»Z;F¸Úye„·ê4Úİ9É‚f'¾Âi>Éryû<¿÷ìÓ#ûñ²}WcKÇö•¾zn¯~ğİâ-¼a~^+¯ŠttŠG¹>¬*ƒjm=Ê[[#I+}ÔEÍmÙxri•dÔ¥*>DG§Õ¿øšß·¶‚Ö!,h?…EKES$Š9“d±£§÷Yr+ïÁÚá%ôèâcüPş‚Ec\ü:‡­†©sÀ•Aÿ ²Öş…â­%YÒÔ^Ä¼oµ98ÿ sïW7uâøäû<Ö÷1J~_)â(ß÷ÍZÒ<!¯xô˜'ÓìAıä³Å±™ºˆzıkÒ<=ğÿ Ã¾óÒÉgšc–éVGıÕ%~Uÿ dWI1B»b#_DP´í£ĞRàzRVêª~¢²uèÚå¤°^é¶’3¡E•­Ñ>0
+’¼^Is ëş›É¸±êÛ?%Í¤-"cı ¿sşD~'Œ¢C¿ûëgNÓ¼A¯È‹”ö¶çïOwD²óô]A´Ğí¼¸y˜~òwûÎ ö­J(¢Š(¢Š(¢Š(¢Š(¢Š(¢Š(¢Š(¢Š(¢Š(¢Š(¢Š(¢¿ÿÙ
+endstream
+endobj
+10 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</2.0<<
+/CropRect[0 0 174 177]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-#157504:penguen p\237f)
+/Overprint false
+/Inks[/monochrome(Black) 1]
+/Size[174 177]
+/Version 2
+/Type/OPI
+/IncludedImageQuality 1
+>>
+>>
+/FormType 1
+/Name/Fm3
+/BBox[-0.68888 -4.64324 9.26663 9.59203]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Im2 9 0 R>>/ProcSet[/PDF/ImageB]>>
+/Type/XObject
+/Length 35
+>>
+stream
+/GS1 gs
+q
+1 0 0 1 0 0 cm
+/Im2 Do
+Q
+
+endstream
+endobj
+11 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</1.3<<
+/CropRect[0 0 174 177]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-#157504:penguen p\237f)
+/Overprint false
+/ImageType[1 8]
+/Position[32.364 221.589 32.364 269.38 79.345 269.38 79.345 221.589]
+/ColorType/Process
+/Color[0 0 0 1(Black)]
+/Size[174 177]
+/Version 1.3
+/CropFixed[0 0 174 177]
+/Type/OPI
+/Resolution[72 72]
+>>
+>>
+/FormType 1
+/Name/Fm2
+/BBox[0 0 467.71698 680.31494]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Fm3 10 0 R>>/ProcSet[/PDF]>>
+/Type/XObject
+/Length 59
+>>
+stream
+/GS1 gs
+q
+46.9807 0 0 47.7908 32.364 221.9042 cm
+/Fm3 Do
+Q
+
+endstream
+endobj
+12 0 obj
+<<
+/Length 6947
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 598.3385 Tm
+0 Tr
+0 g
+-0.005 Tc
+0.022 Tw
+(ne\333in yedekleme amac\335yla kullanacaksan\335z, \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 281.8899 598.3385 Tm
+0 Tr
+0 g
+-0.061 Tc
+0 Tw
+(yedek)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 308.0147 598.3385 Tm
+0 Tr
+0 g
+-0.0052 Tc
+<D3>Tj
+0.74247 0 Td
+-0.005 Tc
+0.022 Tw
+(isimli bir dizine ili\337tir-)Tj
+-21.4236 -1.33333 TD
+-0.034 Tw
+(mek anlaml\335 olabilir. Bu durumda bir kereye \232zg\237 \322)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 307.9266 584.3385 Tm
+0 Tr
+0 g
+0 Tc
+(/)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 311.9475 584.3385 Tm
+0 Tr
+0 g
+-0.0051 Tc
+<D3>Tj
+0.68659 0 Td
+-0.005 Tc
+-0.034 Tw
+(dizininiz alt\335nda \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 394.2963 584.3385 Tm
+0 Tr
+0 g
+-0.095 Tc
+0 Tw
+[(ye)-89(-)]TJ
+-31.94036 -1.47368 TD
+-0.072 Tc
+(dek)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 106.5378 570.3385 Tm
+0 Tr
+0 g
+-0.0051 Tc
+<D3>Tj
+0.74521 0 Td
+-0.005 Tc
+0.024 Tw
+(isimli bir dizin yarat\335p bundan sonra her a\215\335l\335\337ta uygun mount komu-)Tj
+-2.23806 -1.33333 TD
+0.002 Tw
+(tunu vermeniz; daha do\333rusu her a\215\335l\335\337ta )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 266.4566 556.3386 Tm
+0 Tr
+0 g
+-0.056 Tc
+0 Tw
+(/dev/hdd1)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 316.0715 556.3386 Tm
+0 Tr
+0 g
+-0.005 Tc
+0.002 Tw
+(disk b\232l\237m\237n\237n )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 389.0711 556.3386 Tm
+0 Tr
+0 g
+-0.072 Tc
+0 Tw
+[(/ye)-67(-)]TJ
+-31.39034 -1.47369 TD
+(dek)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 109.3729 542.3385 Tm
+0 Tr
+0 g
+-0.005 Tc
+0.025 Tw
+(dizinine ili\337tirilmesini sa\333laman\335z yeterli olacaktr:)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 90.8629 517.5039 Tm
+0 Tr
+0 g
+-0.068 Tc
+0.056 Tw
+(su -)Tj
+0 -1.47368 TD
+-0.057 Tc
+(mkdir /yedek)Tj
+T*
+-0.054 Tc
+(mount -t reiserfs /dev/hdd1 /yedek )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 466.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.152 Tw
+(Bu i\337i yapabilmek i\215in \322)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 197.8556 466.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(root)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 216.0053 466.0865 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.86796 0 Td
+-0.008 Tc
+0.152 Tw
+(kullan\335c\335 kimli\333ine b\237r\237nmeniz gerekti\333ini)Tj
+-12.78628 -1.33333 TD
+0.025 Tw
+(s\232ylemeye gerek yok herhalde...)Tj
+0 -2.55568 TD
+-0.019 Tw
+(E\333er bir hata mesaj\335 almazsan\335z )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 224.6817 425.2519 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+(mount)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 253.0224 425.2519 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.019 Tw
+(i\337lemi ba\337ar\335yla tamamlanm\335\337 demek-)Tj
+-15.44376 -1.33333 TD
+0.065 Tw
+(tir. T\237m UNIX\325lerde oldu\333u LINUX\325ta da \322)Tj
+ET
+Q
+q
+BT
+/F5 1 Tf
+10.5 0 0 10.5 284.1589 411.2519 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.065 Tw
+(No news is good news!)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 381.8213 411.2519 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.065 Tw
+(\323; yani)Tj
+-27.71032 -1.33333 TD
+0.025 Tw
+(itiraz gelmezse i\337ler yolunda demektir.)Tj
+0 -2.55568 TD
+0.013 Tw
+(\336imdi art\335k yeni diskinizi kullanabilirsiniz; \232rne\333in yedekleme amac\335yla tak)Tj
+30.08133 0 TD
+0 Tc
+(-)Tj
+-30.08133 -1.33334 TD
+-0.008 Tc
+0.025 Tw
+(t\335\333\335n\335z bu diske eski disklerinizden dosyalar\335 kopyalamaya ba\337layabilirsiniz:)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 90.8629 331.5826 Tm
+0 Tr
+0 g
+-0.056 Tc
+0.056 Tw
+(mkdir /yedek/home)Tj
+0 -1.47368 TD
+-0.054 Tc
+(cp -r /home/cayfer /yedek/home)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 294.1652 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(gibi... )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 90.8629 107.9133 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+(mount)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 120.0327 107.9133 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.06 Tw
+(komutuyla yeni diski )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 212.3668 107.9133 Tm
+0 Tr
+0 g
+-0.062 Tc
+0 Tw
+(/yedek)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 246.7351 107.9133 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.06 Tw
+(dizinine ili\337tirip kullanmay\335 ba\337ard\335n\335z)Tj
+-14.845 -1.3333 TD
+0.093 Tw
+(ama sistemi her a\215t\335\333\335n\335zda bu )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 225.8197 93.9134 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+(mount)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 255.3381 93.9134 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.093 Tw
+(komutunu tekrarlaman\335z gerekecek.)Tj
+-15.6643 -1.3333 TD
+-0.013 Tw
+(Sistemin her a\215\335l\335\337\335nda )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 187.6525 79.9133 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/dev/hdd1)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 236.8511 79.9133 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(diskinin )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 273.2781 79.9133 Tm
+0 Tr
+0 g
+-0.062 Tc
+0 Tw
+(/yedek)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 306.881 79.9133 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.013 Tw
+(dizinine otomatik olarak)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(276)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+0.9 g
+-11.091 121.89 478.808 158.042 re
+f
+Q
+q
+BT
+/F3 1 Tf
+11.07 0 0 9 91.267 260.7876 Tm
+0 Tr
+0 g
+-0.013 Tc
+-0.011 Tw
+(Yeri gelmi\337ken: Yedekleme i\337lerini )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 238.0482 260.7876 Tm
+0 Tr
+0 g
+-0.075 Tc
+0 Tw
+(cp )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+11.07 0 0 9 253.3801 260.7876 Tm
+0 Tr
+0 g
+-0.013 Tc
+-0.011 Tw
+(komutuyla yapmak pek iyi bir y\232ntem)Tj
+-14.64436 -1.55556 TD
+0.035 Tw
+(de\333ildir. \334lk sorun dosya-dizin okuma yetkilerinde \215\335kar. Bir dosyay\335 kopya-)Tj
+T*
+0.007 Tw
+(layabilmek i\215in \232nce o dosyay\335 okuyabilmeniz gerekir. Do\333al olarak root d\335-)Tj
+T*
+0.03 Tw
+(\337\335nda hi\215bir kullan\335c\335 diskteki t\237m dosyalar\335 okumaya yetkili de\333ildir. Sorun)Tj
+T*
+0.012 Tw
+(\215\335kmas\335n diye )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 152.1632 204.7876 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(cp)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+11.07 0 0 9 164.721 204.7876 Tm
+0 Tr
+0 g
+-0.013 Tc
+0.012 Tw
+(komutunu root kullan\335c\335 olarak verirseniz bu kez yeni kop-)Tj
+-6.63541 -1.55555 TD
+-0.024 Tw
+(yalar\335n sahibi \322root\323 olur. Kitab\335n sonraki b\232l\237mlerinde yedekleme i\337leri i\215in)Tj
+0 -1.55556 TD
+0.008 Tw
+(ba\337ka komutlar ve y\232ntemlerden s\232z edece\333iz. Dosya ve dizin kopyalarken)Tj
+0 -1.55555 TD
+0.242 Tw
+(bu yeni kopyalar\335n orjinallerini ayn\335 kullan\335c\335ya ait olmalar\335n\335 sa\333lamak)Tj
+0 -1.55556 TD
+0 Tw
+(gerekiyorsa )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+11.07 0 0 9 146.2476 148.7876 Tm
+0 Tr
+0 g
+-0.106 Tc
+0 Tw
+(cp)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+11.07 0 0 9 162.5414 148.7876 Tm
+0 Tr
+0 g
+-0.013 Tc
+0 Tw
+(komutunun )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+11.07 0 0 9 214.7682 148.7876 Tm
+0 Tr
+0 g
+-0.106 Tc
+0 Tw
+(-p)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+11.07 0 0 9 231.0621 148.7876 Tm
+0 Tr
+0 g
+-0.013 Tc
+0.186 Tw
+(parametresi sorunu \215\232zecektir \()Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+11.07 0 0 9 373.4253 148.7876 Tm
+0 Tr
+0 g
+-0.106 Tc
+0 Tw
+(-p)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+11.07 0 0 9 385.3563 148.7876 Tm
+0 Tr
+0 g
+-0.0134 Tc
+(:)Tj
+0.60268 0 Td
+-0.013 Tc
+0 Tw
+(pre-)Tj
+-27.16902 -1.55555 TD
+0.022 Tw
+(serve ownership\).)Tj
+ET
+0.9 g
+27.864 215.433 52.339 56.179 re
+f
+/Fm2 Do
+Q
+
+endstream
+endobj
+13 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace/DeviceGray
+/Filter/FlateDecode
+/Height 326
+/Subtype/Image
+/Type/XObject
+/Length 6495
+/Width 559
+>>
+stream
+X…í]MËeÇq¾Kağ&«@xe²ÆÇd!H„@aâ eb“‰ä…Pfa´0F`b1$dœM ›ü0
+‚ÁB ”MP f30›mô&OõgUwuŸsï=÷¾÷û<óvUWuõÇ9ıÜ>çtûã9A¬Ç Öã×Ä•âe,ûâşÛÄ•âåÇûtùç_)üã»hˆ¸º<°x4µ]şş—?ÿ~ñşûïÿôoî¡%â–á×ü.÷/Ù.?ùê£=úä“O>şø¿>~ëO„Ş‰Û†?ŞÿOè‚×‘Kv Ë»ÿóÊ½Ş{ó¯½òí{ÿtçî¢s`·ƒ€BáùscĞmR›óŠKFåÆñPño0p#Ø­gZ}rù¦(J2íà¯u%±_ïh>tpìÃèşóg‘ÈŒí¸º|şæ¿ıûÏß¹óİo|ı^+ty.LI¤Ys!iüQG—•÷Ï¹ÿÉ}ºÜšø[¦‹¤½é‚´Å»ËıçO"=âc9 ÛOw(QV—ÿ»û¯ÿò‹·¾ÿo¼ôîwş°ĞE¶dgâ-(?ÜeÉoy°r6¸!ƒ3ëW­á/f´+ûmÕ’+«şà©11¯:)AH0ÓõæH}-ÙVí×Ñ…:öò½Ùl[–?ŸAúò/¯ÔJ9[o›w0 #Òã1&=@Ùƒ(«Ë?úÙû÷ï½ú­ßıÚO~ƒÕƒ“í;¼ã_¤‹ºZ£ğ—hb¦¯ÚÕçú1Ô½«ÌÓª¦{©ş œæ›¦D…dÖÄŸ×±Öğ²ü•Ö»ŞÒ6¸6§ÚÆü@†ì‘ï._|ñ¸°ƒŠô€…¼Èd#ÔêòÎ[÷î¼òÍßÙ½÷«Ëƒ€.öÑ^R¸ø7‰“?ïf·5âŸ-±<(¿ÃâÊjĞW5jŸîhãŸRK—ïÆk¹‰*ƒ²1c»©í–reø0úüóÏA†T¤,äE&[ò¹<®.ÿûÆkw^ıîüşK»÷duA©@ƒh7-Œ®ş âleÇ]tœüíAÔ¬%ºtÍº¬FísHÓÀÒå—RX¦,Ï=ßráÁ“
+jû­ë º|öÙg˜ëT¤,äE&[ò¹<}½şoë›¿÷Òn÷Ş¾VŞ] 
+@VÿÊ;jT~yÑWZïşä™1¦ş”êè""$S3}—ÕX·ºDWH—?|ÕMÊä¼îU¼3»jå²lñîòé§Ÿb’wP‘°™ldc@Y]>½÷ãwüÎï¾q÷?>ø^ıV_Fuèııjû1¿Ï»‹ü•ü2]ú ü5ÊywU|jºT¤Ó¨HU4¼ü“]ˆ?›Óï.õ~ùîò¨ Òãæ=@Ù‚(«Ëÿò7?zôÉ£G>ü‡ï•ÕÅì»¨Oƒ4Ô¼l³ıÑ”²öÍ¿ÿĞè¾ŒÒŸú–)
+dËCÉè%.øª¥¿ŞB®¡JšvóÄ¤ìüòÛw5 ÓrO—8*ÉÔ‡dµEz/=GHXéñ!˜íw(‘éòÓŸ½ùş}ÿw^õÕ?û“D—Ú;7A¸ôñíA—‡‘ÈŒí@—_½ıWwÿÿîŠü»¿XqpêÛuêö_¼áúî‚Oà¡ÔÄtyçoÿZáî=ôN¶Ü¶áøîrÀãÛoßS€I\^~Œ—‡½ ºü9hC« tÁyA¬@ Ëë±Ï#]ğ•MKø*Óo1Ñ !]ˆÕtAÒ&éBLéò•ÂM¬5ãU	²óõÎ&b•³÷å‹*Ä¬,5=*¾^º|©ĞĞåã{ÖÇ»1¾»Æ˜:Wô§fVÔ¡tQÙê°ı©lc.kéâ>×NH—‘;L,ôl1yEAërë£Ë3Ánñì™GüvãL¿º’”3ªh"‰eË\«i³LÇÊş4]ºe}-%ÜMø†×pÅtÁ|qèb&«.Ô’ÑËvø…Çºq†ÔE¶JröQ°¢¿ä€*WOœu:2}ø,Â	±CºVº<}ú7@f@—¨Õ4„$²8CS0†tÏ"
+1SôR%X?ŒPŞtTm­º€e©™ê)=¤«¥nBâË˜.Ã5C)¤‘ëè²ÔÊèİ¥ï!9ÛGQ’¾••^qÚ!‘.#º˜yk~’©¬¾êö=y
+©bw¾‘†ı%DPt‘TCì“¦«Ğ<¡¼k¸Vº<QhèbŸãQ×›²Ê€¶o§"ódòA%«©Pf³”‰^ì¯Úv†s.zs.…D«Û±Jµ!B—h‘.–.Ã/W¤óQÄD\
+]+,ÒswŞÙCwgíØ”.Ä•ÓåéB,-ö–.êeÓ©Ù~Ğ”¬2š²ñY5\ˆUeÖ"6¢ËoGÀ‡ÀÃ‡Ğ¥;µ–[PsóÈ¬İ{²£-â”tÙ%ºÌ&©ûü…hr#G_R2‹‘ãû=m,â¤ty¬é‚ßi¤†wÈœ}Èpª¡·¾‚mQ÷AJ… Êş‡³?g[i-âôtñÓd{eå	5Ewk*eœfKİº‡7:ßZÄÉéÒl¼»G~ÍìëoÚP®Ö!÷	6;héËtÍ‘Eœ›.ÈsxèÖL´Oˆ U+º`´šIÊ¥ºŒ_F—B—ÑÑpÎ­£KÍù#e-ĞEÔèXj,âLtN©&L½U ¨Q(tgEz½–HQö‹>È J$„}"Š,õ´‰¬²ˆ3<Œ‚t!H‚t!^<º¨·ŞQÙŠê‡ŸBx.¼è¦7dQÉiC|‹¸º¨ì(deÁB”|1õ_ìáÏ†øqRºÈdhí•µùQÌº‚y”âÉh‡ff‡ï»ùD™éX:…„•Bjå¾ò1T*«µÇªºŞ“e+I"]N»M·°e»ş2$[Ü–¤sÑj)¡*4mIŞ´Gºœ™.yÊ½¶S4šoIÉì	BJ1ª‚K»»‚t1y±ùêÒL¸™¢h–u¥£‹ÊêéT¢––£P6XyÔ H—}­:…ÖŠÓD¤,¡Ö?ÚşË¨:mˆoÇÑÉşèEªé‹:ÅˆT/-UI&zƒª¾Q=ÉD3¨Ùñ#¤	™‹D'§ñ-â”Ò{én^ ]ˆë¤Aº¤ËIÏŒjnM‹npóÙ–÷>·rk·„.£JBÔç•îè[Äå1ª¬°à\ßZ”î¹£k[í»ä-‹xƒJ–	ˆá#Dtä2Q¥®v"/*äƒJ™b•lHNYg*#].iWwıcQİ4Š´Û÷’©­¸Û¹’é›ƒhÎH—¦‹š«îÌÈ9btCÚêãz-]ê‚¼º^IfEºÜøêÒÌƒùíGSÍ=eÌYU28DNş~uÉfW/Š$u¦i¶±ˆË:bW·Çˆ¨%¹`ÎF!uÎ(Ü£I~İ–#Fèñê‚¼-+µE¥L±B˜H’œR=Z±M‘¢Ú‘zq¾éGrş.	Ò…¸
+º¤qMtÙôÔnÓÆÎöT_xÇ[*[]½Ï‹ƒO¿ CŠr#¼Çu@+{ÓÅ~Üzş=º?¢±MÙÑ96¢‹-Ç¶âßèº–bs™.³nKÆ5—s\cg£Kóy?9¹ÔÙ¡gÒKâI²úæ7¾æÃbéRØ®
+SDQfÏ$cˆÿJ!A¥2ˆ¢$lÒ|z¿&XÅi*Àè"!DéÆÚí%äƒ©Pï@å\pÚ}ÉAå¢¤áåh9;•!2UX˜v¯‡ \«½uãqNéRâºÕÙÙbQ©{¹EcóÈ¤ì±¥³)<}èÒ½P£'WvNKİzHq¸y¢ú¡6–—‰áÈÖİ—Á8Á–]¤XäüàĞ6©­xÑºoÈM³×\še{ÓÅŒLÎPûš¶«êÕgQ×êœiHæötmîò5d¯ÈÊÏ…q® ‹w«k™é+¬8M¬e6¤¯Ğ½6Ø››
+ ¼Õ%šÑ¡o 2§‹)Q¦¢¹†9]ÔPg¿¬”AéVÆã¬í¥¼ÈÉ8çgFî'k4†¦BírÓÆtäàñ?£‹¨Áé¥HUvØj‰Ùê\|T¾Œ¦‹«FÓqàÃHJûxˆœ‹Fò¥îETw½UcÈN#Í/BdPm·º±P 2ØQCPuGmH’P)“fd#¥ûˆ"hSæ¾´8=Ô”ïDŒW!ö¾ Ÿ*Š\óª{K6/p¨›iLŒUÎ3îê’.ÄF‚t!n]ğrY^•Ì›Ïš³k/6]fŸ^•5_?ü<‹ ]ŠÛİpŒ‰¸Nº˜ÏwM
+Ò…t	“=Üæ1!]H—nG:1 n4ç
+¤é2¦‹¡éBº,œ~iRğËˆt	´HÏGe²Ó’§±ˆœ.Aº¤Aº·Œ.³·Õüæ[äÚOĞæ¶·di€E_-`Ì¦ò¸l6’×­À—Æ?ƒÍÑò¾té6VDEqğosSvt=è’Ÿ¬ğ§ÊÅ9j×|qBì;l×µÓ˜Íe$¥vÑ¦t‘ §±ş×“õ!³³A›g£ËllfğŞ&•Êú•ÖáWrPÌqt)5Ëš•Ê¢(E]dNşhRHP©,Š}Ú„¯:‘—\qæ2Q}$„(İXY{u$²Ñ‘
+íXôàQ4¤J‚ß„HjG½0©©ÓÔ­®ÙYí)E¢œÛ“”=2[Ft‘rïºôí×·jİ60ªm×æ,¤(İ_ÓŠ¤ÉOK’.…$á„”Êº¬íO2æw¼ferÏ$Í[Aé-OwuQ	Òÿ@µzjOÚ¦)=„²½éb¨
+G!’RawÿMõ¬,9$³Ì‘
+IÅ2]SwdË#Ë^‘NÓz¼sî•r°e.ŞÍµê¸©)y«Zß¦¹éJ¥‚¥V$y«K4£Cßj7D÷Ô]„
+ÉÅ¹M‘ÁÕ‘:eì—Xİ‘{™ööä¼HÓïèJJ…‹t‘Rwj“•û±—û Ut;A›ú*Ûğ
+ºˆòC©ÊF!’r¡ºùáOòùZjYiÔ§‹(‘ëèâªÑ½^ñHÜ,°eº@ä\*™ïYOÉşCyë6‘Í¤6íû¯™‘Aµ½ëÆBÈĞ}õ!AèÔ,Pd*eZ‚•ë‰Ì^÷¥¥Yœú÷ÉÅxRš.E]+s¶FÇ}˜63µÉÇîŠ6Gşİ
+=pLc¶\è®îñSs›Ñ:çF‘Äm¡AºÄJº¬]ßÛ¸Ö>ô´::¾ÓD=İV·±%]âİßvóWä™è¢¾¶úŞg±%]ê¬™°~ëìfèânµ»±)]ú½µ«†•Ç9›²Û¹bº—œ6D«%T²Â‚gËÔ~’Ù‚ ].ƒ.qVÚÃ,ÉÍ¦Èß*\}TèÕúıN6ér6ºàî‡	˜ÑB¦DíNÊèËVpBšƒ¼v!A¶ëOUèÊ:‹8Íêâüx³'ûEåí±ûÕSQ*1ª;øÈ¹Pfû3‘¤ËåÑÅ}ÙóµšÌò‹M·!»Ò»‹g›~¥©
+“ ²84'\zM=(ûÛ‡2æE¦~Š2Mç`ŠÌªt×¥A´cq-bCºlzN¦§Şz÷hdĞ
+qItÙêpö ynw k…¸mt!H‚tAYó¶Ú? º}•>ïÙ£2÷ìqã@§Èqíù0L>³£m^Âgõ?—öÑy`¢×À‘u&ºÄaMGa¿½¼gï?Ç¸–_– †gTIy{“5¿áél½ÏYÚ±Sº¨oßÑ0´98“lLã*™Ñ•®¼!#k9şĞ˜t)îOgge³qnpôºLüDbCvo%æ‚Ó†Ä¢Ñ-Pv«	Bä¸[ÍåI
+f4‚ª1iDíƒc`Y'DÖ(å¨&eÆ©‡¸Ñé¬V¡<K¨dáèuF—ò¬s7bûÔä‰ÂÜ&ˆf{¾¦•Y}G:R2£]Ã¤IóVD:|†2õúáJv“ÓÙ³½NèÒœ
+:óíÜ@¨7×.Ò©n[YA—f«KµtnÅÔËCÊ^‘ãV†Ç¤’RA·ØJvÙiÏ=¬<œ¥5÷³]H=ÅÑëzº Ls"0^yô bÁWËt£º¤à¨M—y–é¢T»r›¦‹Ñ1©¤TX•uq:+éb^ÇtY5¢EºŒZÉV(‹.Ó%W/m—İL.?Œ”p¿VTuSOÔñ§³Õ†¨;qŠ£×Eº@§!‰Œ}F¡§¨„H½hÕÑöƒ†È¹2L¸†§—)$[ıÊTfÈàœIÖ”û3Üj¹•©²õÊ8:…Ì*DÛÅ0™"³*mmxô:y›”Aœ¤Ş~à'ßÕ%n±€XéB\î™AlK—M—?gC¶)ï}nåÖ"^pº¤7 Ê¶(üùq!tqgn#º¢œyZ‹8=]°ğ›ÍŠ ’ÕÎÒà¼KT[	–Ş<€eö%’ÎTFº\]Ön[îs¸>D2İŞuÍ>.érÁtQóèuVÏ…ÎjCê‚¼z+4Š$³"].zuiæhsº ŸLïğ "I!]nÁÃ¨ÌşøÜ±D®q­gêPN¿Œ.ˆ.Hí¹ªÕîtšÙ ¼Hè>$Xî«nrÊ¢•ö_ E5}¸qÒ+gfEAºìB\	]Òe±]š7ÔöùÒ¿Ë†\ó
+ºıòÊ˜øÜÊ­EÜ,] N1R?^8]ì–ÙìHïìtáñã…Ò‹|¼Ázû%ç‚³	ªNN¿m!jÏRÂ‚Òõ²ÎTFºœ‘.ãóC·¬=ôöj7	áñãeÑ¥Ù†7g}’œ}û<IõÓ‡ UauHé¨.(ÁËãÇ‹¥òÁl¦ÆYyŠÒÓ£§VE®QÎlvd"I!]Îufä¯ 17¢‹*×!–¡•B&k[<~¼Yº@'†ˆ43£¦¯„¨H»…¿`Õ¦÷q_u“S*D‹Ç7ô0:a§<d"]HÒ… H‚t!H‚t!H‚t!Ò… ]Ò… ]Ò… ]‚t!Hâ†é²3ª©¹Ó~„[aæ¬¹Ùp'A»Y¡©éEz¾Ys'é²š.£bºØñÌjú‘Ñå ‰ğ·ÆytÉ÷.ëöîJRfš‰œw*M—Ã˜ÔÓeå°IËÎk¦‹xOò‘”sÁ©C BÑønÇ$2(§iS)”¥¼pA%+Ô	ª6eœf  mdNYg*ó/`Ùyt)w1­ŞU­(ón¶_¡*É¹³±¢[Ì/25rÜ
+‘Ñ%IQ˜ß2¤Ëjº˜;‡[,wÙü÷¡KSA7†l´Äv«A)6TYZ©Î¬|ºÔ%xõE‘dV¤ËÁtA>˜Í½=Œ.È÷VÊôÕ²²oS’RVëšñV—l®$u†tYE—~NcÊ¹½èRgÊ,+«FzR££"'4I3
+5Iü2Ú—.Ğ‰!"Í­U÷¿„H½hufæNdPK¯ºAÇb]AÕ3ÌJÛL
+©#“SºHQƒÑ,;¯ğatŠŞÔô¤Ë2_ÈÒ… ]‚t!H‚t!H‚t!H‚ ]Ò… ]Ò… ]Òåv^OréBº\,]p×!ÇÓÙùzg±ÊÙû‹²ú’›83]P>÷®XìÎi=Æ˜:Wô—«‚¢²‡t¹Hºô¾ÓÒeäD‚ÎÒåFé‚›‰æF%åŒ*šHbÙ2×jÚ´È…ş4]Lí\JœŸ.f²²…	A¦ZQ¥ºq†ÔE¶JrzÁ@Zî/9 ‚ÊÕI—›¦KÔqé°$(Îğ0‚1¤‹SV”d4]¢^ê¯óatqt®J!­ˆ\G—¥VøîrÑ£:oåÂ”ÕWİ~¢'O!UlFµú°¿ä€*{Râìti_KEë_;”2 íÛ©È¼c™|PÉj*ô¯º¢û«vÌ×ŠÄ9é2ürE:ß&mL{T ].‡.å}>¾ì×Â÷­Bœ.é¶.éB.éB.éB.¤Aº¤Aº¤Aº¤éB.éB.éB.éBº¤Aº¤Aº¤Aº.éB.éB.éB.¤Aº¤Aº¤Aº¤éB.éB.éB.éBº¤Aº¤Aº¤Aº.éB.éB.éB.¤AºÓ¥éBÌè‚¤MÒ…˜Òå«/¿üòğôéÓ'H‚t!H‚t!HâÅ¡ËÒ…à¾AºÜ¦#.ıUWï.Ä]ğaT@º¤±]°åòìÙnñìéB¬ >‰_Hb.ØÍY dHb‘. JâéB.Ävty¢@º¤±]+.éBlG—¤1¥KÒ… ]ˆè‚¤MÒ…˜Òå+¾»tùRt!Hb;º<S ]ˆEºàƒ(€t!éÂib/º$¾ CºËt	|"]ˆ%º<ìvO.Äº$.Ä]+.éBlG—¤1¥KƒLœ7Ä""]@$‚X@¼ÇÄ
+ºÄJx"ÇE\ã£©óá©Á}ó½M\í£Ç~HGn ‘.éB.ÄÍÒåÿ½$Ÿ4
+endstream
+endobj
+14 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</2.0<<
+/CropRect[22.859 12.442 578.00299 335.448]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-B\205L\206M 7:fstab2)
+/Overprint false
+/Inks[/monochrome(Black) 1]
+/Size[598 361]
+/Version 2
+/Type/OPI
+/IncludedImageQuality 1
+>>
+>>
+/FormType 1
+/Name/Fm5
+/BBox[-0.1743 -1.52306 1.27833 2.10002]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Im3 13 0 R>>/ProcSet[/PDF/ImageB]>>
+/Type/XObject
+/Length 35
+>>
+stream
+/GS1 gs
+q
+1 0 0 1 0 0 cm
+/Im3 Do
+Q
+
+endstream
+endobj
+15 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</1.3<<
+/CropRect[23 12 578 335]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-B\205L\206M 7:fstab2)
+/Overprint false
+/ImageType[1 8]
+/Position[57.193 286.56799 57.193 472.61499 376.94901 472.61499 376.94901 286.56799]
+/ColorType/Process
+/Color[0 0 0 1(Black)]
+/Size[598 361]
+/Version 1.3
+/CropFixed[22.859 12.442 578.00299 335.448]
+/Type/OPI
+/Resolution[100 100]
+>>
+>>
+/FormType 1
+/Name/Fm4
+/BBox[0 0 467.71698 680.31494]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Fm5 14 0 R>>/ProcSet[/PDF]>>
+/Type/XObject
+/Length 63
+>>
+stream
+/GS1 gs
+q
+321.97769 0 0 187.77229 56.122 285.9887 cm
+/Fm5 Do
+Q
+
+endstream
+endobj
+16 0 obj
+<<
+/Length 3157
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 598.1719 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.045 Tw
+(ba\333lanmas\335 i\215in yap\335lmas\335 gereken i\337 )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 215.0859 598.1719 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/etc/fstab)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 270.0867 598.1719 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.045 Tw
+(dosyas\335na uygun bir sat\335r)Tj
+-20.22798 -1.33333 TD
+-0.016 Tw
+(eklemek olacakt\335r. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 137.2131 584.1719 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(root )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 157.7387 584.1719 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.016 Tw
+(kullan\335c\335 olarak a\337a\333\335daki komutla )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 303.8493 584.1719 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/etc/fstab)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 358.2107 584.1719 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(dos-)Tj
+-28.62074 -1.33333 TD
+0.025 Tw
+(yas\335na yeni bir sat\335r ekleyebilirsiniz:)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 57.6929 542.5026 Tm
+0 Tr
+0 g
+-0.056 Tc
+0.056 Tw
+(cat >> /etc/fstab)Tj
+0 -1.47368 TD
+-0.054 Tc
+(/dev/hdd1 /yedek  reiserfs defaults 0 0)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 505.0853 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.121 Tw
+(Asl\335nda bu sat\335r ekleme i\337ini )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 185.8741 505.0853 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(vi)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 200.0917 505.0853 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.121 Tw
+(ile yapmak \215ok daha mant\335kl\335d\335r elbette;)Tj
+-13.56179 -1.33333 TD
+0 Tw
+(ama )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 77.9432 491.0853 Tm
+0 Tr
+0 g
+-0.075 Tc
+0 Tw
+(cat)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 96.3476 491.0853 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(komutunu \232ylesine bir hat\335rlatmak istedik.)Tj
+-3.6814 -21.46832 TD
+0 Tc
+0.232 Tw
+(Art\335k sisteminiz her a\215\335ld\335\333\335nda yedekleme amac\335yla kulland\335\333\335n\335z disk)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 57.6929 251.6679 Tm
+0 Tr
+0 g
+-0.053 Tc
+0 Tw
+(/yedek)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 92.2467 251.6679 Tm
+0 Tr
+0 g
+0 Tc
+0.025 Tw
+(dizinine otomatik olarak ili\337tirilecektir.)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+17.924 0 0 14.5 57.6929 219.94 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Dosya Sistemi Tipleri )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 197.94 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.002 Tw
+(Bir dizine ili\337tirece\333iniz dosya sisteminin tipini mount komutunda  )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 341.4539 197.94 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(-t)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 354.4163 197.94 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(para-)Tj
+-28.25937 -1.33333 TD
+-0.014 Tw
+(metresiyle belirtmelisiniz. LINUX\325un tan\335d\335\333\335 baz\335 \232nemli dosya sistemi tip)Tj
+30.04284 0.00001 TD
+0 Tc
+(-)Tj
+-30.04284 -1.33334 TD
+-0.008 Tc
+0.025 Tw
+(leri \337unlard\335r:)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(277)Tj
+ET
+1 g
+56.693 624.786 320.756 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 242.317 627.3763 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Diskler, Disketler ve mount Komutu)Tj
+ET
+1 g
+57.193 286.883 319.756 186.047 re
+f
+q
+57.193 286.883 319.756 186.047 re
+W n
+/Fm4 Do
+Q
+0 J 0 j 10 M []0 d 0.5 w 
+0 G
+56.943 286.633 320.256 186.547 re
+s
+56.693 70.866 320.756 85.04 re
+f
+Q
+
+endstream
+endobj
+17 0 obj
+<<
+/Length 5762
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 394.0774 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.059 Tw
+(Yukar\335daki tabloya g\232re, MS-DOS formatl\335 bir disketi )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 326.915 394.0774 Tm
+0 Tr
+0 g
+-0.057 Tc
+0 Tw
+(/mnt/floppy)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 387.2667 394.0774 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(isimli)Tj
+-28.22893 -1.33333 TD
+0.025 Tw
+(bir dizine ili\337tirmek i\215in kullanman\335z gereken )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 90.8629 357.2428 Tm
+0 Tr
+0 g
+-0.054 Tc
+0.056 Tw
+(mount -t msdos /dev/fd0 /mnt/floppy)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 333.8254 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(komutudur.)Tj
+0 -2.3652 TD
+0.025 Tw
+(Bilgisayar\335n\335za takaca\333\335n\335z bir NT diskini okuyabilmek i\215in)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 90.8629 286.1561 Tm
+0 Tr
+0 g
+-0.056 Tc
+0.056 Tw
+(mkdir /nt_diski)Tj
+0 -1.62287 TD
+-0.0543 Tc
+(mount)Tj
+3.32975 0 Td
+-0.054 Tc
+(-t ntfs /dev/hdd1 /nt_diski)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 249.3215 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(gibi komutlar i\337e yarayacakt\335r.)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+14.5 0 0 14.5 90.8629 222.4868 Tm
+0 Tr
+0 g
+-0.009 Tc
+0 Tw
+(fsck)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+17.924 0 0 14.5 125.1463 222.4868 Tm
+0 Tr
+0 g
+-0.0001 Tc
+(:)Tj
+0.46601 0 Td
+0 Tc
+0.022 Tw
+(Dosya Sistemi Kontrol Program\335 )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 200.4868 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.012 Tw
+(Disklerde kulland\335\333\335n\335z dosya sistemi hangisi olursa olsun g\237n\237n birinde bu)Tj
+0 -1.33333 TD
+0.023 Tw
+(dosya sistemindeki veri yap\335s\335n\335n bozulma olas\335l\335\333\335 vard\335r. Dosya sistemleri)Tj
+30.08133 0.00001 TD
+0 Tc
+(-)Tj
+-30.08133 -1.33334 TD
+-0.008 Tc
+0.046 Tw
+(ni olu\337turan veri yap\335lar\335, disklerde kullan\335lan ve bo\337 veri bloklar\335n\335n y\232ne-)Tj
+0 -1.33333 TD
+0.053 Tw
+(timini sa\333lar. Disk dosyalar\335n\335n fiziksel olarak yerle\337tirildi\333i bloklar\335n hesa)Tj
+30.08132 0.00001 TD
+0 Tc
+(-)Tj
+-30.08132 -1.33334 TD
+-0.008 Tc
+-0.029 Tw
+(b\335n\335n tutuldu\333u, izinin s\237r\237ld\237\333\237 bu veri yap\335lar\335nda, h\335zl\335 eri\337im i\215in bir s\237-)Tj
+0 -1.33333 TD
+0.109 Tw
+(r\237 karma\337\335k teknik kullan\335lmaktad\335r. Bu veri yap\335lar\335n\335n g\237ncelle\337tirilmesi)Tj
+T*
+0.067 Tw
+(s\335ras\335nda k\232t\237 bir zamana denk gelebilecek bir enerji kesintisi ya da dona)Tj
+30.08133 0.00001 TD
+0 Tc
+(-)Tj
+-30.0813 -1.3333 TD
+-0.008 Tc
+0.03 Tw
+(n\335m ar\335zas\335 dosya sisteminin b\237t\237nl\237\333\237ne ve tutarl\335\333\335na zarar verebilir. Her)Tj
+T*
+0.016 Tw
+(ne kadar )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 130.5314 88.4868 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(ext3 )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 151.3952 88.4868 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(ve )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 163.4699 88.4868 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(reiserfs )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 197.8102 88.4868 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.016 Tw
+(dosya sistemlerinde bu olas\335l\335k b\237y\237k \232l\215\237de azal-)Tj
+-10.1855 -1.3333 TD
+0.025 Tw
+(t\335lm\335\337 olsa da gene s\335f\335rdan b\237y\237kt\237r.)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(278)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+1 g
+90.563 405.354 321.161 204.095 re
+f
+0.9 g
+89.863 586.195 320.315 22.811 re
+f
+Q
+q
+BT
+/F4 1 Tf
+11.744 0 0 9.5 98.8629 592.9885 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+[(Dosya Sistemi )-12181(-t Para)1(m)-1(e)1(tresi)]TJ
+ET
+0 J 0 j 10 M []0 d 0.5 w 
+0 G
+90.113 414.725 320.661 194.201 re
+s
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 98.9009 567.1575 Tm
+0 Tr
+0 g
+-0.013 Tc
+0.025 Tw
+(Eski LINUX standart disk dosya sistemi.)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 312.2342 567.1575 Tm
+0 Tr
+0 g
+-0.073 Tc
+0 Tw
+(ext2)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 98.9009 548.7401 Tm
+0 Tr
+0 g
+-0.013 Tc
+0.025 Tw
+(Modern LINUX disk dosya sistemi.)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 312.2342 548.7401 Tm
+0 Tr
+0 g
+-0.073 Tc
+0 Tw
+(ext3)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 98.9009 530.3228 Tm
+0 Tr
+0 g
+-0.013 Tc
+0.025 Tw
+(Bir ba\337ka modern LINUX disk dosya sistemi.)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 312.2342 530.3228 Tm
+0 Tr
+0 g
+-0.065 Tc
+0 Tw
+(reiserfs)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 98.9009 511.9055 Tm
+0 Tr
+0 g
+-0.013 Tc
+0.025 Tw
+(MS-DOS dosya sistemleri.)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 312.2342 511.9055 Tm
+0 Tr
+0 g
+-0.07 Tc
+0 Tw
+(msdos)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 98.9009 493.4881 Tm
+0 Tr
+0 g
+-0.013 Tc
+0.025 Tw
+(NT Uyumlu (Win2K, XP) dosya sistemleri.)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 312.2342 493.4881 Tm
+0 Tr
+0 g
+-0.073 Tc
+0 Tw
+(ntfs)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 98.9009 475.0708 Tm
+0 Tr
+0 g
+-0.013 Tc
+0.025 Tw
+(CD dosya sistemleri.)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 312.2342 475.0708 Tm
+0 Tr
+0 g
+-0.066 Tc
+0 Tw
+(iso9660)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 98.9009 456.6535 Tm
+0 Tr
+0 g
+-0.013 Tc
+0.025 Tw
+(Windows-9x uyumlu dosya sistemleri.)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 312.2342 456.6535 Tm
+0 Tr
+0 g
+-0.073 Tc
+0 Tw
+(vfat)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 98.9009 438.2362 Tm
+0 Tr
+0 g
+-0.013 Tc
+0.025 Tw
+(Da\333\335t\335k (farkl\335 bilgisayarlarda yer alan) )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 312.2342 438.2362 Tm
+0 Tr
+0 g
+-0.081 Tc
+0 Tw
+(nfs)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 98.9009 422.8188 Tm
+0 Tr
+0 g
+-0.013 Tc
+0.025 Tw
+(dosya sistemi. (Network File System))Tj
+ET
+0 J 0 j 10 M []0 d 0.5 w 
+0 G
+89.863 585.875 m
+410.716 585.875 l
+S
+304.8339 609.1765 m
+304.8339 414.6435 l
+S
+89.958 561.702 m
+410.619 561.702 l
+S
+89.958 543.596 m
+410.619 543.596 l
+S
+89.958 523.57 m
+410.619 523.57 l
+S
+89.958 506.543 m
+410.619 506.543 l
+S
+89.958 487.129 m
+410.619 487.129 l
+S
+89.958 468.66 m
+410.619 468.66 l
+S
+89.958 450.709 m
+410.619 450.709 l
+S
+Q
+
+endstream
+endobj
+18 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace/DeviceGray
+/Filter/FlateDecode
+/Height 313
+/Subtype/Image
+/Type/XObject
+/Length 11598
+/Width 473
+>>
+stream
+X…í}KmÇu^s³GFgd`b2ˆè‰¢I@ƒLÂlÚƒy92®¯˜ájç¯ğRD@$Š‡IlÚB!IŠÔ•d	œÀ@ótû[ÏZ«ªö>>}zŸîªÛ§jWÕZ«_UíÚßÒãf„F8«põÒëÓŞáåÏon^ú7#¬:üŞ/aûí®Ÿ^°o°êğÊ÷ö`ÏØ÷ÇğŞuÊWÙçïİ`#ŒpÊ ş^ùğİßŠáÙ&æŸ=»~(„ ìoÜl6›k„¿úËŸüğûö´…ğÆˆŞähÏğÆ§
+o>°ÏnÊëõyvó¿ø¿üÏåõ×_ÿµ_ûõwØ7.^¨_{	sáÉD)Ğ[òå©Wİ>,ˆÓºã¿™ú™‚”á|]²¤Ëç*PÃuôKfğWmC¿®ù0£ÏŸ–/^|öQì?úİoüîÛ_ıÊÿşÏN°Óæå7¾6- ûÖõqõ-ìùëÍ“Ğ¬´}¨zêU—‡¢ÙÁŠdğ¤™NıLAÊp¾.YÒáÉõ\'ŸĞ$`½$ÅN_9_MUG¢)¼!ûxHÀ~ò¦>á({ıO¾ñíoüö×~ùK?ÿ·¦ßùövŞt½™^Ş(°²5‘ß[×H­ ÿn6´…ß²¾xm=¹–S]†‡Ds¥P…ñ Ej ZByJŠ:ÓumÍ‹(1ü¸–Å…Ùs«©YäŞª©2&Q©ñ’e—É• Y Å:3òT©µGñ÷¦‹é{ÿëââòWÀşÓ²cüÎ/aM\_şÒ7o®¿©Àb3ÒV”£ÂïÉ5´‚·ğH¹p¥¹»ÆŒñâÅ†œ<Q1%šóBŸŒT4Ä@±áš$ÅO2Sªë2ÚšìÑFü¡Ïóóœ[2I5š-}
+½åmÇÄúL£Hª±öeÍzjr[Úx9ÿÑ¸,ŠØïşétpùİïVÀ¾ööo¿ıÖ¯~ù•¿û3Óÿ{ç\šŸ?÷¥o^oŞûœe(yÈô(ÀÆ'Ú¬×­”á¼à ó0©\g–ÆŠDRmĞqM>ŠÌ†ëëj¢Ñ_ ÖMAK÷c¶çÍª	Ğ£¨Ì©Œ¡mÆJOYK.vŞä´ÉØˆjĞùñèºÎŸ3°|ğ‡Àuúàƒ2°õúW¿öÕ_ıg_úÅ¿ıòtıÎÀcQxà¾ëÀê‰ü–Ài zmaÃ»:ıQUƒ¨	i¬ÀÒŒ{.Zt‹uÓé7XÚÇZ¶WşªfcGí Â•„f¶Ø}K‚è»	a2dQÔç°–~›¨ ûşû¿OÀşÁûïg`ÿòõ¯üòW¾ü¥ğsãbºş½<½ôîˆÊ,NŞk@·yâ[•×O(òXyãÏ Kã›gQ½çòóûDÑ‰E›ôıR$3ïÒD(ï7t(/ÛÒ·$(0Ö]Ì‹"\•ô êõş¦À~ç?V¼g¿ıìO^ÿâ—¾øÊ/şÜÏ¢úúmûÜ¹˜€nÖ^®yw–rààkoÇêu§\yBBã›¶7W§¥óà—)Î„"Œß’Ò†_æw¬Ü‘T@My÷Ò˜4—§ÔñrÑ«Ó±«WÁŞÄ…3Ş©oì¿éâåÿÀQö‡¯ÿü/üÂßû;Ëëß´;ñG"Ş£tør qG`µœ_ÁOø¦‚
+Ÿc¢®¿iOô.¦×•ä¬ZVnÑH3,%aÜj#
+CŒ5IyØh–ÈÒ"3ñîg`m•;"G÷–,+Ú¥ÕŒŠ­<IQA,ÌÅLéFœEP¡-uºïØëoı»é[ßâ(ûı_ÿè£?ıÿØötË`3õÀ·UNô%ó-åôÄÈÊÇ^/|ZÈ+Ÿ0UH4ç…\4ôQJ¸ÚËØF(ÖåY„¹¨ä´Ëã§±ek«Ü<¤ŞêÊ4¬û`aXAŠ2yØwQGËø©²JØÍ¿õı³w$üÎÛ¿ùä_¾Ş¶¦&Éø³¼
+nC“ÑÔ­6”´
+Jñ]1ŞÀ¾ù…Pp ®ÇãŠ×5u+ïÜ³¯_¿æ¿„¯G`÷|òŞ°t­—t_Yçp07áCö÷şEöú! ÛN0İpŞe¿ûìf„3×¯¾–Â«Øìk71l°ØŸşä/~ôÃ?øôûŸ|üçÏ°„›™Ğ«BY[˜%ğkµm­m‚U-ZÔÔMšºP^a×ŸÏ# Øÿ;ìæâbº„L/\„¬‡zŠª)³ƒç	Q]Ñ)l›»fÔXPN‹ÕN¯óZ ISÊË#Ù­¯XŞ±Ÿ}ÚV†ÕJƒBŒDÖ4Í ".£ó»ÁhÎêPB‰ä B¨Ò2j…³¶rkÖ\ÕšOüÕtes{UÌs.¬ª¢"	èú¡şŠ¶Flá³öÅ§Ó'Ï «Ë;‰®i‚Ë«hgSB5T-òZ7É¶7ÉPUÊd²ÓæğÖ¸Ò\jÍ€E“i‹Xc~cõ+U‰ÙĞˆÔÅîÓ:1ö¹û^;Œç£.°¾\y	°•àIÊH‚ÎDËyRŒ°d¬*	Ov9şRk²©¹Üšv¬õj¢õD[{ó(ÌûÕ[4uºÙY(k#çì*#;¬m%Ö«P&S¨/;Íu€É.°¨ƒH~¯ykÅHnÍw,Ô)õêÈ¥ñ¢…$ªğ´S„//œXgIèÆÙ‹áQ¸œ'‘mÚ•R«ìfT&*‚¤ìTvCÓš¼éÂØZï(æiGNX÷.Ş”<yƒ3øMw å/Oı[1İ{tAûóÛIÕ*ÎÜl°O4ç˜`ĞJ°]M3¦MO0 wİª5o.·†<ßâ­8÷*˜wë, ¡‹zÒ£Ê5‘(ø`€¥]|¤º›¨Äª4ròc5JİHk±Èd­[+oİnk¼(Ñ3qc^‹‹ W•îèK"I¬û|LGÁl—(àˆ‡“„sÜ*g
+¬nÀ"{Êæ°›ç!¼»ØÎØW«0€}(À¾6ç¶Ã5i–n1RO’\¨ô\+î[ÙQzÑª\RÇF€±¤U¥<ùc#8%ˆÖôMı.À>¥ïKÿP¨_}úaÁI.´ï†ü…±£#aAzç|ç„³È¥/Z¤¤„oeT2œ8Ë@‚Fë½<=µïÇ…YÕ¤şJ¤)+pÇ\íJ©+ÕÄn÷ªJ7"ÍÀéÔ6:Ò˜ÉçÚú±’¯˜‰Öì¯<õ«„=š¸"R=±ĞäLÏrêïD’¦5RÕºzŠï…JÕÉG1%*€Dµ
+‰!9™õ a¼°:4	ØâXBA2<ì´¦-;ì¿~ù)Säòq^|*ôµC#¦‘Xò¹dFüè(…3Ò5®§ÖtIçâ¢/Fæ¼Ì¯{a‚Û…;B†O^3Å\Iø¢
+”²•_Ö1Ë†qå´§V®Ø‹K$˜
+æe’O¹rìØVï&EoIáé$»ì‹¡Ò,7P|H,_®ˆÏ
+,ñGíkî:Y+ÑÓ[91ìü1ÒRmL¬rİÀN7Hj?‹å`õ^Â¹’`{ìÅYw×´¾yHÄ1/1•Pù}­ßœº{ó²ş°¬WqÎ«$Œí€İOˆ¹Km$Éë¢õ(Ó[÷)õÒÌ¾r!œµb—ßXê•»¼´F¤ÒÉlíöS;%°ÓdG±å0*Áx8q'I*ä(ätÇÊT/ûb¶x\K£"î/ÄÔvôDßâ¤ëÌ[Vs]ö/™©h¸ê²istÀ&OÈ&úT(*IğÜ4uˆË;–æsÑcåAF¥Çè'ŠmG5*“R]={pšºĞ!sT£ÔjæœT¡ı•ûìæø”~zÇÂ…pÂÆÎÃ»s7ÀØ54Üv'v„5‹ÛB‡ñ/—ÎYê]ù¡VOªKZëcy¶š¤HÄ\Öå[áÑ©*‰ºPµG%¿ğÜm@bJ½·øá‰ŸË!–ô5†¼¥ìÃ=40ä)ÇŸ/ÍñËUlp†z7^))t©÷‡Bùdâ«aÂ» YÜâPF%E…Æ 91L[”¬|F~ÙW0JI¹4#el±Ş+°á{®¾‹pgk†¼åËg8úê¥²ŸEa†¡w(Ô_Uxª+”	ıF‡ˆû„x5Ô_½=ûåCß7ZCö•‡".ûœ-†Âû'q²ÂÅ•o~9SÆ^ò†/…|7n'·¢Ş;Üû6`“ªà¤"¸˜5&)Œ³®ªÈ3é€ƒá–÷t>Ò
+
+%Ù …÷¬ü"û”à8é1ö]'^Å½·TzÑNDDyòf¨÷Ö¡åwjº,äk%lĞt€íN„†û(ds*°>D-Sæ2öü^˜'é a™(û>c_æ,¡·FªZ¤Ş%ÊÜ;ÚîQïÑ¡öDaø¥êØ³)TzK,Ó+ÃHeY"Óm¤æú(n©àÑZz~/ÀÊm€;•(û>cï"uÎ1Bœ6³-àõ^ LÜ{zm4¯;¯¢dò£Ø•$ò£÷¤w¤ÑToiëIë!ò'Kî‘+š7Sö |»Œ½‰ğ;²âËyW Û‹l‡z—¨RèRïA`X»ÍY}µ}¨·-(µ½£8õÜY2t²
+ÛËØbjæ^¸âÉhy¿)Ée±¯¨wÊù[S8
+zU‡zw[Q¡O½÷
+œ‰;!S¼Á…\65/}â?™Úg¯¾¸MíÅ@iC¹)#‹U3÷pyB”ğ6İIAÄ»Pï…/×EÛ£Ò;Ô;Í’d½jzï94“´7¼gŒ«ç2zˆÊ•I“´»…ö€
+ãh:^E±íOpi ½çïØãPï½²óç:š; v„ì÷ldµëó(qâé1dv:ívwo"ÄœéÀ—ûğ|D³³…»d‘½€]øìÊŸ‰)•ò»t—ƒıvæd§éÅo‹„}Ë•ç£à:Ç-wFµ¿¡Û ›É‰ª?~O™öÙ¥›[¤ÓR’ë'¢ÆÊÒõÑ.7¤ò1|B`mTûº°Æ1ˆNùuÙÆP>IˆNÜ*"Úö¡‹DsÁ­
+³v]àÚ%ÇÙ(_~Ü\l­}È‘öËGe"*’\¨¹æT
+¦Ï¸N$ÛkÇËlz,oX:*œö”ıxc¬vq*ÊÒrĞ¨×Q,.Q£fåL¶çŒç„øPùŠpN­ÂG›£Ö¼JÍøéÂ=“ûUØüh19²¯!w!°•D×uÒs_È<E5êßñ€Ôµ.Ê¯ßÔU¶“—#ÌÎW@uÆ'æHÀ¶¯{™*Pù@!¹„¸(Bkb‹úk‚è] ¸k—CMéµ2Œb_sU—ÃÛ›»ÊuÒu_Ğ<± «YlÅ¿²K@(Å–šµR÷#³ãX[‰‰9¦Ùª("ÑV,$‚Ÿ†µ+[
+¬ôŸRŒ°©­>°„\ ¦¤µZ…œÉjî¸ŒLÊCW’2ÒãØ¶–	X¥®C“<iîšê»¾;ÀŠ'!ëe5°Ì	C3í¨b«İ±é…ÅÚN8‹-jµø-²Eİ¿av³HP³\o4{’©h¤qpiØN—Ë8oìS6–ıÛÌ[;•ç¸,‡cdîÍ!ÙğıÉVÖæ¶|
+Ì? I·5JÙCª¹ËÌÑ«}]O$¡&¥_Ùiüì-¨}•g ˜jÜ²°•ÉÆİ!~q×º°/|dşí‘ªrÂÕ®]rU->Ü%)¶P´+®‹Š› ßšÇ’ó6¿wHlXz®4à¦°çç¨L!£æû]÷EëîpçÊqnÅg|İ»·àxˆÀ²{MÂ#äŠGx€Àâj²õÖ÷¡3ËÚv+—ëú¥µ7=Sw mß–œ9°OéZ¾åÆ·µç"üÊ,kÛ­L·ÄYÕe%¡úu²»mÉù;mÕ•ÍcäV;3ìÂp¦ÎT·àáºí÷ç¼õ»¥Rç– D>6éû®¥²¾:ùÁüc±
+ùxôå:şÆœ“­ÉC–dòºğıs~em†õ+2IÀïŒbş4ŞÁˆQ*šWuÃÎDšTYÒÄWC§N´ÍÔ5Û²X~vĞ÷_WÍéígfL³•(·0×…ó:Š_ëÄë%â„BgóÌÓ¤™l¸¦E`…Ö(œ,[í©ezÛDŞ¹ğ]îø	]8g`7™ÄEÕQ×ïXäghR¹%v˜&·àº¸cõœ¡f»À
+7ËGç¬Ú°:`õ–“¦tá¼¦@«wÇÆ®.óÈbfR¶æŠe®X-:×\»ËsR™ª¨Y½$Ù{Â®ÑF7ÅFÊ¦qXU†!tÀ*4ñˆ}ì33¢EÍ¹bzì0íØâÏÁsË›ÉÈ ê&Jœ2'n6˜Jj\˜[c™2ŠZfZ“‡Ï<İæ&qèò?°ÍÕ¥x²e²°#¬+†@›½W(ŠîŒ ğ[ÍUÜJÜ’+Ÿ,K¸ÈèïRõğ–¦7~=“+6`gE¸ú@âw—ªÇ,NV9-Aìø°Dú¥ù²4yOX9¦Qì)$%ZŒ Òf$¡¬&ué1Hâ9H «Œp '­{ÀÊG?NVà¦Ç.’À<#P}Çn!x²³ü)Îµ qy…|$ùZ‘I(*²B´f'¾üÚ°qI%(Ïªïé}}ïXÌà’€@9ª Ãò±NÌ“d¤¦!úU­Ãß3§äLØ²9-ÁQ¼Å	 0Ó	Ğk»ßl´˜Dµß“Ÿ1‚fÂ}àÀnæ :!ÇtÌ ËÚÆÀKg‚}'}ñ¤İqş^Û®}#æÔ}$ÀNÓœ`C7ã:¡"b…¾µ‘F†Ÿ%¨ßÊ‰¥TIõÚÅa$#“HLn'@ß	ğ9vlZ‘{‡j0É¦´ˆÕ€
+Od)YREğÜ7R73(ÅûußÈàŠWè8Š‘ìÜ	€úŠ”Ô9'@n-ç$AQn53ç_¹‹®Ğ	°3 ¹5»%KİÃåŠƒRI«tìî&È­IÎê¡Àq]© ©!¢Ds­-]òC¤uVöÈœ ‚èJ QDâ¶?bËZSMr\W~,N äø-,g×zœ ©ĞÿÚş”£8+QUöğ(Å%'€eN€vm`aª¶å¯uí	ç<°›y'@!òòõ8TrfÇ†ş¨-Õ T •º«døÑ8l‰Ë«vmN€"€MUjK[³»‚ç´bø±8(£wš ´cÓº8šÀEä¯í»	dˆb-ä¨.>3`¯='À©ŸØ÷<ìmçîëâ˜FNjx8F8öQŒËK¹Õlc[SÉ- •1Ä#ñ(~ºÕ	 _¹ˆê¨mëÂA´ÿ#vÛ=µOÊå‰ï}ÇŞÎ	Ùe÷£ıñQüt' 6IÑ	€Œ:q`ÚRæG='š³$½ÊKÿjÚŸ’ÇyOö?Í8Œˆ8 USGr©ªk¢~€I!(:.ˆ>Ê£x› ğ,w4'€ÒşÔ¨PAÑ	-F'@E)Î8Œ.”Ñàé‘¾c— ›4GsøÆ-œààLDe.¿Õ	àu2šÇìfŞ	€%Rê(F$N ÏôIı­N £ıu4Øišsø$ê«ğN 2W˜¼rpÊQ¼Å>ª;N "ó°Ñ… ÙÇl`àgœ úå¢¯Â2­‡;2íoYÎéó’ı® hÇ/1%Øg7çãán€}œ4û v„u‹;M¹ÕÌğ®=Ï	p'Dj›ûº¿ÚÙ~«éó®ñëñNœ w€kj{»“AÍjÜ	#ıÑ wòJmow28[½,v–Àâ´ê;œè?¢@sˆ­NõRV­JY~{¢TrÁ	Ï^Ä“ãÚHp ¦„%89g`™ÖÃ‰K$³çH—ûìDUñ@ŞÔN Öz	Å•|÷Î94'$¢œ”r¬C•Êâ¢şv‰„ê8'*?e}mkEğ+°|1r¥NQ‹‚¥'gÊ<-pÅÇ£qÅ…WJl/«'ˆ©Ê9Z3h—ÃÙ!OoÌ.@O*èµ‘¿ÅäŠ›ëE‹\îv®Ø¶6	´À† ıÉSİ&²V¢§b`[vh?,`§i+öÍvD®Xr/¬\qòDÃ5¢¥PEõ‰2±íÈE7Ç„›IkQKcƒìCåŠ‘ÑÁ{®Ø=òĞ©Hßj*C•ÛŠrY×
+mG.ºd¢0"ËdÍÁïÈç\ïå}H3¥xB®8ç²zÒ!3€=°#ÜW,qg«sş°#õÊ%öñø¸´p¡ğ‰VY2«¦aoµÜ¨VYÒ›
+K fFÙ-ÅóÚˆ9³+Öoóù×çìZ	³;1¶9_«ÉY¤‹".‰İØ>O·¬ÆÃçĞ¨åû^G/ˆ»©Q)â07:	"‰"©Œ¼Ïkk²¥HQ
+sÀró]
+bØä…àÚFÛÎ™ÂPfÛàv0R¹öÖŸG(kÕJùj›Ô ‰t‘?ÕıS‹Ë¨éÜœ×Æ2â²İÅ6—CB?39g]g¶²«]ÚÖ±àE¥Zôè	yÄ‘Ä¥¸Jâ7ô°:Å
+¥¶’L¢5PÔvVÔnôs›š|Æ9¢Î’¢Æ–:ÂˆmÑ´lXùòØ\8$@åññ‚*’T)+ìª3®¨ªÙU')IŞ)I¹ê@Ó$CçQÅ@ë94 Ã!ÊÁèäZµĞWËd
+çÕ´ÑV­j­¢Â¤_å 1º”;"ˆmÑ6ÀvğÇ6l5É½¼µ-¦ÀÛ²0C(oäKx5)‰ÈÃò\Uf4GÍé,WyÃQ"®HZ Œ†¬®VÍ_QMåóË:š6šÕº­UĞh¿Ú]ìËÚPŞlšÿø
+aÇÒPØŠJ—ò9ù¨–œš`K™9%f¶ª]7Ú&8ÒğÂ¾ZÔæ(¿3‘ÙK±%Q­"ÎQRÊl‡ë¯¹´VÎÆä-‚æ1¨©ôrx-Ëö9ÉkÚŞïxREs×ªĞ½„·KğbtÕäöÔ¬Ì0¯†¤Që·fç™´íe²Ñ¥QdÂ~ßª½ı›ùovlä(„[NEP)¼šÇJ !ÆwŸÉS7´75H÷ÆŸĞq@ôŞz$ä}ı`H6(tÕ¨ƒY­j{VMİAÍgá’^Ú/»€ê'ƒ«‰¹-ÚZ¶äpŞ»vdE&ĞŠ SÖ¤ÀqæŞµÎË"é{~7Ï![üˆË+™2aPsjqØˆê¶Ô¼QDœÑ2J­"ê>
+)3„fDf‹¶(O—§¡3°G<¤šp"`Çì?L`GX°rıŒ|v—Ï3î¹pĞ~QÌ¬ÑVmD¡5ü
+£~¨¶2\·hûj[%G'ÕF!,kZºş8½…À¶ÂÄ`[İ6íÌÕÇ„EÑî{vÕîv|»¶İ+Dâ m¡Ì(ÚSÛ¸ÈE`­I—‚ş<ØVØh7ïÙı¼~ûÕÌ=W¢m_ßiów¤Tí«M ˆ2ûj3ß¯‚ûiKÓËÀFÚ©èm¶ŞÔÚ(Ù…şÎãó„r vØµÃÌí©mËZªöÔ–¹Áı´u·/›8h'··Ø=»·,f´Ÿ %*q¶r‡iïAÜgm[Ö*±Ÿ¶±Hí©m3¿•R¾R±$ïæy»Ï`ÇeÕyúr‚F‡¹?L;½c¡º—öÄ=$ƒ;‹+“ØW;q®{i‹ëm°ƒFl‰Ú™£ gl)Ş®­Å=æş0íìı†îmk¼Ÿ¶z-ã°÷ÑÖ¹Ó’½´Í[°…RŒ¬¶én¡ ½02Øi„‹vE¥G
+ş0íìşÚÚƒ=µQ'×Tóò ­‚{j³òò;ö&rĞŠ^¤ ƒFí!Ú}¦ßúv÷»«¶9öÕ¶/–8XÛgrmR^>ŠŸİ$Z“-táöÓn©t—¸…6Åjkfom¯Dt 6=knwmÄ¢½ì•Ra ;ÂÙ ‹·rıêä3"Ä5lfÿ{ÊÛµC2Â±]â¿	læAÑ\}UßA±%#Ø§ü÷"-¶çz«bmMF8>°‰DLô"­>Ëå»úVúÛ´5áN.Oú±Üœ¦[èo!D$·?yÎÚfd„» Vf¿öz–‚ú[İ¯ñUwßí í"#ÜÉå	ÓŞå ·ĞßÂ`{aĞŞ…<gÎ¬á..O°‘İ¸H`ßA«¼‹v¸#pXXvÛñá›¡Oğ"ØdbØ…şô=áèÀbÓğá›pEÑM	KyáÚ%áØÀ>»a ;Â v„û¹<q_•øÙ…VS{ánÅDÒë—kºÚ¢ÌîBŒgß[0Âz?wPß^OAá‡[nà¢F87`ı<¦lZ†‘-l¾ŸÏò£Ø’VFPT.ÅµĞøíYeó3Å‚|>czïX‚Ëx@#ˆ"°4Å	X#}Ù•î•#¬ê(V§©:a.Ù#ıæª@Ş»LãC^w8íûV,ÃäŞ8öµz†Z¾ +4~E°®X)[¦t7ÌêJ	ïA&ú9_İ›Í[SSÀ#¬ŸyZÚ‡Ku#¬XBov.Õ°r`G8`7ÏCxw ûP€}õµ°Ø×şçŸüñô?şû{ÿşËïçÛØìØ°#`GÀ`°Ø°#`GÀp°™VÛëİMè5¾¿ücS”T}ï•ÒMD)G¿û öéÅÅÏêæbBLX}èÔ:òÃzy˜fl{Ú »dŠl!EYi€æàjºDÍáÃÉóA-ÀoENlìÊ°å¡S·óDì«àj›ÅÕ·Ûê˜®¦õ€~WiJ¿®ˆ}pµ™üöLUtÀâxâÕ‡XÄ>©R&¢È¨N6î:8—u\LéÏô„ELI>ªPCOj2ô€Ò|j¨INŠ’D¬jM£néÒl–k˜7»rq8^…„÷h©ãÙ™Xä>€„ä€Òs
+‰ŸIVe«:
+òÒÇœØñf;#KĞ<Šç°‡«Ô©BÉ\b•C¬›ÉÜKra¿QÈø»„ğ»Áü+Œyáômœ‡KA‚š]:ß°è¯aœºB«ë×#™ÉÓ$Ñª,G%^dRå‚ˆØ¢PË;$aG©<Ê³‘ÙFÓQ,+¡šğ`cïúÃ)“&ù<kß×Q¼±0Ó(í-ÀŠ¼t:˜2¶B­š‰xÈëŒøšüDUÖ…<ñ’)­±d#ÑKÕ¦Ø,FÂHõ]ÅÅl9ô¤KAÆf§üıËïLI_–å¶Š'NX±ÑŸ	Ÿ4hó[lUÀò¹V&dX•œ6­>ŠEĞmÆ0<ğÑ@ÙX3?›-— È3"yÇR¤÷‰{všxùS‚†}…©ã‹O”àY’c8Î î%A‚“Égbâ³»Ìt™j–Œ;6İ{ä\›3n6»Æ¥şë›ĞãZzKğ( îqºe/7ŸË)í}Ì&Ûá@2WA%õZ‡«·„+#ßHBÃ '$ˆ}d¼%[*œ±—à„°j/ş‹m› íÃxïÑ^Z£ÕõW|n”&6Nô%·Vv‰¦$60|4KÃ©« m²€ßNì³›U†|(Y»{ã]s·Ğñm#°„×S1/yG“¹¦p~Àp[`q‘0ŞQ\ïø¥ûÄôi„õû”nüê¯^HåV<É%&_gFX=°öYGèFÂQÿë}„óÖÏca°ié=Y%Ï!ù{ü(¶d„5+^§IŒØÛD{VÉóDGş›EFXÕ;Ö9ñ@¢D`hŠê8•ÂŒ°º£XÉVñOtø:°Œkz'÷ó+´íGX-°v¦2nä§à*ïÔÄ÷LæhON€Ö¬pâ›òZ½¤û;(z~.­Ë9ŠGX°…<ä¶ô|k>ÅZW1ä#œ¥¸´—êFX9°„Şì>\ªaåÀ0€a ;Â v„ì v ;€a ;Â v„ìØ¬ û¯°aÇª]“Lö“©çÊcÈì KêøI‚"-Dí—ŸÅ,/	¤$
+EbK´
+?ŠP¦±%¤SB*ƒÊ„e`Õƒ®I
+ä-ÅáñêîCG¿¹ mòÏãáÒ›G¡;ŒÄ¾9ş5gòªæ¯XµtT»•zg‚f²µ…‹4ÏXu¬ê§€ª.°âd'µ´¶i' ‘X39Évø#O’}uûzk•<êøÑÕ…àò^ÁXçf8êtDã fŠW
+¬b#³„CÈN¿2F.K¢#;‹êt
+.7W6ÅšÉIÀs+°ºã4gy
+üØ6$x(°İqxBñZåKçT9óxÅßH•L*M$²p†AÛæ€`fIÂ¾—d­T;åøŒö-çò²¶¤C°ÜÉ—ƒXi'V‰4¨™¤juÀ2®eÔ~jM7u•_$0Y´WË‰Ç3([Ãã:Pz–…†¬Ø—ãÏ© wÈ€µnùêCqØ3ÀJ£K†ç‡##…ĞÕ™³Qchúj“6ÀÊÆÍƒ/`ğDãN!?øâº2æ8ªOLô¼·È[²XDÉzc¸7ø Ö,ïÊ8xşpà…ØTu¦‡_Çå®…Áò.F¬™*)Ó¸¬½Ç9Ê9:À†õfòG vf–p¼F`Ÿê`¦É^Nü^åó,3I¸`}y¢?y°LNşú’W›¿¶ıë/‚:Ç‚ş)d&ùœ‰}…|ÖoØ2DkmGŠvP¼N`õ(Á°ùıÂ±¼:õõiT•Yº<íüKªÚ&hp¹ÕYGªeXŞ»èK)ö¥µRH±%bd¹#çü{› 33Âƒv„ì'öXN )q…Èä‘Ñ˜R3YJ%Î9–â$˜FÌ)ædæåĞ:œÛ>í–/ŸMtåĞ‡Ò=DˆCc¡#ògWçÉiœ |ë O]«"
+Òù{£‰Êçr¢å5×¥ñ¥9#(äÎ>œG#ùB‡°¯º†‚[*]Øåòáˆƒ£±B/şúƒ¨4ÄuúqeóD93u*'€ÀfUW™2ĞfŠÉøñl&ë¯Í`•/Äˆb?z+±ıÄÕ/:ğÒ…Ã<RlÅº°»BU¾¨e®|™æqÓti–#fFËyqÚÇŞ‰œ 
+[©Š=ËÇHYáï"E;,âr +TÖ/NÂ†UÃÈ{â’æÄ7`ĞÆ3s¦ì+JÊ;;É	\~÷¶l¬øÊ\Š«~RøŞ2O2Ä9|ÛÉL0 „FYÑ$3æÿdI§Å`Êvóp¹CÚ/®-5jI9Š™'ò²4*°Ì&Ñ;0µwB‰jP‡U’œÀ‘s•Ş²d}<vGç)±_>]öË|o‡lœÆ	à°Åq¢«‘–Ï;ŠæÇsóïX_>¬(óä4,4E¡H;›Ç\ƒ˜h£´øÇÍš©®À±?,Ù ›¶O¸8øÔÈ]„3Uk~À)8ÈŸÆ	à`X#(”ÒŞ›O{^/Ûâ,z"ë‚~¼²Ã	GRí°PÖ[êqkiâ8{À–ş6’«®£úíqåsËÙ ¬X?™@ÏRáã5a#õÅ@Ìí¬ö•q”6l~ødà¶Éj×3œùf¸¬{nyyû¡Ôşˆ NermôÕÙNóäËˆV¥iSÎVß©œ õ¥Tée6¾3E .x
+Adæ›¸zMf$iRÕ°öÎ[ƒ¬ßò¨ÊhCïJ—õ•|t’²åøÊ¬gËiÇrôFÇs˜'¯ÃŒ2½-
+t"èOä(ä>§‘7"¡UÉV“É†©L^ó’Ş¦HpïÔ0—#Ä¸¨ö'´]6ßƒˆ—/ğ¶Ë1‡È7bß²ÅajÒ<Q&Smï7r‹·â[ir­á®zçÛòŞz áî€}¤ÈŞ-bØÇvqp/“”HšÖj[4ÂJ5fùÊŸÊ®mÑ+–5£›3z–`ÏXáêıÓÉ¾?‹‰YÎjûÜ
+T÷kÖ>‡9r`ÁC&–%:Å¡¤Dç+ö©sûEZÆY»À˜1‘*Ô”Qİ#¬Xu³R´XÙÌÊ})Õ=ÂJÅ‰Ê÷&nX¢ÆqË+–ÓÖ{+è„n.—'b¹¬áÄåŞ•Sá-Äz$Ì(îpô<‡è+v„3öOë×ÿ
+\ÿóÀ>`_}-…ìƒÙ±71l°ØŸşä/~ôÃ?øôûŸ|üçÏïİ‡›Ğwğt
+³ ¢
+wBc\:ñ{ ‹O˜¹.1‡õ|^áBÜFHø“·©ïvš+fTO>³‘Ò—õ}`?û´ì„¨¿è«µİ™‹YÜâóra#Ó[bÊXOWè#(°Ÿ^LŸÌ‹#Ï8´Í—ÊØ¿#l†æ¬ÎødÈQÀeZU¹…|‡çÖBs(â<'Î)—9Bìg47ÏK§.ö>qâˆ‡w‰9v$¡ªNNŸI6çÈÁ[ª*·P8ãck“Ö¹5Mí"°/€+fë£>°ê½¡BpÊà¢q˜Å–óDf_%ik•ª’\›ÖäÔWn:´fÀ£xØcÂÙy`m+°ÊØc‡ßb4×–$	Ÿ°ñ(ñĞZ1’[Gñv`1]Lş. ËïGÙ<´+¥0V¹´LTDŞÀ`§²åšÖL©nmÅ·ùÜ¡{OrâĞ)¨ûN¾8Ô±ƒÌÍXÍ9&ì(Ú|˜º?(¹…`@?bªÖ¼¹Üš®“ñ¹s°Å{Ã	§¢c'ç¢›'¡¨²Xä²Vg¯Z«ïµÆë‰’ö ¶ûI)Óy¢€ÖNÙÜCvó<„w·;Â™xwª0€n»†Ûn„õ_FÀ0€á.€ıÑ‹|öé'4€},N€ÎÜ	 T.°í(fd/?À>´ËÓò›ËÓ¼ÿ`º·âñ¹3Â v„ì'òÇ^pÆaìŒ?¶¿…ßgZ°¾®Àôj	<»álâg Øë÷êğüÙÍ÷F8“ğá³€Øì_2ç4
+endstream
+endobj
+19 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</2.0<<
+/CropRect[6.618 4.657 476.85501 314.85599]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-B\205L\206M 7:fsck1)
+/Overprint false
+/Inks[/monochrome(Black) 1]
+/Size[483 324]
+/Version 2
+/Type/OPI
+/IncludedImageQuality 1
+>>
+>>
+/FormType 1
+/Name/Fm7
+/BBox[-0.1744 -1.0283 1.27978 2.1681]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Im4 18 0 R>>/ProcSet[/PDF/ImageB]>>
+/Type/XObject
+/Length 35
+>>
+stream
+/GS1 gs
+q
+1 0 0 1 0 0 cm
+/Im4 Do
+Q
+
+endstream
+endobj
+20 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</1.3<<
+/CropRect[7 5 477 315]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-B\205L\206M 7:fsck1)
+/Overprint false
+/ImageType[1 8]
+/Position[57.193 219.325 57.193 430.258 376.95099 430.258 376.95099 219.325]
+/ColorType/Process
+/Color[0 0 0 1(Black)]
+/Size[483 324]
+/Version 1.3
+/CropFixed[6.618 4.657 476.85501 314.85599]
+/Type/OPI
+/Resolution[72 72]
+>>
+>>
+/FormType 1
+/Name/Fm6
+/BBox[0 0 467.71698 680.31494]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Fm7 19 0 R>>/ProcSet[/PDF]>>
+/Type/XObject
+/Length 63
+>>
+stream
+/GS1 gs
+q
+321.63651 0 0 212.83771 56.093 218.8613 cm
+/Fm7 Do
+Q
+
+endstream
+endobj
+21 0 obj
+<<
+/Length 3530
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(LINUX, sistemin a\215\335l\335\337\335 s\335ras\335nda \322mount edilen\323 t\237m disk b\232l\237mlerine bi-)Tj
+0 -1.33333 TD
+-0.025 Tw
+(rer i\337aret koyar. Sistemin d\237zg\237n kapat\335lmas\335 s\237recinde de ba\337ar\335yla \215\232z\237len)Tj
+T*
+0.025 Tw
+(dosya sistemlerinden bu i\337aretleri kald\335r\335r.)Tj
+0 -2.55568 TD
+0.084 Tw
+(A\215\335l\335\337 s\335ras\335nda \322mount edildi\323 i\337areti i\215eren dosya sistemlerine rastlan\335rsa)Tj
+0 -1.33334 TD
+0.098 Tw
+(LINUX, bilgisayar\335n normal yollarla kapat\335lmad\335\333\335n\335, dolay\335s\335yla bu dosya)Tj
+0 -1.33333 TD
+0.069 Tw
+(sisteminin veri yap\335lar\335nda bir sorun olabilece\333i varsay\335m\335yla otomatik ola-)Tj
+T*
+0.025 Tw
+(rak o dosya sistemi i\215in \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 164.3702 501.5039 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(fsck)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 185.1644 501.5039 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.74073 0 Td
+(\()Tj
+ET
+Q
+q
+BT
+/F5 1 Tf
+10.5 0 0 10.5 196.3597 501.5039 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(file system check)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 265.3341 501.5039 Tm
+0 Tr
+0 g
+-0.0076 Tc
+(\))Tj
+0.59272 0 Td
+-0.008 Tc
+0.025 Tw
+(program\335n\335 \215al\335\337t\335r\335r.)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 57.6929 474.6692 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(fsck)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 78.4871 474.6692 Tm
+0 Tr
+0 g
+-0.0076 Tc
+(,)Tj
+0.55729 0 Td
+-0.008 Tc
+0.073 Tw
+(dosya sisteminde bir bozukluk g\232r\237rse d\237zeltmeye \215al\335\337\335r, genellikle)Tj
+-2.53769 -1.33333 TD
+0.005 Tw
+(de ba\337ar\335l\335 olur. Bu d\237zeltmeleri yapmadan, \232nce bir mesajla buldu\333u soru-)Tj
+-0.0076 Tc
+(nu)'
+1.32811 0 Td
+-0.008 Tc
+0.025 Tw
+(g\232sterir ve sistem y\232neticisinden d\237zeltme i\215in izin ister:)Tj
+-1.32811 -24.13498 TD
+0.027 Tw
+(Genellikle bu izni vermemeniz i\215in bir neden yoktur ve t\237m sorulara \322)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 357.8418 193.2519 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(yes)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 371.3996 193.2519 Tm
+0 Tr
+0 g
+0 Tc
+<D3>Tj
+-29.87683 -1.33333 TD
+-0.008 Tc
+0.025 Tw
+(diyerek devam etmeniz gerekir.)Tj
+0 -2.55569 TD
+-0.018 Tc
+-0.025 Tw
+(LINUX, dosya sistemlerinin ka\215 kez )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 208.8005 152.4172 Tm
+0 Tr
+0 g
+-0.018 Tc
+0 Tw
+(mount )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 238.6376 152.4172 Tm
+0 Tr
+0 g
+-0.018 Tc
+-0.025 Tw
+(edildiklerinin de hesab\335n\335 tutar ve)Tj
+-17.23283 -1.33333 TD
+0.025 Tw
+(her 20 ili\337tirmede bir, o dosya sistemi i\215in sorun olmasa bile )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 308.5911 138.4172 Tm
+0 Tr
+0 g
+-0.079 Tc
+0 Tw
+(fsck)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 331.6672 138.4172 Tm
+0 Tr
+0 g
+-0.018 Tc
+0 Tw
+<8D616CDDDF74DD72DD722E>Tj
+-26.0928 -2.5557 TD
+-0.008 Tc
+-0.018 Tw
+(\202ok fazla gerekmemekle birlikte, dosya sistemlerinin b\237t\237nl\237\333\237n\237 kendiniz)Tj
+0 -1.3333 TD
+0.025 Tw
+(kontrol etmek istedi\333inizde)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 57.6929 78.1652 Tm
+0 Tr
+0 g
+-0.0563 Tc
+(fsck)Tj
+2.7739 0 Td
+-0.056 Tc
+0 Tw
+(/dev/hdc1)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(279)Tj
+ET
+1 g
+56.693 624.786 320.756 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 242.317 627.3763 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Diskler, Disketler ve mount Komutu)Tj
+ET
+1 g
+57.193 219.641 319.756 210.932 re
+f
+q
+57.193 219.641 319.756 210.932 re
+W n
+/Fm6 Do
+Q
+0 J 0 j 10 M []0 d 0.5 w 
+0 G
+56.943 219.391 320.256 211.432 re
+s
+Q
+
+endstream
+endobj
+22 0 obj
+<<
+/Length 7264
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.092 Tw
+(gibi komutlarla bu i\337i yapabilirsiniz. Do\333al olarak bu i\337 i\215in root kullan\335c\335)Tj
+0 -1.33333 TD
+0.148 Tw
+(yetkilerine sahip olmal\335s\335n\335z; ayr\335ca kontrol edilecek disk b\232l\237m\237n\237n sis-)Tj
+T*
+-0.036 Tw
+(temde herhangi bir dizine ili\337tirilmemi\337 olmas\335 gerekir. \334li\337tirilmi\337 \()Tj
+ET
+Q
+q
+BT
+/F5 1 Tf
+10.5 0 0 10.5 369.7515 570.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(mounted)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 406.5296 570.3385 Tm
+0 Tr
+0 g
+0 Tc
+(\))Tj
+-30.06349 -1.33333 TD
+-0.008 Tc
+0.026 Tw
+(dosya sistemleri \237zerinde  )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 203.1562 556.3386 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+(fsck )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 229.6907 556.3386 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.026 Tw
+(\215al\335\337t\335rmak tehlikelidir. E\333er buna mecbur)Tj
+-13.22169 -1.33334 TD
+0.043 Tw
+(kal\335rsan\335z,  )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 139.4461 542.3385 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+(fsck )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 166.3392 542.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.043 Tw
+(s\237resince, \215al\335\337an yaz\335l\335mlar\335n s\232z konusu dosya sistemin-)Tj
+-7.18822 -1.33333 TD
+0.021 Tw
+(de yer alan hi\215bir dosya ya da dizinde de\333i\337iklik yapmayaca\333\335ndan emin ol-)Tj
+T*
+0.025 Tw
+(man\335z gerekir.)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+17.924 0 0 14.5 90.8629 483.5039 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(supermount )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 460.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(Sistemin )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 130.2543 460.0865 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/etc/fstab)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 185.5034 460.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.068 Tw
+(dosyas\335na bakt\335\333\335n\335zda )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 284.8845 460.0865 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/mnt/cdrom)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 340.1336 460.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(ve )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 352.7605 460.0865 Tm
+0 Tr
+0 g
+-0.057 Tc
+0 Tw
+(/mnt/floppy)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 446.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(dizinlerinin )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 142.4394 446.0865 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/dev/cdrom)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 197.5149 446.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(ve )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 209.9681 446.0865 Tm
+0 Tr
+0 g
+-0.059 Tc
+0 Tw
+(/dev/fd0)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 254.6465 446.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.052 Tw
+(\215evre birimlerinin \322supermount\323 se)Tj
+14.48287 0 TD
+0 Tc
+(-)Tj
+-30.0813 -1.33334 TD
+-0.008 Tc
+0.108 Tw
+(\215ene\333i ile ili\337tirildi\333i dikkatinizi \215ekmi\337 olmal\335. Bu se\215enekler, s\232z konusu)Tj
+0 -1.33333 TD
+0.056 Tw
+(\215evre birimlerine CD veya disket tak\335ld\335\333\335nda, )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 291.0212 418.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(mount )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 322.3323 418.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.056 Tw
+(komutu vermeye ge-)Tj
+-22.04471 -1.33333 TD
+0.371 Tw
+(rek kalmaks\335z\335n tak\335lan medyan\335n otomatik olarak )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 327.7906 404.0865 Tm
+0 Tr
+0 g
+-0.057 Tc
+0 Tw
+(/mnt/floppy)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 391.4185 404.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(veya)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 90.8629 390.0865 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/mnt/cdrom)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 145.6572 390.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(dizinlerine ili\337tirilmesini sa\333lamaktad\335r. )Tj
+-5.2185 -2.55568 TD
+0.04 Tw
+(Ayn\335 \337ekilde; s\232z konusu s\237r\237c\237lerdeki medyalar \215\335kar\335ld\335\333\335nda da ilgili di-)Tj
+0 -1.33333 TD
+0.025 Tw
+(zinler otomatik olarak )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 187.359 349.2519 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(unmount)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 229.4657 349.2519 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(edilir.)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+17.924 0 0 14.5 90.8629 313.5239 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(CD Kullan\335m\335)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 291.5239 Tm
+0 Tr
+0 g
+0.007 Tc
+0.361 Tw
+(Siz de\333i\337tirmediyseniz, CD s\237r\237c\237n\237ze ili\337kin )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 312.167 291.5239 Tm
+0 Tr
+0 g
+-0.042 Tc
+0 Tw
+(/etc/fstab)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 372.13 291.5239 Tm
+0 Tr
+0 g
+0.007 Tc
+0 Tw
+(sat\335r\335nda )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 90.8629 277.5239 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(supermount)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 146.2703 277.5239 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.074 Tw
+(parametresi belirtilmi\337 olmal\335d\335r. Bu parametre sayesinde CD)Tj
+-5.27689 -1.33333 TD
+0.042 Tw
+(s\237r\237c\237n\237ze dolu bir CD takt\335\333\335n\335zda, o CD \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 285.2651 263.5239 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+(mount)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 311.2579 263.5239 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.75794 0 Td
+-0.008 Tc
+0.042 Tw
+(komutunu vermenize)Tj
+-21.74794 -1.33333 TD
+-0.015 Tw
+(gerek kalmadan )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 160.3114 249.5239 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/mnt/cdrom)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 214.6833 249.5239 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.015 Tw
+(dizinine ili\337tirilir. Art\335k o CD\325deki dosya ve di-)Tj
+-11.79242 -1.33333 TD
+0 Tw
+(zinleri )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 119.9652 235.5239 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/mnt/cdrom)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 174.7594 235.5239 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(dizini alt\335nda g\232rebilirsiniz.)Tj
+-7.99014 -2.55568 TD
+0 Tw
+(E\333er )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 113.6203 208.6893 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/etc/fstab)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 168.2805 208.6893 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(dosyan\335zda )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 217.9996 208.6893 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/dev/cdrom)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 272.6598 208.6893 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.012 Tw
+(ile ilgili bir sat\335r yoksa, takt\335\333\335n\335z)Tj
+-17.31399 -1.33333 TD
+0.025 Tw
+(CD\325lerin i\215ini g\232rebilmek i\215in)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 90.8629 169.8546 Tm
+0 Tr
+0 g
+-0.054 Tc
+0.056 Tw
+(mount -r-t iso9660/dev/cdrom /mnt/cdrom)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 146.4373 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.07 Tw
+(gibi bir komut vermeniz gerekecektir. \()Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 260.0403 146.4373 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(-r)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 273.7222 146.4373 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.07 Tw
+(parametresini kullanman\335z; yani)Tj
+-17.41517 -1.33333 TD
+0.012 Tw
+(ili\337tirilecek dosya sisteminin \322)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 216.5733 132.4373 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.012 Tw
+(yaln\335z okunabilir:)Tj
+ET
+Q
+q
+BT
+/F5 1 Tf
+10.5 0 0 10.5 294.1596 132.4373 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(read-only)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 332.7079 132.4373 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.72779 0 Td
+-0.008 Tc
+0.012 Tw
+(oldu\333unu belirt-)Tj
+-23.7606 -1.3333 TD
+-0.016 Tw
+(meniz \337art de\333ildir; ancak her\337eyi kural\335na g\232re yapmaya al\335\337mak yararl\335d\335r.\))Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(280)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+1 g
+89.863 70.866 321.161 39.4489 re
+f
+Q
+
+endstream
+endobj
+23 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</2.0<<
+/CropRect[0 0 174 177]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-#157504:penguen p\237f)
+/Overprint false
+/Inks[/monochrome(Black) 1]
+/Size[174 177]
+/Version 2
+/Type/OPI
+/IncludedImageQuality 1
+>>
+>>
+/FormType 1
+/Name/Fm9
+/BBox[-8.24877 -5.81972 1.70674 8.41555]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Im2 9 0 R>>/ProcSet[/PDF/ImageB]>>
+/Type/XObject
+/Length 35
+>>
+stream
+/GS1 gs
+q
+1 0 0 1 0 0 cm
+/Im2 Do
+Q
+
+endstream
+endobj
+24 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</1.3<<
+/CropRect[0 0 174 177]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-#157504:penguen p\237f)
+/Overprint false
+/ImageType[1 8]
+/Position[387.53299 277.815 387.53299 325.60501 434.51401 325.60501 434.51401 277.815]
+/ColorType/Process
+/Color[0 0 0 1(Black)]
+/Size[174 177]
+/Version 1.3
+/CropFixed[0 0 174 177]
+/Type/OPI
+/Resolution[72 72]
+>>
+>>
+/FormType 1
+/Name/Fm8
+/BBox[0 0 467.71698 680.31494]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Fm9 23 0 R>>/ProcSet[/PDF]>>
+/Type/XObject
+/Length 60
+>>
+stream
+/GS1 gs
+q
+46.9807 0 0 47.7908 387.533 278.1292 cm
+/Fm9 Do
+Q
+
+endstream
+endobj
+25 0 obj
+<<
+/Length 5463
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 538.583 re
+f
+Q
+q
+BT
+/F4 1 Tf
+17.924 0 0 14.5 57.6929 594.3985 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Disket Kullan\335m\335)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 570.9811 Tm
+0 Tr
+0 g
+-0.005 Tc
+-0.003 Tw
+(Siz de\333i\337tirmediyseniz, disket s\237r\237c\237n\237ze ili\337kin )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 264.5433 570.9811 Tm
+0 Tr
+0 g
+-0.055 Tc
+0 Tw
+(/etc/fstab)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 319.33 570.9811 Tm
+0 Tr
+0 g
+-0.005 Tc
+-0.003 Tw
+(sat\335r\335nda \322)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 363.7268 570.9811 Tm
+0 Tr
+0 g
+-0.005 Tc
+0 Tw
+(su-)Tj
+-29.14609 -1.33334 TD
+(permount)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 100.2293 556.9811 Tm
+0 Tr
+0 g
+-0.0051 Tc
+<D3>Tj
+0.69003 0 Td
+-0.005 Tc
+-0.031 Tw
+(parametresi belirtilmi\337 olmal\335d\335r. Bu parametre sayesinde disket)Tj
+-4.74112 -1.33333 TD
+0.03 Tw
+(s\237r\237c\237n\237ze formatl\335 bir disket takt\335\333\335n\335zda, o disket \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 287.4572 542.9811 Tm
+0 Tr
+0 g
+-0.061 Tc
+0 Tw
+(mount)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 313.582 542.9811 Tm
+0 Tr
+0 g
+-0.0051 Tc
+<D3>Tj
+0.7506 0 Td
+-0.005 Tc
+0 Tw
+(komutununa)Tj
+-25.12099 -1.33333 TD
+(gerek kalmadan )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 127.85 528.9811 Tm
+0 Tr
+0 g
+-0.055 Tc
+0 Tw
+(/mnt/floppy)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 187.8945 528.9811 Tm
+0 Tr
+0 g
+-0.005 Tc
+0 Tw
+(dizinine ili\337tirilir. Art\335k o disketteki dosya ve)Tj
+-12.40015 -1.33333 TD
+(dizinleri )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 95.465 514.9811 Tm
+0 Tr
+0 g
+-0.055 Tc
+0 Tw
+(/mnt/floppy)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 155.7746 514.9811 Tm
+0 Tr
+0 g
+-0.005 Tc
+0.025 Tw
+(dizini alt\335nda g\232rebilirsiniz.)Tj
+-9.34111 -2.55568 TD
+-0.008 Tc
+0 Tw
+(E\333er )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 81.5606 488.1465 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/etc/fstab)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 137.3312 488.1465 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(dosyan\335zda )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 188.1607 488.1465 Tm
+0 Tr
+0 g
+-0.059 Tc
+0 Tw
+(/dev/fd0)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 233.5341 488.1465 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.118 Tw
+(ile ilgili bir sat\335r yoksa, takt\335\333\335n\335z)Tj
+-16.74678 -1.33333 TD
+0.025 Tw
+(disketi kullanabilmek i\215in )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 57.6929 458.7291 Tm
+0 Tr
+0 g
+-0.055 Tc
+0.054 Tw
+[(m)2(o)2(u)2(n)2(t)2(-)2(t)2( m)2(s)2(d)2(o)2(s)-583(/dev/fd0 )-2(/mnt/floppy)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 435.3118 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(gibi bir komut vermeniz gerekecektir. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+14.5 0 0 14.5 57.6929 401.0012 Tm
+0 Tr
+0 g
+-0.009 Tc
+0 Tw
+(umount)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+17.924 0 0 14.5 113.4935 401.0012 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(Komutu)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 377.5839 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.004 Tw
+(Sisteminizde bir dizine ili\337tirilmi\337 olan bir dosya sistemini \215\232zmek isterseniz)Tj
+0 -1.33333 TD
+0 Tc
+<D2>Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 62.6642 363.5839 Tm
+0 Tr
+0 g
+-0.062 Tc
+0 Tw
+(umount)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 93.8555 363.5839 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.7092 0 Td
+-0.008 Tc
+-0.007 Tw
+(komutunu kullanmal\335s\335n\335z. \(Tabii ki bu i\337i gene yaln\335zca root kul-)Tj
+-4.15325 -1.33333 TD
+0.025 Tw
+(lan\335c\335 yapabilir\))Tj
+0 -13.46832 TD
+-0.015 Tc
+0 Tw
+(\205rne\333in; )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 97.8624 208.1665 Tm
+0 Tr
+0 g
+-0.07 Tc
+0 Tw
+(/yedek)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 131.1997 208.1665 Tm
+0 Tr
+0 g
+-0.015 Tc
+0.015 Tw
+(dizinine ili\337tirilmi\337 )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 210.1446 208.1665 Tm
+0 Tr
+0 g
+-0.067 Tc
+0 Tw
+(/dev/hdd1)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 258.8401 208.1665 Tm
+0 Tr
+0 g
+-0.015 Tc
+0.015 Tw
+(diskini \215\232zmek istedi\333inizde )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 57.6929 183.3319 Tm
+0 Tr
+0 g
+-0.057 Tc
+0.056 Tw
+(umount /yedek)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 165.6929 183.3319 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(veya)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 57.6929 167.9146 Tm
+0 Tr
+0 g
+-0.056 Tc
+0.056 Tw
+(umount /dev/hdd1)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 143.0799 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(komutlar\335ndan birini kullanabilirsiniz. )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(281)Tj
+ET
+1 g
+56.693 624.786 320.756 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 242.317 627.3763 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Diskler, Disketler ve mount Komutu)Tj
+ET
+0.9 g
+0 233.123 478.807 104.035 re
+f
+Q
+q
+BT
+/F3 1 Tf
+11.07 0 0 9 57.6929 316.4058 Tm
+0 Tr
+0 g
+-0.011 Tc
+0.03 Tw
+(Dikkatli okuyucular\335n sordu\333unu duyar gibiyiz: \322Bu i\337 ka\215 y\335lda bir gereke-)Tj
+0 -1.55556 TD
+-0.024 Tw
+(cek ki; neden anlat\335yorsunuz?\323 Evet, baz\335 kullan\335c\335lar i\215in bu i\337ler hi\215 gerek-)Tj
+0 -1.55555 TD
+0.032 Tw
+(meyebilir; ama gerekti\333i zaman da bunlar\335 bilmek zorundas\335n\335z. Hele diski)Tj
+28.46187 0 TD
+0 Tc
+(-)Tj
+-28.46187 -1.55556 TD
+-0.011 Tc
+0.021 Tw
+(nizdeki bir dizine ili\337tirmek isteyebilece\333iniz bir diskin bir ba\337ka bilgisayar-)Tj
+T*
+0.045 Tw
+(da tak\335l\335 olabilece\333ini dikkate al\335rsan\335z, bu )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 240.6719 260.4058 Tm
+0 Tr
+0 g
+-0.063 Tc
+0 Tw
+(mount-umount)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+11.07 0 0 9 305.2541 260.4058 Tm
+0 Tr
+0 g
+-0.011 Tc
+0.045 Tw
+(komutlar\335na tah)Tj
+6.09861 0 TD
+0 Tc
+(-)Tj
+-28.46186 -1.55556 TD
+-0.011 Tc
+0.022 Tw
+(min etti\333inizden daha \215abuk gereksinim duyaca\333\335n\335za emin olabilirsiniz.)Tj
+ET
+0.9 g
+383.033 271.658 58.339 56.179 re
+f
+/Fm8 Do
+1 g
+56.693 70.866 320.756 65.197 re
+f
+Q
+
+endstream
+endobj
+26 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace/DeviceGray
+/Filter/FlateDecode
+/Height 418
+/Subtype/Image
+/Type/XObject
+/Length 14440
+/Width 744
+>>
+stream
+X…íml$Wz^_Ô¯ÂıuÑ¿ıÇşjùA0HBwüÁT ¨cB1°¦†ĞêdºØ0"°i‹?$‹vĞX®£LhcÑc½71è¥c=ezÖëP¬%D´ˆVy#Â­`0¨”³HÇ7ï½÷½Åªf±§9Ã‘fÈ÷Œxoİz?î[UOß®®òÇÀ0×€/3ÌÆ©_æÉâÇzÆèü‡ûÿõí?zó;ßùõµÖ·æpÌ0·ÎßN£ğoèØèüg•úì“şT×wõó˜‡yŒÁvİÿC/¥Po/EıÒŞÛ¿gã·~å•9õÊÏ—f°±<eş…™‚áŒ˜çIç½ğ‡ŸküÚÿ§uK²÷/©eÕıÛ¿zï÷ÿó¯~Iı
+I 6Øáßy|ı³±M]‘›ï¼óî÷Ç­‘C÷ÑÂŞş7
+/)lÎå¹Ãò ÓÈ5}ÿÓşg´N«NÖn¶ş ›@ı6iÖ>úìãW°?sì/}ú<nC{1©û–%ucuçÎWÔ¿ıìÃ÷îl´ÿ‰º8+8U{6Ç­ôJ<ûî+Øş\÷üw&äô*¾ôLB.)ÑY‡é|Ğá››™yÎ8\cL÷İÁ—_>­úŒÎÕW²uşç‚VÿFpæØŸû³±Î/¬ó{1V×÷ğá¡ÁïÚtãtşïÕÊßŞ{ÿ7VWşÍ?û)õ[˜‡t®0Èˆ}´óÿTğÔ»/­w:ßzşû8-$½ëT.CD±‹F&æı¯dæIƒN#×ÓÇ¥<Ã)¡ó>ÈÖ¹N¥^Æ6÷ôßÆş:çûss®ğ!
+auİCµc|ÎbÇFç¿­Ú‡¿¾ôïşB©_ıGê?é%É<q|[é€§¯Ğw?‰>‚—?ø,ún¼óîº÷•HE_^ù›èƒ1fãŞbğVğFó©µï‘CôUüå÷úg÷-İ×ƒØçëïGïõ:ºÁ·îEŸ){ùõ_`t:;
+=FÃ+ïôßÁ*şàÓOŞ@©ª_ûè³o¾öqôkqí4r§ëù_ÿ¶ºj›ßùê¼Ù_3:w3'xŞ¬õi¿…Ie~]o€…~†'!Şû’›‡ïÏãûó0QÄ€Õ5p[·4ÆMëàtş»ê—~ñ¿ú¯Şı?êçÿÁÿúÃ À1HJçß9şrğ\|õyüÑúBğÊ'O/hÎÿ‹ı—‚›ãæÏÁ»Áëß‚7_ğR¢¯õ½×¾üñ[§:¿õ^pêó7/ü¬z‘–k·óÖ½ç‚¯¥t®t:¼õÑ´ŞÄáÇ/U½l~øì³~‡İg¾Şó©oDqí4r§÷ç¨nİ\şØïTç?·İĞ:w3'x«‹MZçß?~»Ó2ÍñÑZğôÄŞ—Ü<L|ßrpp€*ì¬®q„Ûº¥±Şvv£ó?SK¯üæ·oÿÉÿS­ù/Ú?÷ä-uü‡yq•Ã³í.ÍbğÔ§/ï¾n®îf7~F=ËšŞ>¼¼}Ùè|´mm¡t?u~óST^ìóŠÖ2Öb ß
+¬²Ó:oâ†å}ÿÜ2óŞ[Ã_€÷pókèô´vtY´ÓÈ5&øêŸEqşØ/¡ó§?şÖ¹›ù”×ÿæF0¨óM}„XÈ•i78|Ï$‹÷¾äæabw»])`gu#ÜÖ-õ¶³ÿ@}mñ›÷wô¿ûÿñ¶¾õã˜ÈÜŸ¿^nâ™~› xş÷ßÕ×ów¾ÍA¼ÕºŞ¢§_xçã§_mäºûlõcø~€+_ÂG½¤eœÜùË™:7[š§?ù™Ø¨^‚_¶Ví„”Å:Z#^Äivî¹ü	?½ÃŞ™7ÕKØº™c^ùèF@ÄéÔKßüÑ/èşµ¸Lı÷ü÷û÷ôÖkn¯›‡ïÏãûó÷ßÕ	ØY]ã·uKcÜ´NçÿïÆ[ıŞqô_N~â/Ï¥}®§Ï[îmb}Û^Š¯ôßø«Ğo€=‰5xçKou¿wããw×p{Äêo}ëü•{·‚”O¬s·óSthYQü¬vÔùËúë„£—Ä_Ó·ë±Î)‹q¹Æ4¯÷]ş„ŸŞA¿@ßùˆÖs=³ãÅèylÏşÂ|ëøKvå¦2Í_0sç^r¯›‡ïÏãûóNŒÕukHŒ;¦q:ù_?ÿ;¿÷;ı?ÿêßúõgşÊ3ÏÏ7>ûêS_Åuèu¼1~E+o"íS±è›OÏ=k/Îï?wú€b¤ïêïé¯Ïim»ûó¯â½hÒïNÕíév¾õñ¯İS˜úÖ‹ï¡Z´ƒyıN¼Ù:ÕùÆ‡Ï<ûáw“:§,Æi¤S¼óÊ—z®û®ËŸğÓ;Hç_Š°u3ëCÔ|ğÎ7èÜ$uşT÷Ã™d™æWçLğÍc,/Şëæaâû–ÄX]ÿ %mpã Útãtÿü{ÿ÷ïŞ|/üÓ£ß½·ñq|ö‰ØQÔÅ…ìÓ¿¾õÛŸèûçp§]ßÿÑg<o6ñà{{ï¾û2nŒ¢ŞĞw¢{É÷DßÂ.éóR°=§=içNÿ}½ßúÑ‡¿ #Ğ¢ÜRßbÅ<õÆ§Ÿ¾ù3IÛ,/ßF¬1Åw?øL¿ùlœÿÔOï mı¼ÅÍŒåÙëi>Fİ¸÷n²Lı×ù$úpQ—ï¥yÑ9>*q]cş˜tï ÿô/şÛŸ½÷‡á?ıû?£ûòÑ×±¹ò`|e›súÜj|øşÜÜŸ¿= ë·‡coşşï¼õ¿ùFRyğr4ƒí…x€Ï'¡F¾?·ëy
+õöÒğñ©ÎƒŸşéŸúÉòOŒ¦s†ùù±Ş^Ôù?\d˜«Öya®6Fç³s¥QVçÀ0WåtwêsUØ€uÎ\I¥xRt~á§HëüAtŞ_,ëØÌåHü»,ÎŸhE4°e®¸ÎÁsØe²wÂ<öI¶Æ‹c·±9`(;BÀŠ(bû,öÏTPÚÂfˆ-5QÚjØ0WAçø$1ÁFJç-lÎaA;¤Ù.u&‹¸1jÀp²ŒÎs‹²İÆ>‹ú`X{
+›a¶ÔDiÖùµÑyeLÊ	Õ(J¹¬”"°®ğÉÀvÔÈùÓ¡’>,HyTŞ™mŸÈ`vsßp‘ £óÂŒÄ63\x ÄîvDùEYÈFd£‰ÔzAäÛÎ…’)˜	¼¹>n0WDç€™:¯{;êú…¶šõ”ºªUwë^µĞ;+ëÁJäõdäE{ò¸Ã,¡	0:ßĞÅ.+Ü†%ï±g’Yp‡ ›Û+šª½ä.ˆ&ÜÂæI×ù¡—4l7Îè\Lcƒ8å`?!
+N¾'„‡zĞƒH‰¾×›– .`t®ÁßÆ.+\{&8–ø‰Hf‰ÈæöNùs}7pÉğ¾å¸Á\	£Ì­Ğ7Îè\ê[XT_ñÀH`¦f°³z“Ø¸šÚÅÛfX=À=;¹H€Ñy¤älû¬ğÔİ6¾ÃvY¬ÈærŸ´ÊPq..™Ñy7˜« s9	}ãŒÎĞ:×”?•õ¾~v°³â¨ÃêQØ¦º=~¨.@\(Àè¼Ô“sEì³Â—a{»ƒ½%”½Dk£ ²¹ÜĞUUá\\2˜í5m5Ì®ó¦Ø8û;´YğrÕ¥2èe±©ıÃPÎ¨h1¯mz°€;7Ç‹ÅĞÉfaô £óé”÷°Ï
+KŞDlSóMl\²Q Ùh"5“…çâ’á‡?}˜'^çaŠ³:à0‡.á’`ü¡ˆ#ĞÉ`{qs­t~ö=Qûa7:—°#ì{¢‘	V±y stÎ0WFç)XçÌÕÔù Y:¯‰El3ñÆ¹.B*Y±X¬cŸ7éÁ0÷×yçÏ÷÷»İ¿<8À»–çŠú	Ş6
+…F¶y¥]NÖ+ìRØd°¥ÊRL™76ÉÔÜ	óØüÕ&={zÄ\[2uNçí)lHUƒ -[çùÙÄ ‘å,öÉµ‚õC˜Ç>+½¸ÄxPxšôìéÃ:Oèz¤ó(¿£g}Z‰9:T>H%¼]²5àf®°ï\E)—ÑÒ·*ŒÑnÓf	ÀS·/<gÄ)ĞÆÖO?ÁØ¦ÔMhv|ûV§w/¾^ù8|`öôˆa't®œÎWfğmŠÜQ+ÕBïx¬¬îÂšZn¡ÉØP[‡WK¡­f=´X¢=	ÊÒŸÌİÍá‡Å-ÈšØZÒó‘K~KzœZÏESµ—°O­õçŒÖùË.jpŞhÅ÷„ğPj…i5Ös6}ßKÎ¥×(çpÇ ¶Œ'á²X?ªêoyØYÍÏ§æ³>.u¦Î§ü¹>ö¬sæt¾XÃÆ«­ˆIÜF–¼Ûì¬tN.ÅwÃÔ–ñ$\–0‡_É{ï²a`>+f—:­s
+?i•¡‚=ëœy‡R/ÜS…ƒ&ÔPn«Ga[©ä7µPtN.şlTÆÚ²±hM–“ñµyØUj¶·;è¾u”s²œÏêÜ¥öf;ˆÜ.¼«ª‡¬sæAt>ßD»êE Œó^N¯š%©ï¬Í‡  ß¹´D©¨W)Á—;h¶÷ÛÆÓıµY´xwTXò&öpµöÅÌ!ZóIäŒr©k^±;CÓ…ÏäEëv÷=©ÙÓ#†u~FçÜ	Ú³f{PO†ù"t¬¢ù†ÙÔ“a¾û†a3ÌÓyM,b›ˆsœë2B–‘ÊÒ_,ëØ§kJz0Ì(:/masÎ³¹Ò–~®xöñİtNTûØ'=±IºŒÀşmlğÁºS]ìc’YÖàN˜Ç>ñ ğ4'ë•vÄÙ:™+Ëp·§°!å‚¶lúû€yR.#`›cĞú!ÌcŸ5‘{Q”¥s
+O“Ÿ5¶óêd®©Î£ü:õª#jäüéŸ˜K%¼]²5àf®°ï\ú+cRN Iõà¶³Y<XÎvÕIMÊš~ëcİ¬- OyŞ¾ğ@¬F©hckHgQ Ùn¥\Vª	ÍèdtîÂ×"‡«¾±’®“¹®:_™Á÷<r/DuT½ã±²ºkj¹…&ck@m^u.uoGA_/¦¥lg³Ô Mªª†~=dëOæîæğƒT7à›hbkIg!ŸB[ÍzZŞMµ¤Ç©õ\4U{	ûÔZú‘ª“¹¦:?–]ÔÙ¼Q‡ï	á¡œ
+Ój¬çlôŞŸ\Ä4î79KÚ#^„Ïf©~µ©DŸ¯t1¸¬Ÿ
+Uõ·¼ì¬æçSµXŸ^£œÓ}¦Î§ü¹ıÉËÔyºNæºê|Q¯µ^ÕŠx·‘%ï6ª“l¤sr‘S¸éæ±ÉÈRÃ¸9¼ª(U‰uN6æğ+"yï]ö±1¤³˜'Š¦OëœÂOZe¨`Ÿ¥ó:™kªóPêånªpĞ„Jjõ(l+Õü¦£±‘ÎÉ¥­ÃpM©ÉÊææZI¶Yjî‰9UóÃ¬¡•Dkl'ãkó°«Ô2low0ıÖQÎÉz°«s6*ëŞ›í rZvá]U8ÌÒyºNæºê|¾‰vÕ)Š@-æ½œ^KRßX›A ¾sé7ÆB­tOİÄf K¤W9RQM$‡Z›€– ï
+KŞÄ®Ö¾˜9D«a éƒœQ-Q*~j^±%%ø²éÂgò¢€Çäî{´m7¬æSu2×TçÜ	Ú³fÁ³†Ÿ"†y,t¬¢ù†ÙFğô À–a‡û†a3ÌõÓyM,b{q4îrÂÖ9ÚF£´…Mêİ M³›²ã†Ü'¼_“ù5ìÕfQ•šÎ‰jÿtgÚ%cÄ\QZçí)l2—°iÌ£îQ„z¿€û„¿
+a[?~ß-UÂ×·ı}Øˆw¦]²FÌµÓ¹‹6ŸÔ¤~ÈM£¨‘ó§CŒsDùu<ëÙ|À7V¶y°œ/ìâ“¯D¾&CfÜ° 	õ‰ê¸+)®5Qi\âStUWG¡Tn©í¤/™!#æÚé¼	7`YUı0ôkñ¨Ğ;+cœce_É½G¶»°¦–Íûm«A;›Œ—gÑTí%ì™qÃ:°‚ÿ\IépóÚ–½@õ¡‚‰‰"Túú{¡t¢ÜNË°sun^êÔ@ ÜÈ÷„ğ<ŒsK²ì¢¦æÍ„³¦ÕXÏÙjWÃ$Û)nC«Ï.ÏYqÃ:°‡ÿ\Iá¸šGN¶ ;°ŒÇWÂRÜNÖ9ë|˜Î+±ÎÅ$Æ$X¬i©TàœmÉ»1d«aÜœTjp ÔI«œXVÜ°€„Î±¤p\Íq=ÇÛ¾)æP¾³ª›?´÷&fg|§rîˆ¹®:¯ùaOêû3ªÃêQØÆ8K(qµTS…ƒ&Ôb[ò›±­á˜Sj¶·;˜¢«ªwÛµ:+nX éœJ§û(è®ÁïîÁªš¬lnÄ;Ó.Y#æşğUTöw¨-æ½.§î»‰êE Œm%Ùm5^åU_ò&ö”šÉ‹ÎA²ÍŠ ÎoRIƒáô˜Ğşní/H¹Ğ7‹|+Ş™vÉ1ü\ñ,Ü	¶Cmµ‘%¸p Ã<b«Ø·y`{.À0XçÃ:g˜'Jç5±ˆmB`3ÜåŒçC’š¨¿X,Ö±OÏ”ô`˜Qt^ÚÂF?¥Î ´Õ ¯´K¿*ó·°?ÇsDöoc£TYŠ)|İtJb"µwÂ<öiŒ…§9Y¯4°#¦s¢ÚÇ¹×y{
+RÎ hËÖù-8ZJ-ßiÏ¡÷¡°~óØgMäŞ%eéœÂÓäg(ô÷—¹ö:ò;êxÖ¨¨‘ó§C|Œ.•ğvÉÖ€›¹Â¾si¥\6:ß¨—±w$<OjR?ù–PŸ¨»œÎÍğ”çí„Àj”Ú6¶†t-æá8lÓ´Mhv|SµÖ²_/¤•Û)=¸…-sİu¾2£Ô¼ÜQÕBïx¬¬îÂšZn¡ÉØP[‡WK¡­f=­¦iğ»Ø;U?ı¾×\Á.'A£şdînn÷tA–ĞÄÖ’®…|Ü´è·¤Ç©õ\4U{	ûÔZúQ:Á–¹æ:?–]ÔÙ¼Q‡ï	á¡œ
+Ój¬çlún–œK¯QÎáµ.[~á7hNxŠ
+>Xîı½Ëiq£ë§BUı-o;«ùùT-ÖÇM›©ó)n£}¦Î7JúH˜ë®óÅ6^Õ¨CLâ6²äİF­’­aÕK.Å£®\UmÃ
+nX’Zç•Xç.§ÅÂ.üÉ{ï²ÁK×bÅì¦MëœÂOZe¨`Ÿ¥ónş[æºë<”z¹›*4¡†’Z=
+Û
+%šßÔb4¶†U/¹ø³Qw¨ÂøIÌs#Û¤gÍ{Rß·»œN´ft2¾6»J-Ãövƒ¶rNÖƒµX»i½ÙN"§eŞUUÃ,OV67°g®·Îç›hW¢h„ÑbŞËé•±$õ}€µùà;—–(•5¹;áç[h¥{ê&6Î3ª	û;TëüfœÓşµ#-Ş–¼‰=\­}1sˆVÃ@-Ò9£Ü´5¯X†’|Ùtá3yQÀcr÷=Ú¶ƒVóH{æZë¼“;A{6ÃlêÉ0_„ÎƒU4ŸÃ0Ûƒz2ÌrßÂ0¬s†agP‹Ø~~Œ0ß.C<û‹ÅbûGH¯G‘|zôÀY>—³{	<ÈÑ>*—¶°I²›<ZQ$¦a>[Y¶‹µIÖ¯Éün:ÖàN˜Çş%]”³õ5F¸0ƒÓÍ¢úU™¿wøà	×îLŠâ&Úˆ“õJ»ÑKFj¢Á9äš:ÚtÜ°Ñ#Ğy{
+›sŠKÛ.vf.¾jÅÓ0U–éB¶3É^…°­Ÿì;èUÔEJzxFÑùÓŞ‚£%wĞŞÜì¨RádöÑhÉÏfQÎî¹óÙ‰Oä¨G’6ºˆÎ}X”ø°ù¤&õ#oEœ?b\üÔ;¿ƒÃëÕqç"<óX[eLÊ	u<ë<3øÄ{AÊ#ÊIqõ‚È·Uš”ËùÂ®›â(€ÂÉóÌ´šÂ}hßUÇı*IW–íbmTKºøÒ¸:ÄôÉÇï°M”ºQ”rY¹Ê¨$*×=ÃO‚¡àãş:®«Ö“jiÀÍ\a_ÑD”ŒŠ CqgÒGk³‹›ölÔËq‡è ¼iÕƒ&nĞ
+™”2ÍNáéSG—ŠJ:©ø c±P°]Dj¢ô‰¤“E×–²P¹uPÓxa(K:nØè":oÂÍXVU?ıZ<*ôÇ°à˜•ıtÿ9—Ó¡¶Õ½uıy¹êÓV‡•ÈëQNŠ‹oÆšª½äŞß× MÆóÙ8
+ pò<3­y;eç£ğ»°¦–[$Mt5•e»XÕ’.ŞT*hL-6®j“ºĞV³ş˜ÊÈÃ•‡%NAü¹ÔÄ]jÑ$Oª¥µuxU¹‰l2*âôd¡%q´:‹s¡iûÓàwãNøc«úàî
+Ì'Š0qT´ÂÓ§.•´
+‡µ±“¸,°ˆÔD'Ò,º¶”Å] Ps³ñ¡¤ã†.¦sóª^`p ÜÈ÷„ğtîúH¬¾c_ã“‹;ÍÖ&¦q<Vç¸`ºœ¿Õ÷ç6ú§:×o8ãùlPx¬óô´Éù\xaZõâÅÅV–íbmT‹˜ÆÍØ3[çT5&ÆÔ½F9§÷¦tîÊM„Å§ õå€+¨íR:'Oª¥æhİD6‘<Yî³ƒF“ÅM».[~áĞu*jÂºÚ+yÕ|=®…âhšÆ&®%}êèRQI7¡W—*®KĞE¤&:GçæÚR*·›ø™qY¹Î+±ÎÅ$Æ$XÄµaPçØÇ69…–Q=Õ¹=]˜s@ç'­²®ôTçs2ÏÆ%tá:_À>†æsáKŞmŒ‰W8SY¶‹µQ-éâñ«±—üj´5¹ªMê‰âÙK:·%¹rSa;ÏÁé=©–†=Z7‘i\îPì´ñÑš,Î¥b§ÍUÕ6¬¸õØªcï¶ÉÙ	šÂ½jòÔÑ¥¢’¢	?¿ãÉæŠÈ%'8‘)S*·cşnœ%7lt–ûê¼æ‡=©ï[Ì¨«Gaã,¡ìÕù2lowœ­­ÃpMMš€
+2Çàrèºª*PU³D5÷Ä\<_JçNÓZh>Şü&îMUíbmTKºøè®Á«Eãck¢ª-şlTÖ{meT’+—âR§ÀíÀíÔJ#Oª¥Aß«4‘MFE¸CI	ÊB.nÚÂøI¶\½»pKÁZ¿^ŠĞ5gk¡Ù)<}êèRQIûbP\‘šhàDÚ“E×–²ÄGÔËË.qÜ}GÑ¹A ¾ŠjÂşµ£Å¼—Ã51ßÄBèo’‹
+KŞÎhmıfAtŠ¢Jä~¨mNŠC/ÃL^pşšW¬@£Ò«¹ù((œ<¦µĞ|q¹%ÙÇ6Uu¶‹µQ-éâû5ó‹SáO£C}Ô>È™¸jKK”Ê0é*£’\¹6.}
+hç 4ƒ_6É“j¡£¥‰(á%u&(‹s¡iwqÕmÅİ¸È-á	ğss=HÆíP-4;…§O]**©ëñ ©"5ÑÀ‰¬™“E×ÖA[.şÌ^Ò×ÖÇİwt@'w‚íÅm#P©€â¡«àÛ‹“7úÎ/ˆûÖ’¾TÁDVqã2R_¥ó`Èñ³€¶„‡®ºQÅæÈŒ}çÄ}kI_ªÅ¼Ì×#Ü¸ŒÔ‰Îæ	uÎ°Î†u>ıÅbŸµ
+±ˆƒÏŸÚıçâb‹Ïvq¶Ë¡§>Ø<t–Çå$_rB.Oç¥-l’ìßÆæÔ¶wÂ|ü4ö‘“˜=ùxhñÙ.ÉâµK¿&ók¸éˆm£×rŸWB¿ÒF¸ƒ3œÍ¢úU™¿wø¾Ÿ|ïLŠâ&ÚÜºõJ»‡ cŞaK_²–ÁÓ:äCœ:!é¸a£KÑy{
+›sÊ1¶^ìT<øºHÓt	Lç¸¤Š×.¯BØ†]Ü&bÛèµ\ìAÇÑ#Ìp–DÜA{s³£J…“MØG£%?›y™ÎSµÖQ67lt¿÷D‹ßœÔ¤}O´¨GQ#çO‡?Íïàë›úDuÜ¹„À<Öf>´°M§‚’y°œ/ìºÎ
+XGÃzA?ñoB³ãƒs¡iñµÈ‚”G4%#Ï3³›÷Ø³¾Ày)Ü‰ö]u¬Ñ¾tÙ.©âÉ¥4®¡¦Äím*—r6ŠR.+WÕBuEâ1Å§§¿2&åêüf®°¯(';ÍGåº£Å¹õÙ,äâ¦½õrÜ™73Ê›V=hâ-æâ¤/ ]:­T’ó·#š!}éŠQÕ'`,–V©ëLÕ’>­têèS*©øfIº,é¸a£á:oÂÍXVU?ıZ<*ôÇ°Ä˜•ıÊ|ÿ9—Ó¶õ©¤d5hGc“®»ª…FwÖTí%toª%p.nÚ:¬D^æ£däyfvóæSî…8/…ß…5µÜ"…¢«)0ÛÅÚ(¹xêCÇ©åÅ•krÚjÖÓÇjJ"W§ûìiâ.µ"’gİÛQGĞo@m^U.§=všïô„ %qD:‹s¡iûÓàwãNøc«úİïî
+Ì'Š0q©@W…N+•„VsävD3¤Ï ]1ªzkc'q¹X%`¶T-§Õ:ºÄ”…JÂƒ›67lt?cÆ%%Ğ=nä{BxzfwÑ$ÖÛ1¯l‹;÷Ö–Ö9%«á®šç:5!
+èa™òç6ú§:7.nZ_;Ûù(Y¬óôìv™Äk‰óºğÂ´ëÅ«Š-0ÛÅÚ(¹dëœÊÅŒ˜³×(çôŞ”Î]Éï\Am—Ò9yŠiÛû<"—Ó;Í—<!î³ƒF“…\Ü´ë²å]§¢&~uî•¼j¾×Bqé`¯ŠSÁ4N?	vD3¤Ï ]1ªú&ôêRÅåb•ºÎT-çèÜ\bÊB%Õa?3.Ë#Ğy%Ö¹˜Ä˜äÛ/\0u¾€}l‹/E|!1YwÍI×©u˜šA÷£¨UÖ%ê]Ü´6WBç˜l@çØŸ¾ª«šy]ø’wcâÕÏ˜íbm4!¹à—a/ùehlq¹&çDñÀì%ÛZ\÷¿Ã%O9…ãXç.§iÜ|®\;C|D&‹s©ØisUµ+®Ó/Û°UÇŞ-l“³\ {Uš¶*É-vD3xÕä¤+FUG~Î“ÍÕ™KÖ2pZS:§,TRÆüİ8K:nØh$×ü°'õ}‹Õaõ(lcœ%”½³:_†íí³Å×ÇœJJVƒpOÌ¹Nõó°ƒî@»ª*P\³Däâ¦Méœ’‘çÀì´4š€7Şü&îMŸíbm4!¹¬@wöôHÑÍ•kñg£²ùd˜’¨W§‹Kãv&NOZ‡ášÓ¹Ëi§£ù\¹©£¥,äâ¦-ŒŸt`ËuĞ»·¬õë¥]SqT‘½*tZ©$r¡Í>ƒtÅ¨ê}1(.—HÕ2pZí©£KLYâƒîåe‡ö®ØÅİwt¿ß¡A ¾ŠjÂşµ£Å¼—Ã±»ÿmbƒ?tQ7ÉE…%oç°6ıûIÎ˜Z¾lR²H¯rä:<™ôq7ÌäEË¨yÅ
+4È…¦Õ¹âù(yÌnéE Œ«.É>¶©â³]¬Š'—~ÍüâTøcèğôÀ¨\KK”Ê€cK¢Z\7 %K~³ k¡#¢œtì4Ÿ+7u´”Å¹Ğ´»¸¤¶ân\ä–ğ ıÜ\’q;®wDæªPT¹ĞˆfHŸAºbTu×(â) r‰T-§µfN]bw>mIøK|I_b÷ìâî;zèçŠÜ	¶·ÕlvêÔa§êù(xĞâõ·í1¶'3.sçDª–ì«’r¹ÿ&úû°Šı±z9‚a6l]×ÄGXØó|<hñøµ]ÅæAˆgÅeîü‚HÖrÎUIºŒpÅó2_pã‚³n:GÃ\XçëœaXçÃ:gÖ9Ã°Î†uÎ0¬s†y\u^ÇyïGM,*‘õŠîÁ¹ºşb±XÇ¹º:?Y¯4°+K1ÕU;“¢¸‰#‚l ÙË¶©ş$`K ÔNm§”¶´õ-cœ¢®ê6£›ğl¶ó£‰ıÛØÄ/›nkp'ÌcÏ<áÑy~ÖÈÖa^•
+'›°CÙ677gJQ¶M5=À–€öæfçÔÓÂ&Áşc<Õ¹›ğL¶¡©”!cÉÂ}=Î¥_“ù5ì³FÌã¢s¼¾}·Ìî@[yÓªMĞes¶Ù=Ç¶“_Â$±H±‰m
+ŠØ Q~G))ÍÎõ‚È·{'5)k‘Ñ»6¢i¢:®g}au>2ĞeËÄ¤Æ5¿fòI¤<±¡E)—Î§1İY|X”ÃñK`ÛV†»¡¤4Å ¯BØ†]ÜÈ1‘Îİí„Ô’*Éİ\ÖS««fªuí¸p§e’X„?¶Šµ)UœÆY™Á†vŠ¦j/©ª†~MõÈØü§æå^hu>7›œĞf££Ê‡¡+‘×£%¼ĞV³Ñ¹Nw–&Ü<€åxÅ·•e~;è¤nŠ4¥quÜÈ1¡Îû[Ş‚Ú+yÕ¼&´¬Ôj¡¯²mósa´ZİòÚ„uìŒ-æ¿âSşÜF_‰ŠRÀ¡5v`ÿ)‰ª6:ß;INh31ÑZ£”O+6²R½F9‡”.Kç˜z)Öù”©ìœ» ("¨> %kÄ<†:ÇŸ¢>6êØ»…mRËêH¬`›iÃ/|€1ÄB‡l-f‘VA³ó¤UF%hÑTŒhŒ‘tîUIçcş.î'4™˜hÒ¹Î§%ßpOôø4İpÛÊÎÑùé¬ó'Yç°u”›T°Ö¯—p=TÅilœ­ûz3Ó¦­ØĞNèİ…„2íÎPö°'êªªP5?ìI­Qk$OšPC]õò²{:¡ÌÂF#.Ÿ•¤Z†ííòg£²Ñ¹Iw_ƒ©ì\»)ÎÜ·ôR÷-‰óéúøclÂ3‡ªäçæŒr ˆ³Ğ××0Ó¦¥MÅ;ÇEn)a³;ç›ØĞÎ¦šÉ‹Â†ŠjÂş¨³Fit~³S-€÷-Oè²e`£õ×ˆÍ‡ÅÈ­ÿ’7±§Z¢T†Iü¹iÒeımĞQ3Š*Ëüª“Æ%§@wöp#cÄ<F:ätr'Ø>ˆñáR>ôkÉ‡4ést¬bó@Æ‡J=ÌÆ°Î†uÎ0¬s†a3ëœaXçÃ:g˜ÇOç5±ˆ­{³²X,Ö±O"DÒƒaFåáu^ÚÂæ’€„°×àN˜Ç>Ãcÿ66ôk2¿†}Öˆa?¬ÎÛSØ<
+/d–`<ê¦W!lÃ.ndŒÖù¹:÷aQÊuR“²¹QÔÈùÓ!Æ9¢üò`9_ØUÒ‡)( ¿2&åzFp9õªØÍ šíFQÊe¥šĞìø€NFçÂ!°Òõ‚È·qŸıZW‡ĞÀŒÃ:?WçM¸y Ëªê‡¡_‹G…ŞñXã+3x[íhlR/³+‘×£€º·£ .š\æå^ˆ*g¨k]ÚjÖÓònª%=6:·&Ô{Sµ—°·Ÿ¤@õ¡‚#†u>Dç¨ª%%P-p#ßÂÓÂs‹°ìjãîÔò‹\€˜FsÌ.rŞ¨8A»ª^£œÓ}¦Î§ü¹÷)a3­óJ¬s1‰1	k$â9éäGr
+·S:¿‹W5*g0®ÅÓ§u¾`6ÕI«|ªe¼Sé¥î[#†u~?×ü°'õ}‹Õaõ(lcœ%”=#âpOÌ‘2]@Z‡áIç÷u™*4ofÜÆÕŸÊº÷f;ˆœÎ—a{»ƒÛ]U8´7PĞ]ƒ=ÜÈ1¬ó!¿Cƒ |Õ„ıjG‹y/¯¡j¾‰ŠXz•#ı#S.àm‰è7	Ï\:EÑİÚuFµD©¸Â×¼bJJğeS…%oE<“,Ø=ILü(1¬ó‡y®ØÉ`knJîÃ.ó˜ê<XÅF?4°Ê.ó˜êœaXçóDé¼&±Í@l†»\©ú‹Åbût1I†¹€ÎK[ØØ‡yg(m5È+íHû¤'6£²¥ÊRLá;¨S3¨5¸æ±Oc<(<ÍÉz¥1Õ>öÌõa¸ÎÛSØ€AÛ9:oonv°Oz^ óÜ³¬Â<öY3¸EY:§ğ4ùYc#
+ı}ÀeXçVçQ~GÏúE5rştˆÑ¥Ş.Ùp3WØw.¢”ËZn‡Ø$ĞG.øl|AÊ#´»M€§<o_x –¡Ô´±5¤‹0ß°MÉšĞìøñ»R¾^H=N7¶Szp[†un„³2ƒ¯‚ä^ˆ"©zÇceuÖÔrMÆÖ€Ú:¼ê\
+m5ë¡Eøc«ØÅhOŠs.uX‰¼nh(u2w7‡Ÿ · KhbkIA>.ú-éqj=MÕ^Â>µÖŸ~g”N°eXçZ-Ç²‹r›7"ñ=!<TUaZi›¾o%çÒk”s¸è&¬cçÖbíIqÎE‹1ÂŞàR¦mfŞò°³šŸOa}\²LOùs}ì3u¾QêaË°ÎÎõ¯I¯jD"&qYònW°³6Ò9¹LHd,`KOŠs.¦q¸Ôa¿’÷ŞeÃ@6Ş%KëœÂOZe¨`Ÿ¥ónş[†untJ½êMšøø¤«Ga[©ä7µ&tN.şlTÆ
+zw·¿¡ñ¤8çbôyúÃÓ¤>_›‡]¥–a{ÆÂÖQÎÉz°ï’y³DNË.¼«ª‡Y:Ÿ¬ln`Ï°ÎQ@óM´«NQ´ Âh1ïåôY’}}Ãll>øÎ¥%Je@i‹Üİ­µñ¤8rÁß¡r÷ÑïP›Z@K€wG…%obWk_Ì¢Õ0P„ŸqÉTÍ+V ¡¤_6]øL^60’î{´m7¬æ‘öëT'w‚öl†ÙÔ“a¾«h>‡a¶õd˜/ä¾…aXçsÅt^‹Øf â'çº<,BË\Çzïã’IªÜşb±XÇ~ôi™«¦óÒ6©‡r§”¶ôsE"á‚O3 ğ‘GÒ›sfKgÎğ$uìßÆŸÄK1ÕÅ~0Ğ°wÂ<ö©)<ÍÉz¥1Õ>öÌcÍp·§°¡k>Ú²u¾¹¹9SÒÏ³ç2Ì–Î<ÄÓ¹œÅ<hG‡õC˜Ç>3‚Ş,eå¤ğ4ùYc#
+ı}À³Æ<Á:ò;êxÖx]£FÎŸñ‰¹TÂÛ%[næ
+ûÎ¥Q”r-JÈ.¶íIqä‚Ï¿¤<"›Z/ˆ|[y°œ/ìª“š”µÈuNpÖSB}¢:O„OÅÏ¬çTg ò¼}áxLJí@[Cúˆì×Ï6ålB³ãÇ/W]¸-ĞÑ7¶Sz‰·bÌ“¨ó•|Ï#÷B¼®ÕBïx¬¬îÂšZn¡ÉØP[‡WK¡­f=´àëKãáĞç\ê°y=²)ÑTí%Uƒv46©ª~ú5×‘àÈ³+ø/Î’ußBuö'sws»§²„&¶–ô‘Ë‰~KzœZÏmkıéwFé[æ‰Õù±^–å¼¹®¾'„‡B(L«1-Pc£÷şäÒk”s¸C©ÕBÛxùÔç\´~¢Ø6åÏmôQçúÕ¦|è.\‹Êxv`ÿÅYœÍuWç€ušÈ¬Á[ŞvVóó©#²>.g¦Îmçè|£ÔÃ–yru¾¨×S¯j®«˜ÄmdÉ»
+$[Ãêœ\&ŠFGbÛãIqÎÅ4±í¤U†ŠÑùŞİ [Åê»XTÆ“tî²8›ëÌÒKu†9ü¢IŞ{—}lGd‹q9Ó:§p[`¶Î»ùCl™'Wç¡ÔÕTá 	5ÃêQØÖRËoj[Ãêœ\üÙ¨Œ;Tö±uXOŠs.FR±ºª*Pçá˜S5?ìÉšëœ¨¬'éÜe![ÜYÑš:OÆ×æaW©eØŞî ÃÖQÎÉzğˆl1.§7Û)@ärºpS`¶Î'+››Ø3OªÎç›hW¢h„ÑbŞËé5­$õ7¸µùà;—–(•Õ€öˆï†'Å‘ş•§¶™¼(l Î¥W9RQMè Ôéßš¾l’§4:¿é&"uô;ÔÖ) %À»£Â’7±‡«µ/fÑj8"]ÌŒ«ïœŠh¸œnŒï{´m7â§¨-ì™'TçÜ	Ú³fİ3m«áGk4O†¹<«h>‡a¶Ñ=Ó6lGñd˜K¼oaÖ9Ã\1×Ä"¶ˆø!Ä¹.—Fj†şb±XÇ>]LÒƒa. óÒ6©çh§”¶ä5à²Y”Eì.™äkp'ÌcŸá±›ú5™_Ã>kÄ\†ë¼=…	h´eë|¶T	ûG¨sz“åa†ğ*„mı4=kÄ°Î£ü:õ
+(jäüéŸ˜ãKO‹DÛp3WØw.¢”Ëh©Œ«#ìˆõ‚È·•çâãö€\<XÎt’Q]ÒE˜gÖ°MMhvüø¦ğ@<
+›Ó}óŒ«C|(9bXç+3ø.Gî…( j¡w<VVwaM-›×"ÚÖ€Ú:¼ê\
+m5ë¡EN¡ÒÇƒhªö’j–ï6ç¶É¥íhl£º¤‹ E›<4Õ’[“ËIxêC72FÌµ×ù±ì¢jç€|OUU˜Vc=g£÷şäÒk”s¸WÛÎXÆÃ”?·ÑW·òM¨O†äRÓ˜ld—"¬˜É3[ç6'ëœ¹¿ÎkZU# 1‰ÛÈ’wÛHÄØHçä2Q<0"+æPG³¸a8i•QT;013–s.5ü›“hÕe +fòĞ9İºÛœ§w*½Ô}KbÄ\w‡R/ÜS…ƒ&ÔPY«Ga[©ä7q¯µ‘ÎÉÅŸÊ¸C-CwVqÃş8ìªª@aÉŒ9—„{b£ºauNÊ›í r:_†ííËI¬@wöp#cÄ\wÏ7Ñ®:EÑ£Å¼—ÓdIöõ³±ùà;—–(•WÜş‚”ÚÉ0“Ì*ª*_QäRéUĞ8ªË@Ò9ã<ñö¦X†’|ÙTaÉ›Ø‹sº'‰‰¥#æšë¼“;A{6Ãl#PÃOÑÃ»0Ì%è<XEó9³€¶ëÂ0—qßÂ0¬s†a3ëœaXçÃ:gÖ9Ã°ÎÖ9ëœa3ëœaXçÃ:gÖ9Ã\g÷ğa¹Îû‹Åbû‘¹Ü ‰s):_Ìa—ÉÜ	óØ'Ù/İÆ~ä€¡dì+z¢<ˆMìæ2tŞÂæ´CšíRga²ˆ£';Àè<·(Ûmìæ²tŞ_“rB5ŠR.+åƒ¬+ĞlGœ?*éÃ‚”GåÙö‰¼@ f77(	0:/ÌHlæòt^÷vÔôm5ë)uT«®wk‡j¡w<VÖƒ•ÈëÉÈ‹öäp‡æBFçÛºØ1Ì¥é\Lcƒ8å`?!
+N…¾'„‡ÚÔƒH‰¾×›– .`t®ÁßÆa.Kçr
+T_ñ@kM­ÃÔvFxJLbãjjo›a}ô ÷ìä"Fç‘’³9ìæ²tŞ€Öa¸¦üÙ¨¬÷õó°ƒ^VÂ6ÔíñCut‘ âBFç¥œ+bÏ0—ö;´YğrÕ¥2Lâ¸©ıÃPÎ¨h1¯mz°€;7Ç‹ÅĞïĞfaô £óé”÷°g˜ËÒù ‡9t¹— +Øàüc˜Gõ¨‰ı°Kpï‰æuÎ0¬s†a3ëœaXçÃ:gÖ9Ã°ÎÖ9ëœa3ëœaXçÃ:gÖ9Ã°Î†uÎ0¬s†uÎ:gXçÃ:gÖ9Ã°Î†uÎ0¬s†a3¬sÖ9Ã:gÖ9Ã°Î†uÎ0¬s†a3ëœaXçëœuÎ°Î†uÎ0¬s†a3ëœaXçÃ:gÖ9Ã:gÖ9Ã°Î†uÎ0¬s†a3ëœaXçëœuÎ°Î†uÎ0¬s†a3ëœaXçÃ:gÖ9Ã:g3¬s†a3ëœaXçÃ:gÖ9Ã°ÎÖ9ëœa3ëœaXçÃ:g˜ÏUç¬sæÊëüôz¬s†uÎ0O¸Î5¨sl¬sæJêüøèèuŞë"?d3¬s†a3ëœaXçÃ:gÖ9Ã°Î†uÎ°Î†uÎ0¬s†a3ëœaXçÃ:gÖ9Ã:g3¬s†a3ëœaXçÃ:gÖ9Ã°Î†uÎ°ÎYçëœaXçÃ:gÖ9Ã°Îæát=ëœa3ëœaøşœaXçÃ:gÖ9Ã°Î†uÎ°ÎYçëœaXçÃ:gÖ9Ã°Î†uÎ0¬s†uÎ:gXçÃ:gÖ9Ã°Î†uÎ0¬s†a3ëœa³ÎÖ9Ã°Î†uÎ0¬s†a3ëœaXçÃ:gXçÃ:gÖ9Ã°Î†uÎ0¬s†a3ëœa³ÎÖ9Ã°Î†uÎ0¬s†a3Ì%é| Ö9s%uŞùóıın÷/Â0<<d3¬s†a3ëœaXçÃ:gÖ9Ã°Î†uÎ°Î†uÎ0¬s†a3ëœa._ç°Î™+©ó£¬s†uÎ0¬s†y|uŞKÁ:gXçó$ë,¬sæÊêüPƒ"ÀŸŸ3WYçZèØ²Î™«­óC+sÖ9sEuşÃ¬sæjê<LÁ:gXçÃ:g˜ÇWç)XçÌÕÔù Nçhb˜+ŒÑ9ösåuŞc˜«Ñ9Ã\u õ3‹<ş1Ì“{—‚€ú“3,*\éæ‰½KQ2ëœa3ëœaãoQ†¹ê| sõùÿÕw
+endstream
+endobj
+27 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</2.0<<
+/CropRect[1.736 1.736 742.83502 417.82999]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-B\205L\206M 8:fstab)
+/Overprint false
+/Inks[/monochrome(Black) 1]
+/Size[747 418]
+/Version 2
+/Type/OPI
+/IncludedImageQuality 1
+>>
+>>
+/FormType 1
+/Name/Fm11
+/BBox[-0.27881 -0.60964 1.17638 3.1593]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Im5 26 0 R>>/ProcSet[/PDF/ImageB]>>
+/Type/XObject
+/Length 35
+>>
+stream
+/GS1 gs
+q
+1 0 0 1 0 0 cm
+/Im5 Do
+Q
+
+endstream
+endobj
+28 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</1.3<<
+/CropRect[2 2 743 418]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-B\205L\206M 8:fstab)
+/Overprint false
+/ImageType[1 8]
+/Position[90.363 109.729 90.363 289.48401 410.52301 289.48401 410.52301 109.729]
+/ColorType/Process
+/Color[0 0 0 1(Black)]
+/Size[747 418]
+/Version 1.3
+/CropFixed[1.736 1.736 742.83502 417.82999]
+/Type/OPI
+/Resolution[72 72]
+>>
+>>
+/FormType 1
+/Name/Fm10
+/BBox[0 0 467.71698 680.31494]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Fm11 27 0 R>>/ProcSet[/PDF]>>
+/Type/XObject
+/Length 64
+>>
+stream
+/GS1 gs
+q
+321.41309 0 0 180.50591 89.613 110.0431 cm
+/Fm11 Do
+Q
+
+endstream
+endobj
+29 0 obj
+<<
+/Length 3773
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F4 1 Tf
+17.924 0 0 14.5 90.8629 594.3985 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Ba\337ka UNIX Bilgisayarlardaki )Tj
+0 -1.37931 TD
+(Diskleri Kullanmak)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 556.5985 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.006 Tw
+(Disklerinin (daha do\333rusu dizinlerinin) ba\337ka bilgisayarlar taraf\335ndan kulla-)Tj
+0 -1.3143 TD
+0.107 Tw
+(n\335lmas\335na izin veren UNIX bilgisayarlar\335n bu dizinlerini kendi bilgisayar\335-)Tj
+0 -1.31429 TD
+0.025 Tw
+(n\335zdaki dizinlere ili\337tirebilirsiniz. \205rne\333in,)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 90.8629 508.1638 Tm
+0 Tr
+0 g
+-0.054 Tc
+0.056 Tw
+(mount  -t  nfs sunucu.abc.com.tr:/yedek  /yedek2)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 486.7465 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.012 Tw
+(komutu, \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 134.1772 486.7465 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(abc.com.tr)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 186.1626 486.7465 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.70335 0 Td
+-0.008 Tc
+-0.012 Tw
+(a\333\335ndaki \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 237.0647 486.7465 Tm
+0 Tr
+0 g
+-0.062 Tc
+0 Tw
+(sunucu)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 268.256 486.7465 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.70333 0 Td
+-0.008 Tc
+-0.012 Tw
+(isimli bilgisayar taraf\335ndan )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 389.1503 486.7465 Tm
+0 Tr
+0 g
+-0.075 Tc
+0 Tw
+[(/ye)-67(-)]TJ
+-31.39867 -1.47368 TD
+(dek)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 109.0787 472.7465 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.007 Tw
+(ad\335yla payla\337\335ma a\215\335lm\335\337 dizini, kendi bilgisayar\335n\335zdaki )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 344.0418 472.7465 Tm
+0 Tr
+0 g
+-0.06 Tc
+0 Tw
+(/yedek2)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 383.0517 472.7465 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(dizini-)Tj
+-27.82751 -1.33333 TD
+0.025 Tw
+(ne ili\337tirecektir.)Tj
+0 -2.53664 TD
+0.193 Tw
+(Bir LINUX bilgisayardaki disk/dizinleri payla\337\335ma a\215may\335 ve bu \337ekilde)Tj
+0 -1.31429 TD
+0.131 Tw
+(payla\337\335ma a\215\335lm\335\337 dizinlerin kullan\335m\335n\335 d\237zenleyen yetki konular\335n\335 daha)Tj
+T*
+0.025 Tw
+(ileride a\215\335klayaca\333\335z.)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+14.5 0 0 14.5 90.8629 379.0945 Tm
+0 Tr
+0 g
+-0.009 Tc
+0 Tw
+(mount)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+17.924 0 0 14.5 138.0927 379.0945 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(\334\337lemlerini )Tj
+-2.635 -1.37931 TD
+0.022 Tw
+(Otomatik Olarak Yapmak \()Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+14.5 0 0 14.5 282.218 359.0945 Tm
+0 Tr
+0 g
+-0.009 Tc
+0 Tw
+(fstab)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+17.924 0 0 14.5 325.0722 359.0945 Tm
+0 Tr
+0 g
+0 Tc
+(\))Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 337.2945 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.038 Tw
+(Bilgisayar\335n\335z a\215\335l\335rken otomatik olarak \215e\337itli dizinlere ili\337tirilecek disk b\232-)Tj
+0 -1.31428 TD
+0 Tw
+(l\237mleri )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 123.8514 323.4945 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/etc/fstab)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 178.6456 323.4945 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(dosyas\335nda tan\335mlan\335r.)Tj
+-8.36026 -2.07949 TD
+(A\337a\333\335daki \232rnekte )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 170.6584 301.6598 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/etc/fstab)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 225.4527 301.6598 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(dosyas\335n\335 inceledi\333inizde:)Tj
+-12.8181 -20.135 TD
+0.022 Tw
+(Sistem a\215\335l\335rken hangi disk b\232l\237m\237n\237n hangi dizine ili\337tirilece\333ini g\232recek-)Tj
+0 -1.3333 TD
+0 Tw
+(siniz. )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(282)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+1 g
+90.363 110.0431 320.161 179.756 re
+f
+q
+90.363 110.0431 320.161 179.756 re
+W n
+/Fm10 Do
+Q
+0 J 0 j 10 M []0 d 0.5 w 
+0 G
+90.113 109.793 320.661 180.256 re
+s
+Q
+
+endstream
+endobj
+30 0 obj
+<<
+/Length 7563
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(Bu \232rnekte )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 107.9163 598.3385 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+(fstab)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 136.7178 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(dosyas\335nda dikkatinizi \215ekmek istedi\333imiz bir sat\335r var:)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 57.6929 573.5039 Tm
+0 Tr
+0 g
+-0.054 Tc
+0.056 Tw
+(139.179.14.51:/iso/mdk91  /ortak  nfs ro 0 0)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 550.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.289 Tw
+(Bu sat\335rda, sistem a\215\335l\335rken )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 185.8451 550.0865 Tm
+0 Tr
+0 g
+-0.057 Tc
+0 Tw
+(139.179.14.51)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 259.0046 550.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.289 Tw
+(IP numaral\335 bilgisayardaki)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 57.6929 536.0865 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/iso/mdk91)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 112.3444 536.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.011 Tw
+(dizininin bu makinedeki )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 218.5053 536.0865 Tm
+0 Tr
+0 g
+-0.062 Tc
+0 Tw
+(/ortak)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 252.3626 536.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.011 Tw
+(dizininine ili\337tirilece\333i belirti-)Tj
+-18.53997 -1.33333 TD
+0.016 Tw
+(liyor. Dosya sistemi tipi olarak verilmi\337 olan \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 250.6589 522.0865 Tm
+0 Tr
+0 g
+-0.075 Tc
+0 Tw
+(nfs)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 266.2545 522.0865 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.73136 0 Td
+-0.008 Tc
+0.016 Tw
+(parametresi, s\232z konusu)Tj
+-20.59437 -1.33333 TD
+0.149 Tw
+(dizinin bir ba\337ka UNIX bilgisayar taraf\335ndan payla\337\335ma a\215\335ld\335\333\335n\335 g\232ster-)Tj
+T*
+0.037 Tw
+(mektedir. Bu \232rnek dosyada yer alan sat\335rlardaki \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 273.0186 494.0865 Tm
+0 Tr
+0 g
+-0.059 Tc
+0 Tw
+(defaults)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 314.607 494.0865 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.7524 0 Td
+-0.008 Tc
+0 Tw
+<739A7A639FDB9F20>Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 359.6959 494.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(mo-)Tj
+-28.76219 -1.33334 TD
+(unt)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 74.4061 480.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.017 Tw
+(i\337lemi s\335ras\335nda kullan\335lacak se\215enekleri; ard\335ndan gelen ve \322)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 327.8508 480.0865 Tm
+0 Tr
+0 g
+0 Tc
+(1)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 333.0221 480.0865 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.69888 0 Td
+-0.008 Tc
+-0.017 Tw
+(veya \322)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 366.228 480.0865 Tm
+0 Tr
+0 g
+0 Tc
+(0)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 371.3992 480.0865 Tm
+0 Tr
+0 g
+0 Tc
+<D3>Tj
+-29.87679 -1.33333 TD
+-0.008 Tc
+0.115 Tw
+(olan ilk rakam s\232z konusu dosya sisteminin )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 251.0785 466.0865 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(dump)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 275.6222 466.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.115 Tw
+(komutu kullan\335ld\335\333\335nda)Tj
+-20.75517 -1.33333 TD
+0.07 Tw
+(yedeklenip yedeklenmeyece\333ini; son rakam da )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 259.1235 452.0865 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(fsck)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 283.2005 452.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.07 Tw
+(komutu kullan\335ld\335\333\335n-)Tj
+-21.47691 -1.33333 TD
+0.153 Tw
+(da sistemdeki dosya sistemlerinin hangi s\335rayla kontrol edilece\333ini belirt-)Tj
+T*
+0 Tw
+(mektedir. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 101.3508 424.0865 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(fsck)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 125.0065 424.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.03 Tw
+(s\335ra numaras\335 ayn\335 olan dosya sistemleri birlikte paralel ola)Tj
+23.632 0 TD
+0 Tc
+(-)Tj
+-30.04281 -1.33334 TD
+-0.008 Tc
+0.009 Tw
+(rak kontrol edilir. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 135.3674 410.0865 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(fsck)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 158.8034 410.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.009 Tw
+<73DD726173DD20D2>Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 187.7105 410.0865 Tm
+0 Tr
+0 g
+0 Tc
+(0)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 192.8817 410.0865 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.72485 0 Td
+-0.008 Tc
+0.009 Tw
+(ise o dosya sistemi kontrol edilmez. sunu-)Tj
+-13.59998 -1.33333 TD
+0.071 Tw
+(cu makinesindeki ortak dizininin )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 202.2106 396.0865 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(fsck)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 226.2941 396.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.071 Tw
+<73DD726173DD6EDD6E20D2>Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 269.6346 396.0865 Tm
+0 Tr
+0 g
+0 Tc
+(0)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 274.8059 396.0865 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.7865 0 Td
+-0.008 Tc
+0.071 Tw
+(olmas\335n\335n nedeni, do-)Tj
+-21.46393 -1.33333 TD
+-0.002 Tw
+(\333al olarak bu dosya sisteminin )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 187.103 382.0865 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(fsck)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 210.4274 382.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.002 Tw
+(kontrollerinden, dosya sistemi ya da di-)Tj
+-14.54614 -1.33333 TD
+0.025 Tw
+(zinin ger\215ek sahibi olan bilgisayar\335n sorumlu olmas\335d\335r.)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+14.834 0 0 12 57.6929 337.2519 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Ba\337ka Bir Windows Bilgisayar\335n Diskini Kullanmak)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 313.8346 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.003 Tw
+(Yerel a\333\335n\335zda bulunan, Windows i\337letim sistemleriyle \215al\335\337an ve baz\335 dizin)Tj
+30.04284 0 TD
+0 Tc
+(-)Tj
+-30.04284 -1.33334 TD
+-0.008 Tc
+-0.015 Tw
+(lerini payla\337\335ma a\215m\335\337 bilgisayarlar varsa bu dizinleri siz de kullanabilirsiniz.)Tj
+0 -1.33333 TD
+0 Tw
+(\205rne\333in; )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 99.3091 285.8346 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(IP)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 113.1439 285.8346 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.085 Tw
+(adresi 123.123.12.3; ad\335 da \322pazarlama\323 olan bir WinXP bil-)Tj
+-5.28105 -1.33333 TD
+0.135 Tw
+(gisayar kendi diskindeki bir dizini \322teklifler\323 ad\335 alt\335nda payla\337\335ma a\215m\335\337)Tj
+T*
+0.025 Tw
+(olsun. Bu dizine Linux bilgisayar\335n\335zdan eri\337ebilmek i\215in )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 80.5983 233 Tm
+0 Tr
+0 g
+-0.054 Tc
+0.056 Tw
+(mount -t smbfs   //123.123.12.3/teklifler/mnt/windows  )Tj
+11.9712 -1.47368 TD
+(-o  username=cua,password=sifre)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 195.5826 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(komutunu veya )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 80.5983 170.7479 Tm
+0 Tr
+0 g
+-0.054 Tc
+0.056 Tw
+(mount -t smbfs  //pazarlama/teklifler  /mnt/windows  )Tj
+11.02276 -1.47368 TD
+(-o  username=cua,password=sifre)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 133.3306 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.026 Tw
+(kullanabilirsiniz (elbette siz bu komutu tek sat\335rda vermelisiniz). \334kinci for-)Tj
+0 -1.3333 TD
+0.191 Tw
+(mdaki komutu; yani bilgisayar\335n )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+8.5 0 0 8.5 204.0846 119.3306 Tm
+0 Tr
+0 g
+-0.009 Tc
+0 Tw
+(IP)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 218.6834 119.3306 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.191 Tw
+(adresi yerine ismini kullanabilmeniz)Tj
+-15.3324 -1.3333 TD
+0.066 Tw
+(i\215in, s\232z konusu bilgisayar\335n bu isimle DNS kayd\335n\335n yap\335lm\335\337 olmas\335 veya)Tj
+T*
+0.025 Tw
+(sizin bilgisayar\335n\335zda )Tj
+ET
+Q
+q
+BT
+/F5 1 Tf
+10.5 0 0 10.5 148.0023 91.3306 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(/etc/hosts )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 191.4237 91.3306 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(dosyas\335nda bir kayd\335 olmas\335 gerekir.  )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(283)Tj
+ET
+1 g
+56.693 624.786 320.756 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 242.317 627.3763 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Diskler, Disketler ve mount Komutu)Tj
+ET
+Q
+
+endstream
+endobj
+31 0 obj
+<<
+/Length 4889
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 598.1719 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.147 Tw
+(Yukar\335daki \232rnek komutlarda belirtilmi\337 olan \322)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 298.8375 598.1719 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(cua)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 313.5694 598.1719 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.86225 0 Td
+-0.008 Tc
+0.147 Tw
+(kullan\335c\335s\335 ve \337ifresi,)Tj
+-22.07239 -1.33333 TD
+-0.036 Tw
+(Windows sisteminde tan\335mlanm\335\337 olmas\335 gereken bir kullan\335c\335 kodu ve \337ifre-)Tj
+T*
+0.025 Tw
+(sidir. Sizin Linux bilgisayar\335n\335zda bu isimle bir kullan\335c\335 kayd\335 gerekmez.)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+17.924 0 0 14.5 90.8629 534.4439 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Dosya Sistemi Yaratman\335z Gerekirse...)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 511.0266 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.018 Tw
+(Disk ve disketlerinizi kendiniz formatlaman\335z gerekti\333inde iki a\337amal\335 bir i\337)Tj
+0 -1.33333 TD
+0 Tw
+(yapmal\335s\335n\335z:)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 99.3669 469.3573 Tm
+0 Tr
+0 g
+-0.007 Tc
+0 Tw
+(1.)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 109.8931 469.3573 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(\205nce medyay\335 formatlamal\335, )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 99.3669 449.688 Tm
+0 Tr
+0 g
+-0.007 Tc
+0 Tw
+(2.)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 109.8931 449.688 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(sonra \237zerine uygun bir dosya sistemi yaratmal\335s\335n\335z.)Tj
+-1.8124 -2.50018 TD
+(\205rne\333in MS-DOS formatl\335 bo\337 bir disket haz\335rlamak istedi\333inizde,)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 90.8629 398.6014 Tm
+0 Tr
+0 g
+-0.055 Tc
+0.056 Tw
+(/usr/bin/fdformat  /dev/fd0)Tj
+0 -1.47368 TD
+-0.054 Tc
+(/sbin/mkfs  -t  msdos  /dev/fd0)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 361.1841 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.014 Tw
+(komutlar\335yla \232nce disketi formatlay\335p sonra \237zerine MS-DOS dosya sistemi)Tj
+0 -1.33333 TD
+0.153 Tw
+(olu\337turmal\335s\335n\335z. E\333er )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 189.0144 347.1841 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(-t)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 203.5662 347.1841 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.153 Tw
+(parametresiyle dosya sistemi tipi belirtmezseniz)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 90.8629 333.1841 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(ext2 )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 112.1883 333.1841 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.06 Tw
+(dosya sistemi kabul edilir ve ancak )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 264.38 333.1841 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(LINUX/UNIX )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 334.2491 333.1841 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.06 Tw
+(bilgisayarlara mo-)Tj
+-23.17964 -1.33333 TD
+0.025 Tw
+(unt edilerek kullan\335labilen bir disket elde edersiniz.)Tj
+0 -2.55569 TD
+(Sabit diskleri formatlarken de benzeri bir y\232ntem izlenir. \205nce, )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 90.8629 267.5148 Tm
+0 Tr
+0 g
+-0.055 Tc
+0.056 Tw
+(/sbin/fdisk  /dev/hdc)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 244.0974 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.137 Tw
+(gibi bir komutla diskin \237zerinde yer alacak b\232l\237mleme tablosu \()Tj
+ET
+Q
+q
+BT
+/F5 1 Tf
+10.5 0 0 10.5 374.1139 244.0974 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(partition)Tj
+-26.97628 -1.33333 TD
+(table)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 111.0744 230.0974 Tm
+0 Tr
+0 g
+-0.0076 Tc
+(\))Tj
+0.59273 0 Td
+-0.008 Tc
+0.025 Tw
+(olu\337turulur; daha sonra diskin \237zerindeki b\232l\237m say\335s\335na g\232re:)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 90.8629 205.2628 Tm
+0 Tr
+0 g
+-0.054 Tc
+0.056 Tw
+(/sbin/mkfs  -t  reiserfs  /dev/hdc1)Tj
+0 -1.47369 TD
+(/sbin/mkfs  -t  ext3   /dev/hdc2)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 167.8456 Tm
+0 Tr
+0 g
+0 Tc
+0.082 Tw
+(gibi komutlarla her b\232l\237m \237zerinde yer alacak dosya sistemleri olu\337turu)Tj
+30.08133 0.00001 TD
+(-)Tj
+-30.08133 -1.33334 TD
+0 Tw
+(lur. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 90.8629 129.0108 Tm
+0 Tr
+0 g
+-0.055 Tc
+0.056 Tw
+(/sbin/mke2fs  /dev/hdc2)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 103.5935 Tm
+0 Tr
+0 g
+0 Tc
+0.046 Tw
+(komutu \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 132.874 103.5935 Tm
+0 Tr
+0 g
+-0.046 Tc
+0.102 Tw
+(/sbin/mkfs -t ext2 /dev/hdc2)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 283.5616 103.5935 Tm
+0 Tr
+0 g
+-0.0001 Tc
+<D3>Tj
+0.7767 0 Td
+0 Tc
+0.046 Tw
+(ile e\337de\333erdir. Dolu diskler)Tj
+-19.129 -1.3333 TD
+0 Tw
+(\237zerinde )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 131.2849 89.5935 Tm
+0 Tr
+0 g
+-0.056 Tc
+0 Tw
+(fdisk)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 160.5609 89.5935 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(ve )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 172.9692 89.5935 Tm
+0 Tr
+0 g
+-0.059 Tc
+0 Tw
+(mkfs)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 196.9676 89.5935 Tm
+0 Tr
+0 g
+0 Tc
+0.025 Tw
+(komutlar\335n\335 denemeyiniz; t\237m kay\335tlar\335 silersiniz.)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(284)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+Q
+
+endstream
+endobj
+32 0 obj
+<<
+/Length 1675
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 538.583 re
+f
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(285)Tj
+ET
+1 g
+56.693 624.786 320.756 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 242.317 627.3763 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Diskler, Disketler ve mount Komutu)Tj
+ET
+1 g
+57.693 440.667 318.756 146.472 re
+f
+0 J 0 j 10 M []0 d 1 w 
+0 G
+57.193 440.167 319.756 147.472 re
+s
+72.332 449.287 290.944 92.982 re
+f
+Q
+q
+BT
+/F6 1 Tf
+9.5 0 0 9.5 73.3317 532.3694 Tm
+0 Tr
+0 g
+0 Tc
+0.016 Tw
+(LINUX i\337letim sistemi alt\335nda eri\337im yetkileri \215ok iyi tan\335mlanm\335\337t\335r. \322ro-)Tj
+0 -1.36842 TD
+0.042 Tw
+(ot\323 kullan\335c\335 d\335\337\335nda hi\215 bir kullan\335c\335 sistem dizinlerine ve sistem dosya-)Tj
+T*
+0.028 Tw
+(lar\335 \237zerine yazmaya yetkili de\333ildir; e-posta ekinde gelen vir\237sl\237 prog-)Tj
+T*
+0.032 Tw
+(ramlar\335 normal bir kullan\335c\335n\335n yetkileriyle \215al\335\337t\335rsan\335z bile sisteme zarar)Tj
+T*
+-0.009 Tw
+(veremezsiniz. LINUX, ba\337tan beri \215ok kullan\335c\335l\335 bir i\337letim sistemi olarak)Tj
+T*
+0.025 Tw
+(d\237\337\237n\237ld\237\333\237 ve geli\337tirildi\333i i\215in, sistemin yetkisiz kullan\335c\335lara ve hatal\335)Tj
+T*
+0.028 Tw
+(yaz\335l\335mlara kar\337\335 korunmas\335 iyice denenmi\337, olgunla\337m\335\337t\335r.)Tj
+ET
+0 J 0 j 10 M []0 d 1 w 
+0 G
+71.949 558.466 292.318 50.483 re
+s
+71.916 587.588 292.177 21.861 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.889 0 0 8 143.5112 594.289 Tm
+0 Tr
+1 g
+0.089 Tc
+0.022 Tw
+(BUNLARI B\334L\334YOR MUYDUNUZ?)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+12.362 0 0 10 99.2033 570.0228 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Linux\325ta vir\237sler neden b\237y\237k bir tehdit de\333ildir?)Tj
+ET
+Q
+
+endstream
+endobj
+33 0 obj
+<<
+/Length 280
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(286)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+Q
+
+endstream
+endobj
+34 0 obj
+<<
+/Nums[0<</St 273/S/D>>]
+>>
+endobj
+35 0 obj
+<<
+/Type/Encoding
+/Differences[32/space 40/parenleft/parenright 44/comma/hyphen/period/slash/zero/one/two/three 54/six 57/nine/colon/semicolon 63/question 65/A/B/C/D/E/F/G/H/I 75/K/L/M/N/O/P 83/S/T/U/V/W/X/Y/Z 97/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p 114/r/s/t/u/v/w/x/y/z 130/Ccedilla 133/Odieresis 141/ccedilla 154/odieresis 159/udieresis 165/bullet 210/quotedblleft/quotedblright 213/quoteright 219/currency/guilsinglleft/guilsinglright/fi/fl]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+36 0 obj
+<<
+/Subtype/Type1C
+/Length 10602
+/Length1 10602
+>>
+stream
+  DJJDID+SimonciniGaramond   @ø øøøøûûrú|úW
+ ‹‹
+ ‹‹       ½‘  )d %œ­Macromedia Fontographer 4.1.5 8/9/97Copyright [c] 1990 Adobe Systems Incorporated.  All Rights Reserved.Simoncini Garamond is a trademark of Simoncini S.A.SimonciniGaramond  M  m J N E  C S B [ F T L M H U Z  t # - * / 6 9 l O à  i w  P Q    G I V g 4 Ú Î n 	 
+ D % & W 7 $ ' " 5     : ; 1 ½   K . 0 ) 8 , X  Y (  ± k  O   Û?=ÍĞX¿@˜r)xVµLw	>	¯
+
+Æ`g
+¹ò7|®¯Æê….´ÌKİ€-k¨	›ZÅD¨VŞN¾¿:ÅQÀ  j!?":"ÿ#¶$$Ô%s%×&}&ñ'û*ÊøùœüıœÉÊù÷ıûû¿§lºÄ|ĞÜÊ¤¼¸°´ºÂêb¶ûAëSªf¦x¡|ƒ¡‹¦‹Ì¾¿ß‹·‹« tw–j^µ÷¦RP™OIWvbejh{c^^™e¨j«fÅcŞ`ä]·X‹S‹]zfipltga‹7‹\¶€â‡¬cû'êûuz°¯ƒ°Ô´¬À¥‚x—”~|{€~‰ˆ|ªÒg_&“„š˜–‹ª›}ollzrpo“›l{nüœ‡¼±Œ¤£±Šˆ¿§h[‘‹÷W÷à’¾vs^s‚?„s«‚z‘[5ûEƒ^†h‡oÊùo™}§«¨¨«¨}šp}~†‚|€ƒzv÷&¨ø	 ˆ˜‡’†–„~‹zûŒh‡rˆ`‡o¼¯Œ¢¨¬Šˆ¯§j~Œ‚‘‡”‰Š–›÷ «¯®›®¢ …œ |–vpje‹_‹B‹lŒ˜ˆ[ry‰Y…o³°Œ¬©«Šˆ®§kp‰‹®¤‘÷+‹¯¢‰Ÿ‡ª´¯›¨¢ …œ |–vpje‹_‹B‹lŒ˜ˆ[ry‰Y…o³°Œ¬©«Šˆ®§kp‰‹®¤‘÷+‹¯ô\¿-n]|‚€QXv½b¤P‹^kƒzxSYétvdjw]ˆs-øI˜–¬’Â tg†‘‹¯÷ö÷÷âpjva}Z‚s¬Ÿ†‚‘”~W0û—le‘\û!(%û\—a£hW®Ãq×Ì¾±°zv£„n÷ux‰_†EjrbzTdgœ®lj±zºÄòÍØæÂ¯xd—r‘^Lü$-øD÷N/G?4>V½Ú›Ë÷ª¶²›­ìÍ3ûûóÒg‚û^‹sˆŒ‰‰’œ—¢¦t°¼ÈÙÈ¥¿¶¯¶¾ÆÊx¾d²°g_Vhl†‚rv‚r|nv‹÷-÷÷pjva}Z‚s¬Ÿ†‚‘”~=û#ûWû¬¯‡À³Œ¦¦³ŠˆÀ§Z`†’‹¬÷›­±¤œ–— Y´¡––¢˜‡˜‚š{•wlarYVétvdjw]ˆs ˆ˜‡’†–„~‹zûŒh‡rˆa‡oûb÷±÷˜ûAJGSGr’vš{yœ¡‚§¶¾¤¼ÅZœ£r¨¤®§¨—…¤€w}|‹}„±À÷‹¿Õi°G4û.H{”ƒ° ¶¨–¡ š—œŸ‘£³ŸkLZû	rˆy†€n|^sfht ªÀÁ»÷·1ûtª÷ğŠ¡‘º–Òr|Zylvz‚a…J‰@‰÷©ø¥û•‚…Œ†‚†–Šœs‚Z}Zy[¥š®š¡š”˜“Ÿ¦Œ÷ û©ü mûbø'âiebz_+;ã÷•Œ•Œ”•«ŒÀßÖ¹Šˆ›µ{¯lª¬i`›Wû1!ûûâ+÷ÖÉ§Ä»vŸJ÷…v‡0†û …~Š„‹“ ˜¢¥£¥¨©˜¬Ãµi[û¬·—w¬³»Àµ˜¤¨¦£™ª°Às²[¤$Àt—{–„–…“ˆ—š®­£º½«nQ™¬…îf—e‘d‹/QXFZ¦dÂpè\°xt‹pbeg[qu”œxvŸ~§†°eûû÷·‡º®Œ£Ÿ°ŠˆÀ©je¢¸a]Â]Á]Â¾¼°­¤œ°¤®˜®‹©ˆ^hŠtthŒ^m¤˜…€|}tnnihguf„÷÷,÷÷pjva}Z‚s¬Ÿ†‚‘”~=û#üh‡rˆ`‡oŞ¯Œ€šŠŠ¡‰¨‹§ar‡•‹®÷(·Š–‚Ë8»L—{‘ˆ‚z‡hmü¡ùP¬Ÿ†‚‘”~=û#û~ûE‚^‡\‡oÌµŒœ£±Šˆ¿§h[‘‹÷W÷÷L÷	pjva}Z‚sû=÷Ö¹{!„‹ffv˜˜–”—–±£—†‰¦‹çØÓæ²‚ªy ³€¤†•‹”‘©‘ˆ†û ‡p¦h˜_‹Yb|nkimzcZF§\ÂqUofxyv‹upµm»‡‰Elhgbq˜u¦zvª¹ÈãÍ¡¶·ªª›­°Îa­8`NÛ³tYetm]vzhgƒg\h–¢syœ‚Ÿ¬¥¨¿¥÷‘¹÷šHpiTkqŸ³vy¬‚­®Ğ­²»®§wd›k“fbûãøÑû…û ‹dA£f»²»°Ã€ l|m„n‹x~–¢…ˆ–Š¦‹³ÅŒÒŒ»¥÷µû‰£Š™˜Œ¤q|i~r~|zvr{k€yûb÷±ø&¡™ŠŠ‘š‡“‚|z€cuJtFtRt]T÷déxÄ˜Ÿ’´£ˆfjŠoloŒpsš–„~”–z`§F÷ û¡v_lKrkx‹€pŸ‹‚‚y‚„|ˆ~~•… °¨•Ÿ­¬»éÈ÷0÷÷¨£”›—¢£ˆhoŠvnrŒtsü$Õ¨lš{©«¤«¬¬{›knrmf÷Úlš{©«¤«¬¬{›knrmfû*Ô÷÷*Û;ìîÙÛìî=Ù(*;=(w¡‡ÇÁŒºœä‡ÊÓÆ ´¹¶²¡ºÃòCÖû›î£ÂÆÖÃrµZ¨¡d\–UfO‡lFNŒVmÇˆ«†„“€M‹ûû”û‡Mƒ€†„k†Oˆm÷Sø¥¡Œœ÷+ÖOû"IWûju{“ƒŠªˆ÷ ÷–ÃŒ’ÌÀµ€t©«r›h]NnaRu}hT„A÷uw¡‡÷+ïŒ¼¶ÜŠˆ÷	²÷Noh?|jxxu„ƒqJ‡#p{‹Œˆ|ƒ•œß‡÷tä÷b÷”§ˆZ[Š^bVŒJmÇˆ«†„“€M‹ûû”û‡Mƒ€†„k†Oˆmû¬¤‡ÂÀŒ¿¿ÀŠˆÂ©û“—c÷{÷˜÷È’’”˜•Œ¥µ©ˆTVŠWWVŒTm÷ƒ³û{û˜û{µp‡Šq‰aˆm÷&­‡³­Œ§«®Šˆ°­^w€˜Š¤†÷mˆ÷DŠ÷÷Nûr÷9ûc÷$ûU¦ê÷&÷÷÷Ç””””œŒ¥‹©„x‹‰pŠvyŠ}ƒ‹Œ{uuŒum¶¤†’”ûûy7Šg‹owû5÷Qû*÷Sû ÷VnˆtŠ{‹x‹oŒfkĞ–•ûûß…ûA€}†„t†dˆiæøù@¼Š¦‡’†”„û‹û›‹û7B:û&‹û
+‹PÉ‹÷‹˜‹›ŒŒ£‹™‹÷¶Œ®£—•‘’Œ©¦£Œ©ˆGXŠio`ŒRmÚˆ‰füHE£T¼cdºÉwÚáÍ£º¸µ¶¡ÈØ—ø/Œ’—˜›Œ¤‹©ˆdiŠmreŒZmæø:‡ÒÀŒ¯¬½ŠˆÌ©K’s—gÂûR÷±÷G÷‚ª³™”ç—©ˆTbŠoiYŒHm«…±„„‹„†zlhS,û.&÷*XŞ‹›–©“È©ˆPXŠ^jXŒGm¹†¬ƒ ~š‚­]À7÷û?'ûP?]Ujjzzk€]ˆmÊºŒª«¼ŠˆÌ©D“h—š“”œ¥÷#÷e÷ û9®Vœl‹€tj€JŠmüœ‡¼±Œ¤£±Šˆ¿§h[‘‹÷W÷à’¾vs^s‚?„s«‚z‘[5ûEƒ^†h‡oû÷,øétvdjw]ˆs ˆ˜‡’†–„~‹zûŒh‡rˆ`‡oŞ¯Œ€šŠŠ¡‰¨‹§ar‡•‹®÷ «¸´›®¢ …œ |–vpje‹_‹B‹lŒ˜ˆ[ry‰Y…o³°Œ¬©«Šˆ®§kp‰‹®¤‘÷+‹¯ô\¿-bgwlX^û÷Ãø"¥ŠœŠ’Š’‰‘‡‘†…U‹&‹<‰Y‡xZiazf‹P‹n±‹Ö‹­ì÷4fˆ[‰PŠs¬Šˆ‘…‡‹x‹Jˆ?‹X‹X‘e—r `²uÅ‹À‹Á¡Á¸“su‹v¡¨­”²¤K‹…Ô÷-÷ ÌbˆW‰KŠs”÷ln¢t¨¨¢¢¨¨t¢nnttnûRn¢t¨¨¢¢¨¨t¢nnttnü$Üû<ØÆ±Ã¿¾i¹^m|}nf×u‹plodS\œy„øŸlš{©«¤«¬¬{›knrmfû=ø	ùl>PeSWX­]¸©š™¨°?¡‹¦ª§²Ãºzû;>PeSWX­]¸©š™¨°?¡‹¦ª§²Ãºzû=÷ ødØÆ±Ã¿¾i¹^m|}nf×u‹plodS\œy÷;ØÆ±Ã¿¾i¹^m|}nf×u‹plodS\œyûã÷”÷O‰Š•ŒŠŒ•ŸˆPjŠ„)wŒ‹ŒŒŠ‰wÆ¬Œ’í‡û÷¨—Yc£¼mpµ~¼Ã¼˜µ¤­¥°¬œ²Š»Š°t¦_¤b˜VŒHŒc„i}nv_huX‹ûˆ÷]PW²^Y¶ÃrÏĞÃ¤¾·´¹ŸÀÈÈy½g´ºbR¢Bû%(û-ûrÈµŒ¢«²Šˆ¸£Z‘`‰‹Î÷"s¦²¼ĞÃ¤½¸²¸Ÿ¾ÄÏxÀe±®f[O\\xd[êstjgx\†t°Š”‚fic‹]û\PŠTŠYŠo‚|xŠ^‡o÷"øh¬§¤¦¾¦¿½³wd¨¦f™[P.IC@:Y¼àéü$Õ¨lš{©«¤«¬¬{›knrmfüÛødØÆ±Ã¿¾i¹^m|}nf×u‹plodS\œyü$Üû<ØÆ±Ã¿¾i¹^m|}nf×u‹plodS\œyûãøÔMŒRXûEƒ^†h‡o¼±Œ¤»Šˆç§J[‘ƒ‹÷W÷>÷µû…÷4¼”±¤Ÿš•¡¬ dŸ–•”’’’””§t™^T\rZf`Rv: mwŠr‰n‡sû™‡Ş¯Œ€šŠŠ¡‰¨‹§ar‡•‹®÷ «¸´›®¢ …œ |–vpje‹_‹B‹lŒ˜ˆ[ry‰Y…o³°Œ¬©«Šˆ®§kp‰‹®¤‘÷+‹¯ô\¿-bgwl^c‹÷,÷÷pjva}Z‚s¬Ÿ†‚‘”~=û#üh‡rˆ`‡oû÷Ãø"¥ŠœŠ’Š’‰‘‡‘†…U‹&‹<‰Y‡xZiazf‹P‹n±‹Ö‹­ì÷4fˆ[‰PŠs¬Šˆ‘…‡‹x‹Jˆ?‹X‹X‘e—r `²uÅ‹À‹Á¡Á¸“su‹v¡¨­”²¤K‹…Ô÷-÷ ÌbˆW‰KŠsû=÷Ö¹{!„‹ffv˜˜–”—–±£—†‰¦‹çØÓæ²‚ªy ³€¤†•‹”‘©‘ˆ†û ‡p¦h˜_‹Yb|nkimzcZF§\ÂqUofxyv‹upµm»‡‰Elhgbq˜u¦zvª¹ÈãÍ¡¶·ªª›­°Îa­8`NÛ³tYetm]vzhgƒg\h–¢syœ‚Ÿ¬¥¨¿¥÷‘¹÷šHpiTkqŸ³vy¬‚­®Ğ­²»®§wd›k“fb®ø‰j}qpvtyr‚p‹p‹r”tp }¥‰¬sTaªn¤t©®‹®‹©—¤¢ª¨µÂsû¿§lºÄ|ĞÜÊ¤¼¸°´ºÂêb¶ûAëSªf¦x¡|ƒ¡‹¦‹Ì¾¿ß‹·‹« tw–j^µ÷¦RP™OIWvbejh{c^^™e¨j«fÅcŞ`ä]·X‹S‹]zfipltga‹7‹\¶€â‡¬cû'û÷¨—Yc£¼mpµ~¼Ã¼˜µ¤­¥°¬œ²Š»Š°t¦_¤b˜VŒHŒc„i}nv_huX‹ûˆ÷]PW²^Y¶ÃrÏĞÃ¤¾·´¹ŸÀÈÈy½g´ºbR¢Bû%(û÷£ø%n¢t¨¨¢¢¨¨t¢nnttnûRn¢t¨¨¢¢¨¨t¢nnttnûbø"Ïvhf€dZc ´ln°}¸¾Æœ¹­­¦¦©˜¬® {k”•šƒ˜„–ˆ–‹‹””‹œ‹È[ª,‹G‹Ss_Za]vR‹F‹û	æ+÷‹Ê‹À£¶º}šû©ûz°¯ƒ°Ô´¬À¥‚x—”~|{€~‰ˆ|ªÒg_&“„š˜–‹ª›}ollzrpo“›l{nû¬·—w¬³»Àµ˜¤¨¦£™ª°Às²[¤$Àt—{–„–…“ˆ—š®­£º½«nQ™¬…îf—e‘d‹/QXFZ¦dÂpè\°xt‹pbeg[qu”œxvŸ~§†°eû¨ûez°¯ƒ°Ô´¬À¥‚x—”~|{€~‰ˆ|ªÒg_&“„š˜–‹ª›}ollzrpo“›l{nûÑ÷¬ûYÈgÎvÖzÊ‚Õ‹à‹à”ÕœÊ Ö¯Î½È|˜GD[CnBqJ~A‹8‹8˜A¥J¨B»CÏDš˜ûÑÀùw½N¯H @œL”A‹6‹6‚AzLv@gHYNš~ÏÒ»Ó¨Ô¥Ì˜Õ‹Ş‹Ş~ÕqÌnÔ[ÓGÒ|~ûbø"Ïvhf€dZc ´ln°}¸¾Æœ¹­­¦¦©˜¬® {k”•šƒ˜„–ˆ–‹‹””‹œ‹È[ª,‹G‹Ss_Za]vR‹F‹û	æ+÷‹Ê‹À£¶º}š÷¡‡Ç¶Œ¦Š÷‡Ô÷ñ³ÜÍ½È¤Øç÷dç<ÎÈD2ª!bû‡\d]ŒWmÇˆ«†„“€M‹ûû”û‡Mƒ€†„k†Oˆmøş÷öûk7JT`XHu9û‡àŠŠ÷Šé¾Ûßä¢Œè÷Şd=Æ¹N¢D<‰¡‡ĞæŒ÷÷ïŠˆÎ«÷Cjûguu,ûHs}• †ŠŠ °ŠŒÕ÷(Œ²°Œ®²§Š‰¶‡Œ‰8©Š·Š¯¨ŸŒ®Œ¼m`p~|q†Šˆs‹^X`ŒŒg÷˜‹˜‘”–š±ÈÊ­‹Š°…¢x’k—U¯÷(ˆ:ûŠûEbVŒJmÇˆ«†„“€M‹ûû”û‡Mƒ€†„k†OˆmûO÷gy³œ—’÷ ÷ß¸°£ˆgpŠxwlŒbs˜Š‰£Š•‚zlwJc&]ûT÷`÷uÇ‹˜§°£ˆ_jŠvujŒ_s¬ŠŒ¢T÷.üÁ•ù@Ğ†‹J¤÷aü£Y˜f‘t°”¬™¤Ÿ¼÷;Ä÷BÎ÷H Ä—©”• «Š©ˆ\eŠnjaŒWmªŒŠ“Š§ˆ™‹{‹Jûü1b:w²fëT÷.R÷3oæ‹¤‹™˜“¥À©ˆJ[Šnq_ŒNm®øñ÷@\€aqlax}lh„c>M¦ÁZTÈpâ÷÷¤ß¼ÈÆºÊ¨ÜîÏcL˜“g©÷¢CD—Eû0d<DJBk5&ûk÷3û-÷ißÔ›ªÊ™÷#fRø¯ø¾«‡÷4:ˆûŠûE‹cVŒJmÇˆ«†„“€M‹ûû”û‡Mƒ€†„k†OˆmÌÀŒ´¸»Šˆ¼§û”—b÷‰Œ¯ÕŒ²°Œ®²§Š‰¶‡Œ‰8©Š·Š¯¨ŸŒ®Œ¼m`p~|q†Šˆs‹^X`ŒŒg÷˜‹˜‘”–š±ÇÊ­‹Š°…¡x”kIÁ÷êøü—p›aŸP£D›U’drŠ€‚‹†‰Y)¨ì®ê´éàı ¼»Œ¹º´Šˆ¬©nj–z¿ûYøÌ„†¥‡ªm‡rs`vxŠvm6Rû*b!b a#m}{|ˆ_„o®²Œ¸·°Šˆª©6„¤¦¢×¹÷ÚÅ²¡›‹Š–Âû.™d’q‹{~q†ˆŠyŠh‰m‰÷6‡º¾ŒÄ¼ÀŠˆÄ©kszŒzŒ€ˆ’‡’‰œ‹¨ø¡º¶Â¹§†‚•˜€”dJ¦§÷Qr{„bƒBû³Jly“†˜r`ûP¦™ª™ª—Ÿ•–¢¡¤—§â¦‡rü›8‡„Z‡nˆt‰|Šmû*÷ø¾®™­–¬’€û‹ûy‹û{µp‡Šq‰aˆmÎ½Œ­­½ŠˆÎ©û“—c÷{÷&÷&‘÷'r•hoQk;f”tû*÷I÷Ö ›Âµyh¦¢n–d[:VH>aiœ­pm±|ÁÒ÷¯òÔì¿ĞÂ½Æ¬~¢:gAQH;8*b'‹%‹FœQ­]³TÆpØ‹÷‹êä‹÷‹À}·o­l°aU‹h‹b€\v‘tû*÷÷òšœŒ½®|l —y‘vrHiQGZVdGn:wsì˜áªÕ¼âÆ·Ğ‹Ü‹·¯t§rªgš\‹x‹|‰ˆ‰îÇ¯±ÃÊ[¹FWRoTNšx¹§³™­‹À¦rZ`\V,K”mû*‡ÖÉŒ¼ÎÒŠˆÔ”«–«šªhz‚zƒqûš÷j÷`ŞÚµ×‹Ôë=×*de€vfbsjip`¤yÄº¿§ÄÒÁX<O\;-(û]ûhlÓø{ù@šŠ™‹šŠŸˆ•„‹‹xuX_:b>fOj^dÄbÒ`ŞdÔx³‹’‹›“Ò’©ˆS^Šio`ŒPm¥†¨†‚’~ÚûÓûÌ }a‹E‹E†d‚~€jƒVˆm»¾ŒÁº¾ŠˆÃ©Qi‘€’ƒ‡­‹Ê‹Ş‹¹Œ•÷÷`Ú÷¯»’•£’²©ˆhiŠjrdŒWmw´‡÷ÅŒ÷²·Šˆ»Ä“Ë—ĞlSû#{’S„d†B‰ ‹x‹sŒnŒĞ÷ Û÷è÷ï÷'Ïë°º›ŠcmŠwûŞes‘—ikû>¨ º¨˜—ŸÚ”÷‹÷û9û‘û+ûqûûQš|d÷÷»ˆ£¦Š¨ÒÇ°º½³¤ÀÌ÷+ãû W7‡‹jYSŒNm÷ƒ~³û{û˜û{µo‡Šp‰`ˆmÆ¿Œ¹¿ÀŠˆÂ©û“—c÷{÷š°è‹¯§’ÒÆ»|n®±k]OY{bklhgXyI~}Œ|g÷:¯÷òûk÷3û-÷i÷i÷3÷-÷kğkáJÔÚD0²ûû0d<DJBk5&ñ‘÷oô÷÷9×ÊpT¼ÂN¦4ûûq2WQX]Kq9>M¦ÁZTÈpâ÷÷Íøn¢t¨¨¢¢¨¨t¢nnttnûRn¢t¨¨¢¢¨¨t¢nnttnûO÷5÷ ¶È“ ÷ÍÄèĞmÇO¾ºTR¢Ohyƒz~¥d¶¨‹¨¨ªziª¬g›da>]jû$kˆ…yŒŒ|miiŒj¥Hûlš{©«¤«¬¬{›knrmfü-’ûrÇ ´£ ¥¤ª—¾‹Ğ÷n÷à’¾vs^s‚?„s«‚z‘[5ûLû-{g;_”tÔùïo™}§«¨¨«¨}šp}~†‚|€ƒzv÷•øğ‡Æ·Œª±¼ŠˆÇ©*•J~ø †÷'ˆæ‹°‹Ô·Œ¸©ˆViŠ}tnŒjWû?EûR2ûdt³cåR÷X÷eïrÖ_ˆjŠu‹x‹nŒfm©›‹Šˆ•zj„!|ûG|ûJ+†„~‚‡O‡m¯­Œ«ª¶ŠˆÂ©lszv‰“‹Ò‹÷”÷5œ÷c÷%ûØŞû]¡=“Ÿ—¢– •˜”‘¥éÉ÷Aì÷‘’8ûûW*‰V†€ˆ„|†pˆ‰‹{Šl‰m÷:¯÷òûk÷3û-÷i÷i÷3÷-÷kğkáJÔÚD0²ûû0d<DJBk5&ñ‘÷oô÷÷9×ÊpT¼ÂN¦4ûûq2WQX]Kq9>M¦ÁZTÈpâ÷÷Kø’‡¼»Œ¸´ÀŠˆÌ©Ok†’ƒ–‡É‹÷÷”÷É“–’«Ç©ˆJVŠb^[ŒZo÷‚´ûŒŠm‰O‰=@ŠDUQŒN‰ÇŠ©Š÷b÷”§ˆZ[Š^bVŒJmÇˆ«†„“€M‹ûû”û‡Mƒ€†„k†OˆmÌÀŒ´¸»Šˆ¼§û”—b÷²Œª¢õåÕª´‰†ÀtŒldû—´û‚o÷òùz³Œš›©š—”¸®õÈ÷;Ã÷/¯ëœ®›¬’’®‹©ˆgpŠxvkŒ`m˜ŠŠšˆ’ƒus3[û.Xû9d%qb`Şbçcğ÷÷ Ÿ³—“¸©zU‡‹splŒhmÀ†“†zpj6Jû#K÷%kß¡ ›–«Š©ˆ[gŠtreŒXmÇ„Š [Îû%¸#¤Le5mGrZxlhÖ`õX÷S÷)oá‹¤‹œš“©Œ©ˆ[gŠsshŒ\m»‡‡_÷wü´šh—g•h´’¤–Ÿššœº®Ú¾÷÷ûºÓøO‡Æ¶Œ¨¨¶ŠˆÆ©iv‚’Z³û÷–P»º²ÊÅÚÖÍÊ°­’Ÿ–«’¸©ˆ_fŠmû m¶ˆ¡…veZ@><;P\b}Œ÷ŠÂò©ˆK[Škk[ŒKmâˆ‘†Œf>Œ,‹û‹ûŠ-‰OŠx‡ƒ†€…p‡`ŠmË»Œ««»ŠˆË©#’ˆÀŠ÷›¦»aÒBÄP·[©f™z’~‹„‹„t…]†mÁøxÃy¾y½z¾iïzÅ‹œ‹””‘—‹—‹˜Œ£ˆ^iŠttiŒ^s·Š‰“vÅû.2û<*÷rrÅ~®‹–‘’œ¤£ˆ`kŠuvkŒ_s·†•‚¦N÷)ûí°—¤”˜Û÷-Ùûf­÷"÷ä¨Ğ”•¾£ˆbkŠvvlŒ`sªŠˆ“†ˆƒ‹‹|†p€d‚l„t…|Jû8û*ßdò¯áÁÎÓÜá´î‹÷‹÷%6÷û‹û‹:0‹û‹(ÔBì‹¾‹º¸°~zsi‚_np—£sl©|´ÀŞ½ÉÔ½²qX§¢`–XP0m5N9R=CQ4f’vû÷¬‡º®Œ¢¢­Šˆº£hˆh¶û÷0÷÷§¬’°Œ£ˆfnŠwxoŒds¶‡–†{€~vrjXIVÎp®}¢‹——›‘«Œ£ˆ`kŠtvjŒ_sœ˜ˆ„•˜„œy p÷ûûûgd„†gŠs²¨Œ¨Šˆ²£T†š’—šİòÊ=¢n—x‹€ƒˆ…„ˆ‚ˆyˆn‰s÷9øv÷®—›ŠŠ‰£›‹’ªŠƒ Nˆj††iiSz=IL§ÂPCÎgáö÷±ç×É¸ÂÈ¡Í÷ÚTû¥¬…÷1³1Ÿ0‹(3jH>7Aa.ûûk÷3û-÷iæßœ­Ù”—•˜’Œœ‹¦¿Š ‹™‘Ë¬¨œŒ©ˆSYŠ^jXŒGmû*®÷Óû¢5¹NV²¼pÅÌÁ¯Ô´°ÍÙå÷rèXÉºe^¢XT[qWbXKr/û÷ô‚û[^(0dl£¼snÄ|â÷÷ šÛª¾´¢ªŸ°â½ûûa®øñ÷@\€aqlax}lh„c>M¦ÁZTÈpâ÷÷¤ß¼ÈÆºÊ¨ÜîÏcL˜“g©÷¢CD—Eû0d<DJBk5&ûk÷3û-÷ißÔ›ªÊ™÷#fûçüz°¯ƒ°Ô´¬À¥‚x—”~|{€~‰ˆ|ªÒg_&“„š˜–‹ª›}ollzrpo“›l{nû¬¤‡ÂÀŒ¿¿ÀŠˆÂ©û“—c÷{÷˜÷È’’”˜•Œ¥µ©ˆTVŠWWVŒTm÷ƒ³û{û˜û{µp‡Šq‰aˆm÷ ù°n¢t¨¨¢¢¨¨t¢nnttnû™Œy¼÷æù~Zûæı~÷ù
+endstream
+endobj
+37 0 obj
+<<
+/StemH 0
+/CapHeight 963
+/FontName/DJJDID+SimonciniGaramond
+/FontFile3 36 0 R
+/StemV 0
+/FontBBox[-121 -222 1000 963]
+/ItalicAngle 0
+/XHeight 0
+/Ascent 963
+/Flags 34
+/Descent -222
+/Type/FontDescriptor
+>>
+endobj
+38 0 obj
+<<
+/BaseFont/DJJDID+SimonciniGaramond
+/Name/F0
+/Widths[250 0 0 0 0 0 0 0 333 333 0 0 250 315 250 389 500 500 500 500 0 0 500 0 0 500 250 250 0 0 0 463 0 704 630 685 778 648 593 815 833 370 0 722 630 907 796 816 611 0 0 519 648 741 704 1000 741 722 630 0 0 0 0 0 0 444 556 444 556 444 315 481 538 260 241 519 260 796 538 519 556 0 370 370 315 538 463 704 519 444 426 0 0 0 0 0 0 0 685 0 0 816 0 0 0 0 0 0 0 444 0 0 0 0 0 0 0 0 0 0 0 0 519 0 0 0 0 538 0 0 0 0 0 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 481 481 0 258 0 0 0 0 0 481 370 260 519 370]
+/LastChar 223
+/FirstChar 32
+/FontDescriptor 37 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 35 0 R
+>>
+endobj
+39 0 obj
+<<
+/Type/Encoding
+/Differences[32/space 44/comma/hyphen/period/slash/zero/one/two/three/four/five/six/seven 57/nine/colon 61/equal/greater 73/I 80/P 95/underscore 97/a/b/c/d/e/f 104/h/i 107/k/l/m/n/o/p 114/r/s/t/u/v/w/x/y/z]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+40 0 obj
+<<
+/Subtype/Type1C
+/Length 4424
+/Length1 4424
+>>
+stream
+  VABKOQ+CourierTU-Bold   Fø øøøøûüıĞ&%
+ ˆ?‹‹
+ ˆ?‹‹   Ó   Ï  *’  A >MT[3.1.3b3© 1990-99 Apple Computer Inc. © 1990-91 Bitstream Inc.Courier HalvfetCourierHalvfet  *   E F W I B C D N P V O U G T L  M J Q   S Y Z     @        * 1 X   [ ,  # Z Ï+ŠûwêLß,“bÂ_à]˜íf°	(	‚
+
+w
+Ÿ
+¢
+ò<N¿1RàhÈ	eä`»ø×ñûşú”ş”øò÷÷)ù¯ù×ı¯ø×úÛ¢»‘¡£ÄR·Obpq:füİû‰‡yb‚m‹xRÃ_È´¦¥Ú¯øŞçø×ú¤÷oú”¾}š^ûË/hk<>®iç÷û‘Ä@/¬,û§ûZûaû©ûŸ÷[û\÷™÷õ¼äÌEp {²÷-æ­«ÚÒg°Czüiø€÷ìûû)û-+ûûû,÷ ÷/÷+ë÷÷ø×÷êø'ù÷¦£Ú÷‹ûh÷Uû´û×ûrû]û°û±÷rû]÷×÷¥÷fô÷Äh´ZjûUû‹û9û9(Ô÷(hø¯÷0ü¯÷®ãË÷%÷+ìDû¢ø×øJùUœÒ²±ÓØh«/û’/hm<C²eÓ›÷«ıŒˆ†„S¢¸oÎÔ£“æ·÷½ùœÓ±±ÓØi«.û.im<C²eÓ›ûQü>ûHø>ø×øYùËø8¾|š^ûP/hk<C²dÒœıøzDffD;¬lç÷Œä¯«ÚÒf°C{÷·÷âëöğ±Sû?û·{CggC<®kä÷Œæ­«ÚÒf°Dzø	÷yû
+÷ûgû5_:\ø×ú’÷oø÷™ûîû°û¤û=Gû OµcÊË÷;í‹ã÷ÆKûxš2E‘Kû³û:ûû\ûM÷û÷k÷÷³Ô÷H ¦vÎéæ¯«ØÒd²C{û†÷Uû.S<<q/'TµØâã¿÷'»Â„|Îø×ù#ù[÷ìûû)û-+ûûû,÷ ÷/÷+ë÷÷ûq÷ø-ºy`ûO/hk<C²dÓ›ıø{CffD;­læ÷.°¡›¦Í2Çë^÷÷¥÷^÷Z÷™÷³ûX÷_û©+/iSKø×ú#ùúÀ++¤$ûÄûtûdû«û±÷rû]÷×÷™÷p÷	÷Äf¶ZhûMû‹û1ûAû÷÷;÷3÷÷÷0÷áa0ÀK°¨y¼Ğ¬±Ü÷8öo±CViqW{ø×ù:ùìÊ`S¨>6DgGZÊ|œTû<lk>D¬dÊ™üz}LlfD<ªkØ÷wÚ©ªÛÓl¯L|÷ò÷³ÊÎÀ¦_2üÉp¢{¯÷>Ú©ªÛÒj°N|÷ò÷±ÈÎÀ¨_2üÉp {¯÷>Ú¨ªÛÒl°L}ø÷@íûI7@kOSø×øúùs÷1÷ûû3û4ûû	û0û0û÷	÷4÷3÷÷÷0÷gûÕûsû]û°û±÷qû]÷×÷Ø÷q÷]÷±÷°ûq÷]ûØø×ù˜ùUûµû<1û#aÆ÷8øe¦x›gûP.im<C±eÓœûâûŸñû÷k÷ç»ëË?o¡z°÷<ç®ªÛĞd²C{ù*¦v›gûQ/jm<C°eÓ›ø×ú÷q÷â÷#÷ûiû*Z+NÙ§wšfû>/hk<D±fÓœüx?ffB<¯kä÷Œä¯«ÚÔf°?÷µ÷Øã÷ó´Nû4ûµ?efB<°kä÷Šæ­«ÚÔf°@~ø×øµùø÷~çh¬33hj/û~-/jn<<­kæéû”uûCœT·VFÇöd÷÷€÷pğòÈ^½T[ûB1‹#ûe·÷$÷”÷Åæ¯«ÚØhª/ûÅø×ù:ú¬÷ ·»÷«ñy‹·Ç±¯Ãß>²û<ûØû'û™R!.im<>®jçõü]!.il><®kçø»æ¯«ÚØhª/û[ø]÷kæ¯¬ØØh«/ûkø×÷ò™pçí}ö÷¥÷/÷÷]÷@-ØûÁ·wphû›Oª‹º‹ÇÇ¯ó‹÷‹÷,û#Â‹À‹ª¬‹Ä÷Ïn­Tdm{jo¨+0™4ûû! ûPû3÷.÷|kˆ¦‡­‡÷.vØf‹U‹OMb+‹û‹5¨JÆ•š| r±kd‹C‹qj‹3û7 rÄ²¯™¦®ø×ø[ø³ùP¾|š^ûH2gi>D±cÒ›ıø{DgfD<®kã÷H¸šš¾÷b÷÷÷7û[Wwvq‹[K¯oâ÷‰ç®«ÚÓd¯>rûœ÷ÜÒÕËÌ´¢Ê—Ï˜›¡ÆÚi©0ûq/lm:[˜x´~ûgûRø×øu÷u÷Ã÷š÷5÷ Ö÷‹÷-÷yû2÷'ûûûjF#K_{j24­_Î²®¥¿«–•š“”¨°Ä¡Ğ‹÷‹ÄQ‹û‹6`536ü+üRTr]XN·hØùc¶˜”È“÷/˜Çj­PCfjG…ûòø×ùu÷oú«¦u›fû¿/hk<>¯iæ÷ıøûk/kn<<®käù:æ­«ÚØjª/ûkø×ù†÷où*¦v›fûÁ/jm<<¯lä÷üzûk.il><¯kæù8æ¯«ÚØhª/ûkû$…"wpû?/tóö›š÷÷!s *ø×ø<éRĞìl÷ ÷÷X÷`÷©÷û^÷Xû¥û)]0GÓ¦y™dû./jm<C±eÒ›şP0ik<<¬nçø<ç®ªØÚg«0û÷¤÷{ù÷êû û,û++ûûû,÷ ÷,÷,ê÷ ÷ø×ù’÷iúoĞv¦Vzq†€bûŒGFzjk‹\KªgÂ–¡“®÷¨ıàûN0gl?@®lçøâç®ªÖ×eª2û6ø×ù±ùB÷ÈÈâ÷÷[û)÷û|û{ûF-ûW­e¿º÷'è‹îèÁT,ûobû$wŠ‡†Š‚RƒnlV>¡rßˆ÷4„¸YûûEEû#û>å‹jF]^Jû÷?3÷÷·÷H÷1÷÷9Añû-»ø×øÍø³÷÷ßÃË«ïIÇßÆÃØï8Ëûû%û	Nû0û%÷(¦v›gûi.km<<­læ¶üz?.il><®kçøÃæ­«ÚØiª0û€÷Øø×ø”ùg¶ŸªÈÔk¯Gû†2ek<C³gÚª÷yûˆûû„xBffB<­kæ÷iÏ«­ÖÊw¨[‡÷÷!÷û!ƒ^wmFJ®fÌ÷†æ±«ÚÔc°>tû÷”÷e÷x²Û°®ÔÚg«2ûiJhgHGm·ûû!÷ø×øJùUœÒ²±ÓØh«/û’/hm<C²eÓ›÷Ãı>-û]û//hk<<®lçøJæ¯¬ØÚg«0^ø/úœÓ±±ÓØi«.û.im<C²eÓ›ûQü>ûHø>ø×÷YøÓryxoûj›u¦ùÑ£¤¦§÷ªz›kıÑø×ø×ùŞùı ûÉBhrm‹[R¯fÃ¤¦’³ù«÷ÿŒ’Ò«¯±¸¸f²A­ƒı¬øX¢t‘v‹SgeS[¦kÒhù ûÉø×øúúÁ÷#âû8û¤û¨4û8û#û#5÷8÷¨÷¤ã÷8÷!‰÷uûÄûSû’ü-ü-÷Sû“÷Ä÷Ç÷U÷“ø-ø,ûU÷“ûÇø×yû»ûPñ÷Pûø×ù±ø¿Sû™ûûûgrrˆk‰cˆ-†\k‹N‹WÂu÷ ‹ø1‹÷§÷½‹øU‹÷üûB÷oû¯‹û£‹ûGû?‹û“‹û„÷:ûN÷k‹óéµÔË‡÷Ñû91ûû;ç÷÷Öâ÷÷	ß0ûø×ù¿øû?4û û	7è÷÷Şå÷÷Û/ûü÷ÜÃ÷—÷÷÷d¢¢«²éº¬‹È‹¿T û‹ü3‹û¥û½‹üT‹ûı÷Aûo÷¯‹÷¤‹÷G÷?‹÷“‹÷…û:÷Mûk‹$-bBJø×øú÷şû6>ûûà>÷÷ßØ÷÷7×ûø×øú÷şû6>ûûà<÷÷ßÙ÷÷7Öûø©û7@ûûà<÷÷ŞÙ÷÷9Öûø×ú_ƒÂ¯{›fıWdrvf‡yû/‹„‰~‹†V¥rÃ»°©·’øBûúşuˆ„Š„‹z{š}÷M¬š•®–÷Øúúø×úøˆùV¨€wûFª„ŒƒŒ‹tƒ‡jwü8ı^zl„v‹ZNcu®øaûû&2goGH­pæø:æ¯¦ÎÂe²[†s‹P÷÷¨˜§“¡Õ—›‹˜¼i¨SsdX‹p‚ˆŒŒ‡ûmø½ü½ûÎ÷Îø½ø×øDú¢øqß¦¦ßào§8ı#\zCüx&¨e×¶÷$İ‹à÷ß3ûû#5:û+/û4Å‹dLWVK ÷T÷Œ÷í÷N÷0÷·÷•û6÷Aû„NFr4÷{ø×ù{úY÷<ç®¬ØÚk©,üæ/hm<>¯jæ÷<ı~û</hl><¯kæøæä±­Ø×g«0û<ù~ø×øsø<÷>÷Ü÷<÷÷•÷ˆû=÷ûÛü14gi>D±dÏœı~zFffD<®kã÷îà®«ÚØjª4$÷aø±÷"÷,àS' ;Vû1û"÷Ğø×÷ÇùUœÒ°±ÓØj«/û/jk>C°eÒœ÷ı˜F·mç‹ä¿«Îœóø÷	ü F·mæ‹ç¹©Ğ˜÷ùœÒ²±ÓØh«/û.im<C±eÓœ?ü€ûøsŞnšG‹Gny;t ü;ø€ø×÷<úRfdLK°dÄúÄ®²ËÊh²RşûäRfbNL°cÄúÄ®²ËÊg²Sşø×øÇ÷î_|^û"üœŠ„Š†‹|{—|¢ƒ×p’Š“ˆ‹ ™ ”÷¿øŞ—•‹’˜}”vû‚ø×ø}÷]øpø’®°¯‹®Òc­8üâ#€z#û,§kÖÏ«µàº÷Çüyü”ljyb‹fJ´hÛùò—ô÷'æn­FCru$ƒ…FûÚÍù
+endstream
+endobj
+41 0 obj
+<<
+/StemH 0
+/CapHeight 1829
+/FontName/VABKOQ+CourierTU-Bold
+/FontFile3 40 0 R
+/StemV 0
+/FontBBox[-176 -404 769 893]
+/ItalicAngle 0
+/XHeight 0
+/Ascent 1829
+/Flags 262178
+/Descent -828
+/Type/FontDescriptor
+>>
+endobj
+42 0 obj
+<<
+/BaseFont/VABKOQ+CourierTU-Bold
+/Name/F1
+/Widths[600 0 0 0 0 0 0 0 0 0 0 0 600 600 600 600 600 600 600 600 600 600 600 600 0 600 600 0 0 600 600 0 0 0 0 0 0 0 0 0 0 600 0 0 0 0 0 0 600 0 0 0 0 0 0 0 0 0 0 0 0 0 0 600 0 600 600 600 600 600 600 0 600 600 0 600 600 600 600 600 600 0 600 600 600 600 600 600 600 600 600]
+/LastChar 122
+/FirstChar 32
+/FontDescriptor 41 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 39 0 R
+>>
+endobj
+43 0 obj
+<<
+/Type/Encoding
+/Differences[32/space 45/hyphen/period/slash/zero/one/two/three 58/colon 73/I 76/L 78/N 85/U 88/X 97/a/b/c 101/e/f 105/i 107/k/l/m/n/o/p 114/r/s/t/u/v 120/x/y/z 221/guilsinglright]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+44 0 obj
+<<
+/Subtype/Type1C
+/Length 4392
+/Length1 4392
+>>
+stream
+  RJHZLO+SimonciniGaramond-Bold   ?ø øøøøPûåúúg
+ ‹‹
+ ‹‹  ;  7  ‚‘  " %œ²ÃMacromedia Fontographer 4.1.5 8/9/97Copyright [c] 1990 Adobe Systems Incorporated.  All Rights Reserved.Simoncini Garamond is a trademark of Simoncini S.A.SimonciniGaramond BoldSimonciniGaramond  "  T M B W F N  U S J G  P  Y  Z V O Q l [ L C    D   - * / 6 9 $   Š ÛYÉ.ù1ƒ}ù[^„‘Å		o
+%
+§
+â<ª+‘í=ğ‘Tû*ÊøùœüıœÉÊù÷ıûû‡¿t¾»€·Ç¹›ª«¦¦˜«²Çy£:²R¦fŸyš~–„˜‹˜‹ ¡®‹Æ‹¯mšNµöœ]\”\\d€tlirzj`eŸj´p‘‡±xÒh´wŸw‹w‹dwwc‹X‹b°lÖaûü‘ù:¼ˆ’‰ŒvUR‹Nûª5ˆW†yˆ‚y…hˆkÃ³Œ£§±Šˆ»«`„i÷_÷5÷Y÷‘ÔngmTxB‚kûO÷«÷Vtq\ow§·²³Ú¯3÷6K‚ƒ‚‡‚…œ®ªô‹Àº†¬€©zfšRû#:<v—€£Çª§Ã·œ¡«£š…~’‚zq‚‹s‰eû7d9O;P«mËÀ½ ´¸b›¢v©«¨›«¥¬ûOø—‡ƒÏû/Äû¸ûÂç÷Á÷›¨”–œ‹«ˆdoŠyznŒ`k¸‰¡…€ˆŠ„ˆ‚zNr8k$‰}µtÆk×qÊ~­‹‹²‹«ˆPcŠvrjŒckûOø4ízbiƒp3MÄà÷´ºŠ‰ÀÑu¾`«¢lc—[û2#û ûã8÷ÑÊ¥ÀÃt­û=÷½¢€v—”zuq€……‰ˆzfŠR~…’šÃ©µ¾÷&£÷ş¶¤ûC-ˆT†zˆƒ…t‡k«­Œ¯§±Šˆ»«`„f÷l÷Ÿ°¦•¾štGûp€…„ˆ‡Š€ŠzŠk·±Œ«°¯Šˆ¯«[Œ†§÷¢¬ §•¢‹´ŸlMûaz‡‚††ˆ€ŠyŠk¸­Œ ±ŠˆÃ«^‡¦Â÷Àäa·7pp†pKR»h£P‹ei…€lHP‹·Œ¬¢nyb`uG‡kü÷ˆ÷Cˆ£Š–•Œ¤ˆShŠ}}hŒSrŒy€ŠyˆsÃ®Œ™™®ŠˆÃûãøÍ‹F…ûN‹dL¥l¿³ÀŸ´Î|©h€r…}‹~ƒ”‡ˆ’Šš¢zŞ÷L©«‰ˆ®Æû½³©axG\Z@npû¬£‡·°Œ©º½Šˆ¿«p|‹ˆŒz‡…ˆ”‹™÷‹¨ ›š•ˆ„’t|„“~˜…œ‹‹š‘•–’Œ˜‹ŒÊw¯`‹_‹oob6‰Ÿ‰±‹–›Œ¢Œ¨indbvV†kÊƒbû/ˆT†x‰…„†ˆ‡Š‚‰~Škü¬÷ş¶§ûP5ˆW†y‰…„†ˆ‡Š‚‰~Šk·°Œ©ª°Šˆ´«g‚i÷_Şá’åhx`\u?‰k«÷|}•{˜ƒ£²²±·›†™—›~y“sddd_ûã£‡·°Œ©º½Šˆ¿«Xq˜¤ˆˆ¨‰»Î¤ŒÁßò‰Â"‚Š®ˆ¹†Æ†À‰®›¦˜™¤Ÿ¹K‹®¯¡·¶o T]^xf`T\wF|ûI]„f¹ˆhS‹@5ˆW†y‰…„†ˆ‡Š‚‰~Škûšuyë÷äù~+ûäı~û­÷cNŸW³a^¶ÃuÑÊÂ±¸¾¶¥ÄÔÉw¿d´¸aS¡ELTxe]W`qRB÷³îª¼ÈÎ±7û+l[NHeÛ÷ü$û=šø ˆŸ} q²Z³V³RVMokˆˆdbiun‡k°§Œ©Šˆ´«k„Œ‡‹“’–ÌğÇ6›t“~‹‡…|‡l‰kÆ¯ŒšŸ®Šˆ¾«~‚‡‚’€–€šû÷C×Ş¾»¤˜‘•šŒ«ˆfnŠxuiŒ^kªˆš„†‰„†„U9Må„–‡’‹“›Œ«ˆdkŠqtgŒ[kû*÷$÷ìŒ—•Œ’Ü³e@RpZUaZeGm4vd÷œé¨Ò´íÃ¼Õ‹è‹ìV» ‹‹|ŠwŠ‰ëº»ÁÆÇZµ@KJlNIšw¸ °–©‹¤„|š˜~‘zw``Y5T™mûb“øš˜„|”‚˜o Z©E¶,ÄûhArf|‹ƒ‹U¡x‹~‹w‚z†x‹w‹vœ€®‹Å‹³ °§¼°Ûº÷¸õ¯è§Û‘œ—“œ‹«ˆrtŠvyoŒdk¶ˆ”‰zav>bûr·r¿rÆtÀ€¨‹’‹’™¨‹«ˆVhŠzylŒ_kû£ø»„[w…û$‹k`•jŸrp¡¬}¶Ã¿¤½¼“xrl°§¢®—¶«tŒ}†’‰Š‹’÷@ÉŒÄÀ@„R‡bŠgº„[•‰>‰û:vgjnexªÊ÷-Œæ¨B„R‡dŠgû¨÷şª‘§ûP5ˆW†y‰…„†ˆ‡Š‚‰~Šk·°Œ©¦²Šˆ¼«_„i÷_÷¤ªª˜ª»£iHûa{‡ƒ††ˆ€‰zŠk¶«Œ¢¤®Šˆ·«fˆ¦Â÷ÀäZ·*jm†€pIO‹·Œ¬¢nceuK†kû÷J÷]÷!§™¤’ ‹¬¤~q n–aT_ƒg{nlyr{lls™¦{€†²ÇûCü;¿¶Œ®®¶Šˆ¿«Xq˜¤ˆˆ¨‰»Î²Ÿ~šƒ”ˆ™†‰¤‹Î‹À¡´¸²¶À‹Ì‹Îz¿h°j®^S‹x‹z†|‚&M·Œ¬¢nceuK†kª‘§ûPûUû|¶c‡jü¬÷ş¶§ûP5ˆW†y‰…„†ˆ‡Š‚‰~Šk·°Œ©ª°Šˆ´«g‚i÷_Şá’åhx`\u?‰kûbÙøacû1±¨Ê“÷!Bû=û6û	”nØÃŒ­µÇŠˆÚ¶©Œœ“Âg|`~p€‚~p…b‹G°Å°Å°Å¸Ò±Âª´„´ˆ<RŠf,€¯†hû¤ù:³ˆ‰vc-‹û)‹ûZˆû †z‰…„†ˆ‡Š‚‰~Šk·°Œ©§±Šˆ»«`„i÷_ŸŠ y¢hºD£b‹€‹€…uŠkÂ°Œ°ŠˆÂ¬xw˜¥xû,÷`çÒÀ²™’‘–š¨ˆZeŠqqeŒZk®Šœƒ~€€yupoikvg‚÷÷Y÷‘ÔnhnWwH‚kûù:³ˆ‘‰ŒvS-‹û‹"ˆû„û+˜š’š”•“•’–‘°p¹}Ä‹Ü‹È¢´º±µÄ‹Ò÷D× psˆ…vAU‹÷[÷‘ÔnhnWwH‚k÷<ü„Æ¼²˜¦¡‘œ×¾G(`‚hznlxr{lIj¿òü$¾¿c¤m´¥ ”š˜›’ ¥³r©bWmeW÷£c¤m´¥ ”š˜›’ ¥³r©bWmeWû*÷Z÷_E‰[ˆr|‰j„LaÆÂŒ¾ÀÂŠˆÄµfŒt‚|ƒ“Š˜ˆ¯Šë‹÷/‹Šö÷ik“GVDg@w•lµ”ª’ lŒS‹<ûVû*©÷ÖûŸ6²PR°ÀnÏãÊºè°¢Å—ÏÙâ~ÕpÈßfQµ<4Ma6fpP~@0÷ªêÌ“°Â˜£¦°©¡|l˜\•-û,‡IƒfS~sofmu›«~x»é÷ûtøì{flƒq^iœ¬tv©€´À²’­™§ª› ›¥¢™}n[”¨s½ –˜¥­„¤~œ¢xM[LXv`ca^vO@S›[¬d`°»uÈËÄ¦À½y«ü$¾¿c¤m´¥ ”š˜›’ ¥³r©bWmeWû*‘‡êÍŒ²¶ÌŠˆà”º›¾£Âe„{€{†€ˆtŠh‹z‹q‹hŒ7ĞÈĞÈĞÈÏÏ­Í‹Ë‹ò;Ö ‹/‹>ZN*«q·¾¹¡´Æ¿bH[uW`SXJ9/ûûkw÷
+÷”û•‰²8aÔåŒõõåŠˆÔ·÷]UhBsc~…l|E„ ‹}‹„’‹š÷œèçè»ŒÚµˆBVŠkkVŒBaŞ²û•ûZû˜÷÷Øûè˜Åû‡a÷ÄŒÄŠˆ÷µû˜Q÷èÉ÷è~Q÷µˆûRŠˆˆRŒûa÷‡~ÅûèM÷&±ù4®Š ˆ’‡•†~‹v‹û†ûL€ûŠ|…†„ˆ~ŠvŠa®­Œ®­­Šˆ®µs{‚~„•Šš…ñˆó‹ö‹ÓŒ¼Œ¦÷aûˆ÷-ûLîû½’÷}÷I÷÷“ÃŒµˆ^hŠstiŒ\a¨‰‰’ˆ–ˆ‘…Œ’D/‹û‹dŠRŠBûK÷gû÷?1÷bˆlŠw‹w‹lŒbaæè÷oLœW®cTºÖpò÷"ßÃ÷¦“¬‘à÷ÚÚÚŒ›’•—Œ˜Œ¡‹µˆSeŠwveŒVa¼¦‡‚”~Nû ûgBUshbn[vGJ` ¶t{©ƒ»Í÷¢Ø·–”’‘•“Œ¦‹µˆC[Šrr\ŒDa¤›Šˆ’”†zü5÷«ù4Î†”‡ªbÄ>Ì+Òûû û#B1eh}~o`†aº»Œ¼»»Šˆ»µMl•š˜¸×ä÷Ë(Øû
+w‚u„`ˆaÆ¿Œ¹¹¿ŠˆÆµZ‚‘XÔ<÷
+Lé]Ğ—™§®·Ã°º«±¤¦¶¸“’ÒŒ‡µˆL\Šll\ŒLa§ŠŠ”‰œˆ”ƒ‹€‹|cF:ûk¸q³w¬iÂzª‹’‹–“²µˆ>UŠmmUŒ>a÷ù
+endstream
+endobj
+45 0 obj
+<<
+/StemH 0
+/CapHeight 979
+/FontName/RJHZLO+SimonciniGaramond-Bold
+/FontFile3 44 0 R
+/StemV 0
+/FontBBox[-59 -337 1003 979]
+/ItalicAngle 0
+/XHeight 0
+/Ascent 979
+/Flags 262178
+/Descent -337
+/Type/FontDescriptor
+>>
+endobj
+46 0 obj
+<<
+/BaseFont/RJHZLO+SimonciniGaramond-Bold
+/Name/F2
+/Widths[250 0 0 0 0 0 0 0 0 0 0 0 0 278 250 388 500 500 500 500 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 0 0 0 0 0 0 390 0 0 630 0 796 0 0 0 0 0 0 741 0 0 778 0 0 0 0 0 0 0 0 463 537 426 0 463 315 0 0 278 0 537 260 796 537 537 537 0 370 407 315 537 463 0 481 444 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 278]
+/LastChar 221
+/FirstChar 32
+/FontDescriptor 45 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 43 0 R
+>>
+endobj
+47 0 obj
+<<
+/Type/Encoding
+/Differences[32/space 40/parenleft/parenright 44/comma/hyphen/period 48/zero/one/two/three/four/five/six/seven/eight/nine/colon/semicolon 63/question 65/A/B 68/D/E 72/H/I 75/K/L/M/N/O 82/R/S 85/U 88/X/Y/Z 97/a/b/c/d/e 103/g/h/i/j/k/l/m/n/o/p 114/r/s/t/u/v/w/x/y/z 141/ccedilla 154/odieresis 159/udieresis 210/quotedblleft/quotedblright 213/quoteright 219/currency/guilsinglleft/guilsinglright 223/fl]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+48 0 obj
+<<
+/Subtype/Type1C
+/Length 5329
+/Length1 5329
+>>
+stream
+  YZRULR+Univers-Condensed   ?ø øøøøhûuú|úq
+ ‹‹
+ ‹‹  4  0  Á‘  Ë &Ÿ°·ÀMacromedia Fontographer 4.1.5 21/1/97Copyright [c] 1987 Adobe Systems Incorporated. All rights reserved.Univers is a registered trademark of Linotype Company.Univers CondensedUniversCondensed  E      , J N  P S L B - * / 6 9  U O   # V w Î l T  M F Z H C [ n W E à   %  :  Q Ú g k  D I 4 i K 	 X 
+      & ) " 3 0 . ; Y G   _ z óH`º½&Q|ö:q¦ºú2ı6Zƒ–¥?Î9Z		/	™	ä	ğ
+M
+‘
+ı#8¢Ìäò[…'VË¦…¡¾Úô(šğ#Dxû*Êøù´üı´ÉÊù7÷ı7ûûbø4Ûû§ÌßÍßÌß´ÈŸÊ‹Î‹÷MÈû‹û‹OB“û	éÖŠ¦±ÂÄ¨lNVyTfQF*E+F*;ø	ûb©øú÷œûVüúó÷MøúÛûû;ûb÷<÷×Ã±‚z ¢x–fU8haDeq˜¥}€†©Š´/V‘c–rP¥Ánİ÷ĞÎ÷Á´v¦t¨fV’°”§—™®§µ‹Ã‹÷LÇû‹û‹PL’ûçÖŠ¨±ÆË«gB6\e,“:ûbô÷÷*÷ıûıû,÷,;û=á÷=İÛ9øQûûXüQ;÷|-÷Aø÷‘ü÷
+û©ø ÷š÷Ú#ûûÑˆ÷Ñ/ıfçü@÷,ø9üİø4÷çã/3Óø&÷è·”©š˜š ‘¥À¦jJûòİøâ]·/Rcu`t¶yd¡NLasZv‰Ê4dhlü$İ÷è¨‘£˜ —­š¤À¦jJûòİü@û*÷Äbnœ¬|}ª„ÅßÌ•¸¥ œ¤–®®¤€vœq•^J7„Q}lj|nzbHÊ¸š¨§°²ÑñäËw±ÀnU¥<<UqVnweK2%E°dn§¸|ÊûÑ÷1ø9üİ÷¾æ±¹×™‰ˆ¤à`l‡‚xqvs{f‰×ûb÷1÷¯÷Gû¯óûZ÷´÷<÷m'û.ûn‰øG9ıfÜ÷¯û*÷Ş÷û’hJ?qw”}~œ… ¦º ©´˜Ÿ’³ÈŒûå„¶ˆ³°÷‡ğT¾ûTa€tpns{d‰TäÀ†¨°Â²¥|m–’ykŠ^=P„d|Ptm]‹G‹û¹Tç‹È‹µ§£ÂBûbøJÛûù/ıf÷ùü÷Mùf/ıfçùfœø‡ùfüş‰û­øşûıfİù÷±ı÷ùf9dÙ÷œûYÒ9÷0÷0Òİ÷Yø^/üb@Vtmpwj~\\j˜¦wt©ÀÖøb/ü^-÷Üø
+÷V÷ğ&û*û¬û(÷¬!÷Yûğûdü
+ï÷3÷É÷<ûÉ÷ûlø
+ü@®øŸĞİ÷[û `û[ü‰øMŞûûO±mÖ•™Œœ —’ÊˆsŠŠju“œ€…”ˆ›¢÷É÷Éû÷9f*8û*ø@÷òÂ‚³y¤©vgšXHgxSk‡Ì4dhlü$İ÷¿î­½ĞÆ©jJûòİûb÷˜÷Kè–¤¢¨®· ¨”š¢´–·‹»‹òMË&‹û‹QFûéè‰¤¹¾¤€v˜—x‘urfgvfwowoxovlp‹tûİ‘<-#éód÷J÷æíÁ²ƒ{¤ªv›fVlpwtosi}^û÷–÷Ä÷Ô±^K>geDû÷t÷ ı÷%ÓÏ÷óZÅ(–Ş´Äê®«x¨{£yœx–pšg’^‹ûıf÷|û*÷ê÷>d€muvyxu‚rRn­Ï÷ò9ü4¸`æÄ¶£º§Nâˆ²‰®ªø$9ûãûbÊøŸĞİ÷[û `û[÷;Ğİ÷[û `û[û*ø9÷ë÷RÇ$<UqVnweK2%E°dn§¸|Ê±­—£©²«ºŠÊ5Œd‚mwv}}|„{‹b‹nœ|¬}ª„Å‹ß‹Ì•¸¥œ ¤–®‹‹›„—}›x“oŠfàûxüT ˜¬›}ppx~e{u•pzc¯|¬„©‹©¥’™¡¤œ˜£ªºg¨\‚‰‡€‰¹Ç[L5œxü@÷,ø9üİûbø!÷$·u°`©…b @°`¡u¢‹¢‹¶¬¤¸‹Á‹¥pŠUæº}°j¤n¢e–Z‹L‹\{mjtr€n‹h‹`¡f¶mˆ´vØc¶u¡t‹s‹XnqQ‹So«Ì.ûˆÅT÷÷	Æ¾òü@­ûËæ÷{$Wû{ü@÷,ùf9ıfİùfû*÷,÷´ŒË”¸¥šŸ¡•©‹®‹£‚™ys”]‹GûY÷°M¶âÉs°³p[ŸF<UqVnweK2%E°dn§¸|Ê÷	ÅÁ÷Œ1Špƒt|z{xvp‹h‹r–| y¤‚¹‹Í÷°ûbòø,÷?üRûSà÷yùL2ûü/‰ûø/û*÷é÷“S‡c„s^~nu`js˜¥|zª‚ÀØ¾±”¥¶š¦ ´¸¨t^™’tbO†÷P»ud£Sfksr`bvE'6•K bW¤¸qÊ¿° µ¡"VkiSYq£¼Š/ˆ_™iªs¨u°€¸‹È‹¸”¨­ œ±‹ÀøÀ:‡Mû*÷5÷¥¼±”¥´š¦ ³´§zh™–o‘XAS‡c‚r`|mu^`o¥À~†¢ˆ¹Ïûi\§±t¼¼±š¨¤­²œÑğà„È|°Ær[¨C^fwbnˆ÷ 9ıfÜÇû™÷ïøûÁH÷eûpûı>÷ÓÎûz÷s÷ÿÖûbø!÷$·u°`©…b @°`¡u¢‹¢‹¶¬¤¸‹Á‹¥pŠUæº}°j¤n¢e–Z‹L‹\{mjtr€n‹h‹`¡f¶mˆ´vØc¶u¡t‹s‹XnqQ‹So«Ì.ûˆÅT÷÷	Æ¾òû{û ˜¬›}ppx~e{u•pzc¯|¬„©‹©¥’™¡¤œ˜£ªºg¨\‚‰‡€‰¹Ç[L5œxûb÷8ö÷2ø5ûü@‰ûø@/÷*üû*÷ç÷¥E‡Z„p\~ptb^m¡¶|‚¤‡³ÃÕ‘¾–§®™§œ´³¦vbš”qeZ÷Iˆ´nfŸ^C[nPr|f„N6&œE­dn¤±|¼¼²¢º§Oİùf9û û*÷ê÷>d€muvyxu‚rRn­Ï÷ò9ü4¸`æÄ¶£º§Nâˆ²‰®ªø$9ûãûø -#éó÷D-#éóü@÷2ó-#éóûbÆùJüŞÁ”¨¦º²¤zh˜“t`M]†i‚ui}qzdTp®Ñ/U–c pi¦¹zÍØÀ¦À¨®•ÂÔ÷0[Ù*[\tn|‰÷`÷|ÛûØd÷Cù÷ì·Sû$û&û9_Xû4øÆ/ı÷:÷ÚªÉ²¨ºšì÷'ö€×v¸ÔhK°,ûrıfûb÷÷uïª½ÈÊª\.ûnQPJjÁ÷èû„Ê»£º«§´™ÁÏ÷/TÙûXfu`r‰÷Q ÉÔ¤ €uš˜x’tpçóDÌ"6TfBr|`„7ûû“9š_@¥ÂfŞû*÷ø	û!÷ñ$÷VüSû§ç÷§÷YøS.û&ûñü@÷2ø-#éóü%-#éóû*÷”Äcp ´|‚¤‡±¼Ï¹¢À˜§¦¶¸©u`š”rcRA…X€oi}ozb,øT9ıLİ÷†b¨°w¸Ó»¨Æ¤š°’ÈàğzÑi²¨rešZZdt\o‰Çû*÷Äbnœ¬|}ª„ÅßÌ•¸¥ œ¤–®®¤€vœq•^J7„Q}lj|nzbHÊ¸š¨§°²ÑñäËw±ÀnU¥<<UqVnweK2%E°dn§¸|ÊbùT-#éó÷D-#éóû*÷é÷“S‡c„s^~nu`js˜¥|zª‚ÀØ¾±”¥¶š¦ ´¸¨t^™’tbO†÷P»ud£Sfksr`bvE'6•K bW¤¸qÊ¿° µ¡"VkiSYq£¼Š/ˆ_™iªs¨u°€¸‹È‹¸”¨­ œ±‹ÀøÀ:‡Mû÷…1À^îâÀ½à–ZV€hqPNh¥À‚Zü÷Mùf/ıfçùfŒ÷-#éóûÑÃ÷~÷pØûp>û*ø9÷ë÷RÇ$<UqVnweK2%E°dn§¸|Ê±­—£©²«ºŠÊ5Œd‚mwv}}|„{‹b‹nœ|¬}ª„Å‹ß‹Ì•¸¥œ ¤–®‹‹›„—}›x“oŠfàû*ø@÷úô^¿2GfyRk‡÷®9ıfİ÷½ğ­½ĞÇ©hDûêİ-Ç÷k‰O“\i«OÉmçŒ÷)ŒÖÎ‹÷‹ÌoÀS¶W©W©W©S¬o±‹¶‹¯—¦¢›¥“ª‹Ö°_4Šë÷!‘HÑûLYzjebhwZMN§WÃb¿m¿m¿nÃi§d‹`‹=`d5‹i‹o”vr¡~­‹¸ 0ûb÷jùeF9û[÷ ¶÷[÷;F9û[÷ ¶÷[ü@ÑAx…~€„†‚}ˆvEÄ²•Ÿ œœ”ª¶øÓ9ü×†ùXçã/3ü÷cû
+a÷Fv÷#ö÷¡÷)¸÷DNaûuBˆu8€@‹I‹K–B¡9„¡DµûÅÓ÷÷÷øB÷ üB÷÷ø4'üG‰$øGûûüG‰0øG0÷üü÷û
+µ÷¡Ò’¡İ–Ô‹Ë‹Í€ÖuŞˆ•uÔa÷N¸ûD¡û)û vû#aûFÅûb÷rÉks˜¦{}¡„§­µª” «š¥›±±¥{kš”vlai„o}up{s~kÄ÷Æ²“ª ªŸ¨•®‹´‹÷ FÍû‹û‹FI‹û ‹b•hŸn lªx²ƒ6‚`O‹û‹ûÌ@÷‹÷ÌÖ÷÷`Ç6”R³ltš¨|€¡…¦¬Ä©ºÃÃ©\Rj…p€un|t|lûb÷qùÉª[++l[MMl»ëëª»ÉÎWa{kjdfxTB8ŸN²fr¦¬~³Æ³¡¶Ÿ&†F‚h\~psbVq®Ğ/ûŠÏCóŞÂ°Ö¥š·“İ÷÷„ß|¶ÔrT°6ûb÷rùU6TfBr|`„7ûû“9š_@¥ÂfŞŞÂ°Ö¥š·“İ÷÷„ß|¶ÔrT°6>¶¦pU˜“hAû2ˆQ…nP~on^^o¨Æ~…¨ˆÅä÷Õ“®Á˜¦¦¶ûb÷µùJ<T^dot3óÑüåçùJü@­ûËæ÷{$Wû{÷ù-#éóû*ø_Ûû²÷÷˜Ûû˜÷|÷¬Ûüıfød÷G÷Ş÷‘ûŞçùf/ûÌû‘÷Ì/ıfçdšèÁ÷@÷«¿û@òûùfû	ûyıfø%÷û{÷ø÷ü-÷?ù÷¬¤tœšw’rmiƒo{usyrlû÷z÷ ûÊÏ¯lN]]^[’i–vë}¸ƒÊˆÜˆÑ»z¤|¡m™`’ßš»Êâ¾~´r«°l^Pûıfç÷à÷ d÷Å|÷0Òİ÷Y÷ÕxÄf´¶dR @û)=3û(ûûYÒ9÷0Ø]j˜¦wt©€ÀÖ÷ˆó·¿ää·W#ûˆ@€Vtmpwj~]÷K÷?ù÷Yıâ÷^ùıçùfû,ûLüò‰ûJøòû)ıfàùû*øgùfüC;÷æûòü®#øWÛü÷úøºçûb÷¢÷œ÷+÷…(%ûI+÷I"÷$û…û1ûœì÷÷c÷	ûc÷ û;÷œ÷rù
+endstream
+endobj
+49 0 obj
+<<
+/StemH 0
+/CapHeight 989
+/FontName/YZRULR+Univers-Condensed
+/FontFile3 48 0 R
+/StemV 0
+/FontBBox[-35 -225 1000 989]
+/ItalicAngle 0
+/XHeight 0
+/Ascent 989
+/Flags 32
+/Descent -225
+/Type/FontDescriptor
+>>
+endobj
+50 0 obj
+<<
+/BaseFont/YZRULR+Univers-Condensed
+/Name/F3
+/Widths[222 0 0 0 0 0 0 0 278 278 0 0 222 333 222 0 444 444 444 444 444 444 444 444 444 444 222 222 0 0 0 444 0 611 611 0 611 500 0 0 611 278 0 556 444 833 667 611 0 0 556 556 0 611 0 0 556 500 500 0 0 0 0 0 0 500 500 500 500 500 0 500 500 222 222 444 222 722 500 500 500 0 333 444 278 500 444 722 444 444 389 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 0 0 0 0 0 0 0 0 0 0 0 500 0 0 0 0 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 444 444 0 222 0 0 0 0 0 500 278 222 0 444]
+/LastChar 223
+/FirstChar 32
+/FontDescriptor 49 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 47 0 R
+>>
+endobj
+51 0 obj
+<<
+/Type/Encoding
+/Differences[32/space 40/parenleft/parenright 44/comma/hyphen/period 48/zero 56/eight 58/colon 66/B/C/D/E 71/G 73/I 75/K 78/N/O/P 83/S/T/U 87/W/X/Y 97/a 100/d/e 103/g 105/i 107/k/l/m/n/o/p 114/r/s/t/u/v/w 121/y/z 154/odieresis 165/bullet 220/guilsinglleft/guilsinglright 223/fl]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+52 0 obj
+<<
+/Subtype/Type1C
+/Length 3768
+/Length1 3768
+>>
+stream
+  YDKSED+Univers-CondensedBold   ?ø øøøø8ûvú|ú]
+ ‹‹
+ ‹‹  @  <  £‘  ² &Ÿ´»ÈMacromedia Fontographer 4.1.5 21/1/97Copyright [c] 1987 Adobe Systems Incorporated. All rights reserved.Univers is a registered trademark of Linotype Company.Univers CondensedBoldUniversCondensedBold  0  % J T L M F S   U W , P N V   t & E n ( Ú : O 5 B Z 4 Q  1 H l $ # 6 / * 9 k 0 	 
+ 8 X [   2   g †	6F©Òåè)LxÔXÊMf…ñ¿!–¼êŠ±(•³î	t	…	ì
+N
+…
+©
+¸
+î|³ê+h‰™§û*Êøù£üı£ÉÊù&÷ı&ûd÷mø÷Ùº©rYš”lQ5,„K~ie|mx^Bøˆû+ü÷÷Š÷Óºé­›·“Öô÷}ãn¿ÊhKª.ûıfü÷eøû!ü÷!øû!÷mû÷!÷û!ûb§÷6‡I›]°pªu¼€Ï‹÷‹ÕÌ‹ä‹ºv±`ª~”c Hª`ŸvŸ‹ ‹¯›«‹”‹“Š‘‰„”sa÷¾{³g¦k¤a—V‹U‹^hw`ruf‹Y‹] f¶o³x³w³x¶v r‹n‹hzzh‹pz“›„…˜‰ŸŒ§ûû*÷V÷§÷û§÷3û3÷¬÷#÷uû'ûûi‰øBû!ıf÷!üÏùfıf÷!ùfû!û*÷N÷É®¤›¨”™§¨Ÿ}p”|qfû÷¢<êÎt´mÂP¦4‹6‹RrlXuf€O‹8‹0—K¢d©YÄrß‹÷‹ÙÈ÷û#Owmc`v½ï÷¢ûÑÃøü÷!÷§°‘¥–›¦¯–Âˆ÷J`rYt‰Ìûü@¤*ë×÷yûbûyü@üŠø6ÄûËr“tšwn£±|Àœ¤ªâŠ†ƒŠv~‘–…ˆ’‰›¢÷¢ÔâB÷#û!L;R4ûb÷"÷/÷øûAü‰Døû#÷ü-÷`ø1÷Éû*ıf÷+ø÷Aü÷>û^ø"÷^÷Øû:ûHûÉû*÷ÛW~­÷-Æ²’Ÿ¦”˜§§~p”’wdPû-~iW1ßÄ¤½©¢²—ËæŞ€Çu°¾lR¤66RrXluf€O80—K¢dY©ÄrßÓ÷Nøû!ü÷!÷ğÀ¦®®pVûğ÷÷ğÀ¦®®pVûğ÷!ø)ÏTµDT_v`k¶rf XUcwbr‰¾û*÷Ã÷&ˆ°‰¬©ø)û!ûòWyqhhy¥¿÷òû!ü)i˜p¤wx¢©®Á³Ÿ´¤Xûb÷rùW8TqWpr\/ûû•3 \J§ÄjááÄ¬Ì¨Ÿº•ã÷÷çsº¿pS¥8%¨œ{l’qEûûˆF…nj„y{ppz›¬„„¨ˆĞ÷÷Ñ¥ª’œ›¨ûb÷r÷Ì¦|l”{qgLwkbbw«Ê¯¥›ª”š¦÷¹°mNLylffyªÊÈ©°üú÷ÎÊ÷½…±¦|®n£bšÌœ«½à÷JÉûûJMû6«YÌz‰b|ns|hp…e‹Y‹ûÎL÷‹ûzø÷ıï;Û'';;''Û;ïïÛÛïû*øe÷û÷g÷t÷ût÷F÷‡÷üıfø&û*÷ˆØnx£»ƒˆœŠ¯ÂÊ´«“›¦¥œ{k’xbLTŠhˆzZ„yso÷Z>ùfû!û‰²qeXMbmNx€j†S<:Q–jLŸµlÊÃ³¡·¢S÷ûb§÷6‡I›]°pªu¼€Ï‹÷‹ÕÌ‹ä‹ºv±`ª~”c Hª`ŸvŸ‹ ‹¯›«‹”‹“Š‘‰„”sa÷¾{³g¦k¤a—V‹U‹^hw`ruf‹Y‹] f¶o³x³w³x¶v r‹n‹hzzh‹pz“›„…˜‰ŸŒ§ûÛûşz²®‚¨¬¦’š¢¤œ˜¤ª£x™—zv‘r„„Šˆƒ‰·ÅZI3¡x•—™‹¬œtpw}b|u–oxcdø³øˆ÷)”2àû+ûAe>ftZ7ûû'š)ª\Q°Ún÷ÁÏ“›İøû}ûİû4‚pr†t3w¶÷sæÉ“¬Á˜¦¦µ°¤~r˜–xnŠc÷*û*÷ÛW~­÷-Æ²’Ÿ¦”˜§§~p”’wdPû-~iW1ßÄ¤½©¢²—ËæŞ€Çu°¾lR¤66RrXluf€O80—K¢dY©Ärß¬ùXû ÷÷ ûûEû ÷÷ û-÷X÷+÷÷^ølû.ûûÅû ÷Åû9÷Qülûû*÷Yøû!ü÷!÷ğÀ¦®®pVûğ÷!ø)ÏTµDUcwbr‰¾û*‘ùfû÷<üî÷+øî÷<÷ü{û*÷Á÷ˆRŠiˆ~a‚uvhhz¦À³—¤¢––¨º÷ñÂ€²t¤¬lSœ:R_€ulhrzbR÷¤–š“š“¡¢›„}”‘yrd7ŒO„hzUrpZ‹@‹ ¸Uä‹Æ‹·¥¨¾‘H÷†»‰ªš÷ûbçûS÷(÷WùLû?û÷‰C÷÷û ÷ü‘UûO-ø“÷YÌqÁV¶ˆZ¨-ÃVªq­‹°‹¾¥¥¿‹º‹¢g‹B÷'÷%”EÓû)û3<GûN¥VÀ_ˆ»lêPÀj¥i‹h‹TrpX‹f‹r˜¤ƒ›‡©‹¶û+Š€‹ûÓG÷#ÕÃ–¢²Â¬§ÆŞû*÷’Øoy£¼„ˆœŠ®ÂÊ´«’œ›¥¦{k“xbLTŠgˆz[ƒxsnûZø@ıf÷!÷d¥±x¾É´©È–¬ÃÚÜ†Å€¬ÊwaªLScu_t‰Ãûü@¾øû÷÷û÷ü	ûû÷÷-÷kø÷×Ã§gBr„u}xv|yu7÷bû+ü÷÷+÷º÷÷ÎÒ÷!÷$KÓûû¤ıfû*÷J÷ÌŒ²–¾’Ÿ¤«£›|m“‘t`LZŠjˆ{bƒyvonx¯ƒˆš‰¨¸÷÷ P‰¹xe¢SJ`oSu~i…S=7R–mRŸ·oÏ½¯Ÿ² *Szohdw£ºû'ÍY÷÷ËÅ÷ø¢ûü÷eøû!ü÷!ø-÷ÅÕÁ°­°³Îèû)‰[ˆk‡|hwzm‹c‹p ~µ€®†Î‹ï‹ïÎ–®˜µ¦ ³‹¸‹œg‹+÷(÷4‘EÛû&ûCe>hv]5ûû•5 ]>®Ód÷d÷l÷ĞãÎ¬iFGhiF7÷a÷»è¾¯dVk‚sy{~|z„w&÷L÷ü÷÷)ÕË÷Á‚´y§v¬gŸX’İ›´ÀåÒv¾b¨£jZ—Iû ıf÷Ÿdø$ùfüŠ8kbKMl´ŞøŠû+ü”EŸU´ecµÉwÜàË£º¶®²½Éø”û+œ÷aø¤÷Yü¤÷[ùfû!üˆ‰ûTøˆû`ıf÷!ü÷jùfû+ıf÷+-÷RøûOü÷0÷÷÷û÷?ûKø÷H÷ùû1&û$÷û@÷Bûìü÷jùfû+ıf÷+ûùíû ÷÷ ûd÷Åëcp µ~€®†ÎïïÎ–®µ˜¦ ³³¦va˜–hH''†H€ha~pvcû ÷Ó²Ø® ¹•á÷÷áv¹ØhC±ûûCe>hv]5ûû•5 ]>®Ód÷ü÷ù‡DûHhû# K—@¢4•h£A°ûÚ}Ï}Ï~Î{âƒÛ‹Ö‹ô¡÷$¶÷J<ü÷ûÒ÷H®÷#öËÖtâ®sÕf÷<™G™G™Hš4“;‹@‹"uû$`ûJÚ÷ƒ÷3÷8÷ø¤÷ü¤÷;÷4ùfû(1ü‰û øûFûü‰-øû/÷4ıf÷÷÷*ñ÷íæûí÷(÷øû?ü‰2øû&*ü‰Føû ÷üû™÷ÿøûá1÷SûZûÏ'÷ëåû`÷]÷Ïïü@¾÷û÷÷ûûÑ·÷Õ%÷‰ñû‰÷rù
+endstream
+endobj
+53 0 obj
+<<
+/StemH 0
+/CapHeight 969
+/FontName/YDKSED+Univers-CondensedBold
+/FontFile3 52 0 R
+/StemV 0
+/FontBBox[-83 -226 1000 969]
+/ItalicAngle 0
+/XHeight 0
+/Ascent 969
+/Flags 262176
+/Descent -226
+/Type/FontDescriptor
+>>
+endobj
+54 0 obj
+<<
+/BaseFont/YDKSED+Univers-CondensedBold
+/Name/F4
+/Widths[222 0 0 0 0 0 0 0 278 278 0 0 222 333 222 0 444 0 0 0 0 0 0 0 444 0 222 0 0 0 0 0 0 0 611 556 611 500 0 611 0 278 0 556 0 0 667 611 556 0 0 556 500 611 0 889 556 556 0 0 0 0 0 0 0 500 0 0 500 500 0 500 0 278 0 500 278 722 500 500 500 0 333 444 278 500 444 778 0 444 389 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 0 0 0 0 0 0 0 0 0 420 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 278 278 0 444]
+/LastChar 223
+/FirstChar 32
+/FontDescriptor 53 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 51 0 R
+>>
+endobj
+55 0 obj
+<<
+/Type/Encoding
+/Differences[32/space/exclam 45/hyphen 47/slash 78/N 97/a/b/c/d/e/f/g/h/i 107/k/l/m/n/o/p 114/r/s/t/u 119/w 121/y]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+56 0 obj
+<<
+/Subtype/Type1C
+/Length 3760
+/Length1 3760
+>>
+stream
+   AMDIGZ+SimonciniGaramond-Italic   @ø øøøøû&ûrú¶úH
+ ‹‹
+ ‹‹  G  C  |‘  ª %œ´ÅËMacromedia Fontographer 4.1.5 8/9/97Copyright [c] 1990 Adobe Systems Incorporated.  All Rights Reserved.Simoncini Garamond is a trademark of Simoncini S.A.SimonciniGaramond ItalicSimonciniGaramondItalic    G J M F  T Z U N P V O Q / X H E  D I L S B   C    ^ÄÇ+£üéNú§VÃ¥	A		ß
+x.¤;Nbôû*ÊøùœüıœÉÊù÷ıûûöÅøê[û4hûv>xH{]}r€w}‹~‹xx‹t‹€‹v‹s™¨‹Ñ‹ÉÒÂ÷#«ß°÷´÷/÷“©û“¨¦í¢Ò¶½¡ ¤Ÿœ”c§¢——¢ªx›e.?ûûoNƒn-ƒmüÑ÷Ê™—´®¥œ˜‹’ˆ„ˆ†uYûe7qU€r†y‹‚‹n™}§‹º‹ÁµÆŞx—Taiop‚†”“—Á÷µç©Ëš­“¡‹”‹œ”t‹j‹Ue>>›|÷nø ptsju–€¡§¢¬¤ €–tü÷÷0?Rdev…•”’¤˜³ô÷ÉÒ÷d°õ|™zf\‚Q‡u¥‡¨†™„‹€„ˆ€†zHûgRûF\û%|\„i‹w‹p˜}¤‹»‹ÆÀÑõwšût÷ÎåcabwcRo¯Ô¨‘£–ŸÑÇ•¼›Ú¤²°‹½‹Åk¨J‹û‹û,ûM‹û‹6½VĞ‹‹¡¤•³œ®¥ª°z˜¹÷©XkgJt}db„a‚÷ÆÉÇÎ¦˜{jü$û¾÷ŠøLXd}przx‚wtr›]«H§P™br^wtdduÁ‹nrv€’‚™‚¦…°ÜÎµÔ¨|¸lÆnÄ|³¢·¡¡¶¦›N‹°”“œ™ƒ˜|—™xs’lûb¬÷©–——œ ¨š™‹‹œ]™.—?‘H‹P‹@yTffttv€y‹|‹k—|‹v‹‹xr˜¤ÒÜÕ÷)åğ÷<¾÷ÒÀ{¦kv€~ps±g‹t`Jû,P$‰¯æƒİ|Öæyr¹la_X$^‚ûããøÓ"û´~f„r‹~t–¡œ¢•¨°£±®´¹}›{zvyrxlsu‹„‹‡‹’‹“—÷÷Âì’©.À÷GXûA„m÷Ó÷Â¿¿ª¥•“‡‚‡ƒu|bn>a'Vû¹y²÷ºàÁÆ¶º¶±´ª¯¥¤˜™‹”‹†‹‹…ƒv|gi<Y"Hû»y®æµÒº½÷÷İÍ²‹”‹†‹‹qtaZ4eHo]t`€n‹~‹v–€¡‹‹¥•«Ÿ²¤­«©´zšPPcmxƒ‡’’™™£©¾©½©¾¸Ü¡Á‹¦‹¤~˜q‹g‹WmFNX^\[`V‰Âï¦Ï¯¡}–nfXmNJ\`hdri~y‰º÷¢Í‹¢œ“vunzhgtsttvs™|û=÷¾øLJOnPSQNnF>N_²ow¦«¯ÒÊ©ÆÁÀÄ¦ÍÔÉz¹h©¢pi—câû@vEbHFa]iXvy‘—|t€¨´Ä Ë¶Ğ×º¼±¾¿¥kLûÌ÷³ÅÅ®¨–’‡‚„†~‚z\4f>oH‚u†u‹v‹l™|¦‹®‹¿­ĞÏ·¶¶º´ÀPû5p†x‹€y”‚œ›‘˜œ£œ°°¼Ã~™TTko‚„ˆ‘Œš•¦Á÷/³÷¥ÒUo3mLkfûû=H`‹€‹…‘‹–‹”š” »ğ±Ø¨Âšª“£‹œ‹ €•u‹r‹kxdfoqrovn›}ûøa÷MThl}„‡”‘™–£¶å®Ø¦Ë—§‘£‹ ‹¤€˜t‹J‹*9ûû7‰É÷5•¥‹—ƒ”{unzhgtsttvs™|¿Áª¥’ˆ†…„u|di1d%^û»y®í³Õ¶½¾Æº¹µ­°¨¥™š‹“‹‡‹‚‹ƒˆ†Tûa.oM‚v‡x‹z‹z’ƒ™‹¦¬°´§¤¤§¡©{™û=¸ø¡£¥¯.ûßVûL~d„t‚‚‰w‡„u¶ªŒ ‹¢¬Šˆ·’¡]l|‹’’›’¦¹÷;¡t¨¯‹ÅÂ®ÒÀ¾Ğ¥ÏÏ½w¯d¡™qk’dx‰‡c¡Ózˆ~Š‚‹†‚Œ~v;P€d‚v…u÷f¥Ú²hFVyQfLGbai_dx®™›œ§î¥ç¤â›Œ—Œ”‹æš‡³«Œ£ª­Šˆ²“§\|Œ†„ˆ’•´¨÷FÄ÷Ïšzo¢c÷Xûß»:¨N–a¥’º§Œ•Ûø«’»–¤™Œ®“§TˆgŠx‹pqŒpƒoÄ‡ŸŠ•‹v}‚?yûzû€9†f‡qp±Nğ.÷89÷$^Û„›€¢ˆntŠ{|qŒfƒoÅ‡²ˆˆ‹hz|2lû5mû1w)‚f†y‡†…„…|‰q‡ƒoÓ·÷®˜š¤ ¦¤œ—’‹’‹ˆ‹„‹‡ˆ€„z7ûq~h„pzjŸz²´³›«³¨¢¯°¶ÀwZhuf¤y¼ÓĞ°ÔÎÑÙ®ãìÄ{§lp~~pt¸^‹Xû ûû#$r~– ™›‘Ã°óÂ÷,Qj$j<hSK$IXF‹x‹‚’‹š‹’–™Ş÷p¾•­›¢—tgS[*?~ûb÷Z÷|~•€~˜…¢¯˜·¦¾Æª­©®¬›wbe^rVNnklj9V{|ƒ€„€•}{\ujwyz{|ƒ{‹x‹j¤p¾t·wº½‹÷‹àº‹Ò‹ ~p›z–n˜b™]›n–‘p˜~˜˜š’š™™Š’•Š˜¯¯Ÿ³¯³¸Ÿ¾Äª„¦}£¦¬…‹Œ’‘–šˆ“…l‡o‡{Š‡Š—yu‘r0/"û S d¶vcfîû4F³¼¥¨§Æª’†¾vêd®}œ}‹|‹gRm;‹û*ø¦ù”zf\‚Q‡u¥‡¨†™‚‹~€‰~‡{NûƒyŸw•v‹RLc:FC8g;@O®d¾¯± µ³Ÿ §¯®¾t6€\x”¢¥™¦©  ©®²¼x—JXgjxƒ‡“””¯ÊÜ÷³Æ÷Z°ö|™üıjhz²÷÷!÷Yßª›xdTqIW><V[dbû¬÷N÷gö÷Á¤Ò˜µ‹–¤€˜vw}€v‚„z^|@Pû²¢ƒEûy§¡¥§£}—prslts˜¦û¬÷Ä÷V`]p[mv˜¥€…˜ˆ™šÄ¡Ê¶ĞÔ¸¸°¸–”†‚†vz˜‚¢‹œ‹”“‹œ‹Çw¢O‹D‹HdL<RBnF‹I‹3¯_Ô‹Ë‹É°ÆÕwœûÍy’¨–¯š¶ Æ¶œ¦¦´©°«ª´²­¦‹´‹Ÿq‹X‹QzKjFjHojs‹€‹†‘‹˜œ‚“xr~}or›~¬¾¿µß¾¼Ü¤ÖĞ¯€§vŸšzw“tO@Lû0‰šÅÄ÷<î÷ª|™zf\‚Q‡u¥‡¨†™„‹€„ˆ€†zhûgûhûXû;i#{bÁyûÍy¦å¥Ü¦Ó¶E¯X¨j¼P·m±‹³‹©¥‹²‹ €•u‹u‹€‹v‹~‘‹‡‹ˆ…„‹vXÌ÷9åÒœÀ©¼§¤­´…œ~˜›|u“p?1Hû"‰À÷5Ê÷?Ô÷I|™fz\‚Q‹‡u¥‡¨†™„‹€…ˆ†zBûƒ?ûo<û\Áyøø
+hllMpq€nƒk†wˆk‰`ˆğöÙÁÀ‹¨‹™‹sû¾È÷¼ª¦´²—‡ƒƒ€ctBBû}»y¢Ê£Á£¸ ³­ÄºÕ¤²›Ÿ”‹‹Œ‰‹†‹‡‡u‹„‹{’ƒ˜‹Ÿ‹Ÿ²‹°‹¯t‹z‹txpdtigN[2wf‰¸÷#Æ”°‹šœ“xn]`5L™|ûbø÷„}|vxst|€„‹†‹‰‹‘‹—’ ”¨œ¾¥Õ¡Ë›¾–±’£‹–[‡‡r‹†‰—‚}‘zSKa8B@5e;AT¤o¼ÆÒÙ÷0İTû0‚p†z‹„y”‚¨»µŞÍ|˜û¢7r~šª¾£Ê»ÖİÀ½´¼ –rcoLR53R^_lü´÷‡U÷\•Áû\û‡”y»øù~[üı~û*÷4ùd¥‡¨†™„‹€…ˆ†zhûXû0Iû\tF€\‹r‹u”z›†¢‹÷4‹÷[÷^‹÷/‹ª¤vxœu”p‹X‹UlSLd`iYnS‰ç÷ŠÏ÷N¸÷|™zf\‚Q‡ulı^l|›ªÀÔ÷ÚÚ¸¹´¡®±vaKhFDBEGOhX÷ù
+endstream
+endobj
+57 0 obj
+<<
+/StemH 0
+/CapHeight 948
+/FontName/AMDIGZ+SimonciniGaramond-Italic
+/FontFile3 56 0 R
+/StemV 0
+/FontBBox[-146 -222 1058 948]
+/ItalicAngle -12
+/XHeight 0
+/Ascent 948
+/Flags 98
+/Descent -222
+/Type/FontDescriptor
+>>
+endobj
+58 0 obj
+<<
+/BaseFont/AMDIGZ+SimonciniGaramond-Italic
+/Name/F5
+/Widths[250 370 0 0 0 0 0 0 0 0 0 0 0 278 0 407 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 741 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 444 500 370 500 426 296 444 519 278 0 519 278 778 537 481 481 0 352 352 315 519 0 722 0 444]
+/LastChar 121
+/FirstChar 32
+/FontDescriptor 57 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 55 0 R
+>>
+endobj
+59 0 obj
+<<
+/Type/Encoding
+/Differences[32/space 44/comma/hyphen/period 59/semicolon 73/I 76/L 78/N 85/U 88/X 97/a/b/c/d/e 103/g/h/i 107/k/l/m/n/o/p 114/r/s/t/u/v 121/y/z 141/ccedilla 159/udieresis 210/quotedblleft/quotedblright 219/currency 221/guilsinglright 223/fl]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+60 0 obj
+<<
+/Subtype/Type1C
+/Length 3157
+/Length1 3157
+>>
+stream
+  FUGMKJ+Syntax-Roman   ?ø øøøøOûú|ú=
+ ‹‹
+ ‹‹  $     q‘  O %¤°¶Macromedia Fontographer 4.1.5 9/8/97Copyright [c] 1989, 1990 Adobe Systems Incorporated.  All Rights Reserved.Syntax is a registered trademark of Linotype AG and/oSyntax RomanSyntax  %  - * / 6 9  J n M F U N T B l O E S Z L Î P  i  w V D I C [ W à g  Q H  '   2 C k ¯ İ à ù®¿!c¿1·Èq©è¥0>bï*Àã0		9	¬
+x
+Œû*Êøù…üı…ÉÊù÷ıûû*øeÓû»‘ù 5…ıHøüèá‘ùH5…ıHÓßâø¼øüÊÖ§‘ù:4‡ü·‰üøÅCl…ı7Óø¼ùHˆü>ŠûMFû‹ûLÈ÷øV5‰û„‹z‹iŠZŠd‹nvûMå/÷G÷Méç÷KŒøC5dš­Ò[÷o÷É÷mûÉÕºû‚÷Ú÷v÷ÇA³ûaû³ûU÷³=Z÷nû¾ûûÙüü@ÏÛø†;‡ü†øîáå51û™¬®j¾¿{À¶±˜¦«®¨œ°¸»w°c¥fœfœfœcw¢‹¨‹Â­§Î‹¢‹«€³u°¾§bZ™T\c~qljozf^\Ÿg³r±{¯z°z³xŸp‹j‹q€wv|y~u…r‹k‹f™b§iV÷*hL5œv”—œ‹ª›~rpy~fvv•t{c§|«ƒ¯‹«¦’™¡¥œ˜¤ªºh¦^~€Šˆ€‰¹Ç[ü@ÏÛ‘ù‚;…ı‚û*ø`÷˜›Ò|Ãl´¸jZ¢Kû*ûû!û8Ü(÷ÎË©ÆÆd¶V[\sa‹[gŸ³rv­€¹Äœ÷âûÛÁ’°š«¢¥¤¨ª™®‹±‹¨}oœr“k‹dû‹ûÑ¡ø†Oà‰ûJŠN‹\‹h6¯aÒ´´™¨¶q¿lxqt‹l| ¶÷Ö÷Çû÷L;‰ûL5÷LÓÛ‘÷ùºÂ»§º‹¸­pWˆûıÚ‘÷ùºÂ»§º‹¸­pWˆûıÛ÷‹‹ßŒ°‹„ğ\½.PQlNSÈ~aªEMTnQ\‰ŒÔ:…ü†û™¬®j¾¿{À¶±˜¦«®¨œ°¸»w°c¥fœfœfœcw¢‹¨‹Â­§Î‹¢‹«€³u°¾§bZ™T\c~qljozf^\Ÿg³r±{¯z°z³xŸp‹j‹q€wv|y~u…r‹k‹f™b§iVû*øsÊ€z}…€s£ºÄ“÷(‹Ëßaµ8im…€pu‚euVh¬W¹È»¢®¾¤rY}ŠvŠoAˆMYtElh]‹L‹6ÄPâ‹Â‹½§¸Ât’x˜|˜z‚ ‹ª‹ª—ª£u´û,ÃZcdsdPm§Ä³©®Ÿª›¿˜Ö•‡û!ü@ÏÛø†;‡ü†-×Û÷ğ¾È¼ª¼‹È©qVˆûıÛ÷‹‹ßŒ°‹„ğX½&NHhPb‰Û;‡ü†-øøS¯wY¨RQWrX^\VtKB2¢H¸\e°·x¾¬«“›¨¦š—¢‰HÜ“ù‚:ƒûÃŒûÃ€szvtzqwom‹f‹m›s«p®}½‹Ë‹óËèà‹½‹³pªVˆûrûÑ×Û÷Û²Ò¶¯º‹’–‰ˆ˜£×~}{‹jm~ppvv{s€o‰Œì9‡ü†û*«û€«¿±—£¤¢ ¤¹¨Ò÷røº<£û+ü)‰ûø)5s÷MütUû€r~{|‚zo†fOû*ÖÙ÷”÷ûªÊ¾ûl÷„÷f÷^V¿û”ûø€<…ı‚ûbøHøAÂ`T§Jû'ûû!: K¶[\´¿tËÌÃ§Âºbºk`ev`‹ci›¬nl®|·ÁÍ›Àª³®¨­³´¯xdª¿´û`üAL5œv”—œ‹ª›~rpy~fvv•t{c§|«ƒ¯‹«¦’™¡¥œ˜¤ªºh¦^~€Šˆ€‰¹Ç[-÷÷Ìœ¾¬°¬¨¯œ´¶­zj¦¨gšXIJzXjfjngzb`iœ¬pn¯|¾Í5û8ã(÷%ÖÇ§Â¹´½ ÇÑ÷83îû%@OoT]bYvOEüèçë/+-÷øX÷ ‘÷„d@û„÷N÷ ‘÷„d@û„û™Ó÷y÷‰Ùû‰=-÷ÎøX²Ö÷„û …û„ûN²Ö÷„û …û„-Ù÷8Šf‹‘&¾YğÈÎ®Æ´ˆ;Ûø†;‡ûğXNZlZ‹Nm¥À÷ı;‰û‹ûbøHøAÂ`T§Jû'ûû!: K¶[\´¿tËÌÃ§Âºbºk`ev`‹ci›¬nl®|·ÁÍ›Àª³®¨­³´¯xdª¿´-×Û÷ğ¾È¼ª¼‹È©qVˆûıÛ÷‹‹ßŒ°‹„ğX½&OGhRd‰÷Ş8‡ı‚-Ö×¾`«ºuÊÉ¿§Â¶´ÀŸÈĞätÏ^º°f_Xjkƒ{np|wx}t‰÷Ó;…ı‚Ş÷ö™£ ¢œ¦Ÿ¨•¨‹°‹ª{£k¦h˜Y‹K‹X}]pdnbgw`‹Z‹b¦hÀ÷rûbø'ÍûŸ÷¯ø z¯ûõC÷”û¬üœa÷ıÍû*ø%ø”û0ü4‰û!ø48u÷Kü~Ù÷]ø|;£-Ù÷8Šf‹‘&¾YğÈÎ®Æ´ˆ;Ûø†;‡ûğXNZlZ‹Nm¥À÷ı;‰û‹Ó÷İçñ/%÷8çñ/%-ø´ø€û:ˆršl“f‹Zb|miglyc[R ^µj4Znpnh³uÛ„‰bunyz~lq{o‹l‹X¦eÂs³y¼‚Æ‹Ç‹Áš¼¨Ä®§¸‹Ã‹µx«d¡jW™D–J”_•t”z’‚“‹•‹–Ÿ°¦¦~¨…ª‹ì‹ØÒ‹ê‹°«s¦÷
+ˆÄü<üŞ»¤«ß¸÷8n²xSfwncuyjh‚efl‘˜piœz¤¬÷šøI@ieGRg¼ÈĞ´¼ÂÍ¬e>û‡÷ê/‘¿]îè½¹ç‘[WhqONh¥¿‚[üèû$²Ö÷„û …û„ø¶çë/+-ÔûÛ÷Ã`ªºuÊÉ¿§Â¶´ÀŸÈĞätÏ^º°f_Xjkƒ{np|wx}t‰Î;…ı‚àøò™£ ¢œ¦Ÿ¨•¨‹°‹ª{£k¦h˜Y‹K‹X}]pdnbgw`‹Z‹b¦hÀ÷r-ø´ø€û:ˆršl“f‹Zb|miglyc[R ^µj4Znpnh³uÛ„‰bunyz~lq{o‹l‹X¦eÂs³y¼‚Æ‹Ç‹Áš¼¨Ä®§¸‹Ã‹µx«d¡jW™D–J”_•t”z’‚“‹•‹–Ÿ°¦¦~¨…ª‹ì‹ØÒ‹ê‹°«s¦÷
+ˆÄü<üŞ»¤«ß¸÷8n²xSfwncuyjh‚efl‘˜piœz¤¬÷šøI@ieGRg¼ÈĞ´¼ÂÍ¬e>üèû$²Ö÷„û …û„÷ªù
+endstream
+endobj
+61 0 obj
+<<
+/StemH 0
+/CapHeight 937
+/FontName/FUGMKJ+Syntax-Roman
+/FontFile3 60 0 R
+/StemV 0
+/FontBBox[-60 -252 1000 937]
+/ItalicAngle 0
+/XHeight 0
+/Ascent 937
+/Flags 32
+/Descent -252
+/Type/FontDescriptor
+>>
+endobj
+62 0 obj
+<<
+/BaseFont/FUGMKJ+Syntax-Roman
+/Name/F6
+/Widths[278 0 0 0 0 0 0 0 0 0 0 0 278 389 278 0 0 0 0 0 0 0 0 0 0 0 0 278 0 0 0 0 0 0 0 0 0 0 0 0 0 278 0 0 500 0 722 0 0 0 0 0 0 722 0 0 611 0 0 0 0 0 0 0 0 500 556 444 556 500 0 556 556 222 0 500 222 834 556 556 556 0 333 389 333 556 500 0 0 500 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 556 0 0 0 0 0 0 0 556 0 222 0 389]
+/LastChar 223
+/FirstChar 32
+/FontDescriptor 61 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 59 0 R
+>>
+endobj
+63 0 obj
+<<
+/Kids[64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R]
+/Type/Pages
+/Count 6
+/Parent 70 0 R
+>>
+endobj
+64 0 obj
+<<
+/Parent 63 0 R
+/Contents 3 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F1 42 0 R/F4 54 0 R/F3 50 0 R/F2 46 0 R/F0 38 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+65 0 obj
+<<
+/Parent 63 0 R
+/Contents 7 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/XObject<</Fm0 6 0 R>>/ProcSet[/PDF/Text]/Font<</F1 42 0 R/F4 54 0 R/F5 58 0 R/F3 50 0 R/F0 38 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+66 0 obj
+<<
+/Parent 63 0 R
+/Contents 8 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F1 42 0 R/F4 54 0 R/F5 58 0 R/F3 50 0 R/F2 46 0 R/F0 38 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+67 0 obj
+<<
+/Parent 63 0 R
+/Contents 12 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/XObject<</Fm2 11 0 R>>/ProcSet[/PDF/Text]/Font<</F1 42 0 R/F5 58 0 R/F3 50 0 R/F2 46 0 R/F0 38 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+68 0 obj
+<<
+/Parent 63 0 R
+/Contents 16 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/XObject<</Fm4 15 0 R>>/ProcSet[/PDF/Text]/Font<</F1 42 0 R/F4 54 0 R/F3 50 0 R/F2 46 0 R/F0 38 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+69 0 obj
+<<
+/Parent 63 0 R
+/Contents 17 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F1 42 0 R/F4 54 0 R/F3 50 0 R/F2 46 0 R/F0 38 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+71 0 obj
+<<
+/Kids[72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R]
+/Type/Pages
+/Count 6
+/Parent 70 0 R
+>>
+endobj
+72 0 obj
+<<
+/Parent 71 0 R
+/Contents 21 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/XObject<</Fm6 20 0 R>>/ProcSet[/PDF/Text]/Font<</F1 42 0 R/F5 58 0 R/F3 50 0 R/F2 46 0 R/F0 38 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+73 0 obj
+<<
+/Parent 71 0 R
+/Contents 22 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F1 42 0 R/F4 54 0 R/F5 58 0 R/F3 50 0 R/F2 46 0 R/F0 38 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+74 0 obj
+<<
+/Parent 71 0 R
+/Contents 25 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/XObject<</Fm8 24 0 R>>/ProcSet[/PDF/Text]/Font<</F1 42 0 R/F4 54 0 R/F3 50 0 R/F2 46 0 R/F0 38 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+75 0 obj
+<<
+/Parent 71 0 R
+/Contents 29 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/XObject<</Fm10 28 0 R>>/ProcSet[/PDF/Text]/Font<</F1 42 0 R/F4 54 0 R/F3 50 0 R/F0 38 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+76 0 obj
+<<
+/Parent 71 0 R
+/Contents 30 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F1 42 0 R/F4 54 0 R/F5 58 0 R/F3 50 0 R/F2 46 0 R/F0 38 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+77 0 obj
+<<
+/Parent 71 0 R
+/Contents 31 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F1 42 0 R/F4 54 0 R/F5 58 0 R/F3 50 0 R/F2 46 0 R/F0 38 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+78 0 obj
+<<
+/Kids[79 0 R 80 0 R]
+/Type/Pages
+/Count 2
+/Parent 70 0 R
+>>
+endobj
+79 0 obj
+<<
+/Parent 78 0 R
+/Contents 32 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F6 62 0 R/F3 50 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+80 0 obj
+<<
+/Parent 78 0 R
+/Contents 33 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F3 50 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+70 0 obj
+<<
+/Type/Pages
+/Kids[63 0 R 71 0 R 78 0 R]
+/Count 14
+>>
+endobj
+81 0 obj
+<<
+/PageLabels 34 0 R
+/Pages 70 0 R
+/Type/Catalog
+>>
+endobj
+82 0 obj
+<<
+/Producer(QuarkXPress(tm) 6.5)
+/Title<FEFF202220222022004B002E004B002E0020004C0049004E00550058002700540041004E003F002D00300038>
+/CreationDate(20080124121951)
+/XPressPrivate(%%DocumentProcessColors:\n%%EndComments)
+/Creator(QuarkXPress(tm) 6.5)
+>>
+endobj
+xref
+0 83
+0000000000 65535 f 
+0000000015 00000 n 
+0000000059 00000 n 
+0000000111 00000 n 
+0000006545 00000 n 
+0000011638 00000 n 
+0000012201 00000 n 
+0000012903 00000 n 
+0000017019 00000 n 
+0000024581 00000 n 
+0000028890 00000 n 
+0000029450 00000 n 
+0000030138 00000 n 
+0000037138 00000 n 
+0000043801 00000 n 
+0000044379 00000 n 
+0000045109 00000 n 
+0000048319 00000 n 
+0000054134 00000 n 
+0000065901 00000 n 
+0000066476 00000 n 
+0000067193 00000 n 
+0000070776 00000 n 
+0000078093 00000 n 
+0000078653 00000 n 
+0000079360 00000 n 
+0000084876 00000 n 
+0000099485 00000 n 
+0000100063 00000 n 
+0000100787 00000 n 
+0000104613 00000 n 
+0000112229 00000 n 
+0000117171 00000 n 
+0000118899 00000 n 
+0000119231 00000 n 
+0000119277 00000 n 
+0000119768 00000 n 
+0000130455 00000 n 
+0000130676 00000 n 
+0000131386 00000 n 
+0000131661 00000 n 
+0000136168 00000 n 
+0000136391 00000 n 
+0000136825 00000 n 
+0000137074 00000 n 
+0000141549 00000 n 
+0000141778 00000 n 
+0000142402 00000 n 
+0000142871 00000 n 
+0000148283 00000 n 
+0000148503 00000 n 
+0000149196 00000 n 
+0000149543 00000 n 
+0000153394 00000 n 
+0000153622 00000 n 
+0000154277 00000 n 
+0000154460 00000 n 
+0000158303 00000 n 
+0000158533 00000 n 
+0000158941 00000 n 
+0000159251 00000 n 
+0000162491 00000 n 
+0000162706 00000 n 
+0000163330 00000 n 
+0000163437 00000 n 
+0000163661 00000 n 
+0000163907 00000 n 
+0000164141 00000 n 
+0000164389 00000 n 
+0000164637 00000 n 
+0000166868 00000 n 
+0000164862 00000 n 
+0000164969 00000 n 
+0000165217 00000 n 
+0000165452 00000 n 
+0000165700 00000 n 
+0000165939 00000 n 
+0000166174 00000 n 
+0000166409 00000 n 
+0000166488 00000 n 
+0000166683 00000 n 
+0000166940 00000 n 
+0000167009 00000 n 
+trailer
+<<
+/Size 83
+/Root 81 0 R
+/Info 82 0 R
+/ID[<48B4F2C5E36BAE77A83B9F53CCBACAB5><48B4F2C5E36BAE77A83B9F53CCBACAB5>]
+>>
+startxref
+167275
+%%EOF

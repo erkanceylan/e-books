@@ -1,0 +1,2723 @@
+%PDF-1.3
+%âãÏÓ
+1 0 obj
+<<
+/Type/ExtGState
+/OPM 1
+>>
+endobj
+2 0 obj
+<<
+/Type/ExtGState
+/SM 0.01
+/FL 1
+>>
+endobj
+3 0 obj
+<<
+/Length 4452
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 432.2549 re
+f
+Q
+q
+BT
+/F0 1 Tf
+17.924 0 0 14.5 57.6929 488.0707 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Genel Kamu Lisans\335)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 57.6929 464.6533 Tm
+0 Tr
+0 g
+-0.013 Tc
+0.139 Tw
+(This is an )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 104.4812 464.6533 Tm
+0 Tr
+0 g
+-0.013 Tc
+0 Tw
+(unofficial )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 148.5395 464.6533 Tm
+0 Tr
+0 g
+-0.013 Tc
+0.139 Tw
+(translation of the GNU General Public License into)Tj
+-8.65206 -1.33333 TD
+0.097 Tw
+(Turkish. It was not published by the Free Software Foundation, and does)Tj
+T*
+-0.003 Tw
+(not legally state the distribution terms for software that uses the GNU GPL-)Tj
+T*
+-0.001 Tw
+(-only the original English text of the GNU GPL does that. However, we ho-)Tj
+T*
+-0.032 Tw
+(pe that this translation will help Turkish speakers understand the GNU GPL)Tj
+T*
+0 Tw
+(better. )Tj
+0 -2.55568 TD
+-0.008 Tc
+0.051 Tw
+(Bu, GNU Genel Kamu Lisans\335n\335n (GPL) T\237rk\215e\325ye )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 284.1522 367.8187 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(gayr\335resmi )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 332.1114 367.8187 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(\215evirisidir.)Tj
+-26.13509 -1.33333 TD
+0.084 Tw
+(Bu \215eviri Free Software Foundation taraf\335ndan yay\335nlanmam\335\337 olup GNU)Tj
+T*
+0.206 Tw
+(GPL kullanan yaz\335l\335mlar\335n da\333\335t\335m \337artlar\335n\335 belirleme a\215\335s\335ndan hukuki)Tj
+T*
+0.079 Tw
+(ba\333lay\335c\335l\335\333\335 yoktur. Hukuki a\215\335dan yaln\335zca GNU GPL\325in \334ngilizce metni)Tj
+T*
+0.008 Tw
+(ba\333lay\335c\335d\335r. Bu \215eviri, T\237rk\215e kullan\335c\335lar\335n\335n GNU GPL\325i daha iyi anlaya-)Tj
+T*
+0.025 Tw
+(bilmeleri i\215in haz\335rlanm\335\337t\335r. )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+14.834 0 0 12 57.6929 266.984 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(GNU Genel Kamu Lisans\335 (GPL) )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+12.98 0 0 10.5 57.6929 246.484 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(S\237r\237m 2, Haziran 1991 )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 57.6929 224.484 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.008 Tw
+(Telif Hakk\335 \251 1989, 1991 Free Software Foundation, Inc. 59 Temple Place)Tj
+0 -1.33333 TD
+-0.0076 Tc
+(-)Tj
+0.57489 0 Td
+-0.008 Tc
+0.025 Tw
+(Suite 330, Boston, MA 02111-1307, USA )Tj
+-0.57489 -2.55568 TD
+-0.0076 Tc
+(Bu)Tj
+1.4836 0 Td
+-0.008 Tc
+0.089 Tw
+(lisans d\232k\237man\335n\335n birebir kopyalar\335n\335 yapma ve da\333\335tma izni herkese)Tj
+-1.4836 -1.33333 TD
+0.025 Tw
+(verilmi\337tir, fakat metinde de\333i\337iklik yapma izni yoktur. )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+12.98 0 0 10.5 57.6929 144.3147 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(Giri\337 )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 57.6929 122.3147 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.074 Tw
+(Yaz\335l\335m lisanslar\335n\335n \215o\333u sizin yaz\335l\335m\335 payla\337ma ve de\333i\337tirme hakk\335n\335z\335n)Tj
+0 -1.3333 TD
+0.022 Tw
+(elinizden al\335nmas\335 i\215in haz\335rlanm\335\337t\335r. Buna kar\337\335l\335k, GNU Genel Kamu Li)Tj
+30.04284 0.00001 TD
+0 Tc
+(-)Tj
+-30.0428 -1.3333 TD
+-0.008 Tc
+0.029 Tw
+(sans\335 sizin serbest yaz\335l\335mlar\335 de\333i\337tirme ve payla\337ma hakk\335n\335z\335n mahfuz tu)Tj
+30.04283 0.00001 TD
+0 Tc
+(-)Tj
+-30.0428 -1.3333 TD
+-0.008 Tc
+0.1 Tw
+(tulmas\335 ve yaz\335l\335m\335n b\237t\237n kullan\335c\335lar\335 i\215in serbest olmas\335 amac\335 ile yaz\335l)Tj
+30.04283 0.00001 TD
+0 Tc
+(-)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(441)Tj
+ET
+0.8 g
+0 521.575 377.449 165.7401 re
+f
+Q
+q
+BT
+/F0 1 Tf
+27.04 0 0 21.874 55.4167 578.604 Tm
+0 Tr
+0.3 g
+-0.013 Tc
+0.022 Tw
+(GNU Genel Kamu Lisans\335 )Tj
+0 -1.09719 TD
+(GNU Public License (GPL))Tj
+ET
+0 J 0 j 10 M []0 d 0.5 w 
+0.3 G
+56.693 578.964 m
+478.716 578.964 l
+S
+56.693 554.618 m
+478.716 554.618 l
+S
+404.185 571.411 m
+404.185 556.6158 392.1912 544.622 377.396 544.622 c
+362.6008 544.622 350.607 556.6158 350.607 571.411 c
+350.607 586.2062 362.6008 598.2 377.396 598.2 c
+392.1912 598.2 404.185 586.2062 404.185 571.411 c
+f*
+q
+407.185 571.411 m
+407.185 554.959 393.848 541.622 377.396 541.622 c
+360.944 541.622 347.607 554.959 347.607 571.411 c
+347.607 587.863 360.944 601.2 377.396 601.2 c
+393.848 601.2 407.185 587.863 407.185 571.411 c
+W* n
+6 w 
+1 G
+407.185 571.411 m
+407.185 554.959 393.848 541.622 377.396 541.622 c
+360.944 541.622 347.607 554.959 347.607 571.411 c
+347.607 587.863 360.944 601.2 377.396 601.2 c
+393.848 601.2 407.185 587.863 407.185 571.411 c
+s
+Q
+Q
+q
+BT
+/F0 1 Tf
+24.3 0 0 18 363.8387 562.2909 Tm
+0 Tr
+1 g
+0.004 Tc
+0 Tw
+(EK)Tj
+ET
+Q
+
+endstream
+endobj
+4 0 obj
+<<
+/Length 4542
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 90.8629 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.001 Tw
+(m\335\337t\335r. Bu Genel Kamu Lisans\335, Free Software Foundation\325un \215o\333u yaz\335l\335m\335)Tj
+0 -1.33333 TD
+0.105 Tw
+(ve bu lisans\335 kullanmay\335 d\237stur edinen di\333er yaz\335l\335mc\335lar\335n yaz\335l\335mlar\335 i\215in)Tj
+T*
+0.089 Tw
+(kullan\335lmaktad\335r. \(Free Software Foundation\325un baz\335 yaz\335l\335mlar\335 GNU Ki-)Tj
+T*
+-0.02 Tw
+(tapl\335k Genel Kamu Lisans\335 -- GNU LGPL -- alt\335nda da\333\335t\335lmaktad\335r.\) Siz de)Tj
+0 -1.33334 TD
+0.025 Tw
+(bu lisans\335 yaz\335l\335mlar\335n\335za uygulayabilirsiniz. )Tj
+0 -2.55568 TD
+-0.015 Tw
+(Serbest yaz\335l\335mdan bahsetti\333imiz zaman fiyattan de\333il, \232zg\237rl\237kten bahsedi-)Tj
+0 -1.33333 TD
+0.046 Tw
+(yoruz. Bizim Genel Kamu Lisanslar\335m\335z, sizin serbest yaz\335l\335mlar\335n kopyala-)Tj
+T*
+0.011 Tw
+(r\335n\335 da\333\335tma \232zg\237rl\237\333\237n\237z\237 (ve isterseniz bu hizmet i\215in para alman\335z\335), ya)Tj
+30.0813 0 TD
+0 Tc
+(-)Tj
+-30.0813 -1.33334 TD
+-0.008 Tc
+0.032 Tw
+(z\335l\335m kaynak kodlar\335n\335n size da\333\335t\335m esnas\335nda veya e\333er isterseniz verilme-)Tj
+0 -1.33333 TD
+-0.014 Tw
+(sini, yaz\335l\335m\335 de\333i\337tirebilmenizi, yaz\335l\335m\335n par\215alar\335n\335 yeni yaz\335l\335mlar i\215erisin-)Tj
+T*
+0.025 Tw
+(de kullanabilmenizi ve bunlar\335 yapabilece\333inizi bilmenizi sa\333lamaktad\335r. )Tj
+0 -2.93664 TD
+0.202 Tw
+(Haklar\335n\335z\335 koruyabilmemiz i\215in sizin haklar\335n\335z\335 k\335s\335tlama veya sizin bu)Tj
+0 -1.33333 TD
+0.084 Tw
+(haklar\335n\335zdan feragat etmenizi isteme yollar\335n\335 yasaklay\335c\335 baz\335 k\335s\335tlamalar)Tj
+T*
+-0.014 Tw
+(getirmemiz gerekmektedir. Bu k\335s\335tlamalar e\333er serbest yaz\335l\335m da\333\335t\335yor ve-)Tj
+T*
+0.025 Tw
+(ya de\333i\337tiriyorsan\335z size baz\335 y\237k\237ml\237l\237kler getirmektedir. )Tj
+0 -2.55568 TD
+0 Tw
+(\205rne\333in b\232yle bir program\335n kopyalar\335n\335, bedava veya \237cret kar\337\335l\335\333\335 da\333\335t\335-)Tj
+0 -1.33333 TD
+0.055 Tw
+(yorsan\335z al\335c\335lara sizin sahip oldu\333unuz b\237t\237n haklar\335 sa\333lamal\335s\335n\335z. Onla)Tj
+30.08133 0 TD
+0 Tc
+(-)Tj
+-30.08133 -1.33334 TD
+-0.008 Tc
+0.082 Tw
+(r\335n da kaynak kodlar\335na sahip olmalar\335n\335 veya ula\337abilmelerini sa\333lamal\335s\335)Tj
+30.08132 0 TD
+0 Tc
+(-)Tj
+-30.08132 -1.33334 TD
+-0.008 Tc
+0.025 Tw
+(n\335z. Onlara da haklar\335n\335 bilebilmeleri i\215in bu \337artlar\335 g\232stermelisiniz.)Tj
+0 -2.93664 TD
+(Haklar\335n\335z\335 koruma iki a\337amada ger\215ekle\337mektedir: )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 90.8629 248.1652 Tm
+0 Tr
+0 g
+-0.007 Tc
+0 Tw
+(1. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 101.3892 248.1652 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(Yaz\335l\335ma telif hakk\335 al\335nmaktad\335r. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 90.8629 232.7479 Tm
+0 Tr
+0 g
+-0.007 Tc
+0 Tw
+(2. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 101.3892 232.7479 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(Yaz\335l\335m lisans\335 olarak size, hukuki olarak, yaz\335l\335m\335 kopyalama, da\333\335tma )Tj
+-0.1926 -1.33333 TD
+(ve/veya de\333i\337tirme hakk\335 tan\335yan bu lisans sunulmaktad\335r. )Tj
+-0.8099 -2.55568 TD
+0.067 Tw
+(Ayr\335ca, yazarlar\335n ve bizim korunmam\335z i\215in bu serbest yaz\335l\335m\335n herhangi)Tj
+0 -1.33333 TD
+0.068 Tw
+(bir garantisi olmad\335\333\335n\335 herkesin anlamas\335n\335 istiyoruz. E\333er yaz\335l\335m ba\337kas\335)Tj
+T*
+0.056 Tw
+(taraf\335ndan de\333i\337tirilmi\337 ve de\333i\337tirilmi\337 hali ile taraf\335n\335za ula\337t\335r\335lm\335\337 ise al\335-)Tj
+T*
+-0.021 Tw
+(c\335lar\335n, ellerinde olan yaz\335l\335m\335n orijinal olmad\335\333\335n\335, dolay\335s\335yla ba\337kalar\335 tara)Tj
+30.08131 0.00001 TD
+0 Tc
+(-)Tj
+-30.08131 -1.33334 TD
+-0.008 Tc
+0.055 Tw
+(f\335ndan eklenen problemlerin ilk yazarlar\335n \337\232hretlerine olumsuz etkide bu-)Tj
+0 -1.33333 TD
+0.025 Tw
+(lunmamas\335 gerekti\333ini bilmelerini istiyoruz. )Tj
+0 -2.5557 TD
+0.179 Tw
+(Son olarak, b\237t\237n serbest yaz\335l\335mlar yaz\335l\335m patentleri taraf\335ndan s\237rekli)Tj
+0 -1.3333 TD
+0.123 Tw
+(tehdit alt\335nda bulunmaktad\335r. Serbest bir yaz\335l\335m\335n da\333\335t\335c\335lar\335n\335n bireysel)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(442)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+Q
+
+endstream
+endobj
+5 0 obj
+<<
+/Length 4651
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 538.583 re
+f
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 57.6929 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.024 Tw
+(olarak patent lisans\335 almalar\335n\335 ve bu yol ile yaz\335l\335m\335 m\237seccel hale getirme-)Tj
+0 -1.33333 TD
+0.054 Tw
+(lerine imkan vermemek istiyoruz. Bunu engellemek i\215in, yaz\335l\335m i\215in al\335na-)Tj
+T*
+0.077 Tw
+(cak her patentin herkesin serbest kullan\335m\335na izin vermesi veya patentlen-)Tj
+T*
+0.025 Tw
+(memesi gerekti\333ini a\215\335k olarak ortaya koyuyoruz. )Tj
+0 -2.55568 TD
+0.037 Tw
+(Kopyalama, da\333\335t\335m ve de\333i\337tirme ile ilgili kesin \337art ve kay\335tlar a\337a\333\335da yer)Tj
+0 -1.33333 TD
+0 Tw
+(almaktad\335r. )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+14.834 0 0 12 57.6929 484.6692 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Kopyalama, Da\333\335t\335m ve  )Tj
+0 -1.5 TD
+(De\333i\337tirme ile \334lgili \336art ve Kay\335tlar )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 57.6929 439 Tm
+0 Tr
+0 g
+-0.0076 Tc
+(Bu)Tj
+1.41768 0 Td
+-0.008 Tc
+0.023 Tw
+(Lisans, telif hakk\335 sahibi taraf\335ndan i\215erisine bu Genel Kamu Lisans\335 al)Tj
+28.62515 0 TD
+0 Tc
+(-)Tj
+-30.04283 -1.33334 TD
+-0.008 Tc
+0.063 Tw
+(t\335nda da\333\335t\335ld\335\333\335na dair ibare konmu\337 olan herhangi bir yaz\335l\335m veya ba\337ka)Tj
+0 -1.33333 TD
+0.049 Tw
+(eseri kapsamaktad\335r. A\337a\333\335da \322Yaz\335l\335m\323, bu kapsamdaki herhangi bir yaz\335)Tj
+30.04281 0 TD
+0 Tc
+(-)Tj
+-30.04281 -1.33333 TD
+-0.008 Tc
+0.028 Tw
+(l\335m veya eser, \322Yaz\335l\335m\335 baz alan \237r\237n\323, ise Yaz\335l\335m veya telif kanunu alt\335n-)Tj
+T*
+0.1 Tw
+(da Yaz\335l\335m\325dan i\337tikak etmi\337, yani Yaz\335l\335m\325\335n tamam\335n\335 veya bir par\215as\335n\335,)Tj
+T*
+0.016 Tw
+(de\333i\337tirmeden veya de\333i\337iklikler ile, veya ba\337ka bir dile terc\237me edilmi\337 ha)Tj
+30.04281 0 TD
+0 Tc
+(-)Tj
+-30.04281 -1.33334 TD
+-0.008 Tc
+0.045 Tw
+(li ile i\215eren herhangi bir \237r\237n, manas\335nda kullan\335lmaktad\335r. \(Bundan sonra)Tj
+0 -1.33333 TD
+0.083 Tw
+(terc\237me \322de\333i\337tirme\323 kapsam\335nda s\335n\335rs\335z olarak i\215erilecektir.\) Her ruhsat)Tj
+T*
+0.025 Tw
+(sahibine \322siz\323 olarak hitap edilmektedir. )Tj
+0 -2.14323 TD
+0.112 Tw
+(Kopyalama, da\333\335t\335m ve de\333i\337tirme haricinde kalan faaliyetler bu Lisans\325\335n)Tj
+0 -1.33333 TD
+0.163 Tw
+(kapsam\335 d\335\337\335ndad\335rlar. Yaz\335l\335m\325\335 \215al\335\337t\335rma eylemi s\335n\335rland\335r\335lmam\335\337t\335r ve)Tj
+T*
+0.025 Tw
+(Yaz\335l\335m\325\335n \215\335kt\335s\335 yaln\335zca \215\335kt\335n\335n i\215eri\333i \(Yaz\335l\335m\325\335 \215al\335\337t\335rmak yolu ile elde)Tj
+T*
+0.062 Tw
+(edilmesinden ba\333\335ms\335z olarak\) Yaz\335l\335m\325\335 baz alan \237r\237n kapsam\335na girer ise)Tj
+T*
+0.06 Tw
+(bu Lisans kapsam\335ndad\335r. Bu ko\337ulun sa\333lan\335p sa\333lanmad\335\333\335 Yaz\335l\335m\325\335n ne)Tj
+T*
+0.025 Tw
+(yapt\335\333\335 ile ilgilidir. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 57.6929 211.992 Tm
+0 Tr
+0 g
+-0.007 Tc
+0 Tw
+(1.)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 67.8119 211.992 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.014 Tw
+(Yaz\335l\335m\325\335n kaynak kodlar\335n\335 birebir, ald\335\333\335n\335z \337ekilde, herhangi bir ortam)Tj
+29.07912 0 TD
+0 Tc
+(-)Tj
+-30.04284 -1.33334 TD
+-0.008 Tc
+0.038 Tw
+(da ve vas\335ta ile, uygun ve g\232r\237n\237r bir \337ekilde telif hakk\335 bildirimi ve garan)Tj
+30.04286 0 TD
+0 Tc
+(-)Tj
+-30.04286 -1.33334 TD
+-0.008 Tc
+0.057 Tw
+(tisiz oldu\333una dair bildirim koymak, bu Lisans\325dan bahseden herhangi bir)Tj
+0 -1.33333 TD
+0.018 Tw
+(bildirimi aynen muhafaza etmek ve b\237t\237n di\333er al\335c\335lara Yaz\335l\335m ile birlikte)Tj
+T*
+0.01 Tw
+(bu Lisans\325\335n bir kopyas\335n\335 vermek \337art\335 ile kopyalayabilir ve da\333\335tabilirsiniz. )Tj
+0 -2.14323 TD
+0.031 Tw
+(Kopyalamak fiili i\337lemi i\215in bir \237cret talep edebilir ve sizin se\215iminize ba\333l\335)Tj
+0 -1.3333 TD
+0.025 Tw
+(olarak \237cret kar\337\335l\335\333\335 garanti verebilirsiniz. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 57.6929 96.9842 Tm
+0 Tr
+0 g
+-0.007 Tc
+0 Tw
+(2. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 68.09 96.9842 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.013 Tw
+(Yaz\335l\335m\325\335n kopyas\335n\335 veya kopyalar\335n\335 veya herhangi bir par\215as\335n\335 de\333i\337ti-)Tj
+-0.9902 -1.3333 TD
+0.117 Tw
+(rerek Yaz\335l\335m\325\335 baz alan \237r\237n elde edebilir, bu de\333i\337iklikleri veya \237r\237n\237n)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(443)Tj
+ET
+1 g
+56.693 624.786 320.756 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 173.3302 627.3763 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(GNU Genel Kamu Lisans\335 / GNU Public License (GPL))Tj
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/Length 5036
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 90.8629 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.043 Tw
+(kendisini yukar\335da 1. b\232l\237mdeki \337artlar dahilinde ve a\337a\333\335da s\335ralanan \337art-)Tj
+0 -1.33333 TD
+0.025 Tw
+(lar\335n yerine getirilmesi ko\337ulu ile kopyalayabilir ve da\333\335tabilirsiniz. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 105.0362 561.8347 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(a. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 115.9173 561.8347 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.096 Tw
+(De\333i\337tirilen dosyalar\335n g\232r\237n\237r bir \337ekilde dosyalar\335n sizin taraf\335n\335z-)Tj
+-1.03629 -1.33334 TD
+0.025 Tw
+(dan de\333i\337tirildi\333ine dair, tarihli bir bildirim i\215ermesini sa\333lamal\335s\335n\335z. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 105.0362 526.748 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(b. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 115.6394 526.748 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.005 Tw
+(Yaz\335l\335m\325dan veya Yaz\335l\335m\325\335n bir par\215as\335ndan tamamen veya k\335smen i\337-)Tj
+-1.00983 -1.33333 TD
+0.102 Tw
+(tikak etmi\337 ve sizin taraf\335n\335zdan da\333\335t\335lan veya yay\335nlanan herhangi bir)Tj
+T*
+0.019 Tw
+(\237r\237n\237n b\237t\237n \237\215\237nc\237 \337ah\335slara bu Lisans \337artlar\335 alt\335nda \237cretsiz olarak)Tj
+0 -1.33334 TD
+0.025 Tw
+(ruhsatlanmas\335n\335 sa\333lamal\335s\335n\335z. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 105.0362 463.6614 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(c. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 115.322 463.6614 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.076 Tw
+(E\333er de\333i\337tirilen yaz\335l\335m ola\333an kullan\335m alt\335nda komutlar\335 interaktif)Tj
+-0.9796 -1.33333 TD
+0.003 Tw
+(olarak al\335yor ise, yaz\335l\335m, en ola\333an kullan\335m i\215in interaktif olarak \215al\335\337t\335-)Tj
+T*
+0.073 Tw
+(r\335ld\335\333\335 zaman uygun bir telif hakk\335 bildirimi, garantisi olmad\335\333\335na \(veya)Tj
+T*
+0.067 Tw
+(sizin taraf\335n\335zdan garanti verildi\333ine\), kullan\335c\335lar\335n bu yaz\335l\335m\335 bu \337art-)Tj
+T*
+-0.011 Tw
+(lar alt\335nda tekrar da\333\335tabileceklerine ve kullan\335c\335n\335n bu Lisans\335n bir kop-)Tj
+T*
+0.088 Tw
+(yas\335n\335 nas\335l g\232rebilece\333ine dair bir bildirim yazd\335rmal\335 veya g\232stermeli-)Tj
+T*
+0.02 Tw
+(dir. \(\334stisna: E\333er Yaz\335l\335m\325\335n kendisi interaktif ise fakat b\232yle bir bildiri-)Tj
+T*
+0.126 Tw
+(mi ola\333an kullan\335m esnas\335nda yazd\335rm\335yor ise, sizin Yaz\335l\335m\325\335 baz alan)Tj
+T*
+0.025 Tw
+(\237r\237n\237n\237z b\232yle bir bildirimde bulunmak zorunda de\333ildir.\) )Tj
+-1.34984 -2.14324 TD
+0.127 Tw
+(Bu \337artlar de\333i\337tirilmi\337 eserin tamam\335n\335 kapsamaktad\335r. E\333er eserin tespit)Tj
+0 -1.33333 TD
+0.086 Tw
+(edilebilir k\335s\335mlar\335 Yaz\335l\335m\325dan i\337tikak etmemi\337 ise ve makul surette kendi)Tj
+T*
+0.02 Tw
+(ba\337lar\335na ba\333\335ms\335z ve ayr\335 eserler olarak kabul edilebilir ise, o zaman bu Li-)Tj
+T*
+0 Tw
+(sans ve \337artlar\335, bu par\215alar\335 ayr\335 eser olarak da\333\335tt\335\333\335n\335z zaman ba\333lay\335c\335 de-)Tj
+T*
+0.042 Tw
+(\333ildir. Fakat, ayn\335 par\215alar\335 Yaz\335l\335m\325\335 baz alan bir \237r\237n b\237t\237n\237n\237n bir par)Tj
+30.08131 0 TD
+0 Tc
+(-)Tj
+-30.08131 -1.33334 TD
+-0.008 Tc
+-0.019 Tw
+(\215as\335 olarak da\333\335tt\335\333\335n\335z zaman b\237t\237n\237n da\333\335t\335m\335, di\333er ruhsat sahiplerine ve-)Tj
+0 -1.33333 TD
+0.018 Tw
+(rilen izinlerin b\237t\237ne ait oldu\333u ve par\215alar\335na, yazar\335n\335n kim oldu\333una ba-)Tj
+T*
+-0.016 Tw
+(k\335lmaks\335z\335n b\237t\237n par\215alar\335na tek tek ve m\237\337terek olarak uyguland\335\333\335 bu Li)Tj
+30.08131 0 TD
+0 Tc
+(-)Tj
+-30.08131 -1.33334 TD
+-0.008 Tc
+0.025 Tw
+(sans \337artlar\335na uygun olmal\335d\335r. )Tj
+0 -2.14323 TD
+-0.026 Tw
+(Bu b\232l\237m\237n hedefi tamamen sizin taraf\335n\335zdan yaz\335lan bir eser \237zerinde hak)Tj
+0 -1.33333 TD
+-0.028 Tw
+(iddia etmek veya sizin b\232yle bir eser \237zerindeki haklar\335n\335za muhalefet etmek)Tj
+T*
+-0.001 Tw
+(de\333il, Yaz\335l\335m\325\335 baz alan, Yaz\335l\335m\325dan i\337tikak etmi\337 veya m\237\337terek olarak or)Tj
+30.08133 0.00001 TD
+0 Tc
+(-)Tj
+-30.08133 -1.33334 TD
+-0.008 Tc
+0.025 Tw
+(taya \215\335kar\335lm\335\337 eserlerin da\333\335t\335m\335n\335 kontrol etme haklar\335n\335 d\237zenlemektir. )Tj
+0 -2.14323 TD
+0 Tc
+-0.026 Tw
+(Buna ek olarak, Yaz\335l\335m\325\335 baz almayan herhangi bir \237r\237n\237n Yaz\335l\335m ile \(ve)Tj
+30.08132 0.00001 TD
+(-)Tj
+-30.0813 -1.3333 TD
+0.014 Tw
+(ya Yaz\335l\335m\325\335 baz alan bir \237r\237n ile\) bir bilgi saklama ortam\335nda veya bir da-)Tj
+T*
+0.109 Tw
+(\333\335t\335m ortam\335nda beraber tutulmas\335 di\333er eseri bu Lisans kapsam\335na sok)Tj
+30.08131 0.00001 TD
+(-)Tj
+-30.0813 -1.3333 TD
+0 Tw
+(maz. )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(444)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+Q
+
+endstream
+endobj
+7 0 obj
+<<
+/Length 5232
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 538.583 re
+f
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 57.6929 598.1719 Tm
+0 Tr
+0 g
+-0.007 Tc
+0 Tw
+(3. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 68.4586 598.1719 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.048 Tw
+(Yaz\335l\335m\325\335 (veya 2. b\232l\237mde tan\335mland\335\333\335 hali ile onu baz alan bir \237r\237n\237))Tj
+-1.0253 -1.33333 TD
+-0.007 Tw
+(ara derlenmi\337 veya uygulama hali ile 1. ve 2. B\232l\237m\325deki \337artlar dahilinde ve)Tj
+T*
+0.053 Tw
+(a\337a\333\335da s\335ralanan y\232ntemlerden birisine uygun olarak kopyalayabilir ve da-)Tj
+0 -1.33334 TD
+0 Tw
+(\333\335tabilirsiniz. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 71.8661 537.3195 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(a. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 82.3475 537.3195 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.058 Tw
+(Yayg\335n olarak yaz\335l\335m da\333\335t\335m\335nda kullan\335lan bir ortam \237zerinde, yu-)Tj
+-0.99823 -1.30951 TD
+0.011 Tw
+(kar\335da 1. ve 2. B\232l\237m\325de bulunan \337artlar dahilinde, bilgisayar taraf\335ndan)Tj
+0 -1.30953 TD
+0.025 Tw
+(okunabilir kaynak kodlar\335n\335n tamam\335 ile birlikte da\333\335tmak. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 71.8661 490.9672 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(b. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 84.4164 490.9672 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.181 Tw
+(Herhangi bir \237\215\237nc\237 \337ahsa, fiziksel olarak da\333\335t\335m\335 ger\215ekle\337tirme)Tj
+-1.19527 -1.30952 TD
+0.087 Tw
+(masraf\335n\335zdan daha fazla \237cret almayarak, yayg\335n olarak yaz\335l\335m da\333\335t\335-)Tj
+0 -1.30953 TD
+0.073 Tw
+(m\335nda kullan\335lan bir ortam \237zerinde, yukar\335da 1. ve 2. B\232l\237m\325de bulu-)Tj
+0 -1.30952 TD
+0.009 Tw
+(nan \337artlar dahilinde, bilgisayar taraf\335ndan okunabilir kaynak kodlar\335n\335n)Tj
+T*
+-0.028 Tw
+(tamam\335n\335 da\333\335taca\333\335n\335za dair en az \237\215 y\335l ge\215erli olacak yaz\335l\335 bir taahh\237t-)Tj
+0 -1.30953 TD
+0.025 Tw
+(name ile birlikte da\333\335tmak. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 71.8661 403.3648 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(c. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 81.463 403.3648 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.011 Tw
+(Size verilmi\337 olan ilgili kaynak kodunu da\333\335tma taahh\237tnamesi ile bir)Tj
+27.77903 0 TD
+0 Tc
+(-)Tj
+-28.69302 -1.30953 TD
+-0.008 Tc
+0.094 Tw
+(likte da\333\335tmak. \(Bu alternatif yaln\335zca ticari olmayan da\333\335t\335mlar i\215in ve)Tj
+T*
+0.008 Tw
+(yaln\335zca siz de yaz\335l\335m\335 ara derlenmi\337 veya uygulama bi\215eminde ve yuka-)Tj
+0 -1.30952 TD
+0.085 Tw
+(r\335da b\) b\232l\237m\237nde anlat\335lan \337ekli ile bir taahh\237tname ile birlikte alm\335\337)Tj
+T*
+0.025 Tw
+(iseniz ge\215erlidir.\) )Tj
+-1.34983 -2.11942 TD
+0.055 Tw
+(Bir eserin kaynak kodu, esere de\333i\337tirme yapmak i\215in en uygun y\232ntem ve)Tj
+0 -1.30953 TD
+0.037 Tw
+(imkan anlam\335nda kullan\335lmaktad\335r. Uygulama bi\215eminde bir eser i\215in, kay-)Tj
+0 -1.30952 TD
+0.049 Tw
+(nak kodu, i\215erdi\333i b\237t\237n par\215alar i\215in ilgili kaynak kodlar\335, ilgili aray\237z ta-)Tj
+T*
+0.013 Tw
+(n\335m dosyalar\335 ve derleme ve y\237kleme i\337lemlerinde kullan\335lan b\237t\237n betikler)Tj
+T*
+0.111 Tw
+(anlam\335nda kullan\335lmaktad\335r. Bir istisna olarak, da\333\335t\335lan kaynak kodu, ge-)Tj
+T*
+0.011 Tw
+(nelde uygulaman\335n \237zerinde \215al\335\337aca\333\335 i\337letim sisteminin ana par\215alar\335 \(der-)Tj
+T*
+0.038 Tw
+(leyici, \215ekirdek v.b.\) ile birlikte da\333\335t\335lan herhangi bir bile\337eni,e\333er ilgili bi-)Tj
+T*
+0.025 Tw
+(le\337en, uygulama ile birlikte da\333\335t\335lm\335yorsa, i\215ermek zorunda de\333ildir. )Tj
+0 -2.11942 TD
+-0.015 Tc
+0.076 Tw
+(E\333er uygulama veya ara derlenmi\337 bi\215emde yaz\335l\335m\335n da\333\335t\335m\335 belli bir yere)Tj
+0 -1.30953 TD
+0.051 Tw
+(eri\337im ve oradan kopyalama imkan\335 olarak yap\335l\335yorsa, ayn\335 yerden, ayn\335 ko-)Tj
+0 -1.30952 TD
+0.073 Tw
+(\337ullar alt\335nda kaynak koduna eri\337im imkan\335 sa\333lamak, \237\215\237nc\237 \337ah\335slar\335n ara)Tj
+0 -1.30953 TD
+0.079 Tw
+(derlenmi\337 ve uygulama bi\215emleri ile birlikte kaynak kodunu kopyalama zo-)Tj
+0 -1.30952 TD
+-0.008 Tw
+(runluluklar\335 olmasa bile kaynak kodunu da\333\335tmak olarak kabul edilmektedir. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 57.6929 130.3531 Tm
+0 Tr
+0 g
+-0.007 Tc
+0 Tw
+(4. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 68.5121 130.3531 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.053 Tw
+(Yaz\335l\335m\325\335 bu Lisans\325ta sarih olarak belirtilen \337artlar haricinde kopyalaya-)Tj
+-1.0304 -1.3095 TD
+0.113 Tw
+(maz, de\333i\337tiremez, ruhsat hakk\335n\335 veremez ve da\333\335tamazs\335n\335z. Buna ayk\335r\335)Tj
+T*
+-0.033 Tw
+(herhangi bir kopyalama, de\333i\337tirme, ruhsat hakk\335 verme, veya da\333\335t\335mda bu-)Tj
+T*
+0.043 Tw
+(lunma h\237k\237ms\237zd\237r ve b\232yle bir te\337ebb\237s halinde bu Lisans alt\335ndaki b\237)Tj
+30.04284 0.00001 TD
+0 Tc
+(-)Tj
+-30.0428 -1.3095 TD
+-0.008 Tc
+0.007 Tw
+(t\237n haklar\335n\335z iptal edilir. Sizden, bu Lisans kapsam\335nda kopya veya hak al-)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(445)Tj
+ET
+1 g
+56.693 624.786 320.756 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 173.3302 627.3763 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(GNU Genel Kamu Lisans\335 / GNU Public License (GPL))Tj
+ET
+Q
+
+endstream
+endobj
+8 0 obj
+<<
+/Length 5377
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 90.8629 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.033 Tw
+(m\335\337 olan \237\215\237nc\237 \337ah\335slar, Lisans \337artlar\335na uygunluklar\335n\335 devam ettirdikle-)Tj
+0 -1.30952 TD
+0.025 Tw
+(ri s\237rece, ruhsat haklar\335n\335 muhafaza edeceklerdir. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 90.8629 562.3346 Tm
+0 Tr
+0 g
+-0.007 Tc
+0 Tw
+(5. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 101.7921 562.3346 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.063 Tw
+(Bu Lisans sizin taraf\335n\335zdan imzalanmad\335\333\335 i\215in bu Lisans\325\335 kabul etmek)Tj
+-1.04088 -1.30953 TD
+0.005 Tw
+(zorunda de\333ilsiniz. Fakat, size Yaz\335l\335m\325\335 veya onu baz alan \237r\237nleri de\333i\337tir-)Tj
+0 -1.30951 TD
+0.043 Tw
+(mek veya da\333\335tmak i\215in izin veren ba\337ka bir belge yoktur. E\333er bu Lisans\325\335)Tj
+0 -1.30953 TD
+0.082 Tw
+(kabul etmiyorsan\335z bu eylemler kanun taraf\335ndan sizin i\215in yasaklanm\335\337t\335r.)Tj
+T*
+0.054 Tw
+(Dolay\335s\335yla, Yaz\335l\335m\325\335 (veya onu baz alan bir \237r\237n\237) de\333i\337tirmeniz veya da-)Tj
+0 -1.30952 TD
+0.07 Tw
+(\333\335tman\335z bu Lisans\325\335 ve Lisans\325\335n Yaz\335l\335m\325\335 veya ondan i\337tikak etmi\337 b\237t\237n)Tj
+0 -1.30953 TD
+0.042 Tw
+(eserleri kopyalamak, de\333i\337tirmek ve da\333\335tmak i\215in getirdi\333i \337art ve kay\335tlar\335)Tj
+0 -1.30952 TD
+0.025 Tw
+(kabul etti\333iniz manas\335na gelmektedir. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 90.8629 445.8484 Tm
+0 Tr
+0 g
+-0.007 Tc
+0 Tw
+(6. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 101.243 445.8484 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.011 Tw
+(Yaz\335l\335m\325\335 (veya onu baz alan herhangi bir \237r\237n\237) yeniden da\333\335tt\335\333\335n\335z her)Tj
+-0.98858 -1.33333 TD
+-0.03 Tw
+(defada al\335c\335, ilk ruhsat sahibinden otomatik olarak Yaz\335l\335m\325\335 bu \337artlar ve ka)Tj
+30.0813 0 TD
+0 Tc
+(-)Tj
+-30.0813 -1.33334 TD
+-0.008 Tc
+0.081 Tw
+(y\335tlar dahilinde kopyalamak, de\333i\337tirmek ve da\333\335tmak i\215in ruhsat almakta)Tj
+30.0813 0 TD
+0 Tc
+(-)Tj
+-30.0813 -1.33334 TD
+-0.008 Tc
+0.137 Tw
+(d\335r. Al\335c\335n\335n burada verilen haklar\335 kullanmas\335na ek birtak\335m k\335s\335tlamalar)Tj
+0 -1.33333 TD
+0.039 Tw
+(getiremezsiniz. \206\215\237nc\237 \337ah\335slar\335 bu Lisans mucibince hareket etme\333e mec-)Tj
+T*
+0.025 Tw
+(bur etmek sizin sorumluluk ve y\237k\237ml\237l\237\333\237n\237z alt\335nda de\333ildir. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 90.8629 355.6121 Tm
+0 Tr
+0 g
+-0.007 Tc
+0 Tw
+(7. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 101.0383 355.6121 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.008 Tw
+(E\333er bir mahkeme karar\335 veya patent ihlal iddias\335 veya herhangi ba\337ka bir)Tj
+-0.96909 -1.33333 TD
+0.138 Tw
+((patent meseleleri ile s\335n\335rl\335 olmayan) sebep sonucunda size, bu Lisans\325\335n)Tj
+T*
+0.047 Tw
+(\337art ve kay\335tlar\335na ayk\335r\335 olan birtak\335m \(mahkeme karar\335, \232zel anla\337ma veya)Tj
+T*
+0.052 Tw
+(ba\337ka bir \337ekilde\) k\335s\335tlamalar getirilirse, bu sizi bu Lisans \337art ve kay\335tlar\335-)Tj
+T*
+0.163 Tw
+(na uyma mecburiyetinden serbest b\335rakmaz. E\333er ayn\335 anda hem bu Li-)Tj
+T*
+-0.019 Tw
+(sans\325\335n \337artlar\335n\335 yerine getiren hem de di\333er k\335s\335tlamalara uygun olan bir \337e-)Tj
+T*
+0.098 Tw
+(kilde Yaz\335l\335m\325\335 da\333\335tam\335yorsan\335z, o zaman Yaz\335l\335m\325\335 da\333\335tamazs\335n\335z. \205rne-)Tj
+T*
+0.069 Tw
+(\333in, e\333er bir patent lisans\335 direkt veya endirekt olarak sizden kopya alacak)Tj
+T*
+0.03 Tw
+(olan \237\215\237nc\237 \337ah\335slar\335n bedel \232demeksizin Yaz\335l\335m\325\335 da\333\335tmalar\335na hak tan\335)Tj
+30.08131 0 TD
+0 Tc
+(-)Tj
+-30.08131 -1.33334 TD
+-0.008 Tc
+-0.026 Tw
+(m\335yorsa o zaman sizin hem bu ko\337ulu hem Lisans ko\337ullar\335n\335 yerine getirme)Tj
+30.0813 0 TD
+0 Tc
+(-)Tj
+-30.0813 -1.33334 TD
+-0.008 Tc
+0.025 Tw
+(nizin tek yolu Yaz\335l\335m\325\335 da\333\335tmamak olacakt\335r. )Tj
+0 -1.92725 TD
+0.085 Tw
+(E\333er bu b\232l\237m\237n herhangi bir par\215as\335 herhangi bir \337art alt\335nda uygulana-)Tj
+0 -1.33333 TD
+0.105 Tw
+(maz veya hatal\335 bulunur ise o \337artlar dahilinde b\232l\237m\237n geri kalan k\335sm\335,)Tj
+T*
+0.025 Tw
+(b\237t\237n di\333er \337artlar alt\335nda da b\232l\237m\237n tamam\335 ge\215erlidir. )Tj
+0 -1.92726 TD
+-0.0076 Tc
+(Bu)Tj
+1.41889 0 Td
+-0.008 Tc
+0.024 Tw
+(b\232l\237m\237n amac\335 sizin patent haklar\335n\335, herhangi bir m\237lkiyet hakk\335n\335 ih)Tj
+28.66244 -0.00001 TD
+0 Tc
+(-)Tj
+-30.08133 -1.33333 TD
+-0.008 Tc
+0.156 Tw
+(lal etmenize yol a\215mak veya bu haklar\335n ge\215erlili\333ine muhalefet etmenizi)Tj
+T*
+0.109 Tw
+(sa\333lamak de\333ildir; bu b\232l\237m\237n b\237t\237n amac\335 kamu lisans uygulamalar\335 ile)Tj
+T*
+-0.017 Tw
+(olu\337turulan serbest yaz\335l\335m da\333\335t\335m sisteminin b\237t\237nl\237\333\237n\237 ve i\337lerli\333ini ko-)Tj
+T*
+0.045 Tw
+(rumakt\335r. Bu sistemin tutarl\335 uygulanmas\335na dayanarak pek \215ok ki\337i bu sis-)Tj
+T*
+-0.003 Tw
+(temle da\333\335t\335lan geni\337 yelpazedeki yaz\335l\335mlara katk\335da bulunmu\337tur; yaz\335l\335m\335)Tj
+30.08133 0.00001 TD
+0 Tc
+(-)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(446)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+Q
+
+endstream
+endobj
+9 0 obj
+<<
+/Length 4965
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 538.583 re
+f
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 57.6929 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.003 Tw
+(n\335 bu veya ba\337ka bir sistemle da\333\335tmak karar\335 yazara aittir, herhangi bir kul-)Tj
+0 -1.33333 TD
+0.025 Tw
+(lan\335c\335 bu karar\335 veremez. )Tj
+0 -2.14323 TD
+0 Tw
+(Bu b\232l\237m Lisans\325\335n geri kalan\335n\335n do\333urdu\333u sonu\215lar\335n ne oldu\333unu a\215\335k-)Tj
+0 -1.33334 TD
+0.025 Tw
+(l\335\333a kavu\337turmak amac\335n\335 g\237tmektedir. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 57.6929 526.748 Tm
+0 Tr
+0 g
+-0.017 Tc
+0 Tw
+(8. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 67.4168 526.748 Tm
+0 Tr
+0 g
+-0.018 Tc
+-0.021 Tw
+(E\333er Yaz\335l\335m\325\335n kullan\335m\335 ve/veya da\333\335t\335m\335 baz\335 \237lkelerde telif hakk\335 ta\337\335yan)Tj
+-0.92609 -1.33333 TD
+0.004 Tw
+(aray\237zler veya patentler y\237z\237nden k\335s\335tlan\335rsa, Yaz\335l\335m\325\335 bu Lisans kapsam\335na)Tj
+T*
+0.059 Tw
+(ilk koyan telif hakk\335 sahibi, Yaz\335l\335m\325\335n yaln\335zca bu \237lkeler haricinde da\333\335t\335la-)Tj
+0 -1.33334 TD
+-0.008 Tw
+(bilece\333ine dair a\215\335k bir co\333rafi da\333\335t\335m k\335s\335tlamas\335 koyabilir. B\232yle bir durum-)Tj
+0 -1.33333 TD
+0.025 Tw
+(da bu Lisans bu k\335s\335tlamay\335 sanki Lisans\325\335n i\215erisine yaz\335lm\335\337 gibi kapsar. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 57.6929 450.5118 Tm
+0 Tr
+0 g
+-0.007 Tc
+0 Tw
+(9. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 69.2535 450.5118 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.124 Tw
+(Free Software Foundation zaman zaman Genel Kamu Lisans\335\325n\335n yeni)Tj
+-1.10101 -1.33333 TD
+0.151 Tw
+(ve/veya de\333i\337tirilmi\337 bi\215imlerini yay\335nlayabilir. B\232yle yeni s\237r\237mler mana)Tj
+T*
+0.056 Tw
+(olarak \337imdiki haline benzer olacakt\335r, fakat do\333acak yeni problemler veya)Tj
+T*
+0.025 Tw
+(kayg\335lara cevap verecek \337ekilde detayda farkl\335l\335k arzedebilir. )Tj
+0 -1.92727 TD
+0.012 Tw
+(Her yeni bi\215ime ay\335rdedici bir s\237r\237m numaras\335 verilmektedir. E\333er Yaz\335l\335m)Tj
+0 -1.33333 TD
+0.048 Tw
+(bir s\237r\237m numaras\335 belirtiyor ve \322bu ve bundan sonraki s\237r\237mler\323 alt\335nda)Tj
+T*
+-0.018 Tw
+(da\333\335t\335l\335yorsa, belirtilen s\237r\237m veya Free Software Foundation taraf\335ndan ya-)Tj
+T*
+0.034 Tw
+(y\335nlanan herhangi sonraki bir s\237r\237m\237n \337art ve kay\335tlar\335na uymakta serbest-)Tj
+T*
+0.174 Tw
+(siniz. E\333er Yaz\335l\335m Lisans i\215in bir s\237r\237m numaras\335 belirtmiyor ise, Free)Tj
+T*
+0.2 Tw
+(Software Foundation taraf\335ndan yay\335nlanm\335\337 olan herhangi bir s\237r\237m\237n)Tj
+T*
+0.025 Tw
+(\337art ve kay\335tlar\335na uymakta serbestsiniz. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 57.6929 284.0393 Tm
+0 Tr
+0 g
+-0.007 Tc
+0 Tw
+(10. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 72.8774 284.0393 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.024 Tw
+(E\333er bu Yaz\335l\335m\325\335n par\215alar\335n\335 da\333\335t\335m ko\337ullar\335 farkl\335 olan ba\337ka serbest)Tj
+-1.44614 -1.33333 TD
+-0.001 Tw
+(yaz\335l\335mlar\335n i\215erisinde kullanmak isterseniz, yazara sorarak izin isteyin. Telif)Tj
+T*
+(hakk\335 Free Software Foundation\325a ait olan yaz\335l\335mlar i\215in Free Software Fo-)Tj
+T*
+-0.01 Tw
+(undation\325a yaz\335n, bazen istisnalar kabul edilmektedir. Karar\335m\335z, serbest ya-)Tj
+T*
+0.014 Tw
+(z\335l\335mlar\335m\335zdan i\337tikak etmi\337 yaz\335l\335mlar\335n serbest stat\237lerini korumak ve ge)Tj
+30.04283 0 TD
+0 Tc
+(-)Tj
+-30.04283 -1.33334 TD
+-0.008 Tc
+0.116 Tw
+(nel olarak yaz\335l\335mlar\335n yeniden kullan\335labilirli\333ini ve payla\337\335m\335n\335 sa\333lamak)Tj
+0 -1.33333 TD
+0.025 Tw
+(ama\215lar\335 do\333rultusunda \337ekillenecektir. )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+14.834 0 0 12 57.6929 173.7873 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Garanti Yoktur)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 57.6929 150.118 Tm
+0 Tr
+0 g
+-0.007 Tc
+0 Tw
+(11. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 73.6823 150.118 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.053 Tw
+(Bu yaz\335l\335m \237cretsiz olarak ruhsatland\335\333\335 i\215in, yaz\335l\335m i\215in ilgili kanunla-)Tj
+-1.5228 -1.33334 TD
+0.007 Tw
+(r\335n izin verdi\333i \232l\215\237de herhangi bir garanti verilmemektedir. Aksi yaz\335l\335 ola-)Tj
+0 -1.33333 TD
+0 Tw
+(rak belirtilmedi\333i m\237ddet\215e telif hakk\335 sahipleri ve/veya ba\337ka \337ah\335slar yaz\335-)Tj
+T*
+0.01 Tw
+(l\335m\335 \322oldu\333u gibi\323, a\337ikar veya zimnen, sat\335labilirli\333i veya herhangi bir ama)Tj
+30.04284 0.00001 TD
+0 Tc
+(-)Tj
+-30.0428 -1.3333 TD
+-0.008 Tc
+0.059 Tw
+(ca uygunlu\333u da dahil olmak \237zere hi\215bir garanti vermeksizin da\333\335tmakta-)Tj
+T*
+0.082 Tw
+(d\335rlar. Yaz\335l\335m\335n kalitesi veya performans\335 ile ilgili t\237m sorunlar size aittir.)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(447)Tj
+ET
+1 g
+56.693 624.786 320.756 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 173.3302 627.3763 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(GNU Genel Kamu Lisans\335 / GNU Public License (GPL))Tj
+ET
+Q
+
+endstream
+endobj
+10 0 obj
+<<
+/Length 4159
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 90.8629 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.018 Tw
+(Yaz\335l\335mdaki herhangi bir bozukluktan dolay\335 do\333abilecek olan b\237t\237n servis,)Tj
+0 -1.33333 TD
+0.025 Tw
+(tamir veya d\237zeltme masraflar\335 size aittir. )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 90.8629 563.2519 Tm
+0 Tr
+0 g
+-0.007 Tc
+0 Tw
+(12. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 107.285 563.2519 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.094 Tw
+(\334lgili kanunun icbar etti\333i durumlar veya yaz\335l\335 anla\337ma haricinde her-)Tj
+-1.56401 -1.33333 TD
+0.017 Tw
+(hangi bir \337ekilde telif hakk\335 sahibi veya yukar\335da izin verildi\333i \337ekilde yaz\335l\335-)Tj
+T*
+0.008 Tw
+(m\335 de\333i\337tiren veya yeniden da\333\335tan herhangi bir ki\337i, yaz\335l\335m\335n kullan\335m\335 ve-)Tj
+0 -1.33334 TD
+0.014 Tw
+(ya kullan\335lamamas\335 \(veya veri kaybi olu\337mas\335, verinin yanl\335\337 hale gelmesi, si-)Tj
+0 -1.33333 TD
+(zin veya \237\215\237nc\237 \337ah\335slar\335n zarara u\333ramas\335 veya yaz\335l\335m\335n ba\337ka yaz\335l\335mlarla)Tj
+T*
+0.023 Tw
+(beraber \215al\335\337amamas\335\) y\237z\237nden olu\337an genel, \232zel, do\333rudan ya da dolayl\335)Tj
+0 -1.33334 TD
+0.045 Tw
+(herhangi bir zarardan, b\232yle bir tazminat talebi telif hakk\335 sahibi veya ilgili)Tj
+0 -1.33333 TD
+0.025 Tw
+(ki\337iye bildirilmi\337 olsa dahi, sorumlu de\333ildir.)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+14.834 0 0 12 90.8629 441 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(\336art ve Kay\335tlar\335n Sonu )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+12.98 0 0 10.5 90.8629 420.4999 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Bu \336artlar Yeni Yaz\335l\335mlara Nas\335l Uygulan\335r?)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 90.8629 398.4999 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.09 Tw
+(E\333er yeni bir yaz\335l\335m geli\337tiriyor ve bunun kamuya en fazla d\237zeyde yarar)Tj
+0 -1.33333 TD
+-0.036 Tw
+(sa\333lamas\335n\335 istiyorsan\335z, yaz\335l\335m\335n\335z\335 herkesin da\333\335t\335p, de\333i\337tirebilece\333i \232zg\237r)Tj
+T*
+0.025 Tw
+(yaz\335l\335m haline getirmenizi \232neriyoruz. )Tj
+0 -2.3652 TD
+0.036 Tw
+(Bu ko\337ullar\335 uygulamak i\215in yaz\335l\335ma a\337a\333\335daki bildirimleri ekleyin. En sa\333-)Tj
+0 -1.33333 TD
+0.073 Tw
+(l\335kl\335 y\232ntem her kaynak kodu dosyas\335n\335n ba\337\335na bu bildirimi ekleyerek ga-)Tj
+T*
+0.173 Tw
+(ranti olmad\335\333\335na dair bilginin verildi\333inden emin olmakt\335r; her dosya en)Tj
+T*
+0.023 Tw
+(az\335ndan \322copyright\323 (telif hakk\335) sat\335r\335n\335 ve bildirimin tam metninin nerede)Tj
+T*
+0.025 Tw
+(bulunabilece\333ine dair bilgi i\215ermelidir. )Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+10.5 0 0 10.5 105.0362 264.8306 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+({yaz\335l\335m\335n ad\335n\335 ve ne yapt\335\333\335n\335 anlatan bir sat\335r.} )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 105.0362 249.4133 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(Copyright (C))Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+10.5 0 0 10.5 167.6381 249.4133 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+({y\335l} {yazar\335n ad\335})Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 105.0362 226.5786 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.088 Tw
+(This program is free software; you can redistribute it and/or modify it)Tj
+0 -1.33333 TD
+-0.022 Tw
+(under the terms of the GNU General Public License as published by the)Tj
+T*
+0.098 Tw
+(Free Software Foundation; either version 2 of the License, or \(at your)Tj
+T*
+0.025 Tw
+(option\) any later version. )Tj
+0 -2.3652 TD
+0.041 Tw
+(This program is distributed in the hope that it will be useful, but WIT)Tj
+28.73147 0.00001 TD
+0 Tc
+(-)Tj
+-28.73147 -1.33334 TD
+-0.008 Tc
+0.268 Tw
+(HOUT ANY WARRANTY; without even the implied warranty of)Tj
+T*
+0.032 Tw
+(MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPO-)Tj
+T*
+0.025 Tw
+(SE. See the GNU General Public License for more details. )Tj
+0 -2.3652 TD
+0.082 Tw
+(You should have received a copy of the GNU General Public License)Tj
+0 -1.3333 TD
+0.124 Tw
+(along with this library; if not, write to the Free Software Foundation,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(448)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+Q
+
+endstream
+endobj
+11 0 obj
+<<
+/Length 4175
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 538.583 re
+f
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 71.8661 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA )Tj
+-1.34983 -2.55568 TD
+0.036 Tw
+(Size normal ve elektronik posta ile nas\335l ula\337\335labilece\333ine dair bilgi ekleme-)Tj
+0 -1.33333 TD
+0.025 Tw
+(yi unutmay\335n. )Tj
+0 -2.55569 TD
+0.068 Tw
+(E\333er yaz\335l\335m\335n\335z interaktif ise, interaktif kipte ba\337lat\335ld\335\333\335 zaman g\232sterilen)Tj
+0 -1.33333 TD
+0.025 Tw
+(k\335sa bir bildirim koyun. )Tj
+1.34983 -2.07949 TD
+(Gnomovizyon version 69, Copyright (C) )Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+10.5 0 0 10.5 246.7456 494.8346 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(y\335l yazar\335n ad\335)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 71.8661 479.4172 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.076 Tw
+(Gnomovizyon comes with ABSOLUTELY NO WARRANTY; for de)Tj
+28.69301 0 TD
+0 Tc
+(-)Tj
+-28.69301 -1.33334 TD
+-0.008 Tc
+0.014 Tw
+(tails type `show w\325. This is free software, and you are welcome to redist-)Tj
+0 -1.33333 TD
+0.025 Tw
+(ribute it under certain conditions; type `show c\325 for details. )Tj
+0 -2.26996 TD
+(Gnomovizyon s\237r\237m 69, Telif hakk\335 (C) )Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+10.5 0 0 10.5 246.3468 427.5826 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(y\335l yazar\335n ad\335)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 71.8661 412.1652 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.113 Tw
+(Gnomovizyon i\215in H\334\202B\334R GARANT\334 verilmemektedir; detaylar i\215in)Tj
+0 -1.33333 TD
+-0.018 Tw
+(`show w\325 yaz\335n. Bu bir serbest yaz\335l\335md\335r ve belli ko\337ullar alt\335nda yeniden)Tj
+T*
+0.025 Tw
+(da\333\335t\335labilir; detaylar i\215in `show c\325 yaz\335n. )Tj
+-1.34983 -2.3652 TD
+0.056 Tw
+(\205rnekte verilen `show w\325 ve `show c\325 komutlar\335 GNU Genel Kamu Lisan-)Tj
+0 -1.33333 TD
+-0.037 Tw
+(s\335\325n\335n ilgili b\232l\237mlerini g\232stermelidir. Elbette kullan\335lan komutlar daha fark-)Tj
+T*
+0.025 Tw
+(l\335 olabilir veya yaz\335l\335m\335n\335za uyan ba\337ka y\232ntemlerle bu bildirim yap\335labilir. )Tj
+0 -2.55568 TD
+-0.015 Tc
+0.032 Tw
+(\334\337vereninizin (e\333er programc\335 olarak \215al\335\337\335yorsan\335z) veya, e\333er \232\333renci iseniz,)Tj
+0 -1.33333 TD
+0.034 Tw
+(okulunuzun telif haklar\335ndan feragat ettiklerine dair bir feragatname imzala)Tj
+30.04281 0.00001 TD
+0 Tc
+(-)Tj
+-30.04281 -1.33334 TD
+-0.015 Tc
+0.025 Tw
+(malar\335n\335 isteyebilirsiniz. A\337a\333\335da bir \232rnek yer almaktad\335r, isimleri de\333i\337tirin: )Tj
+1.34983 -2.3652 TD
+-0.008 Tc
+0.105 Tw
+(Gereksiz\334\337ler, A.\336., Mehmet Herhangibiri taraf\335ndan yaz\335lm\335\337 `Abidik-)Tj
+0 -1.33333 TD
+0.012 Tw
+(Gubidik\325 yaz\335l\335m\335nda (kap\335kolu \215evirmekte kullan\335lan bir yaz\335l\335m) olabi)Tj
+28.69299 0 TD
+0 Tc
+(-)Tj
+-28.69299 -1.33334 TD
+-0.008 Tc
+0.025 Tw
+(lecek b\237t\237n telif haklar\335ndan feragat eder. )Tj
+0 -2.17473 TD
+0 Tc
+({)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+10.5 0 0 10.5 75.2814 200.8266 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(Y\232n Etici \334mzas\335)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 144.5293 200.8266 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(}, 1 April 1990)Tj
+-6.9203 -1.46831 TD
+(Y\232n Etici, Gereksiz\334\337ler Yetkilisi)Tj
+-1.34983 -2.17474 TD
+0.03 Tw
+(Bu Genel Kamu Lisans\335 yaz\335l\335m\335n\335z\335n serbest olmayan yaz\335l\335mlar\335n i\215erisine)Tj
+0 -1.33333 TD
+0.006 Tw
+(dahil edilmesine imkan tan\335maz. E\333er yaz\335l\335m\335n\335z bir kitapl\335k ise, serbest ol-)Tj
+T*
+0.098 Tw
+(mayan yaz\335l\335mlar\335n kitapl\335\333\335n\335za ba\333lanmas\335na imkan tan\335mak isteyebilirsi-)Tj
+0 -1.33334 TD
+-0.023 Tw
+(niz. E\333er yapmak istedi\333iniz bu ise, bu Lisans yerine GNU K\335s\335tl\335 Genel Ka-)Tj
+T*
+0.025 Tw
+(mu Lisans\335\325n\335 kullanabilirsiniz. )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9.5 0 0 9.5 241.0179 91.1573 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(\202eviren: Deniz Akku\337 Kanca, 2001)Tj
+-2.41458 -1.62287 TD
+(Translated by: Deniz Akku\337 Kanca, 2001)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(449)Tj
+ET
+1 g
+56.693 624.786 320.756 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 173.3302 627.3763 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(GNU Genel Kamu Lisans\335 / GNU Public License (GPL))Tj
+ET
+Q
+
+endstream
+endobj
+12 0 obj
+<<
+/Length 3665
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+12.98 0 0 10.5 231.6962 598.2744 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(Sons\232z)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 90.8629 575.0571 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.107 Tw
+(Bu kitap, LINUX d\237nyas\335na \322ilk ad\335m\335n\335z\335\323 atman\335z\335 sa\333lad\335ysa ne mutlu)Tj
+0 -1.31428 TD
+0.025 Tw
+(bize.  )Tj
+0 -2.53664 TD
+0.044 Tw
+(LINUX ve do\333al olarak UNIX d\237nyas\335ndaki yolculuk uzun, heyecanl\335, ke-)Tj
+0 -1.31429 TD
+-0.005 Tw
+(yifli ve yorucu bir deneyimdir. \334yi bir UNIX sistem y\232neticisi olabilmek i\215in)Tj
+T*
+0.022 Tw
+(y\335llarca \215al\335\337mak gerekir. \334yi bir di\337 hekimi, iyi bir cerrah olabilmek i\215in na-)Tj
+T*
+0.016 Tw
+(s\335l zamana ve en \232nemlisi mesle\333in ara\215lar\335n\335 iyi tan\335ma ve kullanma beceri-)Tj
+T*
+-0.009 Tw
+(lerini geli\337tirmeye gereksinim varsa; UNIX d\237nyas\335nda da i\337letim sisteminin)Tj
+T*
+0.025 Tw
+(ara\215lar\335n\335 iyi \232\333renmeye ve kullanma becerilerini geli\337tirmeye gerek vard\335r.)Tj
+0 -2.53663 TD
+0.014 Tw
+(Bu kitab\335 okumakla LINUX \232\333renmediniz. Olsa olsa korkmamay\335 \232\333rendi-)Tj
+0 -1.31429 TD
+0.039 Tw
+(niz. Bu kitapta bir iki sat\335rla anlat\335lan bir\215ok konunun her biriyle ilgili y\237z-)Tj
+T*
+-0.004 Tw
+(lerce sayfal\335k kitaplar var. Onlar\335 da bir okuyun; ondan sonra tekrar g\232r\237\337e-)Tj
+T*
+0.043 Tw
+(lim. LINUX/UNIX sistem y\232neticili\333i bir meslektir. Tek bir kitap; hele gi)Tj
+30.08133 0 TD
+0 Tc
+(-)Tj
+-30.08133 -1.31428 TD
+-0.008 Tc
+0.014 Tw
+(ri\337 d\237zeyinde bir kitap okumakla bir meslek edinmeyi ummuyordunuz her-)Tj
+0 -1.3143 TD
+0 Tw
+(halde...)Tj
+0 -2.53663 TD
+0.069 Tw
+(T\237m bili\337im konular\335nda oldu\333u gibi bir i\337letim sistemini kullanmay\335 oku-)Tj
+0 -1.31428 TD
+0.056 Tw
+(yarak \232\333renemezsiniz. Denemeli, u\333ra\337mal\335, ara\337t\335rmal\335, a\215 ve uykusuz kal)Tj
+30.08131 0 TD
+0 Tc
+(-)Tj
+-30.08131 -1.31429 TD
+-0.008 Tc
+0.047 Tw
+(mal\335s\335n\335z. E\333er LINUX d\237nyas\335na ciddi bir \337ekilde girmek istiyorsan\335z size)Tj
+T*
+0.045 Tw
+(tek bir \232neride bulunabiliriz: bilgisayar\335n\335zdaki LINUX d\335\337\335ndaki t\237m i\337le-)Tj
+0 -1.31428 TD
+-0.019 Tw
+(tim sistemlerini silin. Eskiden beri di\333er i\337letim sistemiyle yapmakta oldu\333u-)Tj
+0 -1.31429 TD
+0.074 Tw
+(nuz i\337leri LINUX ile yapmaya \215al\335\337\335n. Unutmay\335n; akl\335n\335za gelebilecek her)Tj
+0 -1.31428 TD
+0.099 Tw
+(t\237rl\237 sorunun \215\232z\237m\237 LINUX\325ta vard\335r; b\237t\237n mesele bu \215\232z\237m\237 bulup)Tj
+0 -1.31429 TD
+0.025 Tw
+(uygulayabilmektedir.   )Tj
+0 -2.53664 TD
+-0.01 Tc
+0.121 Tw
+(LINUX i\337letim sistemine bir kez al\335\337t\335ktan ve onu y\232netmeyi \232\333rendikten)Tj
+0 -1.31429 TD
+0.062 Tw
+(sonra di\333er i\337letim sistemleri; \232zellikle de Windows ailesinin sunucu \232zelli-)Tj
+0 -1.31428 TD
+0.008 Tw
+(\333ine sahip olan s\237r\237mleri size \215ok zay\335f gelecektir. Bug\237ne kadar UNIX/LI-)Tj
+T*
+-0.037 Tw
+(NUX d\237nyas\335n\335 b\335rak\335p Windows ortam\335na ge\215en profesyonele hi\215 rastlama-)Tj
+0 -1.31429 TD
+-0.036 Tw
+(d\335k ama tersini \215ok g\232rd\237k. G\232zlem s\237resi yazarlardan gen\215 olan\335 i\215in 3-4 y\335l,)Tj
+T*
+0.025 Tw
+(ihtiyar olan\335 i\215in Windows\325un tarihi kadar uzundur.)Tj
+0 -2.89854 TD
+-0.008 Tc
+(UNIX d\237nyas\335na ho\337geldiniz. )Tj
+18.1269 -2.53663 TD
+(\205mer Ayfer - Can U\333ur Ayfer)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(450)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+Q
+
+endstream
+endobj
+13 0 obj
+<<
+/Nums[0<</St 441/S/D>>]
+>>
+endobj
+14 0 obj
+<<
+/Type/Encoding
+/Differences[32/space 40/parenleft/parenright 44/comma 49/one/two 57/nine 63/question 66/B 68/D/E 71/G/H 75/K/L 78/N 80/P 83/S 85/U 89/Y 97/a/b/c 101/e 103/g 105/i 107/k/l/m/n/o/p 114/r/s/t/u/v 121/y/z 154/odieresis 159/udieresis 219/currency/guilsinglleft/guilsinglright/fi/fl]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+15 0 obj
+<<
+/Subtype/Type1C
+/Length 3885
+/Length1 3885
+>>
+stream
+  HUXBHT+Univers-CondensedBold   ?ø øøøø8ûvú|ú]
+ ‹‹
+ ‹‹  @  <  ‘  ' &Ÿ´»ÈMacromedia Fontographer 4.1.5 21/1/97Copyright [c] 1987 Adobe Systems Incorporated. All rights reserved.Univers is a registered trademark of Linotype Company.Univers CondensedBoldUniversCondensedBold  -  ( F O M  , B N V - J T l / 6 	 1 
+ 4 à S   ) [   n C D & P Q Z % g U W k H m : L #   Ú /   } à!MÕYl‹Cz±ì#šîdw—¸ÙL†ÓòN»â	.	Õ
+
+9
+V
+ÜŸÅòT³(û*Êøù£üı£ÉÊù&÷ı&ûdø³øˆ÷)”2àû+ûAe>ftZ7ûû'š)ª\Q°Ún÷ÁÏ“›İøû}ûİû4‚pr†t3w¶÷sæÉ“¬Á˜¦¦µ°¤~r˜–xnŠc÷*û*÷N÷É®¤›¨”™§¨Ÿ}p”|qfû÷¢<êÎt´mÂP¦4‹6‹RrlXuf€O‹8‹0—K¢d©YÄrß‹÷‹ÙÈ÷û#Owmc`v½ï÷¢û*÷Yøû!ü÷!÷ğÀ¦®®pVûğ÷!ø)ÏTµDUcwbr‰¾üÏùfıf÷!ùfû!ü@-÷`ø1÷Éû*ıf÷+ø÷Aü÷>û^ø"÷^÷Øû:ûHûÉû*÷Á÷ˆRŠiˆ~a‚uvhhz¦À³—¤¢––¨º÷ñÂ€²t¤¬lSœ:R_€ulhrzbR÷¤–š“š“¡¢›„}”‘yrd7ŒO„hzUrpZ‹@‹ ¸Uä‹Æ‹·¥¨¾‘H÷†»‰ªš÷Ó÷Nøû!ü÷!÷ğÀ¦®®pVûğ÷÷ğÀ¦®®pVûğ÷!ø)ÏTµDT_v`k¶rf XUcwbr‰¾û*÷Ã÷&ˆ°‰¬©ø)û!ûòWyqhhy¥¿÷òû!ü)i˜p¤wx¢©®Á³Ÿ´¤XûbøM÷ûvøîû+ıføü÷eøû!ü÷!øû!÷mû÷!÷û!ûb§÷6‡I›]°pªu¼€Ï‹÷‹ÕÌ‹ä‹ºv±`ª~”c Hª`ŸvŸ‹ ‹¯›«‹”‹“Š‘‰„”sa÷¾{³g¦k¤a—V‹U‹^hw`ruf‹Y‹] f¶o³x³w³x¶v r‹n‹hzzh‹pz“›„…˜‰ŸŒ§ûü÷eøû!ü÷!øœ÷aø¤÷Yü¤÷[ùfû!üˆ‰ûTøˆû`ıf÷!dø$ùfüŠ8kbKMl´ŞøŠû+ü”EŸU´ecµÉwÜàË£º¶®²½Éø”û+ü÷ù‡DûHhû# K—@¢4•h£A°ûÚ}Ï}Ï~Î{âƒÛ‹Ö‹ô¡÷$¶÷J<-÷kø÷×Ã§gBr„u}xv|yu7÷bû+ü÷÷+÷º÷÷ÎÒ÷!÷$KÓûû¤ıfü÷ûÒ÷H®÷#öËÖtâ®sÕf÷<™G™G™Hš4“;‹@‹"uû$`ûJÚ-ø“÷YÌqÁV¶ˆZ¨-ÃVªq­‹°‹¾¥¥¿‹º‹¢g‹B÷'÷%”EÓû)û3<GûN¥VÀ_ˆ»lêPÀj¥i‹h‹TrpX‹f‹r˜¤ƒ›‡©‹¶û+Š€‹ûÓG÷#ÕÃ–¢²Â¬§ÆŞû*÷Ã÷&ˆ°‰¬©ø)û!ûòWyqhhy¥¿÷òû!ü)i˜p¤wx¢©®Á³Ÿ´¤XwùNû ÷÷ ûûEû ÷÷ ûûÑÃøü÷!÷§°‘¥–›¦¯–Âˆ÷J`rYt‰Ìûûbø>÷ ûàé¿È ¦Îæ­Ú‹Î‹÷GÇû‹û‹EB”û÷!ª¡‘™¡”œ–¥®t^ez`jZC,C-C,ûø2ü@¤*ë×÷yûbûyd÷oøE÷µû+ıf÷+÷Ö÷AûÖ÷+ùfû+ûµûAû™÷ÿøûá1÷SûZûÏ'÷ëåû`÷]÷Ïïûb¼ø_¹¤²¥¬¦ü­÷+ùNûne^gNiûûb÷4ø{ŞŸ´´´ c:8vbacw³Üûû×ŠL›]¬p¨rºË‹æ‹Ç±¨Ö¹”Ü‹÷‹÷ƒàz¶oÒO¯.‹û‹I8‹û9‹W–`¢ic¥±w½º±šªª(‰Qˆzj…x{khz£ºû ûb§÷6‡I›]°pªu¼€Ï‹÷‹ÕÌ‹ä‹ºv±`ª~”c Hª`ŸvŸ‹ ‹¯›«‹”‹“Š‘‰„”sa÷¾{³g¦k¤a—V‹U‹^hw`ruf‹Y‹] f¶o³x³w³x¶v r‹n‹hzzh‹pz“›„…˜‰ŸŒ§ûÛûşz²®‚¨¬¦’š¢¤œ˜¤ª£x™—zv‘r„„Šˆƒ‰·ÅZI3¡x•—™‹¬œtpw}b|u–oxcû*÷’Øoy£¼„ˆœŠ®ÂÊ´«’œ›¥¦{k“xbLTŠgˆz[ƒxsnûZ>÷Ã_¢³uÃÊµªÊŸ–¬ÅÜÚ†Ã€¬Èxb©MXexdq‰÷û!ıfû*øZ÷Ù÷GÊû6RrXluf€O80—K¢dY©Ärß÷ĞÌ÷û!Duh`W~­÷-Æ²’Ÿ¦”˜§¸pB÷!û*øe÷û÷g÷t÷ût÷F÷‡÷üıfø&û*÷ÛW~­÷-Æ²’Ÿ¦”˜§§~p”’wdPû-~iW1ßÄ¤½©¢²—ËæŞ€Çu°¾lR¤66RrXluf€O80—K¢dY©Ärßû*÷’Øoy£¼„ˆœŠ®ÂÊ´«’œ›¥¦{k“xbLTŠgˆz[ƒxsnûZø@ıf÷!÷d¥±x¾É´©È–¬ÃÚÜ†Å€¬ÊwaªLScu_t‰ÃûûbçûS÷(÷WùLû?û÷‰C÷÷û ÷ü‘UûOd÷mø÷Ùº©rYš”lQ5,„K~ie|mx^Bøˆû+ü÷÷Š÷Óºé­›·“Öô÷}ãn¿ÊhKª.ûıfû*÷J÷ÌŒ²–¾’Ÿ¤«£›|m“‘t`LZŠjˆ{bƒyvonx¯ƒˆš‰¨¸÷÷ P‰¹xe¢SJ`oSu~i…S=7R–mRŸ·oÏ½¯Ÿ² *Szohdw£ºû'ÍY÷÷ËÅ÷ø¢ûûw÷U.ÆVçèËÁç”RZ€irSMg¤¼‚RüŠø6ÄûËr“tšwn£±|Àœ¤ªâŠ†ƒŠv~‘–…ˆ’‰›¢÷¢ÔâB÷#û!L;R4ûb÷"÷/÷øûAü‰Døû#÷üü÷jùfû+ıf÷+ûùíû ÷÷ ûû*÷J÷ÌŒ²–¾’Ÿ¤«£›|m“‘t`LZŠjˆ{bƒyvonx¯ƒˆš‰¨¸÷÷ P‰¹xe¢SJ`oSu~i…S=7R–mRŸ·oÏ½¯Ÿ² *Szohdw£ºû'ÍY÷÷ËÅ÷ø¢û-ø“÷YÌqÁV¶ˆZ¨-ÃVªq­‹°‹¾¥¥¿‹º‹¢g‹B÷'÷%”EÓû)û3<GûN¥VÀ_ˆ»lêPÀj¥i‹h‹TrpX‹f‹r˜¤ƒ›‡©‹¶û+Š€‹ûÓG÷#ÕÃ–¢²Â¬§ÆŞûîü!z²®‚¨¬¦’š¢¤œ˜¤ª£x™—zv‘r„„Šˆƒ‰·ÅZI3¡x•—™‹¬œtpw}b|u–oxc-÷X÷+÷÷^ølû.ûûÅû ÷Åû9÷Qülûû*÷V÷§÷û§÷3û3÷¬÷#÷uû'ûûi‰øBû!ıf÷!d÷l÷ĞãÎ¬iFGhiF7÷a÷»è¾¯dVk‚sy{~|z„w&÷L÷ü÷÷)ÕË÷Á‚´y§v¬gŸX’İ›´ÀåÒv¾b¨£jZ—Iû ıf÷Ÿûb÷÷UÓ ’¡š¡‘› ¨®ºÅ£Ç‹È‹¿y´h¨j¦`™V‹8‹TroX|p„`‹P÷¬¢˜¢’›–£²s[O û'‹R$ò•ûU÷ûû÷û*÷ÛW~­÷-Æ²’Ÿ¦”˜§§~p”’wdPû-~iW1ßÄ¤½©¢²—ËæŞ€Çu°¾lR¤66RrXluf€O80—K¢dY©Ärß¬ùXû ÷÷ ûûEû ÷÷ û÷rù
+endstream
+endobj
+16 0 obj
+<<
+/StemV 0
+/FontName/HUXBHT+Univers-CondensedBold
+/XHeight 0
+/FontBBox[-83 -226 1000 969]
+/Ascent 969
+/ItalicAngle 0
+/FontFile3 15 0 R
+/Flags 262176
+/Descent -226
+/Type/FontDescriptor
+/CapHeight 969
+/StemH 0
+>>
+endobj
+17 0 obj
+<<
+/BaseFont/HUXBHT+Univers-CondensedBold
+/Name/F0
+/Widths[222 0 0 0 0 0 0 0 278 278 0 0 222 0 0 0 0 444 444 0 0 0 0 0 0 444 0 0 0 0 0 444 0 0 611 0 611 500 0 611 611 0 0 556 444 0 667 0 556 0 0 556 0 611 0 0 0 556 0 0 0 0 0 0 0 500 500 500 0 500 0 500 0 278 0 500 278 722 500 500 500 0 333 444 278 500 444 0 0 444 389 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 0 0 0 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 278 278 556 444]
+/LastChar 223
+/FirstChar 32
+/FontDescriptor 16 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 14 0 R
+>>
+endobj
+18 0 obj
+<<
+/Type/Encoding
+/Differences[32/space 40/parenleft/parenright 44/comma/hyphen/period/slash/zero/one/two/three/four/five/six/seven/eight/nine/colon/semicolon 65/A/B/C/D/E/F/G/H/I 75/K/L/M/N/O/P 82/R/S/T/U 87/W/X/Y 96/grave/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p 114/r/s/t/u/v/w/x/y/z/braceleft 125/braceright 130/Ccedilla 133/Odieresis/Udieresis 141/ccedilla 154/odieresis 159/udieresis 169/copyright 210/quotedblleft/quotedblright 213/quoteright 219/currency/guilsinglleft/guilsinglright/fi/fl]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+19 0 obj
+<<
+/Subtype/Type1C
+/Length 11520
+/Length1 11520
+>>
+stream
+  BZPQAG+SimonciniGaramond   @ø øøøøûûrú|úW
+ ‹‹
+ ‹‹       É‘  ,ú %œ­Macromedia Fontographer 4.1.5 8/9/97Copyright [c] 1990 Adobe Systems Incorporated.  All Rights Reserved.Simoncini Garamond is a trademark of Simoncini S.A.SimonciniGaramond  S  5 I J T  B O U S M P G F ( / 6 1 V C D - L  * X Q E Z ' 4  H N  & Y ) W # , l 	 
+ à Î  n [ g k ª       . "   Ú : ½ 0   K i w % Ã  $ 8 3  | ± m \ ^ 9  U   £L° C¢	XÀ7¥Dı—"¨	0	‘
+
+¹
+Ğ.å~¥SÒöÔÒÃ}R½l1y·ô£Fjo‡û¡òVìVÆ*Ãz  ´!@!¢!Í!á"?"„"É#[$$W$»%¶&d&Ô&÷'(](Û)X**ƒû*ÊøùœüıœÉÊù÷ıû‰÷6‡º¾ŒÄ¼ÀŠˆÄ©kszŒzŒ€ˆ’‡’‰œ‹¨ø¡º¶Â¹§†‚•˜€”dJ¦§÷Qr{„bƒBû³Jly“†˜r`ûP¦™ª™ª—Ÿ•–¢¡¤—§â¦‡rü›8‡„Z‡nˆt‰|Šmû™‡Ş¯Œ€šŠŠ¡‰¨‹§ar‡•‹®÷ «¸´›®¢ …œ |–vpje‹_‹B‹lŒ˜ˆ[ry‰Y…o³°Œ¬©«Šˆ®§kp‰‹®¤‘÷+‹¯ô\¿-bgwl^c‹÷,÷÷pjva}Z‚s¬Ÿ†‚‘”~=û#üh‡rˆ`‡oüœ‡¼±Œ¤£±Šˆ¿§h[‘‹÷W÷à’¾vs^s‚?„s«‚z‘[5ûEƒ^†h‡oÊùo™}§«¨¨«¨}šp}~†‚|€ƒzvû¬·—w¬³»Àµ˜¤¨¦£™ª°Às²[¤$Àt—{–„–…“ˆ—š®­£º½«nQ™¬…îf—e‘d‹/QXFZ¦dÂpè\°xt‹pbeg[qu”œxvŸ~§†°eûü$ûb÷±÷˜ûAJGSGr’vš{yœ¡‚§¶¾¤¼ÅZœ£r¨¤®§¨—…¤€w}|‹}„±À÷‹¿Õi°G4û.H{”ƒ° ¶¨–¡ š—œŸ‘£³ŸkLZû	rˆy†€n|^sfht ªÀÁ»÷·1û÷,øétvdjw]ˆs ˆ˜‡’†–„~‹zûŒh‡rˆ`‡oŞ¯Œ€šŠŠ¡‰¨‹§ar‡•‹®÷ «¸´›®¢ …œ |–vpje‹_‹B‹lŒ˜ˆ[ry‰Y…o³°Œ¬©«Šˆ®§kp‰‹®¤‘÷+‹¯ô\¿-bgwlX^ûãøÑû…û ‹dA£f»²»°Ã€ l|m„n‹x~–¢…ˆ–Š¦‹³ÅŒÒŒ»¥÷µû‰£Š™˜Œ¤q|i~r~|zvr{k€yû¬¯‡À³Œ¦¦³ŠˆÀ§Z`†’‹¬÷›­±¤œ–— Y´¡––¢˜‡˜‚š{•wlarYVétvdjw]ˆs ˆ˜‡’†–„~‹zûŒh‡rˆa‡oü¡ùP¬Ÿ†‚‘”~=û#û~ûE‚^‡\‡oÌµŒœ£±Šˆ¿§h[‘‹÷W÷÷L÷	pjva}Z‚sû÷¨—Yc£¼mpµ~¼Ã¼˜µ¤­¥°¬œ²Š»Š°t¦_¤b˜VŒHŒc„i}nv_huX‹ûˆ÷]PW²^Y¶ÃrÏĞÃ¤¾·´¹ŸÀÈÈy½g´ºbR¢Bû%(ûûãøÔMŒRXûEƒ^†h‡o¼±Œ¤»Šˆç§J[‘ƒ‹÷W÷>÷µû…÷4¼”±¤Ÿš•¡¬ dŸ–•”’’’””§t™^T\rZf`Rv: mwŠr‰n‡sûbø'âiebz_+;ã÷•Œ•Œ”•«ŒÀßÖ¹Šˆ›µ{¯lª¬i`›Wû1!ûûâ+÷ÖÉ§Ä»vŸJ÷…v‡0†û …~Š„‹“ ˜¢¥£¥¨©˜¬Ãµi[÷9øv÷®—›ŠŠ‰£›‹’ªŠƒ Nˆj††iiSz=IL§ÂPCÎgáö÷±ç×É¸ÂÈ¡Í÷ÚTû¥¬…÷1³1Ÿ0‹(3jH>7Aa.ûûk÷3û-÷iæßœ­Ù”—•˜’Œœ‹¦¿Š ‹™‘Ë¬¨œŒ©ˆSYŠ^jXŒGm÷&­‡³­Œ§«®Šˆ°­^w€˜Š¤†÷mˆ÷DŠ÷÷Nûr÷9ûc÷$ûU¦ê÷&÷÷÷Ç””””œŒ¥‹©„x‹‰pŠvyŠ}ƒ‹Œ{uuŒum¶¤†’”ûûy7Šg‹owû5÷Qû*÷Sû ÷VnˆtŠ{‹x‹oŒfkĞ–•ûûß…ûA€}†„t†dˆiæøù@¼Š¦‡’†”„û‹û›‹û7B:û&‹û
+‹PÉ‹÷‹˜‹›ŒŒ£‹™‹÷¶Œ®£—•‘’Œ©¦£Œ©ˆGXŠio`ŒRmÚˆ‰füHE£T¼cdºÉwÚáÍ£º¸µ¶¡ÈØ—ø/Œ’—˜›Œ¤‹©ˆdiŠmreŒZmd÷÷»ˆ£¦Š¨ÒÇ°º½³¤ÀÌ÷+ãû W7‡‹jYSŒNm÷ƒ~³û{û˜û{µo‡Šp‰`ˆmÆ¿Œ¹¿ÀŠˆÂ©û“—c÷{÷š°è‹¯§’ÒÆ»|n®±k]OY{bklhgXyI~}Œ|gû÷Ãø"¥ŠœŠ’Š’‰‘‡‘†…U‹&‹<‰Y‡xZiazf‹P‹n±‹Ö‹­ì÷4fˆ[‰PŠs¬Šˆ‘…‡‹x‹Jˆ?‹X‹X‘e—r `²uÅ‹À‹Á¡Á¸“su‹v¡¨­”²¤K‹…Ô÷-÷ ÌbˆW‰KŠs-øD÷N/G?4>V½Ú›Ë÷ª¶²›­ìÍ3ûûóÒg‚û^‹sˆŒ‰‰’œ—¢¦t°¼ÈÙÈ¥¿¶¯¶¾ÆÊx¾d²°g_Vhl†‚rv‚r|nv‹÷-÷÷pjva}Z‚s¬Ÿ†‚‘”~=û#ûWûbø"Ïvhf€dZc ´ln°}¸¾Æœ¹­­¦¦©˜¬® {k”•šƒ˜„–ˆ–‹‹””‹œ‹È[ª,‹G‹Ss_Za]vR‹F‹û	æ+÷‹Ê‹À£¶º}šw¡‡÷+ïŒ¼¶ÜŠˆ÷	²÷Noh?|jxxu„ƒqJ‡#p{‹Œˆ|ƒ•œß‡÷tä÷b÷”§ˆZ[Š^bVŒJmÇˆ«†„“€M‹ûû”û‡Mƒ€†„k†Oˆmû÷·‡º®Œ£Ÿ°ŠˆÀ©je¢¸a]Â]Á]Â¾¼°­¤œ°¤®˜®‹©ˆ^hŠtthŒ^m¤˜…€|}tnnihguf„÷÷,÷÷pjva}Z‚s¬Ÿ†‚‘”~=û#üh‡rˆ`‡oŞ¯Œ€šŠŠ¡‰¨‹§ar‡•‹®÷(·Š–‚Ë8»L—{‘ˆ‚z‡hmü$Õ¨lš{©«¤«¬¬{›knrmfû¬¤‡ÂÀŒ¿¿ÀŠˆÂ©û“—c÷{÷˜÷È’’”˜•Œ¥µ©ˆTVŠWWVŒTm÷ƒ³û{û˜û{µp‡Šq‰aˆmÁøxÃy¾y½z¾iïzÅ‹œ‹””‘—‹—‹˜Œ£ˆ^iŠttiŒ^s·Š‰“vÅû.2û<*÷rrÅ~®‹–‘’œ¤£ˆ`kŠuvkŒ_s·†•‚¦N÷)ûí°—¤”˜Û÷-Ùûf­÷"÷ä¨Ğ”•¾£ˆbkŠvvlŒ`sªŠˆ“†ˆƒ‹‹|†p€d‚l„t…|Jû8-ûrÈµŒ¢«²Šˆ¸£Z‘`‰‹Î÷"s¦²¼ĞÃ¤½¸²¸Ÿ¾ÄÏxÀe±®f[O\\xd[êstjgx\†t°Š”‚fic‹]û\PŠTŠYŠo‚|xŠ^‡o÷"øh¬§¤¦¾¦¿½³wd¨¦f™[P.IC@:Y¼àé-øI˜–¬’Â tg†‘‹¯÷ö÷÷âpjva}Z‚s¬Ÿ†‚‘”~W0û—le‘\û!(%û\—a£hW®Ãq×Ì¾±°zv£„n÷ux‰_†EjrbzTdgœ®lj±zºÄòÍØæÂ¯xd—r‘^Lûb÷±ø&¡™ŠŠ‘š‡“‚|z€cuJtFtRt]T÷déxÄ˜Ÿ’´£ˆfjŠoloŒpsš–„~”–z`§F÷ û¡v_lKrkx‹€pŸ‹‚‚y‚„|ˆ~~•… °¨•Ÿ­¬»éÈ÷0÷÷¨£”›—¢£ˆhoŠvnrŒtsRø¯ø¾«‡÷4:ˆûŠûE‹cVŒJmÇˆ«†„“€M‹ûû”û‡Mƒ€†„k†OˆmÌÀŒ´¸»Šˆ¼§û”—b÷‰Œ¯ÕŒ²°Œ®²§Š‰¶‡Œ‰8©Š·Š¯¨ŸŒ®Œ¼m`p~|q†Šˆs‹^X`ŒŒg÷˜‹˜‘”–š±ÇÊ­‹Š°…¡x”kIû¿§lºÄ|ĞÜÊ¤¼¸°´ºÂêb¶ûAëSªf¦x¡|ƒ¡‹¦‹Ì¾¿ß‹·‹« tw–j^µ÷¦RP™OIWvbejh{c^^™e¨j«fÅcŞ`ä]·X‹S‹]zfipltga‹7‹\¶€â‡¬cû'ü$Üû<ØÆ±Ã¿¾i¹^m|}nf×u‹plodS\œyû=÷Ö¹{!„‹ffv˜˜–”—–±£—†‰¦‹çØÓæ²‚ªy ³€¤†•‹”‘©‘ˆ†û ‡p¦h˜_‹Yb|nkimzcZF§\ÂqUofxyv‹upµm»‡‰Elhgbq˜u¦zvª¹ÈãÍ¡¶·ªª›­°Îa­8`NÛ³tYetm]vzhgƒg\h–¢syœ‚Ÿ¬¥¨¿¥÷‘¹÷šHpiTkqŸ³vy¬‚­®Ğ­²»®§wd›k“fb÷&¨ø	 ˆ˜‡’†–„~‹zûŒh‡rˆ`‡o¼¯Œ¢¨¬Šˆ¯§j~Œ‚‘‡”‰Š–›÷ «¯®›®¢ …œ |–vpje‹_‹B‹lŒ˜ˆ[ry‰Y…o³°Œ¬©«Šˆ®§kp‰‹®¤‘÷+‹¯¢‰Ÿ‡ª´¯›¨¢ …œ |–vpje‹_‹B‹lŒ˜ˆ[ry‰Y…o³°Œ¬©«Šˆ®§kp‰‹®¤‘÷+‹¯ô\¿-n]|‚€QXv½b¤P‹^kƒzxSYétvdjw]ˆsûã÷”÷O‰Š•ŒŠŒ•ŸˆPjŠ„)wŒ‹ŒŒŠ‰wÆ¬Œ’í‡‰¡‡ĞæŒ÷÷ïŠˆÎ«÷Cjûguu,ûHs}• †ŠŠ °ŠŒÕ÷(Œ²°Œ®²§Š‰¶‡Œ‰8©Š·Š¯¨ŸŒ®Œ¼m`p~|q†Šˆs‹^X`ŒŒg÷˜‹˜‘”–š±ÈÊ­‹Š°…¢x’k—U¯÷(ˆ:ûŠûEbVŒJmÇˆ«†„“€M‹ûû”û‡Mƒ€†„k†Oˆmû÷¬‡º®Œ¢¢­Šˆº£hˆh¶û÷0÷÷§¬’°Œ£ˆfnŠwxoŒds¶‡–†{€~vrjXIVÎp®}¢‹——›‘«Œ£ˆ`kŠtvjŒ_sœ˜ˆ„•˜„œy p÷ûûûgd„†gŠs²¨Œ¨Šˆ²£T†š’—šİòÊ=¢n—x‹€ƒˆ…„ˆ‚ˆyˆn‰s÷Kø’‡¼»Œ¸´ÀŠˆÌ©Ok†’ƒ–‡É‹÷÷”÷É“–’«Ç©ˆJVŠb^[ŒZo÷‚´ûŒŠm‰O‰=@ŠDUQŒN‰ÇŠ©Š÷b÷”§ˆZ[Š^bVŒJmÇˆ«†„“€M‹ûû”û‡Mƒ€†„k†OˆmÌÀŒ´¸»Šˆ¼§û”—b÷²Œª¢õåÕª´‰†ÀtŒldû—´û‚oûO÷gy³œ—’÷ ÷ß¸°£ˆgpŠxwlŒbs˜Š‰£Š•‚zlwJc&]ûT÷`÷uÇ‹˜§°£ˆ_jŠvujŒ_s¬ŠŒ¢T÷.üw¡‡ÇÁŒºœä‡ÊÓÆ ´¹¶²¡ºÃòCÖû›î£ÂÆÖÃrµZ¨¡d\–UfO‡lFNŒVmÇˆ«†„“€M‹ûû”û‡Mƒ€†„k†Oˆm÷Sø¥¡Œœ÷+ÖOû"IWûju{“ƒŠªˆ÷ ÷–ÃŒ’ÌÀµ€t©«r›h]NnaRu}hT„A÷uÓøO‡Æ¶Œ¨¨¶ŠˆÆ©iv‚’Z³û÷–P»º²ÊÅÚÖÍÊ°­’Ÿ–«’¸©ˆ_fŠmû m¶ˆ¡…veZ@><;P\b}Œ÷ŠÂò©ˆK[Škk[ŒKmâˆ‘†Œf>Œ,‹û‹ûŠ-‰OŠx‡ƒ†€…p‡`ŠmË»Œ««»ŠˆË©#’ˆÀŠ÷›¦»aÒBÄP·[©f™z’~‹„‹„t…]†müœ‡¼±Œ¤£±Šˆ¿§h[‘‹÷W÷à’¾vs^s‚?„s«‚z‘[5ûEƒ^†h‡oûÑ÷¬ûYÈgÎvÖzÊ‚Õ‹à‹à”ÕœÊ Ö¯Î½È|˜GD[CnBqJ~A‹8‹8˜A¥J¨B»CÏDš˜ûÑÀùw½N¯H @œL”A‹6‹6‚AzLv@gHYNš~ÏÒ»Ó¨Ô¥Ì˜Õ‹Ş‹Ş~ÕqÌnÔ[ÓGÒ|~û÷Ãø"¥ŠœŠ’Š’‰‘‡‘†…U‹&‹<‰Y‡xZiazf‹P‹n±‹Ö‹­ì÷4fˆ[‰PŠs¬Šˆ‘…‡‹x‹Jˆ?‹X‹X‘e—r `²uÅ‹À‹Á¡Á¸“su‹v¡¨­”²¤K‹…Ô÷-÷ ÌbˆW‰KŠs”÷ln¢t¨¨¢¢¨¨t¢nnttnûRn¢t¨¨¢¢¨¨t¢nnttnûbø"Ïvhf€dZc ´ln°}¸¾Æœ¹­­¦¦©˜¬® {k”•šƒ˜„–ˆ–‹‹””‹œ‹È[ª,‹G‹Ss_Za]vR‹F‹û	æ+÷‹Ê‹À£¶º}šû©ûz°¯ƒ°Ô´¬À¥‚x—”~|{€~‰ˆ|ªÒg_&“„š˜–‹ª›}ollzrpo“›l{nüÛødØÆ±Ã¿¾i¹^m|}nf×u‹plodS\œyû¬·—w¬³»Àµ˜¤¨¦£™ª°Às²[¤$Àt—{–„–…“ˆ—š®­£º½«nQ™¬…îf—e‘d‹/QXFZ¦dÂpè\°xt‹pbeg[qu”œxvŸ~§†°eû¨ûez°¯ƒ°Ô´¬À¥‚x—”~|{€~‰ˆ|ªÒg_&“„š˜–‹ª›}ollzrpo“›l{nûtª÷ğŠ¡‘º–Òr|Zylvz‚a…J‰@‰÷©ø¥û•‚…Œ†‚†–Šœs‚Z}Zy[¥š®š¡š”˜“Ÿ¦Œ÷ û©ü mû=÷Ö¹{!„‹ffv˜˜–”—–±£—†‰¦‹çØÓæ²‚ªy ³€¤†•‹”‘©‘ˆ†û ‡p¦h˜_‹Yb|nkimzcZF§\ÂqUofxyv‹upµm»‡‰Elhgbq˜u¦zvª¹ÈãÍ¡¶·ªª›­°Îa­8`NÛ³tYetm]vzhgƒg\h–¢syœ‚Ÿ¬¥¨¿¥÷‘¹÷šHpiTkqŸ³vy¬‚­®Ğ­²»®§wd›k“fb®ø‰j}qpvtyr‚p‹p‹r”tp }¥‰¬sTaªn¤t©®‹®‹©—¤¢ª¨µÂsû¬¤‡ÂÀŒ¿¿ÀŠˆÂ©û“—c÷{÷˜÷È’’”˜•Œ¥µ©ˆTVŠWWVŒTm÷ƒ³û{û˜û{µp‡Šq‰aˆm÷ ù°n¢t¨¨¢¢¨¨t¢nnttn÷*¦÷÷ûa÷<û<÷a÷c÷:÷<÷a÷aû<÷<ûaûaû<û<ûaø¥íÖ™y–h”‘ppnCQs\_dbx]XB¢T¸fj³À{Ì¦§‘©®’“•Ù|Ps_nKR`¯mo­}ºÆ÷ ÆÔôÛ³lL÷=)ûHû%û%ûHûHû%÷%÷H÷H÷%÷%÷H÷H÷%û%ûHû*÷ø¾®™­–¬’€û‹ûy‹û{µp‡Šq‰aˆmÎ½Œ­­½ŠˆÎ©û“—c÷{÷&÷&‘÷'r•hoQk;f”tû*ßdò¯áÁÎÓÜá´î‹÷‹÷%6÷û‹û‹:0‹û‹(ÔBì‹¾‹º¸°~zsi‚_np—£sl©|´ÀŞ½ÉÔ½²qX§¢`–XP0m5N9R=CQ4f’vû*µ÷0(Ü@÷ÎÀ ´²¬®›±µ¶|²l®r§b«P®ì´»À‹Ê‹®}«p§j­]œP‹T‹]zhhjl{e‹`‹N´RŞV'\YN‹@÷òzHDOF3MËÔÍ²ÄÙ¼Òa¼g¤lt”s‹qwøVh\Fa&Ìj¬¾¦•¤Ÿ ¤£ª˜±§¤‚x¢¥u˜meû*_÷™î±ÚÊØÉ±Ñ‹Ù‹ÍtÀ]´_²SF‹v‹u‰t†’­–«š¨ã½Œ˜‹·‹Úˆˆ‹‘®¨•¢[_…cûKzDvEpEõ‹×u¹`ªm›e‹^‹AeJ>RJZCn=€qû*÷÷òšœŒ½®|l —y‘vrHiQGZVdGn:wsì˜áªÕ¼âÆ·Ğ‹Ü‹·¯t§rªgš\‹x‹|‰ˆ‰îÇ¯±ÃÊ[¹FWRoTNšx¹§³™­‹À¦rZ`\V,K”mû*®÷Óû¢5¹NV²¼pÅÌÁ¯Ô´°ÍÙå÷rèXÉºe^¢XT[qWbXKr/û÷ô‚û[^(0dl£¼snÄ|â÷÷ šÛª¾´¢ªŸ°â½ûûa÷•øğ‡Æ·Œª±¼ŠˆÇ©*•J~ø †÷'ˆæ‹°‹Ô·Œ¸©ˆViŠ}tnŒjWû?EûR2ûdt³cåR÷X÷eïrÖ_ˆjŠu‹x‹nŒfm©›‹Šˆ•zj„!|ûG|ûJ+†„~‚‡O‡m¯­Œ«ª¶ŠˆÂ©lszv‰“‹Ò‹÷”÷5œ÷c÷%ûØŞû]¡=“Ÿ—¢– •˜”‘¥éÉ÷Aì÷‘’8ûûW*‰V†€ˆ„|†pˆ‰‹{Šl‰mÁ÷êøü—p›aŸP£D›U’drŠ€‚‹†‰Y)¨ì®ê´éàı ¼»Œ¹º´Šˆ¬©nj–z¿ûYøÌ„†¥‡ªm‡rs`vxŠvm6Rû*b!b a#m}{|ˆ_„o®²Œ¸·°Šˆª©6„¤¦¢×¹÷ÚÅ²¡›‹Š–Âû.™d’q‹{~q†ˆŠyŠh‰mû*‡ÖÉŒ¼ÎÒŠˆÔ”«–«šªhz‚zƒqûš÷j÷`ŞÚµ×‹Ôë=×*de€vfbsjip`¤yÄº¿§ÄÒÁX<O\;-(û]ûhlû*÷'pš›†‚œ±÷%¼÷0È÷=µ÷	¨Øœ°^ˆUŠN‹f‹_ŒZNez‰g‡o†x¨¿Ö‹¤‹Şˆª‹ ¡¢€nb/Dû1^(_û	bû—•‹‹û÷¨—Yc£¼mpµ~¼Ã¼˜µ¤­¥°¬œ²Š»Š°t¦_¤b˜VŒHŒc„i}nv_huX‹ûˆ÷]PW²^Y¶ÃrÏĞÃ¤¾·´¹ŸÀÈÈy½g´ºbR¢Bû%(û÷£ø%n¢t¨¨¢¢¨¨t¢nnttnûRn¢t¨¨¢¢¨¨t¢nnttnÓø{ù@šŠ™‹šŠŸˆ•„‹‹xuX_:b>fOj^dÄbÒ`ŞdÔx³‹’‹›“Ò’©ˆS^Šio`ŒPm¥†¨†‚’~ÚûÓûÌ }a‹E‹E†d‚~€jƒVˆm»¾ŒÁº¾ŠˆÃ©Qi‘€’ƒ‡­‹Ê‹Ş‹¹Œ•÷÷`Ú÷¯»’•£’²©ˆhiŠjrdŒWm÷:¯÷òûk÷3û-÷i÷i÷3÷-÷kğkáJÔÚD0²ûû0d<DJBk5&ñ‘÷oô÷÷9×ÊpT¼ÂN¦4ûûq2WQX]Kq9>M¦ÁZTÈpâ÷÷Íøn¢t¨¨¢¢¨¨t¢nnttnûRn¢t¨¨¢¢¨¨t¢nnttn÷:¯÷òûk÷3û-÷i÷i÷3÷-÷kğkáJÔÚD0²ûû0d<DJBk5&ñ‘÷oô÷÷9×ÊpT¼ÂN¦4ûûq2WQX]Kq9>M¦ÁZTÈpâ÷ü$Õ¨lš{©«¤«¬¬{›knrmf÷Úlš{©«¤«¬¬{›knrmfû™Œy¼÷æù~Zûæı~ü-’ûrÇ ´£ ¥¤ª—¾‹Ğ÷n÷à’¾vs^s‚?„s«‚z‘[5ûLû-{g;_”tÔùïo™}§«¨¨«¨}šp}~†‚|€ƒzvû=ø	ùl>PeSWX­]¸©š™¨°?¡‹¦ª§²Ãºzû;>PeSWX­]¸©š™¨°?¡‹¦ª§²Ãºzû=÷ ødØÆ±Ã¿¾i¹^m|}nf×u‹plodS\œy÷;ØÆ±Ã¿¾i¹^m|}nf×u‹plodS\œy÷¡‡Ç¶Œ¦Š÷‡Ô÷ñ³ÜÍ½È¤Øç÷dç<ÎÈD2ª!bû‡\d]ŒWmÇˆ«†„“€M‹ûû”û‡Mƒ€†„k†Oˆmøş÷öûk7JT`XHu9û‡àŠŠ÷Šé¾Ûßä¢Œè÷Şd=Æ¹N¢D<æøù@¼Š¦‡’†”„û‹û›‹û7B:û&‹û
+‹PÉ‹÷‹˜‹›ŒŒ£‹™‹÷¶Œ®£—•‘’Œ©¦£Œ©ˆGXŠio`ŒRmÚˆ‰füHE£T¼cdºÉwÚáÍ£º¸µ¶¡ÈØ—ø/Œ’—˜›Œ¤‹©ˆdiŠmreŒZm<÷7n¢t¨¨¢¢¨¨t¢nnttnûRn¢t¨¨¢¢¨¨t¢nnttnü$Üû<ØÆ±Ã¿¾i¹^m|}nf×u‹plodS\œy„øŸlš{©«¤«¬¬{›knrmf®øñ÷@\€aqlax}lh„c>M¦ÁZTÈpâ÷÷¤ß¼ÈÆºÊ¨ÜîÏcL˜“g©÷¢CD—Eû0d<DJBk5&ûk÷3û-÷ißÔ›ªÊ™÷#f÷òùz³Œš›©š—”¸®õÈ÷;Ã÷/¯ëœ®›¬’’®‹©ˆgpŠxvkŒ`m˜ŠŠšˆ’ƒus3[û.Xû9d%qb`Şbçcğ÷÷ Ÿ³—“¸©zU‡‹splŒhmÀ†“†zpj6Jû#K÷%kß¡ ›–«Š©ˆ[gŠtreŒXmÇ„Š [Îû%¸#¤Le5mGrZxlhÖ`õX÷S÷)oá‹¤‹œš“©Œ©ˆ[gŠsshŒ\m»‡‡_÷wü´šh—g•h´’¤–Ÿššœº®Ú¾÷÷ûºw˜‡Æ¿Œ¹¿ÀŠˆÂ©û“—c÷{÷Ì¬˜€D²Øû!»1d²‹»ŠÃˆ­S†Œ€$÷HjÄt±~œ€™“÷¢ÂÄæò=ÎûcK‡‹f{PŒ&m÷ƒ~³û{û˜û{µo‡Šp‰`ˆm÷^øÏ¸‹£Œ¨š™¤Ê¹x©®tcR%GXû€ŒŒ€÷Kû*÷I÷Ö ›Âµyh¦¢n–d[:VH>aiœ­pm±|ÁÒ÷¯òÔì¿ĞÂ½Æ¬~¢:gAQH;8*b'‹%‹FœQ­]³TÆpØ‹÷‹êä‹÷‹À}·o­l°aU‹h‹b€\v‘tü÷oø¤¬û÷t¡{–€‹t€€t~›{«x÷"7®øñ÷@\€aqlax}lh„c>M¦ÁZTÈpâ÷÷¤ß¼ÈÆºÊ¨ÜîÏcL˜“g©÷¢CD—Eû0d<DJBk5&ûk÷3û-÷ißÔ›ªÊ™÷#fûçüz°¯ƒ°Ô´¬À¥‚x—”~|{€~‰ˆ|ªÒg_&“„š˜–‹ª›}ollzrpo“›l{nû¿§lºÄ|ĞÜÊ¤¼¸°´ºÂêb¶ûAëSªf¦x¡|ƒ¡‹¦‹Ì¾¿ß‹·‹« tw–j^µ÷¦RP™OIWvbejh{c^^™e¨j«fÅcŞ`ä]·X‹S‹]zfipltga‹7‹\¶€â‡¬cû'êûuz°¯ƒ°Ô´¬À¥‚x—”~|{€~‰ˆ|ªÒg_&“„š˜–‹ª›}ollzrpo“›l{nûÑ÷¯[”iwt °€À—l’u™¡‚œ†¤‹¬÷4¯‡¥‚›¡tšj“¬“¢š—¡”›¥‹¯÷4¬¤”œ—¡¡™ª’—Vf€tvxw‚i[û<k†t‚|€yw~l‚ª‚Ÿ~–y”|t‹kû<ûÑÔ'À°–¢ Ÿ”­»÷<«¢”š–Ÿ˜ª”l”w˜€‚š†¢‹«÷<»‚­xŸ¢vf–Vª„¡}—u”zr‹jû4gq”{—u¢|¬ƒ‰jƒt|u‚{‡q‹gû4j†r‚zuu}l„æø:‡ÒÀŒ¯¬½ŠˆÌ©K’s—gÂûR÷±÷G÷‚ª³™”ç—©ˆTbŠoiYŒHm«…±„„‹„†zlhS,û.&÷*XŞ‹›–©“È©ˆPXŠ^jXŒGm¹†¬ƒ ~š‚­]À7÷û?'ûP?]Ujjzzk€]ˆmÊºŒª«¼ŠˆÌ©D“h—š“”œ¥÷#÷e÷ û9®Vœl‹€tj€JŠmû*÷¼÷D0ˆE†[˜˜šš™‰ˆ—‡£‰Ñ÷Õˆ—Š–””Œ˜›E‡ŒÖ‹×ŒÖŒ÷Ï•n: N<aWK:bSxlzo~lƒj÷»Íû€–¦¥³µÀ÷/÷XûĞ÷ù
+endstream
+endobj
+20 0 obj
+<<
+/StemV 0
+/FontName/BZPQAG+SimonciniGaramond
+/XHeight 0
+/FontBBox[-121 -222 1000 963]
+/Ascent 963
+/ItalicAngle 0
+/FontFile3 19 0 R
+/Flags 34
+/Descent -222
+/Type/FontDescriptor
+/CapHeight 963
+/StemH 0
+>>
+endobj
+21 0 obj
+<<
+/BaseFont/BZPQAG+SimonciniGaramond
+/Name/F1
+/Widths[250 0 0 0 0 0 0 0 333 333 0 0 250 315 250 389 500 500 500 500 500 500 500 500 500 500 250 250 0 0 0 0 0 704 630 685 778 648 593 815 833 370 0 722 630 907 796 816 611 0 630 519 648 741 0 1000 741 722 0 0 0 0 0 0 259 444 556 444 556 444 315 481 538 260 241 519 260 796 538 519 556 0 370 370 315 538 463 704 519 444 426 333 0 333 0 0 0 0 685 0 0 816 741 0 0 0 0 0 0 444 0 0 0 0 0 0 0 0 0 0 0 0 519 0 0 0 0 538 0 0 0 0 0 0 0 0 0 800 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 481 481 0 258 0 0 0 0 0 481 370 260 519 370]
+/LastChar 223
+/FirstChar 32
+/FontDescriptor 20 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 18 0 R
+>>
+endobj
+22 0 obj
+<<
+/Type/Encoding
+/Differences[32/space 46/period 48/zero/one/two/three/four/five/six/seven/eight/nine 97/a/b/c 101/e/f/g 105/i 108/l/m/n/o 114/r/s 117/u 121/y 221/guilsinglright]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+23 0 obj
+<<
+/Subtype/Type1C
+/Length 3521
+/Length1 3521
+>>
+stream
+  ZJNEEF+SimonciniGaramond-Bold   ?ø øøøøPûåúúg
+ ‹‹
+ ‹‹  ;  7  t‘  » %œ²ÃMacromedia Fontographer 4.1.5 8/9/97Copyright [c] 1990 Adobe Systems Incorporated.  All Rights Reserved.Simoncini Garamond is a trademark of Simoncini S.A.SimonciniGaramond BoldSimonciniGaramond    V O P G J D B M  H Z S l F T N    C            •"pìXº8‰Œcö„Ë0ŸjÄãIË	6	¡
+
+f
+·@›	û*ÊøùœüıœÉÊù÷ıûû£ø»„[w…û$‹k`•jŸrp¡¬}¶Ã¿¤½¼“xrl°§¢®—¶«tŒ}†’‰Š‹’÷@ÉŒÄÀ@„R‡bŠgº„[•‰>‰û:vgjnexªÊ÷-Œæ¨B„R‡dŠgû¨÷şª‘§ûP5ˆW†y‰…„†ˆ‡Š‚‰~Šk·°Œ©¦²Šˆ¼«_„i÷_÷¤ªª˜ª»£iHûa{‡ƒ††ˆ€‰zŠk¶«Œ¢¤®Šˆ·«fˆ¦Â÷ÀäZ·*jm†€pIO‹·Œ¬¢nceuK†kû­÷cNŸW³a^¶ÃuÑÊÂ±¸¾¶¥ÄÔÉw¿d´¸aS¡ELTxe]W`qRB÷³îª¼ÈÎ±7û+l[NHeÛ÷ûã£‡·°Œ©º½Šˆ¿«Xq˜¤ˆˆ¨‰»Î¤ŒÁßò‰Â"‚Š®ˆ¹†Æ†À‰®›¦˜™¤Ÿ¹K‹®¯¡·¶o T]^xf`T\wF|ûI]„f¹ˆhS‹@5ˆW†y‰…„†ˆ‡Š‚‰~Škü¬÷ş¶§ûP5ˆW†y‰…„†ˆ‡Š‚‰~Šk·°Œ©ª°Šˆ´«g‚i÷_Şá’åhx`\u?‰k«÷|}•{˜ƒ£²²±·›†™—›~y“sddd_ûtøì{flƒq^iœ¬tv©€´À²’­™§ª› ›¥¢™}n[”¨s½ –˜¥­„¤~œ¢xM[LXv`ca^vO@S›[¬d`°»uÈËÄ¦À½y«ûO÷«÷Vtq\ow§·²³Ú¯3÷6K‚ƒ‚‡‚…œ®ªô‹Àº†¬€©zfšRû#:<v—€£Çª§Ã·œ¡«£š…~’‚zq‚‹s‰eû7d9O;P«mËÀ½ ´¸b›¢v©«¨›«¥¬ü‘ù:¼ˆ’‰ŒvUR‹Nûª5ˆW†yˆ‚y…hˆkÃ³Œ£§±Šˆ»«`„i÷_÷5÷Y÷‘ÔngmTxB‚kü$û=÷K÷ÊÊœ«¬¨ŸsZ–‘ronHzji^tÀö÷KÎ‡„›„–‡‹–‹˜‹¥‹‡”ƒ‹‡‹k…N€j¨c™]‹^‹cgs^mua‹UK­]ÎnCes~z‹u`¥o¾€‰MtlojKÌg÷ÚÉ™¨·º©¢¶ÃÖ`°5\3‡‹‚r~‘˜š™›¨›‡˜›‰òÛÍç¨†Ÿ€•cµšüo\XhCen•Ÿvzœ‚ ¤š•—´Å‹œ¬¢ˆ†™£‚—zqûb“øš˜„|”‚˜o Z©E¶,ÄûhArf|‹ƒ‹U¡x‹~‹w‚z†x‹w‹vœ€®‹Å‹³ °§¼°Ûº÷¸õ¯è§Û‘œ—“œ‹«ˆrtŠvyoŒdk¶ˆ”‰zav>bûr·r¿rÆtÀ€¨‹’‹’™¨‹«ˆVhŠzylŒ_kû¬£‡·°Œ©º½Šˆ¿«p|‹ˆŒz‡…ˆ”‹™÷‹¨ ›š•ˆ„’t|„“~˜…œ‹‹š‘•–’Œ˜‹ŒÊw¯`‹_‹oob6‰Ÿ‰±‹–›Œ¢Œ¨indbvV†kÊƒbû/ˆT†x‰…„†ˆ‡Š‚‰~Škü¬÷ş¶§ûP5ˆW†y‰…„†ˆ‡Š‚‰~Šk·°Œ©ª°Šˆ´«g‚i÷_Şá’åhx`\u?‰kûOø4ízbiƒp3MÄà÷´ºŠ‰ÀÑu¾`«¢lc—[û2#û ûã8÷ÑÊ¥ÀÃt­û=÷½¢€v—”zuq€……‰ˆzfŠR~…’šÃ©µ¾û‡¿t¾»€·Ç¹›ª«¦¦˜«²Çy£:²R¦fŸyš~–„˜‹˜‹ ¡®‹Æ‹¯mšNµöœ]\”\\d€tlirzj`eŸj´p‘‡±xÒh´wŸw‹w‹dwwc‹X‹b°lÖaû÷&£÷ş¶¤ûC-ˆT†zˆƒ…t‡k«­Œ¯§±Šˆ»«`„f÷l÷Ÿ°¦•¾štGûp€…„ˆ‡Š€ŠzŠk·±Œ«°¯Šˆ¯«[Œ†§÷¢¬ §•¢‹´ŸlMûaz‡‚††ˆ€ŠyŠk¸­Œ ±ŠˆÃ«^‡¦Â÷Àäa·7pp†pKR»h£P‹ei…€lHP‹·Œ¬¢nyb`uG‡kû*÷Z÷_E‰[ˆr|‰j„LaÆÂŒ¾ÀÂŠˆÄµfŒt‚|ƒ“Š˜ˆ¯Šë‹÷/‹Šö÷ik“GVDg@w•lµ”ª’ lŒS‹<ûVü$¾¿c¤m´¥ ”š˜›’ ¥³r©bWmeWû*‘‡êÍŒ²¶ÌŠˆà”º›¾£Âe„{€{†€ˆtŠh‹z‹q‹hŒ7ĞÈĞÈĞÈÏÏ­Í‹Ë‹ò;Ö ‹/‹>ZN*«q·¾¹¡´Æ¿bH[uW`SXJ9/ûûkûù:³ˆ‘‰ŒvS-‹û‹"ˆû„û+˜š’š”•“•’–‘°p¹}Ä‹Ü‹È¢´º±µÄ‹Ò÷D× psˆ…vAU‹÷[÷‘ÔnhnWwH‚k÷<ü„Æ¼²˜¦¡‘œ×¾G(`‚hznlxr{lIj¿òû*÷$÷ìŒ—•Œ’Ü³e@RpZUaZeGm4vd÷œé¨Ò´íÃ¼Õ‹è‹ìV» ‹‹|ŠwŠ‰ëº»ÁÆÇZµ@KJlNIšw¸ °–©‹¤„|š˜~‘zw``Y5T™mû*÷¤÷”DKŒQ¦ÁÌàğ÷û–áø>û4û[ûZûuû Ææ÷ŠI‡K„N¢ŸŒ‹œ‹ Š¤ˆ‡Ş‰ÌŠ¶‡‹¥‰Ã‡ˆ§Š‹”‹˜Œ vˆt‹rŒŒÒ‹÷0÷[iû*“fï–á¤Ô²öÄÀÚ‹ï‹Æw¹b¬eªXšK‹m‹nˆn…Œ§“«›¯¸¸·‹˜‹»‰ÜˆŠ•Š›¡›‘©˜¶z[I‚7ldŒ^rû
+q/qH‹”‹˜Œ®÷Ä_3û	/5ûMVjû*÷`÷Ä’–šÒ³I(Cn[XDhÎ÷÷IĞ÷&÷÷u§ûgû"û.‹ûOGR°^X´ÃrÓÊ¾ ´³±³¼Å÷SÖ/hd}naoû*øøÀ…nc8EûMû_û q0‹œ‹¡†¤€Ì÷¦Ò÷|Ö÷Rû‡>‰{‹<‹Sj’Šb…^Y”±ÇİÈ´‹Š ®˜û*÷4ø´¼´²¼È³^J\xbdhVªi¤zxŸ£‹¦ûü.åA÷÷#ßÕ÷ßXĞ&Àá¬¶½Ìµ{­l¦§i]™PHWxeflk{e^`•g nšt¦t°r/^]Q‹D÷æzJY`ODZÃÔÁ¡½¶º°o²p²p¬nœm‹lû*÷Åø	€zz…zP^Íî°”¨œŸœš“¢²¨vaœf“ZLûG2û!ûG#—o÷¸ëËÌŞÆ×©áê÷02ğûû78û+ÆCŞ¾¶œ¬¬¬û*©÷ÖûŸ6²PR°ÀnÏãÊºè°¢Å—ÏÙâ~ÕpÈßfQµ<4Ma6fpP~@0÷ªêÌ“°Â˜£¦°©¡|l˜\•-û,‡IƒfS~sofmu›«~x»é÷÷ù
+endstream
+endobj
+24 0 obj
+<<
+/StemV 0
+/FontName/ZJNEEF+SimonciniGaramond-Bold
+/XHeight 0
+/FontBBox[-59 -337 1003 979]
+/Ascent 979
+/ItalicAngle 0
+/FontFile3 23 0 R
+/Flags 262178
+/Descent -337
+/Type/FontDescriptor
+/CapHeight 979
+/StemH 0
+>>
+endobj
+25 0 obj
+<<
+/BaseFont/ZJNEEF+SimonciniGaramond-Bold
+/Name/F2
+/Widths[250 0 0 0 0 0 0 0 0 0 0 0 0 0 250 0 500 500 500 500 500 500 500 500 500 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 463 537 426 0 463 315 481 0 278 0 0 260 796 537 537 0 0 370 407 0 537 0 0 0 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 278]
+/LastChar 221
+/FirstChar 32
+/FontDescriptor 24 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 22 0 R
+>>
+endobj
+26 0 obj
+<<
+/Type/Encoding
+/Differences[32/space 40/parenleft/parenright 47/slash/zero/one/two/three/four/five/six/seven/eight/nine 63/question 71/G 73/I 75/K/L 78/N 80/P 85/U 88/X 97/a/b/c 101/e 105/i 107/k/l/m/n/o 114/r/s/t/u 213/quoteright 221/guilsinglright]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+27 0 obj
+<<
+/Subtype/Type1C
+/Length 3067
+/Length1 3067
+>>
+stream
+  BEDKIQ+Univers-Condensed   ?ø øøøøhûuú|úq
+ ‹‹
+ ‹‹  4  0  ƒ‘  õ &Ÿ°·ÀMacromedia Fontographer 4.1.5 21/1/97Copyright [c] 1987 Adobe Systems Incorporated. All rights reserved.Univers is a registered trademark of Linotype Company.Univers CondensedUniversCondensed  &     , J N  P S L B - * / 6 9  U O    ( F M V T l  1 C D 	 
+       (   G c § Ğ èBE®Ù~Âù.B‚º‘æZi¢4tßH€¸œ	?	®
+û*Êøù´üı´ÉÊù7÷ı7ûûbô÷÷*÷ıûıû,÷,;û=á÷=İÛ9øQûûXüQ;÷|ûb÷µùJ<T^dot3óÑüåçùJûbø4Ûû§ÌßÍßÌß´ÈŸÊ‹Î‹÷MÈû‹û‹OB“û	éÖŠ¦±ÂÄ¨lNVyTfQF*E+F*;ø	-÷Aø÷‘ü÷
+û©ø ÷š÷Ú#ûûÑˆ÷Ñ/ıfçü@÷,ø9üİø4÷çã/3Óø&÷è·”©š˜š ‘¥À¦jJûòİøâ]·/Rcu`t¶yd¡NLasZv‰Ê4dhlü$İ÷è¨‘£˜ —­š¤À¦jJûòİü@û*÷Äbnœ¬|}ª„ÅßÌ•¸¥ œ¤–®®¤€vœq•^J7„Q}lj|nzbHÊ¸š¨§°²ÑñäËw±ÀnU¥<<UqVnweK2%E°dn§¸|ÊûÑ÷1ø9üİ÷¾æ±¹×™‰ˆ¤à`l‡‚xqvs{f‰×ûb÷1÷¯÷Gû¯óûZ÷´÷<÷m'û.ûn‰øG9ıfÜ÷¯û*÷Ş÷û’hJ?qw”}~œ… ¦º ©´˜Ÿ’³ÈŒûå„¶ˆ³°÷‡ğT¾ûTa€tpns{d‰TäÀ†¨°Â²¥|m–’ykŠ^=P„d|Ptm]‹G‹û¹Tç‹È‹µ§£ÂBûbøJÛûù/ıf÷ùü÷Mùf/ıfçùfœø‡ùfüş‰û­øşûıfİù÷±ı÷ùf9dÙ÷œûYÒ9÷0÷0Òİ÷Yø^/üb@Vtmpwj~\\j˜¦wt©ÀÖøb/ü^-÷Üø
+÷V÷ğ&û*û¬û(÷¬!÷Yûğûdü
+ï÷3÷É÷<ûÉ÷ûlø
+ü@®øŸĞİ÷[û `û[ü‰øMŞûûO±mÖ•™Œœ —’ÊˆsŠŠju“œ€…”ˆ›¢÷É÷Éû÷9f*8û*ø@÷òÂ‚³y¤©vgšXHgxSk‡Ì4dhlü$İ÷¿î­½ĞÆ©jJûòİûb÷˜÷Kè–¤¢¨®· ¨”š¢´–·‹»‹òMË&‹û‹QFûéè‰¤¹¾¤€v˜—x‘urfgvfwowoxovlp‹tûİ‘<-#éóûb÷<÷×Ã±‚z ¢x–fU8haDeq˜¥}€†©Š´/V‘c–rP¥Ánİ÷ĞÎ÷Á´v¦t¨fV’°”§—™®§µ‹Ã‹÷LÇû‹û‹PL’ûçÖŠ¨±ÆË«gB6\e,“:døŸø¥ÕzÁf¬gªQ›<‹û)‹=3‹û(ûûYÒ9÷0ÜÔ¯Î÷óûu;÷ûlvn`€R]j˜¦wt©€ÀÖ÷ˆó·¿äà¶_4ëû*÷,÷´ŒË”¸¥šŸ¡•©‹®‹£‚™ys”]‹GûY÷°M¶âÉs°³p[ŸF<UqVnweK2%E°dn§¸|Ê÷	ÅÁ÷Œ1Špƒt|z{xvp‹h‹r–| y¤‚¹‹Í÷°ü@÷,ùf9ıfİùfû*÷ê÷>d€muvyxu‚rRn­Ï÷ò9ü4¸`æÄ¶£º§Nâˆ²‰®ªø$9ûãûbø!÷$·u°`©…b @°`¡u¢‹¢‹¶¬¤¸‹Á‹¥pŠUæº}°j¤n¢e–Z‹L‹\{mjtr€n‹h‹`¡f¶mˆ´vØc¶u¡t‹s‹XnqQ‹So«Ì.ûˆÅT÷÷	Æ¾òü@÷,ø9üİü÷ªùfHûıÆÎ÷ùÆ-÷Mù÷ Ÿ…~¨v™i\9`b6&÷ˆı÷Ò÷½¶˜¤¯¼­£ÀÔ÷HĞûûjıfçû*÷5÷¥¼±”¥´š¦ ³´§zh™–o‘XAS‡c‚r`|mu^`o¥À~†¢ˆ¹Ïûi\§±t¼¼±š¨¤­²œÑğà„È|°Ær[¨C^fwbnˆ÷ 9ıfÜÇû*ø9÷ë÷RÇ$<UqVnweK2%E°dn§¸|Ê±­—£©²«ºŠÊ5Œd‚mwv}}|„{‹b‹nœ|¬}ª„Å‹ß‹Ì•¸¥œ ¤–®‹‹›„—}›x“oŠfàü÷cû
+a÷Fv÷#ö÷¡÷)¸÷DNaûuBˆu8€@‹I‹K–B¡9„¡DµûÅü÷û
+µ÷¡Ò’¡İ–Ô‹Ë‹Í€ÖuŞˆ•uÔa÷N¸ûD¡û)û vû#aûFÅûbÆùJüŞÁ”¨¦º²¤zh˜“t`M]†i‚ui}qzdTp®Ñ/U–c pi¦¹zÍØÀ¦À¨®•ÂÔ÷0[Ù*[\tn|‰÷`÷|ÛûØûb÷÷uïª½ÈÊª\.ûnQPJjÁ÷èû„Ê»£º«§´™ÁÏ÷/TÙûXfu`r‰÷Q ÉÔ¤ €uš˜x’tpçóDÌ"6TfBr|`„7ûû“9š_@¥ÂfŞûb©øú÷œûVüúó÷MøúÛûû;ûb÷rÉks˜¦{}¡„§­µª” «š¥›±±¥{kš”vlai„o}up{s~kÄ÷Æ²“ª ªŸ¨•®‹´‹÷ FÍû‹û‹FI‹û ‹b•hŸn lªx²ƒ6‚`O‹û‹ûÌ@÷‹÷ÌÖ÷÷`Ç6”R³ltš¨|€¡…¦¬Ä©ºÃÃ©\Rj…p€un|t|lûb÷qùÉª[++l[MMl»ëëª»ÉÎWa{kjdfxTB8ŸN²fr¦¬~³Æ³¡¶Ÿ&†F‚h\~psbVq®Ğ/ûŠÏCóŞÂ°Ö¥š·“İ÷÷„ß|¶ÔrT°6ûb÷rùU6TfBr|`„7ûû“9š_@¥ÂfŞŞÂ°Ö¥š·“İ÷÷„ß|¶ÔrT°6>¶¦pU˜“hAû2ˆQ…nP~on^^o¨Æ~…¨ˆÅä÷Õ“®Á˜¦¦¶÷rù
+endstream
+endobj
+28 0 obj
+<<
+/StemV 0
+/FontName/BEDKIQ+Univers-Condensed
+/XHeight 0
+/FontBBox[-35 -225 1000 989]
+/Ascent 989
+/ItalicAngle 0
+/FontFile3 27 0 R
+/Flags 32
+/Descent -225
+/Type/FontDescriptor
+/CapHeight 989
+/StemH 0
+>>
+endobj
+29 0 obj
+<<
+/BaseFont/BEDKIQ+Univers-Condensed
+/Name/F3
+/Widths[222 0 0 0 0 0 0 0 278 278 0 0 0 0 0 278 444 444 444 444 444 444 444 444 444 444 0 0 0 0 0 444 0 0 0 0 0 0 0 611 0 278 0 556 444 0 667 0 556 0 0 0 0 611 0 0 556 0 0 0 0 0 0 0 0 500 500 500 0 500 0 0 0 222 0 444 222 722 500 500 0 0 333 444 278 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 222 0 0 0 0 0 0 0 222]
+/LastChar 221
+/FirstChar 32
+/FontDescriptor 28 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 26 0 R
+>>
+endobj
+30 0 obj
+<<
+/Type/Encoding
+/Differences[32/space 46/period 69/E 89/Y 97/a/b/c/d/e 105/i 108/l/m/n 112/p 114/r/s/t 118/v 121/y/z/braceleft 125/braceright 154/odieresis 219/currency/guilsinglleft/guilsinglright]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+31 0 obj
+<<
+/Subtype/Type1C
+/Length 3915
+/Length1 3915
+>>
+stream
+   WYQVFJ+SimonciniGaramond-Italic   @ø øøøøû&ûrú¶úH
+ ‹‹
+ ‹‹  G  C  |‘  E %œ´ÅËMacromedia Fontographer 4.1.5 8/9/97Copyright [c] 1990 Adobe Systems Incorporated.  All Rights Reserved.Simoncini Garamond is a trademark of Simoncini S.A.SimonciniGaramond ItalicSimonciniGaramondItalic    \ Z B [ l M N O  E W F Q U g C J S T  ^ : Ú & D k    ”£W¹ş«®JÅ+Ú3<Î	F	¼
+ 
+7
+®Sá¥û*ÊøùœüıœÉÊù÷ıûû¬÷üùlSb€tqtw{i‚[jû;~JsnNz²~Ÿv‹l‹zŠ{ˆ~iû<†t‰ux\´sŞ—^”t¡‹¯˜› ª÷4¦‹”®v¢`–®“¥š›¢˜œ”¥’®ª÷3’¬”¤˜œœ¡¥™­’—ûb¬÷©–——œ ¨š™‹‹œ]™.—?‘H‹P‹@yTffttv€y‹|‹k—|‹v‹‹xr˜¤ÒÜÕ÷)åğ÷<¾÷ÒÀ{¦kv€~ps±g‹t`Jû,P$‰¯æƒİ|Öæyr¹la_X$^‚ûbø÷„}|vxst|€„‹†‹‰‹‘‹—’ ”¨œ¾¥Õ¡Ë›¾–±’£‹–[‡‡r‹†‰—‚}‘zSKa8B@5e;AT¤o¼ÆÒÙ÷0İTû0‚p†z‹„y”‚¨»µŞÍ|˜û¢7r~šª¾£Ê»ÖİÀ½´¼ –rcoLR53R^_lû™÷(øLqv‚y{~|„|zr•~ •– ‚”z–Œ’˜åO¼“‹•<ûI0VLf‹cq‹g‹x’š‹§‹›È¢‹¦‹÷û¯‹ ‹—›£˜’›‹—‹¡–w‹wwx €‹‡„†ˆ‚€“š|u¢zš€“ro—l§¸­½³Ã”˜¯¼Êà‹’”–˜˜‘š‹œ‹œ”x‹„‹…‡…„x{•asw)ÁfüÑ÷Ê™—´®¥œ˜‹’ˆ„ˆ†uYûe7qU€r†y‹‚‹n™}§‹º‹ÁµÆŞx—Taiop‚†”“—Á÷µç©Ëš­“¡‹”‹œ”t‹j‹Ue>>›|ü÷÷0?Rdev…•”’¤˜³ô÷ÉÒ÷d°õ|™zf\‚Q‡u¥‡¨†™„‹€„ˆ€†zHûgRûF\û%|\„i‹w‹p˜}¤‹»‹ÆÀÑõwš÷Ó÷Â¿¿ª¥•“‡‚‡ƒu|bn>a'Vû¹y²÷ºàÁÆ¶º¶±´ª¯¥¤˜™‹”‹†‹‹…ƒv|gi<Y"Hû»y®æµÒº½÷÷İÍ²‹”‹†‹‹qtaZ4eHo]t`€n‹~‹v–€¡‹‹¥•«Ÿ²¤­«©´zšPPcmxƒ‡’’™™£©¾©½©¾¸Ü¡Á‹¦‹¤~˜q‹g‹WmFNX^\[`V‰Âï¦Ï¯¡}–nfXmNJ\`hdri~y‰º÷¢Í‹¢œ“vunzhgtsttvs™|ûøa÷MThl}„‡”‘™–£¶å®Ø¦Ë—§‘£‹ ‹¤€˜t‹J‹*9ûû7‰É÷5•¥‹—ƒ”{unzhgtsttvs™|¿Áª¥’ˆ†…„u|di1d%^û»y®í³Õ¶½¾Æº¹µ­°¨¥™š‹“‹‡‹‚‹ƒˆ†Tûa.oM‚v‡x‹z‹z’ƒ™‹¦¬°´§¤¤§¡©{™ü$û*ø¦ù”zf\‚Q‡u¥‡¨†™‚‹~€‰~‡{NûƒyŸw•v‹RLc:FC8g;@O®d¾¯± µ³Ÿ §¯®¾t6€\x”¢¥™¦©  ©®²¼x—JXgjxƒ‡“””¯ÊÜ÷³Æ÷Z°ö|™üıjhz²÷÷!÷Yßª›xdTqIW><V[dbûO­÷°ÂÈ°¦—’ˆ„†…z€nz_€l„x~f}g~f‚p†t‹y‹k§x¬‹Ù‹×·ÖäÑŞ®Û‹Ö‹Å{¨l‹r‹~}‹ow°d‹d+û-ûB(x“›˜–°¡ÈÃ÷0š¶“©‹ƒ”zxo|ngjqkjjd™}ût÷ÎåcabwcRo¯Ô¨‘£–ŸÑÇ•¼›Ú¤²°‹½‹Åk¨J‹û‹û,ûM‹û‹6½VĞ‹‹¡¤•³œ®¥ª°z˜¹÷©XkgJt}db„a‚÷ÆÉÇÎ¦˜{jû=¸ø¡£¥¯.ûßVûL~d„t‚‚‰w‡„u¶ªŒ ‹¢¬Šˆ·’¡]l|‹’’›’¦¹÷;¡t¨¯‹ÅÂ®ÒÀ¾Ğ¥ÏÏ½w¯d¡™qk’dx‰‡c¡Ózˆ~Š‚‹†‚Œ~v;P€d‚v…u÷f¥Ú²hFVyQfLGbai_dx®™›œ§î¥ç¤â›Œ—Œ”‹ûããøÓ"û´~f„r‹~t–¡œ¢•¨°£±®´¹}›{zvyrxlsu‹„‹‡‹’‹“—÷÷Âì’©.À÷GXûA„mûb÷Z÷|~•€~˜…¢¯˜·¦¾Æª­©®¬›wbe^rVNnklj9V{|ƒ€„€•}{\ujwyz{|ƒ{‹x‹j¤p¾t·wº½‹÷‹àº‹Ò‹ ~p›z–n˜b™]›n–‘p˜~˜˜š’š™™Š’•Š˜¯¯Ÿ³¯³¸Ÿ¾Äª„¦}£¦¬…‹Œ’‘–šˆ“…l‡o‡{Š‡Š—yu‘r0/"û S d¶vcfîû4F³¼¥¨§Æª’†¾vêd®}œ}‹|‹gRm;‹÷tùÔHp]jJKh¬Î†mh“kšn`¡®v»äÅÀö¤oû*÷4ùd¥‡¨†™„‹€…ˆ†zhûXû0Iû\tF€\‹r‹u”z›†¢‹÷4‹÷[÷^‹÷/‹ª¤vxœu”p‹X‹UlSLd`iYnS‰ç÷ŠÏ÷N¸÷|™zf\‚Q‡ulı^l|›ªÀÔ÷ÚÚ¸¹´¡®±vaKhFDBEGOhXüÑ÷Ê™—´®¥œ˜‹’ˆ„ˆ†uYûe7qU€r†y‹‚‹n™}§‹º‹ÁµÆŞx—Taiop‚†”“—Á÷µç©Ëš­“¡‹”‹œ”t‹j‹Ue>>›|÷nø ptsju–€¡§¢¬¤ €–tû¾È÷¼ª¦´²—‡ƒƒ€ctBBû}»y¢Ê£Á£¸ ³­ÄºÕ¤²›Ÿ”‹‹Œ‰‹†‹‡‡u‹„‹{’ƒ˜‹Ÿ‹Ÿ²‹°‹¯t‹z‹txpdtigN[2wf‰¸÷#Æ”°‹šœ“xn]`5L™|û¾÷ŠøLXd}przx‚wtr›]«H§P™br^wtdduÁ‹nrv€’‚™‚¦…°ÜÎµÔ¨|¸lÆnÄ|³¢·¡¡¶¦›N‹°”“œ™ƒ˜|—™xs’lü$ßy§¡¥§£}—prslts˜¦û¬£'Ã´–¢¥¢Ÿ›­”»¬÷;˜Ì£¨Èœd˜w ‹ª‹œŒ›˜­÷<¢¡ºb£8‡¸‚¢u‹g~‰{‡vlû4†pˆx‹‚h t¶€‰hƒq|{t~z‚q„hlû3„j‚r~zzuq}i„‡®ÓùBº…¨‡•¤SŞûIµ-†;ü—Ù/„ƒoÆ¹Œ®·ºŠˆ¼“§Nq~“‹™›Ÿ¢¹÷\•®çòæíåè¤¥Ÿ™š­“§PˆcŠt‹hfŒfƒo¿‡£‰—„‹~ƒ…|(û?5WRû
+÷Ÿ†–‰”“’’–œ¬“§TˆaŠm‹gbŒ\ƒoû=÷¾øLJOnPSQNnF>N_²ow¦«¯ÒÊ©ÆÁÀÄ¦ÍÔÉz¹h©¢pi—câû@vEbHFa]iXvy‘—|t€¨´Ä Ë¶Ğ×º¼±¾¿¥kLÀ÷z¦ ¡¦¦v¡prtupp¢u¤ûF¦ ¡¦¦v¡prtupp¢u¤w÷ùBÏ‡Š•„‹~…‰~ˆw_û‚iûFsû‚^†h‡g‡ƒo÷ïŒĞ‹¼ÖŠˆïÁ÷DkxZ|l|yvo~d…h…Lˆ/‹^‹‚“‹£‹”š¢¾÷‹àĞŒ¾¢—„}Š‰fŠw†¦‡’ÅšĞ¢ÚkyQ„v‡ˆhˆ†LSˆZc¬÷N–½’¬œ÷Ü‹Š¤©ŠšvuŠsˆr­°“º—Ãûˆ7ŠT‹L‹1Œû	ƒoû¬÷Ä÷V`]p[mv˜¥€…˜ˆ™šÄ¡Ê¶ĞÔ¸¸°¸–”†‚†vz˜‚¢‹œ‹”“‹œ‹Çw¢O‹D‹HdL<RBnF‹I‹3¯_Ô‹Ë‹É°ÆÕwœû¾…‡®·ŒÁ¾¹Šˆ¶“§[m|“‹šŒŒ™¦ª–Îœñ¡÷¡÷¢í”³²¹“§hˆ_ŠU‹X]Œ`ƒo»‡©ˆšƒ‹|ŠŠ}ˆpˆl€Hz%uûuût)‚cˆ†dˆ]‡ƒo÷µùz¦ ¡¦¦v¡prtupp¢u¤÷ù
+endstream
+endobj
+32 0 obj
+<<
+/StemV 0
+/FontName/WYQVFJ+SimonciniGaramond-Italic
+/XHeight 0
+/FontBBox[-146 -222 1058 948]
+/Ascent 948
+/ItalicAngle -12
+/FontFile3 31 0 R
+/Flags 98
+/Descent -222
+/Type/FontDescriptor
+/CapHeight 948
+/StemH 0
+>>
+endobj
+33 0 obj
+<<
+/BaseFont/WYQVFJ+SimonciniGaramond-Italic
+/Name/F4
+/Widths[250 0 0 0 0 0 0 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 630 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 685 0 0 0 0 0 0 0 444 500 370 500 426 0 0 0 278 0 0 278 778 537 0 481 0 352 352 315 0 463 0 0 444 389 370 0 370 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 481 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 444 352 278]
+/LastChar 221
+/FirstChar 32
+/FontDescriptor 32 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 30 0 R
+>>
+endobj
+34 0 obj
+<<
+/Kids[35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R]
+/Type/Pages
+/Count 6
+/Parent 41 0 R
+>>
+endobj
+35 0 obj
+<<
+/Parent 34 0 R
+/Contents 3 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F2 25 0 R/F0 17 0 R/F3 29 0 R/F1 21 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+36 0 obj
+<<
+/Parent 34 0 R
+/Contents 4 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F2 25 0 R/F3 29 0 R/F1 21 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+37 0 obj
+<<
+/Parent 34 0 R
+/Contents 5 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F2 25 0 R/F0 17 0 R/F3 29 0 R/F1 21 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+38 0 obj
+<<
+/Parent 34 0 R
+/Contents 6 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F2 25 0 R/F3 29 0 R/F1 21 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+39 0 obj
+<<
+/Parent 34 0 R
+/Contents 7 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F2 25 0 R/F3 29 0 R/F1 21 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+40 0 obj
+<<
+/Parent 34 0 R
+/Contents 8 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F2 25 0 R/F3 29 0 R/F1 21 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+42 0 obj
+<<
+/Kids[43 0 R 44 0 R 45 0 R 46 0 R]
+/Type/Pages
+/Count 4
+/Parent 41 0 R
+>>
+endobj
+43 0 obj
+<<
+/Parent 42 0 R
+/Contents 9 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F0 17 0 R/F2 25 0 R/F3 29 0 R/F1 21 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+44 0 obj
+<<
+/Parent 42 0 R
+/Contents 10 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F0 17 0 R/F2 25 0 R/F4 33 0 R/F3 29 0 R/F1 21 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+45 0 obj
+<<
+/Parent 42 0 R
+/Contents 11 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F4 33 0 R/F3 29 0 R/F1 21 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+46 0 obj
+<<
+/Parent 42 0 R
+/Contents 12 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F0 17 0 R/F3 29 0 R/F1 21 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+41 0 obj
+<<
+/Type/Pages
+/Kids[34 0 R 42 0 R]
+/Count 10
+>>
+endobj
+47 0 obj
+<<
+/PageLabels 13 0 R
+/Pages 41 0 R
+/Type/Catalog
+>>
+endobj
+48 0 obj
+<<
+/Producer(QuarkXPress(tm) 6.5)
+/Title<FEFF20222022004B002E004B002E0020004C0049004E00550058002700540041004E003F002D0065006B>
+/CreationDate(20080124123116)
+/XPressPrivate(%%DocumentProcessColors:\n%%EndComments)
+/Creator(QuarkXPress(tm) 6.5)
+>>
+endobj
+xref
+0 49
+0000000000 65535 f 
+0000000015 00000 n 
+0000000059 00000 n 
+0000000111 00000 n 
+0000004615 00000 n 
+0000009209 00000 n 
+0000013912 00000 n 
+0000019000 00000 n 
+0000024284 00000 n 
+0000029713 00000 n 
+0000034730 00000 n 
+0000038942 00000 n 
+0000043170 00000 n 
+0000046888 00000 n 
+0000046934 00000 n 
+0000047281 00000 n 
+0000051249 00000 n 
+0000051477 00000 n 
+0000052126 00000 n 
+0000052666 00000 n 
+0000064271 00000 n 
+0000064492 00000 n 
+0000065214 00000 n 
+0000065444 00000 n 
+0000069048 00000 n 
+0000069277 00000 n 
+0000069887 00000 n 
+0000070191 00000 n 
+0000073341 00000 n 
+0000073561 00000 n 
+0000074188 00000 n 
+0000074439 00000 n 
+0000078437 00000 n 
+0000078667 00000 n 
+0000079275 00000 n 
+0000079382 00000 n 
+0000079596 00000 n 
+0000079800 00000 n 
+0000080014 00000 n 
+0000080218 00000 n 
+0000080422 00000 n 
+0000081568 00000 n 
+0000080626 00000 n 
+0000080719 00000 n 
+0000080933 00000 n 
+0000081158 00000 n 
+0000081363 00000 n 
+0000081633 00000 n 
+0000081702 00000 n 
+trailer
+<<
+/Size 49
+/Root 47 0 R
+/Info 48 0 R
+/ID[<D01D862B69993784CD4FC2E90861A84A><D01D862B69993784CD4FC2E90861A84A>]
+>>
+startxref
+81964
+%%EOF

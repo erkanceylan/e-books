@@ -1,0 +1,7761 @@
+%PDF-1.3
+%âãÏÓ
+1 0 obj
+<<
+/Type/ExtGState
+/OPM 1
+>>
+endobj
+2 0 obj
+<<
+/Type/ExtGState
+/SM 0.01
+/FL 1
+>>
+endobj
+3 0 obj
+<<
+/Length 5637
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 268.796 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 328.5512 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.093 Tw
+(LINUX i\337letim sistemi, kullan\335c\335lar\335n verdikleri komutlar\335 \215\232z\237mlemek ve)Tj
+0 -1.33333 TD
+-0.0076 Tc
+(bu)Tj
+1.55848 0 Td
+-0.008 Tc
+0.237 Tw
+(komutlar\335 yerine getirecek programlar\335 ba\337latmak i\215in )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 318.4339 314.5512 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(kabuk )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 350.4875 314.5512 Tm
+0 Tr
+0 g
+0 Tc
+(\()Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 353.9028 314.5512 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(shell)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 372.9555 314.5512 Tm
+0 Tr
+0 g
+0 Tc
+(\))Tj
+-30.02501 -1.33333 TD
+-0.008 Tc
+0.065 Tw
+(programlar\335n\335 kullan\335r. Bir ba\337ka deyi\337le, kabuk programlar\335, kullan\335c\335larla)Tj
+T*
+0.017 Tw
+(bilgisayar aras\335ndaki komut arabirimidir. Asl\335nda, bu tip komut arabirimle)Tj
+30.04284 0.00001 TD
+0 Tc
+(-)Tj
+-30.04284 -1.33334 TD
+-0.008 Tc
+0.023 Tw
+(ri; yani \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 94.6101 272.5512 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.023 Tw
+(komut yorumlay\335c\335lar\335)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 189.5103 272.5512 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.73825 0 Td
+(\()Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 200.6795 272.5512 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.023 Tw
+(command interpreter)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 287.5725 272.5512 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.023 Tw
+(\), t\237m i\337letim sistem-)Tj
+-21.8933 -1.33333 TD
+0.218 Tw
+(lerinde kullan\335lmaktad\335r; \232rne\333in MS-DOS i\337letim sisteminde bu g\232revi)Tj
+T*
+0.025 Tw
+(COMMAND.COM \237stlenmi\337 durumdad\335r. )Tj
+0 -2.55568 TD
+0.046 Tw
+(LINUX i\337letim sisteminde, kullan\335c\335lar\335n birden fazla kabuk program\335 ara)Tj
+30.04281 0 TD
+0 Tc
+(-)Tj
+-30.04281 -1.33334 TD
+-0.008 Tc
+-0.007 Tw
+(s\335ndan se\215im yapma ve be\333endikleri komut yorumlay\335c\335s\335n\335 kullanma hakla-)Tj
+0 -1.33333 TD
+0.025 Tw
+(r\335 vard\335r. Hatta ayn\335 anda birden fazla kabuk program\335 bile kullanabilirler. )Tj
+0 -2.55569 TD
+-0.013 Tw
+(Bu kitapta LINUX i\337letim sisteminin en pop\237ler kabuk program\335 olan )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 355.5762 162.8819 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 148.8819 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.025 Tw
+(kabuk program\335n\335 anlataca\333\335z. Ayr\335nt\335larda \232nemli farklar olsa bile )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 339.272 148.8819 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+(bash )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 364.7355 148.8819 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(bi-)Tj
+-29.24215 -1.33334 TD
+0.015 Tw
+(len birisi )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 97.2227 134.8819 Tm
+0 Tr
+0 g
+-0.075 Tc
+0 Tw
+(csh)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 112.8184 134.8819 Tm
+0 Tr
+0 g
+-0.0075 Tc
+(,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 118.0727 134.8819 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(tcsh)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 138.8669 134.8819 Tm
+0 Tr
+0 g
+-0.0075 Tc
+(,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 144.1213 134.8819 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(sh)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 154.5184 134.8819 Tm
+0 Tr
+0 g
+-0.0075 Tc
+(,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 159.7728 134.8819 Tm
+0 Tr
+0 g
+-0.075 Tc
+0 Tw
+(ksh)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 178.0766 134.8819 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.015 Tw
+(gibi di\333er kabuk programlar\335n\335 \215ok \215abuk kav-)Tj
+-11.46511 -1.33333 TD
+0 Tw
+(rayacakt\335r.)Tj
+0 -2.5557 TD
+-0.001 Tw
+(LINUX kullan\335m\335nda deneyim kazan\335p sistemin hakk\335n\335 vermeye ba\337lad\335\333\335-)Tj
+0 -1.3333 TD
+0.07 Tw
+(n\335zda; \232zellikle sistem y\232neticisi olma yolunda ilerledik\215e, kabuklar\335n \232ne-)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(257)Tj
+ET
+0.8 g
+0 355.581 377.449 331.734 re
+f
+Q
+q
+BT
+/F3 1 Tf
+21.874 0 0 21.874 55.8916 578.604 Tm
+0 Tr
+0.3 g
+-0.009 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F5 1 Tf
+27.04 0 0 21.874 114.2108 578.604 Tm
+0 Tr
+0.3 g
+0 Tc
+0.022 Tw
+(Kabu\333u ve)Tj
+-2.15677 -1.09719 TD
+(Kabuk Programlar\335)Tj
+ET
+0 J 0 j 10 M []0 d 0.5 w 
+0.3 G
+56.693 578.464 m
+478.716 578.464 l
+S
+56.693 554.618 m
+478.716 554.618 l
+S
+404.185 571.411 m
+404.185 556.6158 392.1912 544.622 377.396 544.622 c
+362.6008 544.622 350.607 556.6158 350.607 571.411 c
+350.607 586.2062 362.6008 598.2 377.396 598.2 c
+392.1912 598.2 404.185 586.2062 404.185 571.411 c
+f*
+q
+407.185 571.411 m
+407.185 554.959 393.848 541.622 377.396 541.622 c
+360.944 541.622 347.607 554.959 347.607 571.411 c
+347.607 587.863 360.944 601.2 377.396 601.2 c
+393.848 601.2 407.185 587.863 407.185 571.411 c
+W* n
+6 w 
+1 G
+407.185 571.411 m
+407.185 554.959 393.848 541.622 377.396 541.622 c
+360.944 541.622 347.607 554.959 347.607 571.411 c
+347.607 587.863 360.944 601.2 377.396 601.2 c
+393.848 601.2 407.185 587.863 407.185 571.411 c
+s
+Q
+Q
+q
+BT
+/F5 1 Tf
+41.871 0 0 31.015 358.0448 558.5188 Tm
+0 Tr
+1 g
+0.004 Tc
+0 Tw
+(07)Tj
+ET
+Q
+q
+BT
+/F5 1 Tf
+14.76 0 0 12 65.1968 520.8509 Tm
+0 Tr
+0.3 g
+-0.009 Tc
+0.022 Tw
+[<A5>-252(Komut Sat\335r\335n\335n Yorumlanmas\335 ve Parametreler)]TJ
+0 -1.58333 TD
+[<A5>-252(Kabuk De\333i\337kenleri )]TJ
+0.66272 -1.58334 TD
+((ya da Ortam De\333i\337kenleri))Tj
+-0.66272 -1.58333 TD
+0 Tc
+<A5>Tj
+0.66272 0 TD
+-0.009 Tc
+(Programlar\335 Arka Planda \202al\335\337t\335rmak)Tj
+-0.66272 -1.58334 TD
+[<A5>-252(\205n Planda \202al\335\337an Programlar\335 )]TJ
+0.66272 -1.58333 TD
+(Arka Plana Atmak)Tj
+-0.66272 -1.58334 TD
+0 Tc
+<A5>Tj
+0.66272 0 TD
+-0.009 Tc
+(Kabuk Programlama)Tj
+0.10547 -1.58334 TD
+-0.0001 Tc
+<A5>Tj
+0.66402 0 Td
+0 Tc
+(\334lk Kabuk Program\335 \205rne\333i)Tj
+-0.66402 -1.58333 TD
+-0.0001 Tc
+<A5>Tj
+0.66403 0 Td
+0 Tc
+(\334kinci Kabuk Program\335 \205rne\333i)Tj
+ET
+Q
+
+endstream
+endobj
+4 0 obj
+<<
+/Length 6211
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.048 Tw
+(mi h\335zla ortaya \215\335kacakt\335r. Gerek sisteminize ileri d\237zey komutlar verirken,)Tj
+0 -1.33333 TD
+0.061 Tw
+(gerekse bir tak\335m i\337leri otomati\333e ba\333lamaya ba\337lad\335\333\335n\335zda kabuklar\335n ya-)Tj
+T*
+0.087 Tw
+(rarl\335 \232zelliklerini kullanmaya ve daha \232nemlisi kabuk komutlar\335n\335 kullana-)Tj
+T*
+0.025 Tw
+(rak kendi komut dizilerinizi \()Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 215.3967 556.3386 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(shell script)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 259.3315 556.3386 Tm
+0 Tr
+0 g
+-0.0076 Tc
+(\))Tj
+0.5927 0 Td
+-0.008 Tc
+0.025 Tw
+(yazmaya ba\337layacaks\335n\335z.)Tj
+-16.63733 -2.55568 TD
+0.017 Tw
+(Bu a\337amada, bu b\232l\237m\237n \232zellikle \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 245.2689 529.5039 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.017 Tw
+(kabuk programlama)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 332.2602 529.5039 Tm
+0 Tr
+0 g
+-0.0077 Tc
+<D3>Tj
+0.73304 0 Td
+-0.008 Tc
+0.017 Tw
+(ile ilgili k\335s\335mlar\335)Tj
+-23.72325 -1.33333 TD
+0.004 Tw
+(size kar\335\337\335k gelebilir. Hele programc\335l\335k deneyiminiz yoksa bu b\232l\237mleri hi\215)Tj
+T*
+0.017 Tw
+(\237z\237lmeden atlayabilirsiniz. LINUX kullanmak i\215in ille de programc\335 olmak)Tj
+T*
+0 Tw
+(gerekmez.)Tj
+ET
+Q
+q
+BT
+/F5 1 Tf
+17.924 0 0 14.5 90.8629 451.7759 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Komut Sat\335r\335n\335n Yorumlanmas\335 )Tj
+0 -1.37931 TD
+(ve Parametreler)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 409.7759 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 114.4659 409.7759 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(kabuk program\335 komut almaya haz\335r oldu\333unu ekranda )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 384.9413 Tm
+0 Tr
+0 g
+-0.055 Tc
+0.056 Tw
+([cayfer@pusula cayfer] $)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 361.5239 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(gibi bir karakter dizisiyle \()Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 202.7862 361.5239 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(haz\335r i\337areti:)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 258.9828 361.5239 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(prompt)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 288.8285 361.5239 Tm
+0 Tr
+0 g
+-0.0076 Tc
+(\))Tj
+0.59271 0 Td
+-0.008 Tc
+0 Tw
+(belirtir.)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 336.6893 Tm
+0 Tr
+0 g
+-0.055 Tc
+0.056 Tw
+(cp  eski-dosya  yeni-dosya)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 313.2719 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.018 Tw
+(gibi bir komut verdi\333inizde, kabuk program\335, \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 291.4177 313.2719 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(cp)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 301.8148 313.2719 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.73405 0 Td
+-0.008 Tc
+0.018 Tw
+(harflerini \215al\335\337t\335rmak is-)Tj
+-20.8247 -1.33333 TD
+-0.015 Tw
+(tedi\333iniz program\335n ad\335 olarak; \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 228.5237 299.2719 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(eski-dosya)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 280.5092 299.2719 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.70119 0 Td
+-0.008 Tc
+-0.015 Tw
+(ve \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 304.5993 299.2719 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(yeni-dosya)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 356.5848 299.2719 Tm
+0 Tr
+0 g
+-0.0077 Tc
+<D3>Tj
+0.701 0 Td
+-0.008 Tc
+0 Tw
+(s\232zc\237kleri)Tj
+4.07347 0 TD
+0 Tc
+(-)Tj
+-30.08132 -1.33334 TD
+-0.008 Tc
+0.025 Tw
+(ni ise bu )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 129.8688 285.2719 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(cp)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 143.0747 285.2719 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(program\335n\335n iki parametresi olarak kabul edecektir.)Tj
+-4.97255 -2.55568 TD
+0.044 Tw
+(Kabu\333un yapaca\333\335 bir sonraki i\337, \215al\335\337t\335rmak istedi\333iniz bu )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 343.5324 258.4373 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(cp)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 356.9425 258.4373 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(program\335n\335n)Tj
+-25.34092 -1.33333 TD
+0.014 Tw
+(sakland\335\333\335 disk dosyas\335n\335 bulmak olacakt\335r. Bu arama i\337inin temelinde, sizin)Tj
+T*
+0.056 Tw
+(i\215in tan\335mlanm\335\337 olan )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 185.725 230.4373 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(PATH)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 209.6559 230.4373 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.056 Tw
+(kabuk ortam de\333i\337keninin o andaki de\333eri yat)Tj
+18.76769 0 TD
+0 Tc
+(-)Tj
+-30.08131 -1.33334 TD
+-0.008 Tc
+0.025 Tw
+(maktad\335r. Bu de\333i\337kenlerin de\333erleri tipik olarak)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 191.6026 Tm
+0 Tr
+0 g
+-0.084 Tc
+0 Tw
+(/usr/local/bin:/bin:/usr/bin:/usr/X11R6/bin:/home/cayfer/bin)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 168.1853 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(benzeri bir karakter dizisi olacakt\335r. )Tj
+0 -2.55569 TD
+0 Tw
+(Kendi )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 119.9692 141.3506 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(PATH)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 143.811 141.3506 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.048 Tw
+(de\333i\337keninizi g\232rmek isterseniz \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 284.5532 141.3506 Tm
+0 Tr
+0 g
+-0.058 Tc
+0.106 Tw
+(echo $PATH)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 337.5465 141.3506 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.76347 0 Td
+-0.008 Tc
+0.048 Tw
+(komutunu kul-)Tj
+-24.25715 -1.33333 TD
+0 Tw
+(lanabilirsiniz.)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 100.516 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 115.098 100.516 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(program\335, )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 160.3018 100.516 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(PATH)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 184.5368 100.516 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.085 Tw
+(de\333i\337keninin de\333eri i\215inde, \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 308.2298 100.516 Tm
+0 Tr
+0 g
+0 Tc
+(:)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 313.4284 100.516 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.80091 0 Td
+-0.008 Tc
+0.085 Tw
+(karakteriyle birbirle-)Tj
+-21.9976 -1.3333 TD
+0.033 Tw
+(rinden ayr\335lm\335\337 olan dizinleri s\335rayla taray\335p bu dizinlerin i\215inde, sizin \215al\335\337-)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(258)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F4 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+Q
+
+endstream
+endobj
+5 0 obj
+<<
+/Length 6674
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.046 Tw
+(t\335rma yetkiniz olan \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 145.4877 598.3385 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(cp)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 155.8848 598.3385 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.76199 0 Td
+-0.008 Tc
+0.046 Tw
+(isimli bir dosya arayacakt\335r. Arama, dizin isimleri-)Tj
+-10.1136 -1.33333 TD
+0 Tw
+(nin )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 74.2876 584.3385 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(PATH)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 97.8906 584.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(de\333i\337keninde verili\337 s\335ras\335na g\232re yap\335lacakt\335r. )Tj
+-3.82835 -2.93663 TD
+-0.01 Tc
+0.107 Tw
+(\205rne\333imize g\232re, )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 135.8311 553.5039 Tm
+0 Tr
+0 g
+-0.071 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 160.167 553.5039 Tm
+0 Tr
+0 g
+-0.01 Tc
+0 Tw
+(program\335, )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 205.3412 553.5039 Tm
+0 Tr
+0 g
+-0.1 Tc
+0 Tw
+(cp)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 219.3327 553.5039 Tm
+0 Tr
+0 g
+-0.01 Tc
+0.107 Tw
+(isimli dosyay\335 \232nce )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 303.933 553.5039 Tm
+0 Tr
+0 g
+-0.059 Tc
+0 Tw
+(/usr/local/bin)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 539.5039 Tm
+0 Tr
+0 g
+-0.01 Tc
+0.048 Tw
+(dizininde, orada bulamazsa )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 176.555 539.5039 Tm
+0 Tr
+0 g
+-0.071 Tc
+0 Tw
+(/bin)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 200.2705 539.5039 Tm
+0 Tr
+0 g
+-0.01 Tc
+0.048 Tw
+(dizininde; orada da bulamazsa )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 332.4469 539.5039 Tm
+0 Tr
+0 g
+-0.062 Tc
+0 Tw
+(/usr/bin)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 373.8246 539.5039 Tm
+0 Tr
+0 g
+0 Tc
+(;)Tj
+-30.10778 -1.33333 TD
+-0.01 Tc
+0 Tw
+(olmazsa )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 93.3386 525.5039 Tm
+0 Tr
+0 g
+-0.059 Tc
+0 Tw
+(/usr/X11R6/bin)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 167.9229 525.5039 Tm
+0 Tr
+0 g
+-0.01 Tc
+-0.033 Tw
+(dizininde, gene bulamazsa )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 279.8592 525.5039 Tm
+0 Tr
+0 g
+-0.059 Tc
+0 Tw
+(/home/cayfer/bin)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 364.7879 525.5039 Tm
+0 Tr
+0 g
+-0.01 Tc
+0 Tw
+(di-)Tj
+-29.24714 -1.33333 TD
+0.049 Tw
+(zininde arayacakt\335r. Kabuk program\335n\335z s\232z konusu dosyay\335 bu dizinlerden)Tj
+T*
+0.025 Tw
+(hi\215birinde bulamazsa,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 472.6692 Tm
+0 Tr
+0 g
+-0.055 Tc
+0.056 Tw
+(bash: cp: command not found)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 449.2519 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.038 Tw
+(diye, komutu tan\335yamad\335\333\335na ili\337kin bir hata mesaj\335 vererek yeniden komut)Tj
+0 -1.33333 TD
+0.025 Tw
+(bekleme durumuna d\232necektir.)Tj
+0 -2.55569 TD
+-0.018 Tc
+0 Tw
+(E\333er )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 80.2067 408.4172 Tm
+0 Tr
+0 g
+-0.1 Tc
+0 Tw
+(cp)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 93.4807 408.4172 Tm
+0 Tr
+0 g
+-0.018 Tc
+0.039 Tw
+(program dosyas\335 bu dizinlerden birinde bulunursa, bu dosyan\335n eri-)Tj
+-3.40836 -1.33333 TD
+0.116 Tw
+(\337im yetkileri kontrol edilecektir. )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 196.2216 394.4172 Tm
+0 Tr
+0 g
+-0.073 Tc
+0 Tw
+(cayfer)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 226.7799 394.4172 Tm
+0 Tr
+0 g
+-0.018 Tc
+0.116 Tw
+(\325in bu program\335 \215al\335\337t\335rmaya yetkisi)Tj
+-16.10352 -1.33333 TD
+0 Tw
+(varsa )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 82.8291 380.4172 Tm
+0 Tr
+0 g
+-0.1 Tc
+0 Tw
+(cp)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 97.3584 380.4172 Tm
+0 Tr
+0 g
+-0.018 Tc
+0.159 Tw
+(program\335 kabuk taraf\335ndan belle\333e y\237klenecek ve \215al\335\337t\335r\335lacakt\335r.)Tj
+-3.77767 -1.33333 TD
+0.097 Tw
+(Varsa, komut sat\335r\335nda verilen parametreler \215\232z\237mlenip \(\215\232z\237mlemeden ne)Tj
+T*
+0.025 Tw
+(kasdetti\333imizi biraz sonra a\215\335klayaca\333\335z\) )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 225.7881 352.4172 Tm
+0 Tr
+0 g
+-0.1 Tc
+0 Tw
+(cp)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 238.9151 352.4172 Tm
+0 Tr
+0 g
+-0.018 Tc
+0.025 Tw
+(program\335na aktar\335lacakt\335r.)Tj
+-17.25926 -2.55567 TD
+-0.008 Tc
+-0.015 Tw
+(Y\237klenen program \215al\335\337maya ba\337lad\335\333\335nda kontrol art\335k )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 294.5514 325.5826 Tm
+0 Tr
+0 g
+-0.1 Tc
+0 Tw
+(cp)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 307.2553 325.5826 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.015 Tw
+(program\335na ge\215)Tj
+6.27497 0 TD
+0 Tc
+(-)Tj
+-30.04281 -1.33334 TD
+-0.008 Tc
+0.003 Tw
+(mi\337tir. Parametrelerin do\333ru s\335rada ve say\335da verilip verilmedi\333ini her prog-)Tj
+0 -1.33333 TD
+-0.002 Tw
+(ram kendisi kontrol eder ve gerekirse uygun hata veya uyar\335 mesajlar\335 \237rete-)Tj
+T*
+0.025 Tw
+(rek, kullan\335c\335y\335 uyar\335r.)Tj
+0 -2.55569 TD
+0.079 Tw
+(Bir komut verildi\333inde o komuta ili\337kin hangi program dosyas\335n\335n belle\333e)Tj
+0 -1.33333 TD
+0.025 Tw
+(y\237klenece\333ini merak etti\333inizde )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 217.9133 Tm
+0 Tr
+0 g
+-0.057 Tc
+0.056 Tw
+(which komut)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 194.4959 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.017 Tw
+(komutunu kullanabilirsiniz. \322B\232yle bir \337eyi neden merak edeyim ki?\323 diyor)Tj
+30.04284 0 TD
+0 Tc
+(-)Tj
+-30.04284 -1.33334 TD
+-0.008 Tc
+0.001 Tw
+(san\335z bilgisayar\335n\335zda ayn\335 isme sahip iki program dosyas\335 olabilece\333ine dik-)Tj
+0 -1.33333 TD
+0.025 Tw
+(katinizi \215ekeriz. )Tj
+0 -2.55568 TD
+0.009 Tw
+(\205rne\333in kendiniz C dili ile \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 178.7421 139.6613 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(bc)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 189.1392 139.6613 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.72494 0 Td
+-0.008 Tc
+0.009 Tw
+(diye bir program yazabilir ve ki\337isel dizini)Tj
+16.79921 0.00001 TD
+0 Tc
+(-)Tj
+-30.04284 -1.33334 TD
+-0.008 Tc
+-0.028 Tw
+(nize yerle\337tirebilirsiniz. Program\335n\335z\335 g\237zelce hatas\335z derledikten sonra \215al\335\337-)Tj
+T*
+-0.008 Tw
+(t\335rmak i\215in \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 110.9384 111.6613 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(bc)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 121.3355 111.6613 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.70733 0 Td
+-0.008 Tc
+-0.008 Tw
+(komutunu verdi\333inizde garip \337eyler oldu\333unu g\232zleyebilir)Tj
+23.27432 0 TD
+0 Tc
+(-)Tj
+-30.0428 -1.3333 TD
+-0.008 Tc
+0.023 Tw
+(siniz. \334lk akl\335n\335za gelen )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 157.0698 97.6613 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.023 Tw
+(\322acaba do\333ru program\335 m\335 \215al\335\337t\335r\335yorum?\323)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 335.4378 97.6613 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(olmal\335d\335r. )Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(259)Tj
+ET
+1 g
+56.693 624.786 320.756 10.5 re
+f
+Q
+q
+BT
+/F4 1 Tf
+9.84 0 0 8 239.9298 627.3763 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Bash Kabu\333u ve Kabuk Programlar\335)Tj
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace/DeviceGray
+/Filter/FlateDecode
+/Height 88
+/Subtype/Image
+/Type/XObject
+/Length 1708
+/Width 551
+>>
+stream
+X…í»ŠG†‡m(J6rbœŒÉ2Âf1Ñ`	£@ -ËF‰Á‘_dŸÂ/ PhÆÁbXÿ§®§.}™Ë®gzş«NUªšî™óMuu/Ë†¢†DJ/ä«ë¦Q‡¥«‹˜ &—©–È½í€É<Ô”1y•h9Ôö˜,–N7ËëëÏWmCM„Ú¡¶Çd¾üjöø»§?œÎ_ÌOççm3v/“´sO÷Ø¸{FaÓ¶¶ÜùY¹<vüfÓöì7œ,¨t·ãj2»øãâİâÇÙÃãæÓ‡¶õAäİ¦mÌğØQ˜ûÒVçi!­ğ>6š¶¯˜À:M¿ÙéÂ$«ÉãßşüıíOÏf'ÇÍÕû¶Q+€ä‘ßÚñıñ¼eLrÏÀ„¦MsGûÕä{¬&gXM¾<nşşĞ.ìyñ‡~ËŒ@,’©™ºƒˆcix,
+Ó4N½ —XÓ#V\
+?9¶aQ`bÆŠÍÎPwÓöÔ@BÄu±a5q7ÏÉjòü—·o^¾xÒŞ?j–ç-î‚ ÿÁ¨˜"ùìcvtõz Œrù"©
+ß‘-b¡’íŠ’Éb³0yói“ÁußV“›ÅâõbñôÛG÷¾h–ao"¤à/|6öÓË¿ıÎa>ÅØÑ?¶‚	²X½^ …ÊÜ’ëÛ¡äàjY(QÓ'`°ş´ƒÀd~súìÙó'³GğŞßµÃ¹ºß@˜>¹“±}«IÒÛEÈ¼ÇšüD‹«G69]»¶4mÊÅõböxöÍ£ÇŞûYÛtŞÚ×ùè6[uÕö©:Ö×“«’MYáëõ^ÉÊ¨²¸e©ÌBJ»…iûƒÉê[Øù?/œÜ¿w„z³|Õ6Õş² «>¶@5+ŒE3"l\`¤C’Š/¬[u¨Ôeo÷bêh¦®NĞÕ6Ÿ6åâÅçÅ§««oğ®¡×m³â¬HGuõ¦¦ñxmş×û‹ó_‘ÏŞüürqÚ6kQ²ùXê0Á}l`¢§í1iÚ¯Û6f8(şôWüôG&Ø¬$‡	ˆ¡¨n9Ln(ªSìh)ª.bBŠ˜PÄ„"&Ôc‚*¾È/ƒhd’Š¹GkLò¿8é&µ[˜ ‹T‹^GPûC^Æßb²ç˜èÊfáêÀdx1±Ií&r@B)6—uk®O(aœÊ$ï&¡„u…1&n„©ÀR;µ7ñ$“ã6Ã‡ÏXkÔ@$ßU$)$7ÚZ=%œEÇ™P»°šøàØh¥
+\>„YÄ%ùbô¤Úœ0B3k2µ‹˜ VF…«Öøğ¹:)ÌÑ“„SÓÂˆd,µ«˜H.".YIÎT&!%óÜjâGÕ0I@í&ê›>‰[Ncdœ®¹zm’ß¨¤lÙ--j&q¥AÅÔ¨Áä®E.&ãŠáÔ´1¡ˆ	EL(bBQ%&‰	5ˆÉ’˜PÄ„Ú&Õ'‡É’¢¢ 1¡1¹IDL¨:&Ø‘]Š˜P[ÇOÙP»Ép4)¨ÆÄızŸb‚îŞÀ–¾ŠsxZt›Â˜j·ªdõ¼Eİ
+&°ád4&_tÃS:»Ş‰	^¶Ú­*Y=oQ·	"c9Y˜
+%¥{pòÊKXSïïq¦-ê0At'Là·—ûU·ÙXë…‰r2Õ²Ö–ƒ˜¸y.5Ûkı¦#õyRwŒITZX&
+§rm‚}¥h$k0&¶šLÎêHjë˜tİé ÛY[‹‘¨Åı%&&«‰”®â{õV¬whµQ¯™cBı˜¤+ƒ7!ˆ~¹/0ÉÖc|¿qr§#…s“}ÂDJl/û“t]I¡‰îÜ›“½Á$”Øâ¢|kìMÖÁD;¹7¹L.µ
+LP¸ØØRÁ 6	Z(ãŒw<bMáC,Ö¶B€“X‹›\¶6Y¡ÜTãt}Ô¶1É•c²ê´¡ş¾	
+j·0Á¥F)Á¤ú<´puG}5LğÒ¾Jí&¸ÔT/:5“¾o÷º}Ô¡a’>ïèè£ˆ	Jbrè˜]W$¯ÚGM“˜½EúÒ‡m®•ôÁJAM“êÏ{ÖSû¥fÄ£Rjâ˜˜<
+Œêp0QÆóBLˆ‰´
+¾ªõ¯-’‰Éab¢
+ï‰dj¢˜D"Ô/½’¦0Îêe=Îk
+jâ˜t=Y§"&#ú¨éíM(Š˜PÄ„"&1¡ˆ	EL(bBbBêv0ùyW=
+endstream
+endobj
+7 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</2.0<<
+/CropRect[0 0 549.16699 86.173]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-B\205L\206M 6:which-bc)
+/Overprint false
+/Inks[/monochrome(Black) 1]
+/Size[551 96]
+/Version 2
+/Type/OPI
+/IncludedImageQuality 1
+>>
+>>
+/FormType 1
+/Name/Fm1
+/BBox[-0.28224 -8.49417 1.17864 4.76648]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Im1 6 0 R>>/ProcSet[/PDF/ImageB]>>
+/Type/XObject
+/Length 35
+>>
+stream
+/GS1 gs
+q
+1 0 0 1 0 0 cm
+/Im1 Do
+Q
+
+endstream
+endobj
+8 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</1.3<<
+/CropRect[0 0 549 86]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-B\205L\206M 6:which-bc)
+/Overprint false
+/ImageType[1 8]
+/Position[90.363 436.52899 90.363 486.767 410.52301 486.767 410.52301 436.52899]
+/ColorType/Process
+/Color[0 0 0 1(Black)]
+/Size[551 96]
+/Version 1.3
+/CropFixed[0 0 549.16699 86.173]
+/Type/OPI
+/Resolution[72 72]
+>>
+>>
+/FormType 1
+/Name/Fm0
+/BBox[0 0 467.71698 680.31494]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Fm1 7 0 R>>/ProcSet[/PDF]>>
+/Type/XObject
+/Length 61
+>>
+stream
+/GS1 gs
+q
+320.16061 0 0 51.3033 90.363 435.7787 cm
+/Fm1 Do
+Q
+
+endstream
+endobj
+9 0 obj
+<<
+/Length 6508
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(Bu soruya yan\335t bulmak i\215in: )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 578.9212 Tm
+0 Tr
+0 g
+-0.059 Tc
+0.056 Tw
+(which bc)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 556.9212 Tm
+0 Tr
+0 g
+-0.005 Tc
+0.069 Tw
+(komutunu verdi\333inizde g\232receksiniz ki sizin yazd\335\333\335n\335z )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 330.1879 556.9212 Tm
+0 Tr
+0 g
+-0.095 Tc
+0 Tw
+(bc)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 343.9347 556.9212 Tm
+0 Tr
+0 g
+-0.005 Tc
+0.069 Tw
+(program\335 de\333il,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 542.9212 Tm
+0 Tr
+0 g
+-0.055 Tc
+0 Tw
+(/usr/bin/bc)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 153.2555 542.9212 Tm
+0 Tr
+0 g
+0 Tc
+<8D>Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 157.6737 542.9212 Tm
+0 Tr
+0 g
+-0.005 Tc
+0.223 Tw
+<616CDDDFDD796F722E20829F6E6B9F20>Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 229.698 542.9212 Tm
+0 Tr
+0 g
+-0.065 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 255.5158 542.9212 Tm
+0 Tr
+0 g
+-0.005 Tc
+0.223 Tw
+(kabu\333u \215al\335\337t\335raca\333\335 komuta ili\337kin)Tj
+-15.68123 -1.33333 TD
+0.061 Tw
+(program dosyas\335n\335 )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 173.0432 528.9212 Tm
+0 Tr
+0 g
+-0.065 Tc
+0 Tw
+(PATH)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 197.1559 528.9212 Tm
+0 Tr
+0 g
+-0.005 Tc
+0.061 Tw
+(de\333i\337kenindeki dizinlerde ararken )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 346.1513 528.9212 Tm
+0 Tr
+0 g
+-0.056 Tc
+0 Tw
+(/usr/bin)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 391.1639 528.9212 Tm
+0 Tr
+0 g
+-0.005 Tc
+0 Tw
+(dizi-)Tj
+-28.60009 -1.33334 TD
+-0.006 Tw
+(nindeki  bc dosyas\335 sizin ki\337isel dizininizdeki bc dosyas\335ndan daha \232nce bu-)Tj
+0 -1.33333 TD
+0 Tw
+(lunuyor. )Tj
+0 -8.13498 TD
+-0.008 Tc
+0.055 Tw
+(B\232yle bir durumda ya kendi program\335n\335z\335 yerini a\215\335k\215a belirterek; yani ko-)Tj
+0 -1.33333 TD
+0.025 Tw
+(mut olarak)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 378.6692 Tm
+0 Tr
+0 g
+-0.056 Tc
+0 Tw
+(/home/cayfer/bc )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 198.8629 378.6692 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(veya)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 363.2519 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+(./bc )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 339.8346 Tm
+0 Tr
+0 g
+-0.019 Tc
+0.011 Tw
+(girerek \(\322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 130.4685 339.8346 Tm
+0 Tr
+0 g
+-0.081 Tc
+0 Tw
+(./bc)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 150.7772 339.8346 Tm
+0 Tr
+0 g
+-0.019 Tc
+0.011 Tw
+(\323, bu dizindeki )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 215.0569 339.8346 Tm
+0 Tr
+0 g
+-0.11 Tc
+0 Tw
+(bc)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 225.2113 339.8346 Tm
+0 Tr
+0 g
+-0.0191 Tc
+<D3>Tj
+0.70396 0 Td
+-0.019 Tc
+0.011 Tw
+(anlam\335nda\) \215al\335\337t\335rmal\335s\335n\335z; ya da )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 373.7658 339.8346 Tm
+0 Tr
+0 g
+-0.081 Tc
+0 Tw
+(PATH)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 396.6182 339.8346 Tm
+0 Tr
+0 g
+-0.019 Tc
+0 Tw
+(de-)Tj
+-29.11955 -1.33333 TD
+0.025 Tw
+(\333i\337keninizi kendi ki\337isel dizininiz daha \232nde olacak \337ekilde de\333i\337tirmelisiniz. )Tj
+0 -2.36521 TD
+-0.008 Tc
+(Kopyalama komutunu, \215al\335\337ma dizinindeki t\237m dosyalar\335 )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 278.1652 Tm
+0 Tr
+0 g
+-0.056 Tc
+0 Tw
+(/disk2/home2/ayfer)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 187.2456 278.1652 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(dizinine kopyalayacak \337ekilde)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 255.3306 Tm
+0 Tr
+0 g
+-0.055 Tc
+0.056 Tw
+(cp  *  /disk2/home2/ayfer)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 231.9133 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(verdi\333inizi varsayal\335m ve )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 197.3997 231.9133 Tm
+0 Tr
+0 g
+-0.071 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 220.8711 231.9133 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(kabu\333unun neler yapaca\333\335na bir g\232z atal\335m. )Tj
+-12.38173 -1.46832 TD
+0.019 Tw
+(Bu komutu g\232ren )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 168.8945 216.4959 Tm
+0 Tr
+0 g
+-0.071 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 189.5833 216.4959 Tm
+0 Tr
+0 g
+-0.0076 Tc
+(,)Tj
+0.50423 0 Td
+-0.008 Tc
+0.019 Tw
+(komut ad\335 olan )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 262.1009 216.4959 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(cp)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 275.2487 216.4959 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.019 Tw
+(s\232zc\237\333\237n\237 bulduktan sonra, bu)Tj
+-17.56055 -1.33333 TD
+0.127 Tw
+(komutun parametrelerini bulup \215\335karmaya \215al\335\337acakt\335r. Komut sat\335r\335n\335 ta-)Tj
+T*
+0 Tw
+(rarken )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 120.7302 188.4959 Tm
+0 Tr
+0 g
+0 Tc
+(*)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 128.0856 188.4959 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.037 Tw
+(karakterine rastlay\335nca, \322t\237m dosyalar\323 anlam\335na gelen bu i\337aret ye-)Tj
+-3.54502 -1.33334 TD
+0.058 Tw
+(rine, \215al\335\337ma dizininde yer alan t\237m dosya ve dizinlerin isimlerini yan yana)Tj
+0 -1.33333 TD
+0.025 Tw
+(gelecek \337ekilde yerle\337tirecektir. )Tj
+0 -2.55567 TD
+(Yani komut sat\335r\335,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 112.8266 Tm
+0 Tr
+0 g
+-0.054 Tc
+0.056 Tw
+(cp abc dosya1 dosya2 xyz x123 /disk2/home2/ayfer)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 89.4093 Tm
+0 Tr
+0 g
+-0.01 Tc
+0.083 Tw
+(sat\335r\335na benzer bir \337ekle d\232n\237\337t\237r\237lecektir. \(\202al\335\337ma dizininde sadece )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 391.882 89.4093 Tm
+0 Tr
+0 g
+-0.078 Tc
+0 Tw
+(abc)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 407.3986 89.4093 Tm
+0 Tr
+0 g
+0 Tc
+(,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 75.4093 Tm
+0 Tr
+0 g
+-0.065 Tc
+0 Tw
+(dosya1)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 121.8962 75.4093 Tm
+0 Tr
+0 g
+-0.01 Tc
+(,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 127.3982 75.4093 Tm
+0 Tr
+0 g
+-0.065 Tc
+0 Tw
+(dosya2)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 158.4314 75.4093 Tm
+0 Tr
+0 g
+-0.01 Tc
+(,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 163.9334 75.4093 Tm
+0 Tr
+0 g
+-0.078 Tc
+0 Tw
+(xyz)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 182.432 75.4093 Tm
+0 Tr
+0 g
+-0.01 Tc
+0 Tw
+(ve )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 194.7247 75.4093 Tm
+0 Tr
+0 g
+-0.071 Tc
+0 Tw
+(x123)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 218.3955 75.4093 Tm
+0 Tr
+0 g
+-0.01 Tc
+0.044 Tw
+(dosyalar\335n\335n oldu\333unu varsayarak.\) Bu d\232n\237-)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(260)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F4 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+1 g
+90.363 436.844 320.161 50.238 re
+f
+q
+90.363 436.844 320.161 50.238 re
+W n
+/Fm0 Do
+Q
+0 J 0 j 10 M []0 d 0.5 w 
+0 G
+90.113 436.594 320.661 50.738 re
+s
+Q
+
+endstream
+endobj
+10 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace/DeviceGray
+/Filter/DCTDecode
+/Height 177
+/Subtype/Image
+/Type/XObject
+/Length 4144
+/Width 174
+>>
+stream
+ÿØÿà JFIF      ÿî Adobe e€    ÿÛ C 		
+ $.' ",#(7),01444'9=82<.342ÿÀ  ± ® ÿÄ           	
+ÿÄ µ   } !1AQa"q2‘¡#B±ÁRÑğ$3br‚	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚáâãäåæçèéêñòóôõö÷øùúÿÄ        	
+ÿÚ   ? öj(¢Š(¢Š(¢Š(¢Š(¢Š(¢Š(¢Š+È<kñÆËJšKÅõÂeZíÎ`SşÆÓóı~ïÖ¼wTøƒâİe‰¼×ïJŸùgù)ÿ |Çµkû[RÜûBïpïç6li~=ñ~™:/j¾êÇ,ÆTÿ ¾+úW¥xsãÍå´ñÚx§NV¡¹¶BŒ=ÊüJö­#YÓµí:;ı.ê+›Y>ëÆzêGcìjõQEQEQEW”üpñ|º&‰dæ;IXJê~ä#†_øqôÍ|İE¡¢I:´3mO&ºkšF¢«0üÈ»C*Ó~øâïÁ:êN…ŸN™•níÇñ/÷—ı¥Ï•}ggwogİ¤©-¼È²E"•”Œ‚*j(¢Š(¢Š(¢Š+åÏ—ÆóâUÜ<âÒ ÷Îÿ ı¼ú4ó&å\÷cCÆñ9GR¬;eZ‡M¾¸€Í•Ä®‘1_Ì
+IlŞ+xçWI"n¥vB;­_L|
+Ö$Ô<%”Ä–°¸1!?Ü*RkÓè¢Š(¢Š(¢Š(¯™~ hSkn4µ!MìĞ?ì˜“ÿ ‰5é74ù.<)3E¾©pßc>Tlß(V|cø«Ç¾&xDx;Å§[ÊòÙI
+Ïm¸ä¢’T©üTşbµşø&ÓÅZ½íÅñıÎŸåŸ(®w3nş[+ÒÏŒ¼¦ø…ô[o/%µV3Km4i·®:+şÈ5Æ|]ğ}¤zl/Ñå‰ìîŠ	|¯•X2üŒxå{ìí;ùÚõ¿ü³Ûş?8¯v¢Š(¢Š(¢Š(¢¼ÇwèŸ´MBàìƒË·gcü*K!5Îø¯Á"Ó> êqÚCæ[ê,‰/Hš9$7û¥—ò®ßYğeÇŒ›6«©\Ûµ”V©j¥‹€7¹cêGéZğÕÏƒõÉf†òææÚx‚\G4J7cîº•î¼}kÅ®üâ­W†8të³7šVŞ{PX3)ê¬¿wñÅz—Œ­áø	eáıJDkùÙQQ;[Í2°Ë÷x¯¯eıe	¯k0“ËÛFÃşÇükè*(¢Š(¢Š(¢Š+À~2i1ê_ôky$òã¸²TfÏİUw5ÚiÌb„¼’J±F©‘÷6ÅùWšè!ŒqùÖ‚â$U5JöúÒß÷nwÉÿ <×“ø×šüQ·Óî|!=äö*·P:ˆdS÷w0ÍxMzÁf-âºLÛc½…­rz%Jş«Æ¾¥¢Š(¢Š(¢Š(¢¾wøÿ q¾.ÒíãqçEióÿ ³–;k±´°¿Ñ4«[‹9ÌñtiQ×;[oÌËşÍjA¯Ë$•íwwNWõª×:¥ÔÇË–ğªŸ—lK·5=•„²íÛ“êYrÆ³ş x!õ_İ41Î÷6ËçÃ´ğJõR¿îæ¼7Âš­µ…û[_Å–CË”H2Ñ©ş&ƒJÒµx%ĞnùM¯û·-å°ÁR­_M|>ñ¿<3êü—â+¨¿»&:öOQ]UQEQEQ\Ç<maàíw8’æS²ÚÙO27sşèîkçß	ø{Rø£ã™îõ	 2	¯§^¯ğ¢ıví_@¾ÕôŞ—±­¬b8áUUEş_JçfÑ´ë‡/%¤a³É\¦ïš·§ø~İ^ŞÖ4ÿ ¦„d­tVº|VÇv77©íVú×Ì?|¾ñÔ,¢Ù¦ê²*"“ø“úş5æÕÖ|>ñœş
+ñ$w€3ÙKû»¨Wø“±ëÔWÖ–wvú…”–’¤¶Ó"¼R!ùYOB*z(¢Š(¢Š+œñ—ŒôÏéòù·Ìù[{d8i[ÓØ{×Êºö½©ø¿_këé7ÜNÁ#@p‘©?*.zkêx^×Â~µ°€)™—Ì¸“nÈzçıß»ÿ ®š£0BÏ¸Ä…½JÔ(¢¸ßŠZ2ëõHB–Ş?µEÏİ1òñİÃñ¯’¨¯IøeñBÌºn£ºmF$…kr‰}WÕké{;ËmBÎ+»9£ÚUİ‘œ«/¨5=QEQPİİEce=Üí¶#iú*®Oè+ãïxšïÆ>$¸Õ'Ø!Î|¨Çİ_óÜÕ¯‡šÎ¹ã(ííüØíäY¥'¢ªµõn™gqkn©,Ùÿ gÒ´)_Ï¸±ö§Ó]K.÷RK[£“Éú¡4+¬ñù‘2•t<«!]¦¾yøğğøVí5=4<š-Ëm^æİÿ ¸}¿»ô®ì‘N3g!f“ğßğZ¨T©*Av5ê?|q.‡¯Å¡ŞN³/[djÄŠbFÓøıßÊ¾•¢Š(¢Š+Íş5ø„hŞ{Ù~Ñ©·ªGü³¹ÿ ĞGã_8Hooœ_5ÄûYÂõû©_P|0ğRx;Ã(³Çÿ +°²\“ÕOdú/ó®ŞŠ(¢Š`ŒŠÇÖü9g®h×ºUÊÿ ¢İÄQ—ØİU×İHR>•ò\zZê·¶7Ò%³‘¢$¸e8ª·0­Ì2O$Gl»{ïVz±FVS´©È#µ}{ğëÄßğ–x*ÇP‘Õ®.±ÚTêµ¿àUÔÑEQMwH£gv
+ˆ¤±=WÊŞ?ñT^2ñÄ·hÄévHcƒı¤NIÿ 7éŠÓø5á³âO>«yûm?”Ê~âş'ş_LQHÇjíKEQE|³ñŸOÃâMëD»Væ(ç?R¸?úqšIÍï”[bKÆÇØ©ª5ì¿³îµäkz‹#|—0¬ñgûÈpGâ­ÿ ×ĞTQEW|oñÄš]’xkO“eÅÜ{®O)à'üŸÀ{×„Ù[¼š^ ê„¬k'Óæ¯¡şØGmà'»UÄ—WNXú…ÂäkÔ(¨æ8ˆÔ”QEWÎ_´!<a§Ëİì€ü˜ÿ y}™TK‰8XŠŒzU®ÛáÁ¶ø¡¢¶8g’3ÿ ‰—ù‘_XÑEQ_;|Xğ†¹¬|KšK)&ŠâŞ&GèŠv‘ŸªŸÎ¹+Ïø—Â6SBÉ……Â˜¤xœ:¯ıòkŞ>In~YÃÄr˜Õ¶ºsé]õÉFcüE>Š(¢Šù¯ã•ôwş>KE‘ÙZ¤nßİfËmüˆüëÍd’Ar»·3Ö¤µÓşÛ:Ao<[ÜíUìÉ®Ûá•pÿ ìXJ}‘%–UoáYUÿ Ç™kêJ(¢©M¬iöîc’ê=ëÕWæ#şùªòxLEùg.İ‘clŸÒ°#–{ëÇº› ±ùPÿ  şíYhã’†dWÆÖFRµä¾$Ñ5_‡™ñ„äx¬Y¿Ò-òYı–^éü«Ñ|ñ_EñjGirÉ§ê‡³Èß,‡ş™±ëşïZô
+k©ezƒšuQEsSÊÍ¨Üù¤:£•\Ÿº+Âş4<o®Ù­ãAåÒ*üÌxêkÌjÍ‡öØ–Ş#$Äâ5µô‡ÃŸ¯…,~ÛxŠúµÒbáÉå*vW§QETÕHô‹Ç…ŠÈ¶îP¯PvœW!§Ã~_rOSWƒ£5 @µöñ]A$F¯ªQ÷¯›¼sáI|)®´(	³›ç·nëÿ é]‡~4ê:3Caâ÷ÚxÂ¬ıfˆzçø‡ë_DY^[jPŞYÌ“[Lâ‘ÊÊzSÑECTvXcU$yÅré*›™•O*ÕÎxÃvºä&+¸‹¯ğ•ê¿î×>i¬ø7ª¾›“ÿ ‰®¿Ã^Ó4YDööÃÍ$îjìV-±íï]…Ú]@¼şñS×ëV¨¨çd·’6û¬…Oâ+‡ÒØ˜W'µiÑF3F1XŞ'ğå¯‰ôYtû‘Ï1Iÿ <ÛÖ¼ßá×Š®õYtûMâg‰ö4¡vÄ?àgú×Óü;sá_Øi’¤—ïgØrªY‹mSéÍtÔQEpÿ ~ hş±0K"Ï©²îŠÒ6ú¿÷V°¼/ws¨éğ]İŸßÌ›ßıã]9…Y9¦-ª©Ï2 AÅ:„Ü’	"b½­kMTI,pL›]¾Ueû¤Öfë×ßÙú<Ò+m•×Ë‹w×şÉÿ €×3¦Àb€gşù«üQE‡å¬‹İ^m
+èj6Ñy .'„u‘}¿Ú®‹Bñ¯‡|E;S·i‰Úmäaª}
+k~›$‘Â…äuDK
+æ5ˆşÑ#cs®ZHëİ[?šÿ ÷Êf¼‡Å_5-A×Ã¶¿Ùğ>Ñ.cşèû©úşäÏ4×·lò¼“Jãs±É$×Ñ>]š|)ıÔUZëGİ¥¢‘Š¨É TíÖA’S÷QI­]+KœL·W€!^R,ä©õ5¹Y ÑäÕ­bXeXå‰·.áòG*k›kvÉWuƒJ¿ôÅÕª›ëfÙ¶\BğŸîÈ…jhõÛvêE[‹R‚N*ÊÍ•üi$™I&¹MQÊhÁ×ƒx…#]bSFU'ëŠ§j÷»Z;F¸Úye„·ê4Úİ9É‚f'¾Âi>Éryû<¿÷ìÓ#ûñ²}WcKÇö•¾zn¯~ğİâ-¼a~^+¯ŠttŠG¹>¬*ƒjm=Ê[[#I+}ÔEÍmÙxri•dÔ¥*>DG§Õ¿øšß·¶‚Ö!,h?…EKES$Š9“d±£§÷Yr+ïÁÚá%ôèâcüPş‚Ec\ü:‡­†©sÀ•Aÿ ²Öş…â­%YÒÔ^Ä¼oµ98ÿ sïW7uâøäû<Ö÷1J~_)â(ß÷ÍZÒ<!¯xô˜'ÓìAıä³Å±™ºˆzıkÒ<=ğÿ Ã¾óÒÉgšc–éVGıÕ%~Uÿ dWI1B»b#_DP´í£ĞRàzRVêª~¢²uèÚå¤°^é¶’3¡E•­Ñ>0
+’¼^Is ëş›É¸±êÛ?%Í¤-"cı ¿sşD~'Œ¢C¿ûëgNÓ¼A¯È‹”ö¶çïOwD²óô]A´Ğí¼¸y˜~òwûÎ ö­J(¢Š(¢Š(¢Š(¢Š(¢Š(¢Š(¢Š(¢Š(¢Š(¢Š(¢Š(¢¿ÿÙ
+endstream
+endobj
+11 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</2.0<<
+/CropRect[1.852 0 174 177]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-#157504:penguen p\237f)
+/Overprint false
+/Inks[/monochrome(Black) 1]
+/Size[174 177]
+/Version 2
+/Type/OPI
+/IncludedImageQuality 1
+>>
+>>
+/FormType 1
+/Name/Fm3
+/BBox[-8.27006 -10.7811 1.68546 3.45418]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Im2 10 0 R>>/ProcSet[/PDF/ImageB]>>
+/Type/XObject
+/Length 35
+>>
+stream
+/GS1 gs
+q
+1 0 0 1 0 0 cm
+/Im2 Do
+Q
+
+endstream
+endobj
+12 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</1.3<<
+/CropRect[2 0 174 177]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-#157504:penguen p\237f)
+/Overprint false
+/ImageType[1 8]
+/Position[389.03299 514.922 389.03299 562.71301 435.51401 562.71301 435.51401 514.922]
+/ColorType/Process
+/Color[0 0 0 1(Black)]
+/Size[174 177]
+/Version 1.3
+/CropFixed[1.852 0 174 177]
+/Type/OPI
+/Resolution[72 72]
+>>
+>>
+/FormType 1
+/Name/Fm2
+/BBox[0 0 467.71698 680.31494]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Fm3 11 0 R>>/ProcSet[/PDF]>>
+/Type/XObject
+/Length 60
+>>
+stream
+/GS1 gs
+q
+46.9807 0 0 47.7908 388.533 515.2372 cm
+/Fm3 Do
+Q
+
+endstream
+endobj
+13 0 obj
+<<
+/Length 6213
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 598.3385 Tm
+0 Tr
+0 g
+-0.01 Tc
+-0.027 Tw
+(\337\237m\237 ekranda g\232zleyemezsiniz; ancak bu tip d\232n\237\337\237mlerin oldu\333unu bilme-)Tj
+0 -1.33333 TD
+0.025 Tw
+(niz ve komutlar\335 verirken bu d\232n\237\337\237mleri dikkate alman\335z \215ok \232nemlidir.)Tj
+0 -13.46831 TD
+-0.008 Tc
+0.024 Tw
+(Bu arada, kabuk taraf\335ndan \215al\335\337t\335r\335lan programlar\335n s\335f\335r\335nc\335 parametreleri-)Tj
+0 -1.33333 TD
+0.136 Tw
+(nin de bulundu\333unu s\232ylemeden ge\215emeyece\333iz. Bir program \215al\335\337t\335r\335ld\335)Tj
+30.04283 0 TD
+0 Tc
+(-)Tj
+-30.04283 -1.33334 TD
+-0.008 Tc
+0.042 Tw
+(\333\335nda, s\335f\335r\335nc\335 parametresi, program\335n kendi ad\335d\335r. B\232ylece, her program,)Tj
+0 -1.33333 TD
+0.063 Tw
+(hangi isimle kullan\335ld\335\333\335n\335 bilebilmektedir. Bu \232zelli\333e tipik \232rnek )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 343.0064 400.9212 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(gzip)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 367.0077 400.9212 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(ve)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 386.9212 Tm
+0 Tr
+0 g
+-0.062 Tc
+0 Tw
+(gunzip)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 92.266 386.9212 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.08 Tw
+(komutlar\335d\335r. Bu iki komuta ait  program dosyalar\335 asl\335nda t\335pat\335p)Tj
+-3.29268 -1.33333 TD
+0.018 Tw
+(ayn\335 dosyad\335r. Asl\335nda )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 154.4524 372.9212 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(gzip)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 177.9808 372.9212 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.018 Tw
+(isimli dosya ger\215ekten bu isimle diskte yer al\335r-)Tj
+-11.45599 -1.33333 TD
+0 Tw
+(ken, )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 78.1962 358.9212 Tm
+0 Tr
+0 g
+-0.062 Tc
+0 Tw
+(gunzip)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 111.8256 358.9212 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.01 Tw
+(sadece bu dosyaya bir ba\333lant\335 da \()Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 258.8839 358.9212 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(link)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 275.4879 358.9212 Tm
+0 Tr
+0 g
+-0.0076 Tc
+(\))Tj
+0.55742 0 Td
+-0.008 Tc
+-0.01 Tw
+(olabilir. Yani )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 339.1729 358.9212 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(gzip)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 362.4053 358.9212 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(ko-)Tj
+-29.02023 -1.33333 TD
+0.108 Tw
+(mutunu da verseniz, )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 149.5692 344.9212 Tm
+0 Tr
+0 g
+-0.062 Tc
+0 Tw
+(gunzip)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 184.4423 344.9212 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.108 Tw
+(komutunu da verseniz ayn\335 program dosyas\335)Tj
+-12.07137 -1.33333 TD
+0.065 Tw
+(belle\333e y\237klenip \215al\335\337t\335r\335l\335r. Bir dosyay\335 s\335k\335\337t\335rmas\335 gerekti\333ini mi yoksa s\335-)Tj
+T*
+0.075 Tw
+(k\335\337t\335r\335lm\335\337 bir dosyay\335 a\215mas\335 m\335 gerekti\333ini anlamak i\215in program s\335f\335r\335nc\335)Tj
+T*
+0.025 Tw
+(parametreye, yani hangi isimle \215al\335\337t\335r\335ld\335\333\335na bakarak karar verir.)Tj
+ET
+Q
+q
+BT
+/F5 1 Tf
+17.924 0 0 14.5 57.6929 273.1932 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Kabuk De\333i\337kenleri )Tj
+0 -1.43378 TD
+((ya da Ortam De\333i\337kenleri))Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 230.4034 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 81.8974 230.4034 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.082 Tw
+(kabuk programlar\335 i\215inde \215e\337itli de\333i\337kenler tan\335mlaman\335z m\237mk\237n-)Tj
+-2.30519 -1.33333 TD
+0.097 Tw
+(d\237r. Hatta baz\335 standart de\333i\337kenler zaten \232ntan\335ml\335d\335r. \205ntan\335ml\335 kabuk)Tj
+T*
+0.025 Tw
+(de\333i\337kenleri aras\335nda en \232nemlileri \337unlard\335r:)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(261)Tj
+ET
+1 g
+56.693 624.786 320.756 10.5 re
+f
+Q
+q
+BT
+/F4 1 Tf
+9.84 0 0 8 239.9298 627.3763 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Bash Kabu\333u ve Kabuk Programlar\335)Tj
+ET
+0.9 g
+0 462.047 478.807 111.552 re
+f
+Q
+q
+BT
+/F4 1 Tf
+11.07 0 0 9 57.6929 556.3396 Tm
+0 Tr
+0 g
+-0.007 Tc
+0.018 Tw
+(Baz\335 durumlarda kabuk programlar\335n\335n komutlar\335n\335zdaki parametreleri yo-)Tj
+0 -1.55556 TD
+0.04 Tw
+(rumlay\335p a\215maya \215al\335\337mas\335n\335 istemezsiniz. B\232yle bir gereksinim duyarsa-)Tj
+T*
+0.023 Tw
+(n\335z \(ki  )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 87.9079 528.3397 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+(find )Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+11.07 0 0 9 114.4489 528.3397 Tm
+0 Tr
+0 g
+-0.007 Tc
+0.023 Tw
+(komutunu kullan\335rken duyacaks\335n\335z\); kabuk program\335n\335n kur-)Tj
+-5.12701 -1.55556 TD
+-0.012 Tw
+(calamas\335n\335 istemedi\333iniz parametreleri t\335rnak i\215inde yazmal\335s\335n\335z. E\333er ka-)Tj
+0 -1.55555 TD
+-0.015 Tw
+(buk program\335n\335n irdelemeden komuta aktarmas\335n\335 istedi\333iniz \232zel karakter)Tj
+0 -1.55556 TD
+0.014 Tw
+(tek bir karakterden olu\337uyorsa, o karakteri t\335rnak i\215ine almak yerine, \232n\237-)Tj
+T*
+0.022 Tw
+(ne bir \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.1668 472.3396 Tm
+0 Tr
+0 g
+0 Tc
+(\\)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+11.07 0 0 9 95.3653 472.3396 Tm
+0 Tr
+0 g
+-0.0068 Tc
+<D3>Tj
+0.67469 0 Td
+-0.007 Tc
+0.022 Tw
+((back slash) yerle\337tirebilirsiniz.)Tj
+ET
+0.9 g
+389.033 509.122 52.339 58.156 re
+f
+q
+389.033 509.122 52.339 58.156 re
+W n
+/Fm2 Do
+Q
+1 g
+57.393 70.866 321.161 126.928 re
+f
+0.9 g
+56.693 169.541 320.315 23.846 re
+f
+Q
+q
+BT
+/F5 1 Tf
+11.744 0 0 9.5 126.6413 178.6912 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Baz\335 \205nemli bash Kabuk De\333i\337kenleri)Tj
+ET
+0 J 0 j 10 M []0 d 0.5 w 
+0 G
+56.943 71.612 320.66 122.11 re
+s
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 109.4526 150.63 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.015 Tw
+(Bir komut verildi\333inde, komut program\335n\335 olu\337turan dosyan\335n)Tj
+0 -1.33333 TD
+0.025 Tw
+(aranaca\333\335 dizinler listesini i\215eren de\333i\337kendir.)Tj
+0 -2.6509 TD
+0.021 Tw
+(Kullan\335c\335n\335n ki\337isel dizininin ad\335n\335 i\215eren de\333i\337kendir. Sisteme)Tj
+0 -1.3333 TD
+0.183 Tw
+(ba\333land\335\333\335n\335zda kabuk program\335 taraf\335ndan otomatik olarak)Tj
+T*
+0 Tw
+(yarat\335l\335r.)Tj
+ET
+0 J 0 j 10 M []0 d 0.5 w 
+0 G
+56.693 169.221 m
+377.546 169.221 l
+S
+103.498 169.114 m
+103.498 71.362 l
+S
+56.788 127.047 m
+376.788 127.047 l
+S
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 64.145 152.7563 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(PATH)Tj
+0 -4.397 TD
+(HOME)Tj
+ET
+Q
+
+endstream
+endobj
+14 0 obj
+<<
+/Length 5879
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 128.3588 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.007 Tw
+(Herhangi bir anda, kabu\333unuzda tan\335ml\335 olan de\333i\337kenleri ve/veya de\333erle-)Tj
+0 -1.3333 TD
+0.025 Tw
+(rini merak ederseniz,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 93.5242 Tm
+0 Tr
+0 g
+-0.075 Tc
+0 Tw
+(env)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 75.5242 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(komutunu kullanabilirsiniz.)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(262)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F4 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+1 g
+90.563 139.469 321.161 469.231 re
+f
+0 J 0 j 10 M []0 d 0.5 w 
+0 G
+90.113 144.817 320.661 464.382 re
+s
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 197.0597 594.5355 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.143 Tw
+(Kulland\335\333\335n\335z terminalin tipini belirleyen de\333i\337-)Tj
+0 -1.31428 TD
+0.184 Tw
+(kendir. X alt\335nda \215al\335\337\335rken genellikle \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 371.918 580.7355 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+(xterm)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 397.9107 580.7355 Tm
+0 Tr
+0 g
+0 Tc
+<D3>Tj
+-19.12867 -1.31429 TD
+-0.008 Tc
+0.184 Tw
+(de\333erini i\215erir. Windows bir makinadan )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 378.6554 566.9355 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(telnet)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 197.0597 553.1355 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.09 Tw
+(ile ba\333lan\335ld\335\333\335nda ise \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 298.7477 553.1355 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+(vt100)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 324.7405 553.1355 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.80525 0 Td
+-0.008 Tc
+0.09 Tw
+(de\333eri verilmeli-)Tj
+-12.96533 -1.31429 TD
+0.025 Tw
+(dir; daha do\333rusu \232nerilir.)Tj
+0 -2.25092 TD
+-0.0001 Tc
+(X)Tj
+1.03598 0 Td
+0 Tc
+0.045 Tw
+(alt\335nda \215al\335\337\335rken grafik ekran g\232r\237nt\237lerinin)Tj
+-1.03598 -1.31429 TD
+0.034 Tw
+(g\232nderilece\333i X sunucusunun adresini ve ekran)Tj
+T*
+0.234 Tw
+(numaras\335n\335 i\215ermelidir. Kendi bilgisayar\335n\335zda)Tj
+T*
+0.083 Tw
+<8D616CDDDFDD726B656E20D2>Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 246.6338 474.3008 Tm
+0 Tr
+0 g
+-0.059 Tc
+0 Tw
+(:0.0)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 267.7447 474.3008 Tm
+0 Tr
+0 g
+-0.0001 Tc
+<D3>Tj
+0.8139 0 Td
+0 Tc
+0.083 Tw
+(de\333erini i\215erir. Bir ba\337ka bil-)Tj
+-7.5458 -1.31428 TD
+0.204 Tw
+(gisayarda \215al\335\337t\335raca\333\335n\335z X uygulamas\335n\335n g\232-)Tj
+T*
+0.035 Tw
+(r\237nt\237s\237n\237 kendi ekran\335n\335za almak istedi\333inizde)Tj
+0 -1.31429 TD
+-0.0001 Tc
+(o)Tj
+0.81758 0 Td
+0 Tc
+0.049 Tw
+(di\333er bilgisayara ba\333lant\335 kurmak i\215in kullan-)Tj
+-0.81758 -1.31429 TD
+0.142 Tw
+(d\335\333\335n\335z terminal ekran\335nda \215al\335\337makta olan ka)Tj
+19.29468 0 TD
+(-)Tj
+-19.29468 -1.31429 TD
+0.02 Tc
+0.83 Tw
+(buk program\335n\335n )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 293.8956 405.3008 Tm
+0 Tr
+0 g
+-0.03 Tc
+0 Tw
+(DISPLAY)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 343.8649 405.3008 Tm
+0 Tr
+0 g
+0.02 Tc
+0 Tw
+(de\333i\337keninde)Tj
+-13.98145 -1.31429 TD
+0 Tc
+<D2>Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 202.1098 391.5008 Tm
+0 Tr
+0 g
+-0.048 Tc
+0 Tw
+(192.168.10.32:0)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 281.2754 391.5008 Tm
+0 Tr
+0 g
+-0.0001 Tc
+<D3>Tj
+1.00534 0 Td
+0 Tc
+0.275 Tw
+(gibi bir de\333er olmal\335d\335r.)Tj
+-9.02588 -1.31429 TD
+0 Tw
+(Buradaki )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 240.8109 377.7008 Tm
+0 Tr
+0 g
+-0.048 Tc
+0 Tw
+(192.168.10.32)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 313.6948 377.7008 Tm
+0 Tr
+0 g
+0 Tc
+0.157 Tw
+(yerine \232n\237nde otur-)Tj
+-11.10811 -1.31429 TD
+0.093 Tw
+(du\333unuz grafik ekran\335n tak\335l\335 oldu\333u bilgisaya)Tj
+19.29468 0 TD
+(-)Tj
+-19.29468 -1.31429 TD
+0.025 Tw
+(r\335n IP numaras\335 veya ad\335 gelmelidir.)Tj
+0 -2.25092 TD
+0.153 Tw
+(Kabuk program\335n\335z\335n, en son verilen  ka\215 ko)Tj
+19.29466 0 TD
+(-)Tj
+-19.29466 -1.31429 TD
+0.182 Tw
+(mutu saklayaca\333\335n\335 g\232steren de\333eri i\215erir. Ka-)Tj
+T*
+-0.024 Tw
+(buk programlar\335, her kullan\335c\335n\335n kulland\335\333\335 son)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 197.0597 285.0661 Tm
+0 Tr
+0 g
+-0.029 Tc
+0 Tw
+(HISTSIZE)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 256.1988 285.0661 Tm
+0 Tr
+0 g
+0.02 Tc
+1.18 Tw
+(komutu ki\337isel dizinlerdeki)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 197.0597 271.2661 Tm
+0 Tr
+0 g
+-0.048 Tc
+0 Tw
+(.bash_history)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 268.5575 271.2661 Tm
+0 Tr
+0 g
+0 Tc
+0.025 Tw
+(isimli dosyalarda saklar.)Tj
+-6.80931 -2.26997 TD
+-0.0076 Tc
+(O)Tj
+1.11152 0 Td
+-0.008 Tc
+0.061 Tw
+(anda \215al\335\337makta olan kabuk program\335n\335n yeri)Tj
+-1.11152 -1.33333 TD
+0.025 Tw
+(ve ad\335d\335r. \()Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 243.2027 233.4314 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/bin/bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 292.7984 233.4314 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(gibi.\))Tj
+-9.11797 -2.25091 TD
+0.163 Tw
+(Programlar\335n kulland\335klar\335, payla\337\335lan k\237t\237pha-)Tj
+0 -1.31429 TD
+0.15 Tw
+(nelerin aranaca\333\335 dizinleri s\335ras\335yla g\232steren bir)Tj
+T*
+0.047 Tw
+(karakter dizisi i\215erir. Kullan\335m mant\335\333\335 )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 365.4778 182.1968 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(PATH)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 389.3139 182.1968 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(de-)Tj
+-18.30993 -1.31429 TD
+0.152 Tw
+(\333i\337kenine \215ok benzer; yaln\335zca aranan program)Tj
+T*
+0.025 Tw
+(de\333il, k\237t\237phanedir.)Tj
+ET
+0 J 0 j 10 M []0 d 0.5 w 
+0 G
+188.9102 609.1629 m
+188.9102 144.7549 l
+S
+89.958 532.238 m
+411.024 532.238 l
+S
+89.958 343.905 m
+411.024 343.905 l
+S
+89.958 265.173 m
+411.024 265.173 l
+S
+89.958 227.48 m
+411.024 227.48 l
+S
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 97.3151 596.9956 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(TERM)Tj
+0 -8.36264 TD
+-0.069 Tc
+(DISPLAY)Tj
+0 -19.86136 TD
+-0.068 Tc
+(HISTSIZE)Tj
+0 -8.328 TD
+-0.064 Tc
+(SHELL)Tj
+0 -4.00531 TD
+-0.056 Tc
+(LD_LIBRARY_PATH)Tj
+ET
+Q
+
+endstream
+endobj
+15 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace/DeviceGray
+/Filter/FlateDecode
+/Height 381
+/Subtype/Image
+/Type/XObject
+/Length 7341
+/Width 550
+>>
+stream
+X…í]=ËlÉqn´¡(Ù@¬ó‚“ëdG‚5ÂfƒåF£èbä@ eÙÀ(18ò¹¿Â`€BƒX0Ã…WÕUÕİUİÕçcæÌÌ93Ï³ÓUİÕÕ}Î=õ¼ıéïN   ¯ëñšO…ï×,y>–|ğx¥4YÎ,yë@à‘YòŞáu®¬,y÷ªøøúãşáå<6K(ÔT˜++KŞ¾şÍ›/şá—ÿôÕÛ¯ß~õöÛ—ÓÒe	Wn-cßd¢$J~ËIiK*¦´Ôÿ²fa	­5Â
+ÊŒËe,yóİ}÷ûwÿüæçŸşôÇ—Ó¢ïĞVs™Å¼ï"–ÌÛ|iøZô[ñï¸¨ÙQYBöRÉõ¼È%aÇ’/şã¿ÿówÿòå›Ï>=ığ‡—“ùûOiáßì„ÿt8¯Ì’Ö2Óà¢fÂŞgKş‘Æ’oh,ùëOOÿûÇ—WÆ‰V»ôÕe˜IÒsœO‚¢¡ß¼/).²Ñ'lJ’k’4O*ûQªe’¤gXÂ¾I6oh»A³ã°„rD„Ê
+Ê'YÆİ5Û±äWÿö»ßşúë_¼üô“Óë·/´ı!8–äïbBJ¿œr¨}ÅØ7WZÆ”UãiT®h†°’iVD®q’Ípº¼ÙÃ°„ò¹>%ß½ûÍ»w¿üûÏòW§×².ID¡ÿÊ§‘×şí«?b­˜öXB)I;ZĞ¯tÔ˜SŠ—BîáfPè™f_@p~³g`ÉÛ_}ùå¯~ñæóŸ}Bÿôß¿œ”%”Â¥fá§òá–LøN%®¦–»ˆe‹ˆöE»©£iìG.úmÔìgœw?¾{óÅ›¿ûügŸèŸşÍËi¸1”_ä«™—fÆÎ¿Ğ7çİ”$¿Få|\›’Fw›• ıüs7hv–¬^½¾ı¿¯şÙg?ıÉ'”?½¾9…yN i¾Z!ˆ¾T¬q(‹)SF¿”ÉJÌ¦Âthµ·vfÆyó‚š»¼Ùï„ßıùİŸ~øáÿ?Ò?šğ›—ÓÊƒ«JpèâTííÿüá»oÿÒ7¿ı×_¿ûêåtI.÷nÄÚÁ$Vš(+KN/ûòR Üöµ·}ÀS±„« ,!¾ ÀÂ’ 0Da	­e X€% X€% X–%”¥3—tH…©&°RšÀò%“-»b	%–ô‹‚7ˆétÄûğ³ KÍ›¹,Z–Ì·aQ‹ÀîX’&	ú‘N²‰–YòäDš„ÊZ‘HşÚˆ4IU,:–¨gH{Z—ä‡~œê#G¥ãH¿\6J¿*è§Ş"m“òƒ7v0–äØH°üpB¦Á&àé—ÕâFQ›âa)Ë	Ø!K(×œ”f#zä6*ml£DÎÙÅÃù;eIJ]ÀS²±¤ŸQ*‚Fôsít,É^KÜ€½±Äüû“ºÚd‘ülNóQ£¼HñÔ’Õ,å:–Ôq†2œöÁ’[£0bŞxZ–,&æ=€‡f	 – `	 – €gÉ÷`	0Ç’W° K€mX S–¼@ñ,æXòÑ,B–Ğj¤àX€%À¶,¡ØÓ‰nô zZRÀY¢÷õ%T;×Şç›U3+ÀYBfš,e	¹wÕdé1&XB“vÈŠŒĞd9KH$éÍ³íŒ5u!ØK(ºJ“%d–y@şĞ%‰ )†¢8ÈÎ“
+¦$‚¤èy–#7õ½ ;c‰F¦UB‰Î(AHOU¤Ô’D+HøUm×p–ö8T«Rr5V.ÚE,áÔ%Ik&×ÚÕk’`ÉYâc•ERòä07z°Èõ–n“”ì E)I`¯,Éq"‘¤¹Qı4dš¦ÔpÆp#^—4O§şI»d‰’ìfœb;c]2Ã’®9p–|°hYBJã#Úp!É¿:çˆ±îK’deg)&8R$Y-ıPÜ%-–¬=8›«Ÿj &ì–%4ÏX–ğßqÒÎ4ú:–P×9ì%4ÏD3 \Ìüİƒ%ï‰váHyÊ€%`IË’f+›r`	X2ÍN 	X– °„V'öt KtõêîÛ0”€%íXÂt K€u,¡lÙ`IÏ5`(K:–¼¦‘#Ñ"—A°dÙ	=X–€%À,À°XÌZ¯ê²•”–Š‘²II±ÌCR§›¢Th§(2–\Z›•qNÀ‘Oèı±	5lƒZÂœëZg]Æ]pS”}‚%œjİ˜%ª$<K4ÚU5TXÁ?>I8$Kìª!)6+®‹æ•Ú 0,yè±d‚%$¦Y²fÆ¡e#Ï8åï^£]UK“Õ,©7EdoõJïgœ‘K%¬kcI3‹pÈS5C²©d£&NÕj¥G#p,–,Å\Â€%`	XrK °d3,n¸\Ø ¸Ê‡’[Äº›9Ê«Ì*Õ9QoXô¸ÊŸÈ¤9°6V\´öAŸÚ°OÕ.f	½CT–ìr'|>K:Ã0lç%)oKKXb]€»°„¤hÏ’|Rbš’`%.$¼'$ÅÀªXsÿêèŞZB6–:VâDÂ•À:–D„(¢¹ÍM9­"J:f×ÒÉŒÜÜóÄM„£ávC°Kº²ªlÔ8†ø˜%¹EõxÿÖg°$W gÎ8ç­^‹ZÀy›E4wÆµ®¼Kí³>ÀÜÍ½nÿ¶¸Ùº$›j7};ôêâ¯“Œú/:—V¼n÷I‰.¾^Í7”tíšÃòúL²{l±-y¥¾®¶3J4p>K(%)ùÉ7)WÕD’¥4'>Ú‰hC$§ªà•ªò«Êk®¶cm¬›qöp:¯!^Şà‚Ü´?°ä†,!kh78ÿ7í,À°X·zÕ¡Xs©@‰™t!˜d¨HX—™©FR’ÀY’cè"šT°ÃlÑ»æS,Yà	<KZÕ5K˜%6¢e¼hA\´µdu.‰«nÆ¡ğH,	n[–øc¸ğR×±Dğ,)a.å%™µnjrK%~ùÑÎE²îæ¦a‰JàYW¯ÄL©>S}35ãx#p–Çb%¢Á©ZMYÖRmo=1+à¸'ôÁÍƒHnŞ' – ûf	 –€%Àù{II–u§;ğ |’Tm.Šço€§+ÌîHÄ„ï¬90Û³¤İ§úcÖøm’$#7°äñX¢'ñ­Ë–XTSŸ6ï–ìƒ%œLğ<KÊââ“]m,HŠ•ñoY›$X÷ª¯[«Ø(.ÀXâ?;‹’Y,]Zµüj8çÉrVDxt[\Lmg®5–ˆ°Á‹˜Ğ„Gs¦¾¹=æ4É’°°d‡,±’íœ²4áq£ARY”v]´U”|Qc–ŒÇ§À¸åg8–PE®ó±OÒôQÔÂ'p)Æ`¸Kö³nÕh"H"É®yñm0õ ë\€Ûª‰iÄ’ì£ñQWÑìUeîİ†’Z2J›ª²;%’¥–¤Ô‡•Ö%-/ìÿ„¡KÑ$K °äV˜p¦êÎõ¶X½ò'×Œßvên·Y0ºctI¹­‹Ù´İcÏbÊ!Üm³ ®Ê’œ+}¸Õ™=~§z¦	——ì–“%œL æ6ÄS,‘ì€%®r@ä”GäióÀ]X2:×¢Aƒäj–Ô”%)­«RÛ[¥uŞ3?H]€»°$X‰P>åJğ¦X¢ST0…–»„€;Ï8şz?å¤\Ûù%m<gL©mĞ³$7Ìf°dÿë’©‹[I	[°ÄˆR×?Ö®¯Y€%‡Z½ª°îƒ±„xSãbr6êúTéX]€ì„ÏcI¿‹ñeë²u‰H÷ÄêlÏ@|´‹ÑªMDm1KjxµSS­ª2AÛ•»Q=³Q<€+ŸĞÓg>ëKS£…í–…\Ö –¬õ¶g	 –lÍ’;aƒĞl¸ÇÑÅ¨|l1°²%³^]É’š»ô~¯?ááı{Û²¤İÇM¸¼+–ğ¯e	ÿÀ’ë°¤üÎœQ”Ò(zƒÈšìe·ÀÁP¢²yqÑÀµXy}·K…xú*¥ìYäø˜
+¬K×$µà`ÉÕY{¡Ë“¥w»Sg¶Şsyg*’¦ä›«,¹ÊºÄ}VÄ&w»‘ä€=Kò#²¹o@©i®FîsÀµXRÃ‘”°¥‰“qˆTëz"ÙízÁ-0y7
+­Ê=®Å’©{ØRWãbrU7ÉJ+¦î÷L[#-ºA«ò_¸ÁNxæÖnÁİîpAÒÍT+Ö%)%)õ"ŠÄyÉµY’Gˆæ6%'VÖÚ¢i'ºİI}ã•>©¨üà$ı?X8f¥Üÿ„~ÅÇ™½àt,Yë	–‘% XrÁö‚:àˆ«Wj^&é×”Ÿ¿¶ù¹:à°,!ìE£X–8–¤—F·}qaº88K|QH¢…¤sÎ„	{Ü„¥uÎ‘¤ip,–#Åä+¢G÷8)‰o|ÚƒUà€cIË’ßj\sÛ7¾=Î
+8$Kü*$IÎ[ûvd©uSEµÇi¢R–ƒ‹Ûn,1Å¢€ã³$«RëC?yqëzÅºäØ,Ñ#³<B$ªIÙ“$éBöÎí:–ÔN¬pÛ€%gÕÏÄ ,À’`CÚnP¨Ğ•ŠQôÌl$)IàvÂºÕ	wÂmİ‚5v»z^ÂµgiCµ’%,€GdIx¦FÇ©fÕÍ8TĞr’bc<:Kj´G©á zÇd	ı¬jou¤4{°äaY’‡†ˆí°acoëZ–¨Tcà	{,™[½’[öt¼®^Y´ÀAY²D-›qÂûâbÅ’hJ&’ƒ£6Ñ…ÖÅ³šòï„xÀT À°,À’íYRÆ’™rZYìl“—I¶«×ªêw-K†~e´”ì3ÍvÂ6ÄÁÇ0úwf	?ÒY€[²¤dK«'.‰‡uYn4÷uÄ6e‰/®fIMY’*uZÒ±CKR,ÒLtm/ÅVëê;8Ïb$™k`–ØX„Ç¥ä ¹|ÏE®5‹«KSÍœà†Æd·¶Kâ¨•SÓ<’K¶z6±Oiš¾6Ÿê¥ÛY+%Ko6bI»HÕ¨e!KŒ˜¨KIDÉ¥4ÕÜÄ3|B1ò 7Y½j]e	%Ñö¯¹æ¦G–”r­ˆZl¼Ú±$\§Ô._E7f	'ŸÉåî:–¬\—„FíQ×OÖœË=+Ë‹$û;a-ŒNÕX°Öİò‚ûÀ:&i¥{:«ÒÎÖ©‘dËºÚ;U%Üÿ„Å”Ãu£S ,K’% X²z`¯¨fXìÃ½¼Ì20æ”eV¤—M©OÆ4ßzdnÌ’fƒ*bÁ5©åñìYâº¨¹¦Õ Ø#Kì„Q«XB)IÉÛıj{UÀ^X¢²g	«MX"bÀ’rRnêŒ§»°Ä´GŠER%Ñò$¥…cI1ùuI~e³1æ#p×±dÀ'Juğ4¸l]R»îF ÖÀXâgfõêY’UĞ,áÀ’ÇÚãYBKgœ8öÍ 	-Ş²a'¼ˆ%”/ÆÂJÀNÕJÔ¦NÕ\;×%,	×%Ú5«–OŞù„ÄÙÕ~y²À”%[Üã_ïH¶Ş‘% X<óêUÇs™ú“ÌÊù”ÒqIÀó±„D»é×a –€%`	U¶çóY5,Ñk·h:ƒ%ö8Íd¥ŒšÀŒ%ÃÁ„HÑ_à ÏÌ’Ş€u	X2µz¥$¼×ç€%’ÅX–(KtÑ1ª–à„ À ,À`«×´e¥ËÖš²äe+—ÌZ¶Íù•nUaİ,èiíEf5Õ‰¢ù‚%áN¸;XíUİã´_”B™³[³DRgV:“(jº—ªù‚%×`	‰5ß{ªnKHJƒ^ª.`Ièjƒ$ÒJ‰4gr¬¤PÛKÓªH—nL]ë©ırIëÄ?¡aÙTv*œX%O¢¸È?,I,Ñæ##Ù,´®*vq%{!¨ÂäƒºğF`’·àró„óû”FíëÊƒÀ7ã8–ØX°(ß³ÄÂÇ©°¤/fÉ˜¸Ó,	®°ª>"xİ”K¦Ö%òù\ L–KÆL¢D¦ûº”DXÒÆW]ìÓY„O(}j/²ØÇÚ?°ä<–£ı|vÆ3‰Ò øÚÏ„y0–x£–fYBÂôißeú	Ê64“Ö€%g±¤Y#fqu‰ºtÏ»dÆ±Şº°„ò`IaI´Ü×¯DµÙY>´úø?@’’7¢ö	I²R±³òI•>’º®=²VOş•ÎÚÕ¹=tá_.5¤V#X²—úÆÃr
+,ÙMHöG“=¾Õ3³ K€GÙãPÊrñÒmğ¨;á¥K7"Òœ –Ì9 8ã“JcĞ¢$8g$ÅÀ
+xp–dáÏ ¦N1ƒ:àIXB¢Ä½›Zò`’T|ü<6KLÎfµd¸£*‹2¤ Ï¹z¥ø÷·«I$i¨Rğ¼{œşR7ÉnÆøì•b.á–€×¿”-.I›*ÉÆxD–œq3N€%ó4IÀ ,K€ö8yše-ù£yÊË—¦îÜ;5¾À^Î^SŠVçêÀ°$)É.aÉÊMp(–¨t¦Ê„å,ÉQM’ÚBœYi‰•éÅÕ;bI		¯XBH8³ğ‹2¥œX‹ßÄ•ò¬v;–L²„~”å²¦f»±¤wYH”€=³ÄÎ<,Æ,iâ»œ%\ç§ç-8èg%To\HNx’î¢TÏ°f1yë<9ñ û>U«ÒÊ·bp|¢*•I73kGÍ‰‡÷‘ù‡¹x†zKŠÅ€'c	E}]Ü×yÁ ,À ,1{ªK‚–$ıv†òîèKëD÷Û™Ú‹”¬]†tgVÜ}'|îÑ»ée–<KÎ=@¥nÌà,i3&ˆ 9±7v©WÉRÍ*<GãTJş	Ã¥TÉ”¤=Ì®ÇùÒ1K´$šÍfªÉ’Tİğb/¸)ªÅ,	Ç¼JÇA°ñŒc‚.¢äYº±¤6jùTÿ“m8µ‘L%ÏSYB)Ëd9lÉ’ò?f	‰¢B–şÄwB–Ô¶ä&ÒÌìX¢¢{›n³zòI3NÛ|ÑŒãšû¦³,¡IVÇÀ¸#KúpĞ\V°¤o¾|]Â+_°äú,¡äÖ,Ú¼øø’I|¬òWÃdk$%ñ)¥ò®ƒh™\;Ë~îå©€úvTK	 K&i’€% X`õš2¬8S÷nCa·,~ç’WU6+†¸ …%Í6§[UÌÁÎ”KöÔôÓoŠ€c±$ˆöù,™:ğKÀAXBµ6¾6íyØ%,¡®Ê£’Ôö¬€c±DËİ,Q—àBŸL¥®=Ïğ	Ø-Kš¨]oÆ©²2%à©Xâ‡fÆ©Mjs}>p=NÎn6–Pü+ËSDXp Û¾MvÂ¶3×Ö%Á’”aÅ™î6WdÒl"áW¶m‰\<KHšæ$µÀ
+8à	=…ÑKÀàb– `	Xœ¿zÕå§Yhšù§¨²–Í)KnÎ%·hõ¹vI›UX7zÚD{‘YMõB¢¨E¾Ï»n>XJ£q¨Âvš)Ù­Y"©3›ÍTVÓ½TµÈ,¹KH¬ùŞSu‹XBbPôRfœX2 §,Á´“LnC‚•j{iZéÒ©k=µ_.i˜ã'Œ‚ZN¬’'Q\äø,i/uÍWÌßTë‚{ß"´®*s«¥àjxpËbİHf•¼—»“ßsû”FíëÊƒv,	şòÚŸö’ÆŒ¹SaI5^Ì’1q§YâŠ§T}Dğº)÷Ô3Îlœäó¹ ˜,—Œ™D‰L5†Çı*Ooã«.İMÑÔå3e¥—YìcíXB>òï¯jKŒÑzÚGÌ$Jƒâk?{æÁÓ½QK³,!aúôûş©'(KØĞLZ–œÅ’f˜ÅuÖ%êÒ=ï’Ç>6xëÂÊ?Kôk”bã-÷õ+QAmöc–­>ş¤äÍŸ¨}B’¬ÔCì¬¼gR¥¤ƒ®k¬Õ“¥³vun]ø—K©ÕøÜ'ôôvóöòó§5`É}C²?šìñ­nÍ g¯«X²Åyú"Ï.ÀíW¯T'çï2Í–Uè†,iw¿S—(%3Ñpß=YÄï%ô~Ã:àfç%)Ärš³Y_æÜƒ%ƒc£pÓ')KRZG¢?ÔÈJ<ü	VR(ÊÕ‘4AR¬€°„*šihş–tèRòÁó¦Nb‹
+K­YÒbÍŒãO“l¹Œ%å|•EÏ’üÜÚS|–lË’=KÚa£c	É\©q2uóÃMÉ—‰$)}/ZXR†à,ùŞ`Ùê•âQ–ƒ+”¢íÒ%ì³È‰ÇJë’dàì%~(éÇ‹b[´.ÉrK¼K’áÓ{°„"1”qÃÁ1‡¹˜’–Xi)«_7ä˜Î»Ö¢hC$sÀíX²éé¼/My.w©ŒÀ’¡ÀXB§$çßöO}^r	.:€ƒ½RÖíhµºp0Áæ»å(htp–¬>~K™%åDu1KÆ…®–<K¢áBª«&£ÖU­Z>™ÇcI‰o.µ
+K—LfÀN×%Bûoë4?¼(®¢Ô­c	p –P~0B$°DxU=kİB–T<KXÕñ&KëY
+`É#ï„gXâ†’Áº$¥\»”%)9U#W[%‰}’$I—H—”–p]Ñvì"sÀ>Ç’Î‡F ,™7Û<K>:\ÆŒË’ïÌŒCëF°ªÊŸ¦“,y^–t[`G¬R,KHÎ62o@’gaÉéD,¦XB+¦É9,¡¦æÊxX–P”…&³,ÑÕ«=—ÅPò,¡+MŒ%\KÀ’u,¡lÙË’U;a.e–¨¡0	xÒS5%D*Ô«Zù‰$yb–àt K€U,ù`q>K€GfI‹íX²`tYàraàš,¡•©.XÊ)GÌoˆmÙô¸Ê>Ä¸ØvÆqèwÂc&„§÷[±„:Mƒš«Ÿ—Ì²¤¤ä"–ÒY$™Jl6¬nÅ’ê”l.—XM±¤™°’"ÁJ\HDs’b`U¬šµí¼'‰¤Ô\‘%AÔÈÄV'Ï*±•ËİPäïBUáDÇÂUp£ÇGÔÄ)/?Œ§­m£6`InQ½£æ*º	­Ğ9¢p“Û>š¹'[ÎcI;Üø«¢¤²(´ª}6,ÑJKÀî„ç÷8ú×œåøoÛ½º˜ “H²½ª¢ã­UK)[±Dirö'§$}eÛÜÍ8)E³J’ÑĞàõÜ‚Ä¼°	K˜&¤KÜê•
+¦”ƒå‚.Â‘dĞœ
+šm-Ú'Iã©ª<ëê‹öc	éœ6`	Ñ„ÄÒÛ>úösŸ¦zêÀ#´ 7dÉª;a¢ÈµXBÖĞ<n ì”% X– =K>X€%@Ä’Â ˜BbI@&JÀ³$”:Ûé•¦ï_iÕ<'ŞG„ K °Ø‚%äH¶
+endstream
+endobj
+16 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</2.0<<
+/CropRect[1 1 548.513 379.89801]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-B\205L\206M 6:env)
+/Overprint false
+/Inks[/monochrome(Black) 1]
+/Size[551 384]
+/Version 2
+/Type/OPI
+/IncludedImageQuality 1
+>>
+>>
+/FormType 1
+/Name/Fm5
+/BBox[-0.17624 -1.73871 1.27988 1.31803]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Im3 15 0 R>>/ProcSet[/PDF/ImageB]>>
+/Type/XObject
+/Length 35
+>>
+stream
+/GS1 gs
+q
+1 0 0 1 0 0 cm
+/Im3 Do
+Q
+
+endstream
+endobj
+17 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</1.3<<
+/CropRect[1 1 549 380]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-B\205L\206M 6:env)
+/Overprint false
+/ImageType[1 8]
+/Position[57.193 387.29999 57.193 608.63397 376.94901 608.63397 376.94901 387.29999]
+/ColorType/Process
+/Color[0 0 0 1(Black)]
+/Size[551 384]
+/Version 1.3
+/CropFixed[1 1 548.513 379.89801]
+/Type/OPI
+/Resolution[72 72]
+>>
+>>
+/FormType 1
+/Name/Fm4
+/BBox[0 0 467.71698 680.31494]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Fm5 16 0 R>>/ProcSet[/PDF]>>
+/Type/XObject
+/Length 60
+>>
+stream
+/GS1 gs
+q
+321.20819 0 0 222.562 56.609 386.971 cm
+/Fm5 Do
+Q
+
+endstream
+endobj
+18 0 obj
+<<
+/Length 3659
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 365.0047 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.14 Tw
+(Kabuk de\333i\337kenleri, standart isimli birtak\335m de\333i\337kenlerle s\335n\335rl\335 de\333ildir.)Tj
+0 -1.33333 TD
+0.009 Tw
+(Kulland\335\333\335n\335z uygulama programlar\335, \215al\335\337ma ortam\335n\335 tan\335mlamak i\215in \232zel)Tj
+T*
+-0.007 Tw
+(de\333i\337kenlerin tan\335mlanmas\335n\335 ve \232zel de\333erler verilmesini gerektirebilir. \205r-)Tj
+T*
+-0.034 Tw
+(ne\333in Oracle istemcileri )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 159.7349 323.0047 Tm
+0 Tr
+0 g
+-0.057 Tc
+0 Tw
+(ORACLE_HOME)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 219.1055 323.0047 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(ve )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 230.6554 323.0047 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(ORACLE_SID)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 284.8275 323.0047 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.034 Tw
+(isimli iki kabuk de\333i\337)Tj
+8.41095 0 TD
+0 Tc
+(-)Tj
+-30.04281 -1.33334 TD
+-0.008 Tc
+0.025 Tw
+(keni tan\335mlanm\335\337 olmas\335n\335 ister. )Tj
+0 -2.55568 TD
+0.11 Tw
+(Bir nedenle bir kabuk de\333i\337keni tan\335mlamak ya da tan\335ml\335 bir de\333i\337kenin)Tj
+0 -1.33333 TD
+0.012 Tc
+0.926 Tw
+(ad\335n\335 de\333i\337tirmek gerekti\333inde; \232rne\333in )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 273.8376 268.17 Tm
+0 Tr
+0 g
+-0.038 Tc
+0 Tw
+(DISPLAY)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 324.1881 268.17 Tm
+0 Tr
+0 g
+0.012 Tc
+0 Tw
+(de\333i\337kenine)Tj
+-25.38049 -1.33333 TD
+0 Tc
+<D2>Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 62.6642 254.17 Tm
+0 Tr
+0 g
+-0.056 Tc
+0 Tw
+(192.168.10.33:0)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 140.6424 254.17 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.74074 0 Td
+-0.008 Tc
+0.025 Tw
+(de\333erini vermeniz gerekti\333inde)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 229.3353 Tm
+0 Tr
+0 g
+-0.054 Tc
+0.056 Tw
+(export DISPLAY=192.168.10.33:0)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 205.918 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(komutunu kullanmal\335s\335n\335z. )Tj
+0 -2.55568 TD
+0.072 Tw
+(Komut sat\335r\335ndan istedi\333iniz gibi kabuk de\333i\337keni tan\335mlayabilir ya da de-)Tj
+0 -1.33334 TD
+0.01 Tw
+(\333erlerini de\333i\337tirebilirsiniz; ancak bu de\333i\337iklik kal\335c\335 olmaz. Kabuk progra-)Tj
+0 -1.33333 TD
+0.015 Tw
+(m\335 kapat\335ld\335\333\335nda ya da \232ld\237r\237ld\237\333\237nde tan\335mlad\335\333\335n\335z de\333i\337ken de kaybo)Tj
+30.04281 0.00001 TD
+0 Tc
+(-)Tj
+-30.04281 -1.33334 TD
+-0.008 Tc
+0.01 Tw
+(lur gider. Ayr\335ca bu \337ekilde yap\335lan bir tan\335m, yanl\335zca tan\335m\335n yap\335ld\335\333\335 ka-)Tj
+0 -1.33333 TD
+0.031 Tw
+(buk i\215in ge\215erlidir. Yani, bir anda ayn\335 bilgisayara ba\333l\335 olan \237\215 telnet pen)Tj
+30.04281 0.00001 TD
+0 Tc
+(-)Tj
+-30.0428 -1.3333 TD
+-0.008 Tc
+0.015 Tw
+(cereniz varsa, bunlardan birinde verece\333iniz )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 247.2033 109.0834 Tm
+0 Tr
+0 g
+-0.062 Tc
+0 Tw
+(export)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 281.0944 109.0834 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.015 Tw
+(komutu yaln\335zca o ter-)Tj
+-21.2763 -1.3333 TD
+0.009 Tw
+(minal penceresinde \215al\335\337an kabuk i\215in ge\215erli olacakt\335r. T\237m pencereleriniz)Tj
+0 -1.4683 TD
+-0.026 Tw
+(de ge\215erli ve kal\335c\335 bir kabuk de\333i\337keni tan\335m\335 yapmak istiyorsan\335z, bu i\337i ya-)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(263)Tj
+ET
+1 g
+56.693 624.786 320.756 10.5 re
+f
+Q
+q
+BT
+/F4 1 Tf
+9.84 0 0 8 239.9298 627.3763 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Bash Kabu\333u ve Kabuk Programlar\335)Tj
+ET
+1 g
+57.193 387.615 319.757 221.334 re
+f
+q
+57.193 387.615 319.757 221.334 re
+W n
+/Fm4 Do
+Q
+0 J 0 j 10 M []0 d 0.5 w 
+0 G
+56.943 387.365 320.257 221.834 re
+s
+Q
+
+endstream
+endobj
+19 0 obj
+<<
+/Length 5598
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(pan )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 109.9096 598.3385 Tm
+0 Tr
+0 g
+-0.06 Tc
+0 Tw
+(export )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 147.4893 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.056 Tw
+(komutunu ki\337isel dizininizdeki )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 281.5599 598.3385 Tm
+0 Tr
+0 g
+-0.06 Tc
+0 Tw
+(.bashrc)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 321.0878 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.056 Tw
+(dosyas\335na eklemelisi-)Tj
+-21.92618 -1.33333 TD
+0.031 Tw
+(niz. Bu tan\335m\335n t\237m kullan\335c\335lar i\215in ge\215erli olmas\335n\335 istiyorsan\335z, ayn\335 ekle-)Tj
+T*
+0 Tw
+(meyi )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 113.762 570.3385 Tm
+0 Tr
+0 g
+-0.057 Tc
+0 Tw
+(/etc/bashrc)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 173.7548 570.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(dosyas\335na da yapmal\335s\335n\335z (nokta yok).)Tj
+ET
+Q
+q
+BT
+/F5 1 Tf
+17.924 0 0 14.5 90.8629 534.6106 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Programlar\335 Arka Planda \202al\335\337t\335rmak)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 512.6106 Tm
+0 Tr
+0 g
+-0.01 Tc
+0.011 Tw
+(Diyelim ki, \215ok b\237y\237k bir disk dosyas\335ndaki (s\232z gelimi 200 Mbyte) m\237\337teri)Tj
+0 -1.33334 TD
+0.069 Tw
+(kay\335tlar\335n\335 alfabetik s\335rada dizmek istiyorsunuz. Bu i\337in, kulland\335\333\335n\335z bilgi-)Tj
+0 -1.33333 TD
+0.03 Tw
+(sayar sisteminde yar\335m saat s\237rece\333ini varsayal\335m. E\333er tek i\337 d\237zeninde \215a-)Tj
+T*
+0.062 Tw
+(l\335\337an bir i\337letim sistemi kullan\335yor olsayd\335n\335z, )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 284.397 470.6106 Tm
+0 Tr
+0 g
+-0.071 Tc
+0 Tw
+(sort)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 308.2565 470.6106 Tm
+0 Tr
+0 g
+-0.01 Tc
+0.062 Tw
+(s\335ralama komutunu ver-)Tj
+-20.70415 -1.33333 TD
+0.024 Tw
+(dikten sonra yeme\333e \215\335kabilir veya k\232pe\333inizi dola\337t\335rmaya g\232t\237rebilirdiniz;)Tj
+T*
+0.032 Tw
+(\215\237nk\237 s\335ralama bitinceye kadar bilgisayar\335n\335zdan bir ba\337ka ama\215la yararlan-)Tj
+T*
+0.025 Tw
+(man\335z s\232z konusu olamazd\335. Oysa LINUX i\337letim sisteminde, s\335ralamay\335 ar-)Tj
+T*
+0.107 Tw
+(ka planda bir i\337 olarak ba\337latt\335ktan sonra, \232n planda ba\337ka i\337ler yapman\335z)Tj
+T*
+0.053 Tw
+(m\237mk\237nd\237r. Bunu yapabilmek i\215in tek yapman\335z gereken, arka planda ya)Tj
+30.0813 0 TD
+0 Tc
+(-)Tj
+-30.0813 -1.33334 TD
+-0.01 Tc
+0.025 Tw
+(p\335lmas\335n\335 istedi\333iniz i\337i ba\337latan komutun sonuna bir \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 321.0198 386.6106 Tm
+0 Tr
+0 g
+0 Tc
+(&)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 326.192 386.6106 Tm
+0 Tr
+0 g
+-0.0101 Tc
+<D3>Tj
+0.73574 0 Td
+-0.01 Tc
+0.025 Tw
+(i\337areti eklemektir.)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 361.7759 Tm
+0 Tr
+0 g
+-0.054 Tc
+0.056 Tw
+(sort musteri_dosyasi > s\335ral\335_dosya &)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 338.3586 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.049 Tw
+(Diyeceksiniz ki \322arka planda \215al\335\337t\335rmaya ne gerek var, yeni bir telnet pen)Tj
+30.08132 0 TD
+0 Tc
+(-)Tj
+-30.08132 -1.33334 TD
+-0.008 Tc
+0.167 Tw
+(ceresi a\215ar, uzun i\337i orada ba\337lat\335r\335m ve normal \215al\335\337mamda kulland\335\333\335m)Tj
+0 -1.33333 TD
+0.076 Tw
+(pencereye geri d\232nerim!\323 Do\333ru! Yapabilirsiniz. Mis gibi de \215al\335\337\335r.  Geri)Tj
+T*
+-0.034 Tw
+(planda i\337 \215al\335\337t\335rmak i\215in komut sonuna \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 264.2023 296.3586 Tm
+0 Tr
+0 g
+0 Tc
+(&)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 269.4009 296.3586 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.68151 0 Td
+-0.008 Tc
+-0.034 Tw
+(i\337areti koyma fikri, yeni bir pen-)Tj
+-17.68513 -1.33333 TD
+0.025 Tw
+(cere a\215maya \237\337enenler i\215indir...)Tj
+0 -2.55569 TD
+0.012 Tw
+(Elbette ki her i\337 bu \337ekilde arka planda \215al\335\337t\335r\335lmaya uygun de\333ildir. \205rne-)Tj
+0 -1.33333 TD
+-0.006 Tw
+(\333in, bir edit\232r  program\335 gibi, kullan\335c\335n\335n s\237rekli olarak klavyeden bilgi gir-)Tj
+T*
+-0.019 Tw
+(mesini gerektiren programlar arka planda \215al\335\337t\335r\335lsa bile, s\237rekli ilgi istedik)Tj
+30.08131 0 TD
+0 Tc
+(-)Tj
+-30.08131 -1.33334 TD
+-0.008 Tc
+0.047 Tw
+(leri i\215in bu tip bir \215al\335\337ma anlaml\335 olmaz. Oysa yukar\335daki s\335ralama \232rne\333i-)Tj
+0 -1.33333 TD
+0.139 Tw
+(mizde, s\335ralama s\237resince kullan\335c\335dan herhangi bir bilgi istenmeyecektir.)Tj
+0 -1.33334 TD
+0.025 Tw
+(S\335ralama program\335 arka planda sessizce \215al\335\337\335p i\337ini bitirecektir.)Tj
+0 -2.55567 TD
+0.111 Tw
+(Baz\335 programlar kullan\335c\335dan bir bilgi istememekle birlikte, s\237rekli olarak)Tj
+0 -1.33333 TD
+-0.019 Tw
+(ekrana yapt\335klar\335 i\337in geli\337mesini a\215\335klayan bilgiler d\232kerler. Bu tip bir prog)Tj
+30.08131 0.00001 TD
+0 Tc
+(-)Tj
+-30.08131 -1.33334 TD
+-0.008 Tc
+0.01 Tw
+(ram\335 arka planda \215al\335\337mak \237zere ba\337latt\335\333\335n\335zda, s\237rekli olarak ekrana gelen)Tj
+T*
+0.004 Tw
+(bilgiler y\237z\237nden \232n planda ba\337ka bir i\337 yapman\335za pek olanak kalmaz. \205r-)Tj
+T*
+-0.001 Tw
+(ne\333in, genellikle bir dizindeki t\237m dosya ve alt dizinleri tek bir dosya i\215inde)Tj
+T*
+0.025 Tw
+(toplamak (paketlemek) i\215in kullan\335lan )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 255.0004 88.6893 Tm
+0 Tr
+0 g
+-0.075 Tc
+0 Tw
+(tar)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 273.4048 88.6893 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(komutunu,)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(264)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F4 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+Q
+
+endstream
+endobj
+20 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</2.0<<
+/CropRect[0 0 174 177]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-#157504:penguen p\237f)
+/Overprint false
+/Inks[/monochrome(Black) 1]
+/Size[174 177]
+/Version 2
+/Type/OPI
+/IncludedImageQuality 1
+>>
+>>
+/FormType 1
+/Name/Fm7
+/BBox[-8.27006 -4.69972 1.68546 9.53555]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Im2 10 0 R>>/ProcSet[/PDF/ImageB]>>
+/Type/XObject
+/Length 35
+>>
+stream
+/GS1 gs
+q
+1 0 0 1 0 0 cm
+/Im2 Do
+Q
+
+endstream
+endobj
+21 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</1.3<<
+/CropRect[0 0 174 177]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-#157504:penguen p\237f)
+/Overprint false
+/ImageType[1 8]
+/Position[388.53299 224.28799 388.53299 272.07901 435.51401 272.07901 435.51401 224.28799]
+/ColorType/Process
+/Color[0 0 0 1(Black)]
+/Size[174 177]
+/Version 1.3
+/CropFixed[0 0 174 177]
+/Type/OPI
+/Resolution[72 72]
+>>
+>>
+/FormType 1
+/Name/Fm6
+/BBox[0 0 467.71698 680.31494]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Fm7 20 0 R>>/ProcSet[/PDF]>>
+/Type/XObject
+/Length 60
+>>
+stream
+/GS1 gs
+q
+46.9807 0 0 47.7908 388.533 224.6032 cm
+/Fm7 Do
+Q
+
+endstream
+endobj
+22 0 obj
+<<
+/Length 5244
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 538.583 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 602.0475 Tm
+0 Tr
+0 g
+-0.054 Tc
+0.056 Tw
+(tar -cvf hepsi.tar /home/ayfer &)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 578.6302 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.102 Tw
+(\337eklinde verirseniz \(bu komutla ilgili detayl\335 bilgiyi daha ileride verece\333iz;)Tj
+0 -1.33333 TD
+0.096 Tw
+(\337imdilik komutun ne yapt\335\333\335 ve parametrelerinin ne oldu\333u \237zerinde dur-)Tj
+T*
+0.024 Tw
+(may\335n\335z\), program arka planda i\337ini yapacakt\335r, ama bir yandan da paketle-)Tj
+0 -1.33334 TD
+0.105 Tw
+(di\333i dosyalar\335n isimlerini ekrana listeleyecektir. Bu \337ekilde her saniye yeni)Tj
+0 -1.33333 TD
+0.025 Tw
+(bir sat\335r listelenen bir ekranda ba\337ka bir i\337 yapmak pek kolay olmayacakt\335r.)Tj
+0 -2.46045 TD
+(Ancak ayn\335 komutu,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 471.9609 Tm
+0 Tr
+0 g
+-0.054 Tc
+0.056 Tw
+(tar -cvf hepsi.tar /home/ayfer > /tmp/tarmesajlari &)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 448.5435 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.047 Tw
+(\337eklinde verirseniz, ekrana gelmesi gereken t\237m mesajlar, )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 304.9413 448.5435 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(/tmp)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 328.7795 448.5435 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(dizinindeki)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 434.5435 Tm
+0 Tr
+0 g
+-0.057 Tc
+0 Tw
+(tarmesajlari)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 122.7293 434.5435 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.01 Tw
+(isimli bir dosyaya y\232nlendirilmi\337 olacakt\335r. \334\337 bittikten sonra)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 420.5435 Tm
+0 Tr
+0 g
+-0.057 Tc
+0 Tw
+(tarmesajlari)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 123.2024 420.5435 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.055 Tw
+(dosyas\335na bakarak paketleme i\337inin ba\337ar\335yla bitip bitmedi)Tj
+23.80381 0 TD
+0 Tc
+(-)Tj
+-30.04281 -1.33334 TD
+-0.008 Tc
+0.025 Tw
+(\333ini ve kopyalanan dosyalar\335n listesini g\232rebilirsiniz.)Tj
+0 -2.46044 TD
+0.003 Tw
+(Geri planda ba\337latt\335\333\335n\335z i\337lerin hata mesaj\335 \237retmeleri durumunda mesajlar)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 366.7089 Tm
+0 Tr
+0 g
+-0.062 Tc
+0 Tw
+(STDERR)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 88.8842 366.7089 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.035 Tw
+(\325e gidecektir. \202al\335\337t\335\333\335n\335z ekrana z\335rt  p\335rt hata mesaj\335 gelmesini iste)Tj
+27.07222 0 TD
+0 Tc
+(-)Tj
+-30.04281 -1.33334 TD
+-0.008 Tc
+0.156 Tw
+(miyorsan\335z program\335 ba\337lat\335rken hata mesajlar\335n\335; daha do\333rusu )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 339.9024 352.7089 Tm
+0 Tr
+0 g
+-0.062 Tc
+0 Tw
+(STDERR)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 371.0937 352.7089 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+<D569>Tj
+-29.84769 -1.33333 TD
+0.025 Tw
+(bir dosyaya ya da dipsiz kuyuya y\232nlendirebilirsiniz.)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 313.8742 Tm
+0 Tr
+0 g
+-0.056 Tc
+0 Tw
+[(c)41(p)-583<D0>41(r)-584(/home/cayfer/tmp/*)-584(/)6(y)6(e)6(d)6(e)6(k)-583(2)41(>)-584(/)1(t)1(m)1(p)1(/)1(h)1(a)1(t)1(a)1(l)1(a)1(r)]TJ
+0 -1.47369 TD
+[(c)41(p)-583<D0>41(r)-584(/home/cayfer/tmp/*)-584(/)6(y)6(e)6(d)6(e)6(k)-583(2)41(>)-584(/)2(d)2(e)2(v)2(/)2(n)2(u)2(l)2(l)]TJ
+ET
+Q
+q
+BT
+/F5 1 Tf
+17.924 0 0 14.5 57.6929 189.4041 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(\205n Planda \202al\335\337an Programlar\335 )Tj
+0 -1.37931 TD
+(Arka Plana Atmak )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 147.4041 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.094 Tw
+(Baz\335 durumlarda, ba\337latt\335\333\335n\335z bir program\335n ne kadar s\237reyle \215al\335\337aca\333\335n\335)Tj
+0 -1.33333 TD
+-0.019 Tw
+(\232nceden kestiremezsiniz. \334\337in uzun s\237rece\333ini ve sessiz \215al\335\337an bir i\337 oldu\333u)Tj
+30.04281 0.00001 TD
+0 Tc
+(-)Tj
+-30.0428 -1.3333 TD
+-0.008 Tc
+0.001 Tw
+(nu sonradan fark edersiniz ya da i\337in bu \232zelliklerini bilseniz bile, bo\337 bulu-)Tj
+-0.0076 Tc
+(nup)'
+1.8641 0 Td
+-0.008 Tc
+0.013 Tw
+(komut sat\335r\335n\335n sonuna \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 183.0244 105.4041 Tm
+0 Tr
+0 g
+0 Tc
+(&)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 188.1967 105.4041 Tm
+0 Tr
+0 g
+-0.01 Tc
+<D3>Tj
+0.72357 0 Td
+-0.008 Tc
+0.013 Tw
+(koymadan Enter tu\337una bas\335verirsiniz. \205r-)Tj
+-13.1525 -1.3333 TD
+0.078 Tw
+(ne\333in, bir dizindeki t\237m dosyalar\335 bir ba\337ka diske ya da dizine kopyalama)Tj
+T*
+0 Tw
+(komutunu,)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(265)Tj
+ET
+1 g
+56.693 624.786 320.756 10.5 re
+f
+Q
+q
+BT
+/F4 1 Tf
+9.84 0 0 8 239.9298 627.3763 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Bash Kabu\333u ve Kabuk Programlar\335)Tj
+ET
+0.9 g
+0 215.433 478.807 63.693 re
+f
+Q
+q
+BT
+/F4 1 Tf
+11.07 0 0 9 57.6929 252.5614 Tm
+0 Tr
+0 g
+-0.007 Tc
+0.113 Tw
+(Dikkat ederseniz, STDERR\325i y\232nlendirirken \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+11.685 0 0 9.5 251.9267 252.5614 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(2>)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+11.07 0 0 9 264.7152 252.5614 Tm
+0 Tr
+0 g
+-0.0068 Tc
+<D3>Tj
+0.76541 0 Td
+-0.007 Tc
+0.113 Tw
+(karakterleri kullan\335l\335yor.)Tj
+-19.46661 -1.55556 TD
+0.022 Tw
+(Oysa STDOUT y\232nlendirilirken yaln\335zca \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+11.685 0 0 9.5 234.6695 238.5614 Tm
+0 Tr
+0 g
+0 Tc
+(>)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+11.07 0 0 9 241.0638 238.5614 Tm
+0 Tr
+0 g
+-0.0067 Tc
+<D3>Tj
+0.67473 0 Td
+-0.007 Tc
+0 Tw
+(kullan\335l\335yordu.)Tj
+ET
+0.9 g
+384.462 223.774 54.66 49.683 re
+f
+/Fm6 Do
+Q
+
+endstream
+endobj
+23 0 obj
+<<
+/Length 4481
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 602.0475 Tm
+0 Tr
+0 g
+-0.054 Tc
+0.056 Tw
+(cp -r /home/ayfer /disk2/home2)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 578.6302 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(\337eklinde verdi\333inizi ve program\335 \232n planda ba\337latt\335\333\335n\335z\335 varsayal\335m. Ba\337lat-)Tj
+0 -1.33333 TD
+0.003 Tw
+(t\335ktan birka\215 saniye (ya da birka\215 dakika) sonra i\337in uzun s\237rece\333ini fark et-)Tj
+T*
+0.052 Tw
+(tiniz ve )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 124.9036 550.6302 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.052 Tw
+(\322T\237h! Ke\337ke arka planda ba\337latsayd\335m!\323)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 296.896 550.6302 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.052 Tw
+(dediniz. E\333er kabuk prog-)Tj
+-19.6222 -1.33334 TD
+0.025 Tw
+(ram\335 olarak )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 142.1483 536.6302 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 165.7512 536.6302 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(kullan\335yorsan\335z sorun de\333il...)Tj
+-7.13222 -2.55568 TD
+0 Tw
+(Klavyenizden,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 484.9609 Tm
+0 Tr
+0 g
+-0.064 Tc
+0.056 Tw
+(^Z   )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 126.8629 484.9609 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+((Ctrl-Z))Tj
+-3.42857 -2.23023 TD
+-0.016 Tw
+(tu\337una basarsan\335z (Control tu\337u bas\335l\335yken Z tu\337una da basarsan\335z) ekranda,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 436.7089 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(Suspended.)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 413.2916 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.012 Tw
+(mesaj\335n\335 g\232r\237rs\237n\237z. Bu mesaj, o s\335rada \232n planda \215al\335\337an i\337inizin ge\215ici ola-)Tj
+0 -1.33333 TD
+-0.017 Tw
+(rak ask\335ya al\335narak durduruldu\333unu g\232stermektedir. Ancak, buradaki \322dur)Tj
+30.08131 0 TD
+0 Tc
+(-)Tj
+-30.08131 -1.33334 TD
+-0.008 Tc
+0.019 Tw
+(duruldu\323 ifadesi, i\337inizin tamamlanmadan kesildi\333i anlam\335nda de\333ildir. Bu)Tj
+30.08131 0 TD
+0 Tc
+(-)Tj
+-30.08131 -1.33334 TD
+-0.008 Tc
+0.032 Tw
+(radaki durdurma, m\237zik kaseti \215alan teyplerdeki Pause d\237\333mesinin g\232revi)Tj
+30.08132 0 TD
+0 Tc
+(-)Tj
+-30.08132 -1.33333 TD
+-0.008 Tc
+0.03 Tw
+(ne benzeyen bir durdurmad\335r. \334\337iniz \215al\335\337maya ara vermi\337 ve devam edebil-)Tj
+T*
+0.025 Tw
+(mek i\215in sizden bir komut bekler durumdad\335r.)Tj
+0 -2.55568 TD
+(Bu noktada,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 291.6222 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(bg)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 132.5772 291.6222 Tm
+0 Tr
+0 g
+0 Tc
+(\()Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 135.9925 291.6222 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(Background)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 185.1595 291.6222 Tm
+0 Tr
+0 g
+0 Tc
+(\))Tj
+-8.98063 -2.3652 TD
+-0.008 Tc
+0.057 Tw
+(komutu verirseniz, i\337iniz arka planda \215al\335\337maya devam edecektir. Ancak, o)Tj
+0 -1.33333 TD
+0.025 Tw
+(anda ekranda bir de,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 227.9529 Tm
+0 Tr
+0 g
+-0.075 Tc
+0 Tw
+([1])Tj
+2.17665 0 TD
+-0.058 Tc
+0.056 Tw
+(cp ... & )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 204.5356 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.039 Tw
+(mesaj\335 g\232r\237necektir. Bu mesaj\335n anlam\335 k\335saca program\335n\335z\335n geri plana \215e-)Tj
+0 -1.33333 TD
+-0.03 Tw
+(kildi\333ini ve geri planda \215al\335\337an i\337leriniz aras\335ndaki numaras\335n\335n 1 oldu\333udur.)Tj
+0 -1.46831 TD
+0.025 Tw
+(Geri plandaki 1 numaral\335 i\337i tekrar \232n plana almak isterseniz,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 150.2837 Tm
+0 Tr
+0 g
+-0.062 Tc
+0.056 Tw
+(fg  %1)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9.5 0 0 9.5 132.5772 150.2837 Tm
+0 Tr
+0 g
+0 Tc
+(\()Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+9.5 0 0 9.5 135.6672 150.2837 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(Foreground)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9.5 0 0 9.5 179.0987 150.2837 Tm
+0 Tr
+0 g
+0 Tc
+(\))Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 126.8663 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.032 Tw
+(komutunu verebilirsiniz. \(E\333er arka plana at\335lm\335\337 tek bir i\337iniz varsa, \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 383.3049 126.8663 Tm
+0 Tr
+0 g
+0 Tc
+(%)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 388.5034 126.8663 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.6834 0 Td
+-0.008 Tc
+0 Tw
+(i\337a-)Tj
+-29.0301 -1.3333 TD
+0.025 Tw
+(retini ve ard\335ndaki numaray\335 girmeniz gerekmez.\))Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(266)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F4 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+1 g
+89.863 70.866 321.161 29.449 re
+f
+Q
+
+endstream
+endobj
+24 0 obj
+<<
+/Length 4963
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(Arka planda \215al\335\337mak \237zere ba\337lat\335lacak, ya da sonradan arka plana at\335lacak)Tj
+0 -1.33333 TD
+0.058 Tw
+(i\337lerin say\335s\335 ile ilgili herhangi bir s\335n\335rlama yoktur. Ancak, arka plan ya da)Tj
+T*
+0.01 Tw
+(\232n plan olsun, \215al\335\337an her i\337in bilgisayar\335n performans\335ndan bir pay alaca\333\335-)Tj
+-0.0077 Tc
+<6EDD>'
+1.05004 0 Td
+-0.008 Tc
+0 Tw
+(unutmamal\335s\335n\335z.)Tj
+-1.05004 -2.55568 TD
+0.071 Tw
+(Bazen, arka planda ba\337latt\335\333\335n\335z ya da sonradan arka plana att\335\333\335n\335z i\337lerin)Tj
+0 -1.33333 TD
+0.025 Tw
+(hesab\335n\335 \337a\337\335rabilirsiniz. B\232yle bir durumda,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 490.6692 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(jobs)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 467.2519 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(komutunu verirseniz, arka plana at\335lm\335\337 i\337lerin bir listesini al\335rs\335n\335z. )Tj
+ET
+Q
+q
+BT
+/F5 1 Tf
+17.924 0 0 14.5 57.6929 431.5239 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(Kabuk Programlama)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 409.5239 Tm
+0 Tr
+0 g
+-0.01 Tc
+0.053 Tw
+(Bu b\232l\237mde amac\335m\335z, okuyuculara kabuk programlamay\335 \232\333retmek de\333il,)Tj
+0 -1.33333 TD
+0.011 Tw
+(sadece bu kavram\335n nas\335l bir \337ey oldu\333u konusunda fikir vermektir. Asl\335nda)Tj
+T*
+0.025 Tw
+(olduk\215a karma\337\335k bir i\337 olan ve deneyim isteyen kabuk programlama, prog-)Tj
+T*
+0 Tw
+(ramc\335l\335k deneyimi olmayan LINUX kullan\335c\335lar\335n\335n pek ilgisini \215ekmemekle)Tj
+T*
+0.025 Tw
+(birlikte programc\335l\335k temeli olan okuyuculara olduk\215a ilgin\215 gelebilir.)Tj
+0 -2.55568 TD
+-0.008 Tc
+0.199 Tw
+(LINUX kabuklar\335 \()Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 144.7342 326.6893 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 165.5284 326.6893 Tm
+0 Tr
+0 g
+-0.0075 Tc
+(,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 172.7122 326.6893 Tm
+0 Tr
+0 g
+-0.075 Tc
+0 Tw
+(csh)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 188.3078 326.6893 Tm
+0 Tr
+0 g
+-0.0075 Tc
+(,)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 195.4917 326.6893 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(tsch)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 220.9234 326.6893 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.199 Tw
+(gibi\) asl\335nda olduk\215a geli\337mi\337 birer)Tj
+-15.54576 -1.33333 TD
+0.012 Tc
+1.439 Tw
+(programlama dilini \215\232z\237mleyebilecek yetene\333e sahiptirler-)Tj
+-0.0076 Tc
+(.)'
+0.6191 0 Td
+-0.008 Tc
+0.134 Tw
+(Genel ama\215l\335 i\337ler i\215in pek kullan\335\337l\335 olmamakla birlikte ileri d\237zeydeki)Tj
+-0.6191 -1.33333 TD
+0.025 Tw
+(kullan\335c\335lar\335n ve sistem y\232neticilerinin en de\333erli ara\215lar\335ndand\335r. )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 257.8546 Tm
+0 Tr
+0 g
+-0.075 Tc
+0 Tw
+(csh)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 75.7637 257.8546 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(ve )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 87.6021 257.8546 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 110.8715 257.8546 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.007 Tw
+(kabuk programlama dilleri birbirlerinden olduk\215a farkl\335d\335r. Bu)Tj
+-5.06463 -1.33333 TD
+0.025 Tw
+(kitapta verece\333imiz \232rnekler yaln\335zca )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 217.4879 243.8546 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 241.0908 243.8546 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(kabu\333u i\215in olacakt\335r.)Tj
+-17.46647 -2.55568 TD
+0.072 Tw
+(Her ne kadar LINUX kullanmak i\215in )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 222.9156 217.02 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 247.017 217.02 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.072 Tw
+(ya da bir ba\337ka kabukla prog-)Tj
+-18.03086 -1.33333 TD
+0.025 Tw
+(ramlama yapmaya gerek olmasa da LINUX/UNIX sistem y\232neticisi olmay\335)Tj
+T*
+0.045 Tw
+(d\237\337\237nenlerin bu i\337lerden biraz anlamas\335 \215ok yararl\335 olacakt\335r. Kabuk prog-)Tj
+T*
+0.027 Tw
+(ramlama konusunda daha fazla ayr\335nt\335ya girmek isteyen okuyucular i\215in in-)Tj
+T*
+0.184 Tw
+(ternet\325te \322)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 102.5685 161.02 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.184 Tw
+(bash programlama)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 180.2936 161.02 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.184 Tw
+<D32C20D2>Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 197.2556 161.02 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.184 Tw
+(bash programming)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 275.9573 161.02 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.89922 0 Td
+-0.008 Tc
+0.184 Tw
+(anahtar s\232zc\237kleriyle)Tj
+-21.68631 -1.33333 TD
+0.025 Tw
+(bir tarama yapmalar\335n\335 \232neririz.)Tj
+0 -2.55569 TD
+(\336imdi isterseniz birka\215 \232rnek kabuk program\335na g\232z atal\335m:)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(267)Tj
+ET
+1 g
+56.693 624.786 320.756 10.5 re
+f
+Q
+q
+BT
+/F4 1 Tf
+9.84 0 0 8 239.9298 627.3763 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Bash Kabu\333u ve Kabuk Programlar\335)Tj
+ET
+1 g
+56.693 70.866 320.756 40.9549 re
+f
+Q
+
+endstream
+endobj
+25 0 obj
+<<
+/Length 6472
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F5 1 Tf
+14.834 0 0 12 90.8629 596.8209 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(\334lk Kabuk Program\335 \205rne\333i)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 574.8209 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.069 Tw
+(\334lk \232rnek \215ok da anlaml\335 bir i\337 yapmamakla birlikte kabuk programlar\335n\335n)Tj
+0 -1.33333 TD
+0.025 Tw
+(neye benzedi\333ini g\232stermek a\215\335s\335ndan tipik bir )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 291.7513 560.8209 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 315.3542 560.8209 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(kodudur.)Tj
+-21.38012 -2.55568 TD
+-0.017 Tc
+-0.036 Tw
+(\205ncelikle a\337a\333\335daki LINUX komutlar\335n\335 )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 259.635 533.9863 Tm
+0 Tr
+0 g
+-0.017 Tc
+0 Tw
+(vi )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 269.1299 533.9863 Tm
+0 Tr
+0 g
+-0.017 Tc
+-0.036 Tw
+(edit\232r\237n\237 kullanarak \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 363.1155 533.9863 Tm
+0 Tr
+0 g
+-0.017 Tc
+0 Tw
+(ornek1.sh)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 404.9736 533.9863 Tm
+0 Tr
+0 g
+0 Tc
+<D3>Tj
+-29.9153 -1.33334 TD
+-0.017 Tc
+-0.021 Tw
+(isimli bir dosyaya kaydediniz. \(Asl\335nda )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 250.9285 519.9863 Tm
+0 Tr
+0 g
+-0.017 Tc
+0 Tw
+(vi )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 260.5829 519.9863 Tm
+0 Tr
+0 g
+-0.017 Tc
+-0.021 Tw
+(edit\232r\237n\237 kullanmak zorunda de\333il-)Tj
+-16.16381 -1.33333 TD
+0.026 Tw
+(siniz elbette ama kabuk programlamayla ilgilendi\333inize g\232re sistem y\232neticisi)Tj
+T*
+0.111 Tw
+(olma yolunda ilerliyorsunuz demektir; bu durumda da )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 326.1441 491.9863 Tm
+0 Tr
+0 g
+-0.108 Tc
+0 Tw
+(vi)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 339.9567 491.9863 Tm
+0 Tr
+0 g
+-0.017 Tc
+0.111 Tw
+(bilmeden olmaz.)Tj
+-23.72322 -1.33333 TD
+0.025 Tw
+(Neyse, \337imdilik istedi\333iniz edit\232r\237 kullanabilirsiniz.\))Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 457.1516 Tm
+0 Tr
+0 g
+-0.057 Tc
+0 Tw
+(#!/bin/bash )Tj
+0 -1.47369 TD
+-0.059 Tc
+(COUNT=1 )Tj
+0 -1.47368 TD
+-0.055 Tc
+0.056 Tw
+(while [ $COUNT -le 100 ] )Tj
+T*
+-0.075 Tc
+0 Tw
+(do )Tj
+0 -1.47369 TD
+-0.057 Tc
+0.056 Tw
+(ls | wc -l )Tj
+0 -1.47368 TD
+-0.06 Tc
+(sleep 2)Tj
+0 -1.47369 TD
+-0.055 Tc
+(COUNT=`expr $COUNT + 1` )Tj
+T*
+-0.064 Tc
+0 Tw
+(done )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 335.7343 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(Yukardaki )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 138.9745 335.7343 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 162.6977 335.7343 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.036 Tw
+(kabuk program\335 iki saniyede bir toplam 100 kez \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+10.5 0 0 10.5 375.6683 335.7343 Tm
+0 Tr
+0 g
+-0.009 Tc
+0 Tw
+(ls)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 388.0791 335.7343 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.75216 0 Td
+-0.008 Tc
+0 Tw
+(ko-)Tj
+-29.05847 -1.33333 TD
+0.025 Tw
+(mutunu \215al\335\337t\335r\335p bu komutun \237retti\333i sat\335rlar\335 sayacakt\335r. )Tj
+0 -2.36521 TD
+(\336imdi bu k\335sa bash program\335n\335n sat\335rlar\335na bir g\232z gezdirelim:)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 270.065 Tm
+0 Tr
+0 g
+-0.057 Tc
+0 Tw
+(#!/bin/bash:)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 158.2146 270.065 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(bash )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 183.2765 270.065 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.231 Tw
+(kabuk programlar\335nda a\215\335klama sat\335rlar\335 \()Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 368.3981 270.065 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(comment)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 406.5297 270.065 Tm
+0 Tr
+0 g
+0 Tc
+(\))Tj
+-30.0635 -1.33333 TD
+<D2>Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 95.8342 256.065 Tm
+0 Tr
+0 g
+0 Tc
+(#)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 101.0328 256.065 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.73476 0 Td
+(ile)Tj
+1.20251 0 Td
+-0.008 Tc
+0.019 Tw
+(ba\337lar. Bu sat\335r ilk bak\335\337ta bir a\215\335klama sat\335r\335 gibi g\232r\237nse de asl\335nda)Tj
+-2.90583 -1.33333 TD
+-0.012 Tw
+(\215ok \232zel bir anlam\335 vard\335r. Bir kabuk program\335n\335n ilk sat\335r\335 olmas\335; ayr\335ca ilk)Tj
+T*
+0.235 Tw
+(iki karakterinin \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 168.2823 228.065 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(#!)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 178.6794 228.065 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.95072 0 Td
+-0.008 Tc
+0.235 Tw
+(olmas\335, bu kabuk program dosyas\335ndaki sat\335rlar\335n)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 214.065 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/bin/bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 139.8878 214.065 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.029 Tw
+(program\335yla yorumlanmas\335 gerekti\333ini belirtmektedir. Bir kabuk)Tj
+-4.66904 -1.33333 TD
+0.017 Tw
+(program\335n\335n ba\337\335nda, program\335n hangi kabukla \215al\335\337t\335r\335laca\333\335n\335n belirtilme)Tj
+30.08132 0 TD
+0 Tc
+(-)Tj
+-30.08132 -1.33334 TD
+-0.008 Tc
+0.066 Tw
+(si olduk\215a \232nemlidir. Bu sat\335r olmad\335\333\335nda, kabuk program\335 yaln\335zca )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 389.1501 186.065 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 172.065 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.12 Tw
+(kabu\333u ile \215al\335\337an kullan\335c\335lar taraf\335ndan ba\337ar\335yla \215al\335\337t\335r\335labilir. Oysa bu)Tj
+0 -1.33333 TD
+-0.021 Tw
+(sat\335r sayesinde, kullan\335c\335n\335n komutu verdi\333i s\335rada kulland\335\333\335 kabuk ne olur)Tj
+30.08131 0.00001 TD
+0 Tc
+(-)Tj
+-30.08131 -1.33334 TD
+-0.008 Tc
+0.056 Tw
+(sa olsun, \232nce )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 154.2661 144.065 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(/bin/bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 204.1898 144.065 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.056 Tw
+(kabu\333u ba\337lat\335lacak, program da bu kabuk i\215in-)Tj
+-10.79304 -1.33333 TD
+-0.02 Tw
+(de \215al\335\337t\335r\335lacakt\335r. Program bitti\333inde bu program i\215in ba\337lat\335lm\335\337 kabuk da)Tj
+T*
+0.025 Tw
+(bitecek ve kullan\335c\335 kendi kabu\333una geri d\232necektir.)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 88.3957 Tm
+0 Tr
+0 g
+-0.059 Tc
+0 Tw
+[(COUNT=1:)-364(C)3(O)3(U)3(N)3(T)3( )]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 167.4602 88.3957 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.04 Tw
+(isimli bir de\333i\337kene 1 de\333eri atan\335yor. Kabuk de\333i\337kenle-)Tj
+-7.295 -1.3333 TD
+0.013 Tw
+(rinin isimleri genellikle b\237y\237k harflerle yaz\335l\335r. Bu kesin bir kural olmamak)Tj
+30.08132 -0.00001 TD
+0 Tc
+(-)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(268)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F4 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+Q
+
+endstream
+endobj
+26 0 obj
+<<
+/Length 6579
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 598.3385 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(la birlikte kullan\335lacak de\333i\337kenlerin isimlerinin LINUX komutlar\335yla kar\335\337-)Tj
+0 -1.33333 TD
+0.025 Tw
+(mamas\335 i\215in yararl\335 bir gelenektir.)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 564.6693 Tm
+0 Tr
+0 g
+-0.062 Tc
+0 Tw
+[(w)2(h)2(i)2(l)2(e)-296([)-251($COUNT)-296(-)13(l)13(e)-296(1)13(0)13(0)-296(])35(:)-705($COUNT)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 213.057 564.6693 Tm
+0 Tr
+0 g
+-0.008 Tc
+-0.001 Tw
+(de\333i\337keninin de\333eri 100\325den k\237\215\237k ve-)Tj
+-14.79658 -1.33333 TD
+0.025 Tw
+(ya e\337it oldu\333u s\237rece tekrarlanacak bir d\232ng\237 ba\337l\335yor.)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 531 Tm
+0 Tr
+0 g
+-0.041 Tc
+-0.002 Tw
+(do: while)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 108.6085 531 Tm
+0 Tr
+0 g
+0.008 Tc
+-0.001 Tw
+(kal\335b\335n\335n bir par\215as\335d\335r.  D\232ng\237 i\215indeki komut sat\335rlar\335 \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 360.4518 531 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(do-)Tj
+-31.86936 -1.47369 TD
+-0.051 Tc
+(done)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 79.133 517 Tm
+0 Tr
+0 g
+0.0077 Tc
+<D3>Tj
+0.77131 0 Td
+0.008 Tc
+0.025 Tw
+(deyimleri aras\335na yaz\335l\335r.)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 497.3307 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+[(ls)-427(|)-383(wc)-427<D0>-22(l)-22(:)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 112.1261 497.3307 Tm
+0 Tr
+0 g
+0 Tc
+<D2>Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 117.0974 497.3307 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(ls)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 127.4945 497.3307 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.77913 0 Td
+-0.008 Tc
+0.063 Tw
+(komutu ve \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 189.8147 497.3307 Tm
+0 Tr
+0 g
+-0.064 Tc
+0.141 Tw
+(wc \320l)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 217.1443 497.3307 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.77903 0 Td
+-0.008 Tc
+0.063 Tw
+(komutlar\335 birlikte \215al\335\337t\335r\335l\335p )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 348.797 497.3307 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(ls)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 362.4053 497.3307 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(ko-)Tj
+-29.02023 -1.33333 TD
+0.025 Tw
+(mutunun \215\335kt\335lar\335 )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 134.8198 483.3307 Tm
+0 Tr
+0 g
+-0.097 Tc
+0 Tw
+(wc)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 148.0257 483.3307 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(komutuna girdi olarak y\232nlendirilip sat\335rlar say\335l\335yor.)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 463.6614 Tm
+0 Tr
+0 g
+-0.059 Tc
+0.056 Tw
+(sleep 2:)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 102.6179 463.6614 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(\334ki saniye beklemek i\215in )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 208.0578 463.6614 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+(sleep)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 236.8593 463.6614 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(komutu.)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 443.9921 Tm
+0 Tr
+0 g
+-0.055 Tc
+0.027 Tw
+(COUNT=`expr $COUNT + 1`:)Tj
+13.49578 0 TD
+-0.062 Tc
+0 Tw
+($COUNT)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 219.7681 443.9921 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.012 Tw
+(de\333i\337keninin de\333erini bir artt\335ran ko)Tj
+14.60711 0 TD
+0 Tc
+(-)Tj
+-30.04284 -1.33334 TD
+-0.008 Tc
+0 Tw
+(mut.)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 410.3228 Tm
+0 Tr
+0 g
+-0.064 Tc
+0 Tw
+[(done:)-352(while)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 115.2959 410.3228 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(d\232ng\237s\237ndeki deyim grubunun sonunu belirliyor.)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 382.0709 Tm
+0 Tr
+0 g
+-0.058 Tc
+0 Tw
+(ornek1.sh)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 107.1866 382.0709 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.015 Tw
+(isimli dosyadaki bu )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 191.7646 382.0709 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 215.2656 382.0709 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.015 Tw
+(komutlar\335n\335 bir program gibi \215al\335\337t\335ra-)Tj
+-15.00692 -1.33333 TD
+-0.016 Tw
+(bilmek i\215in sisteme bu dosyan\335n \322)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10.5 0 0 10.5 199.4351 368.0709 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(\215al\335\337t\335r\335labilir)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 256.1199 368.0709 Tm
+0 Tr
+0 g
+-0.0076 Tc
+<D3>Tj
+0.69997 0 Td
+-0.008 Tc
+-0.016 Tw
+(program dosyas\335 oldu\333unu)Tj
+-19.59778 -1.33333 TD
+0.025 Tw
+(belirtmek gerekir. Bu komutu kimlerin kullanabilece\333ine ba\333l\335 olarak)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 329.2362 Tm
+0 Tr
+0 g
+-0.055 Tc
+0.056 Tw
+(chmod a+x ornek1.sh)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 305.8189 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(veya)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 280.9842 Tm
+0 Tr
+0 g
+-0.055 Tc
+0.056 Tw
+(chmod u+x ornek1.sh)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 257.5669 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(veya)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 232.7322 Tm
+0 Tr
+0 g
+-0.055 Tc
+0.056 Tw
+(chmod 755 ornek1.sh)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 209.3149 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(gibi bir komutla dosyan\335n \215al\335\337t\335rma yetkilerini d\237zenleyebilirsiniz.)Tj
+0 -2.93663 TD
+(Son olarak da komutu \215al\335\337t\335rmak i\215in: )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 153.6456 Tm
+0 Tr
+0 g
+-0.057 Tc
+0 Tw
+(./ornek1.sh)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 130.2284 Tm
+0 Tr
+0 g
+-0.014 Tc
+-0.015 Tw
+(komutunu verebilirsiniz. E\333er )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 184.2917 130.2284 Tm
+0 Tr
+0 g
+-0.075 Tc
+0 Tw
+(PATH)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 207.1356 130.2284 Tm
+0 Tr
+0 g
+-0.014 Tc
+-0.015 Tw
+(de\333i\337keninizde \322\215al\335\337ma dizini\323 anlam\335n)Tj
+15.81017 0.00001 TD
+0 Tc
+(-)Tj
+-30.0428 -1.3333 TD
+-0.014 Tc
+0.049 Tw
+(da \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 75.7969 116.2283 Tm
+0 Tr
+0 g
+0 Tc
+(.)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 80.9269 116.2283 Tm
+0 Tr
+0 g
+-0.0141 Tc
+<D3>Tj
+0.7522 0 Td
+-0.014 Tc
+0.049 Tw
+(yoksa, komutun ba\337\335na \322bu dizindeki\323 anlam\335na gelen \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 325.24 116.2283 Tm
+0 Tr
+0 g
+-0.105 Tc
+0 Tw
+(./)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 335.4999 116.2283 Tm
+0 Tr
+0 g
+-0.0142 Tc
+<D3>Tj
+0.75217 0 Td
+-0.014 Tc
+0 Tw
+(i\337aretini)Tj
+-27.21 -1.3333 TD
+0.025 Tw
+(koyman\335z; yani komutu \322)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 163.6165 102.2283 Tm
+0 Tr
+0 g
+-0.065 Tc
+0 Tw
+(./ornek1.sh)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 220.0457 102.2283 Tm
+0 Tr
+0 g
+-0.0141 Tc
+<D3>Tj
+0.72772 0 Td
+-0.014 Tc
+0.025 Tw
+(\337eklinde yazman\335z gerekecektir.)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(269)Tj
+ET
+1 g
+56.693 624.786 320.756 10.5 re
+f
+Q
+q
+BT
+/F4 1 Tf
+9.84 0 0 8 239.9298 627.3763 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Bash Kabu\333u ve Kabuk Programlar\335)Tj
+ET
+1 g
+56.693 70.866 320.756 21.347 re
+f
+Q
+
+endstream
+endobj
+27 0 obj
+<<
+/Length 2997
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F5 1 Tf
+14.834 0 0 12 90.8629 596.8209 Tm
+0 Tr
+0 g
+0 Tc
+0.022 Tw
+(\334kinci Kabuk Program\335 \205rne\333i)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 573.4036 Tm
+0 Tr
+0 g
+-0.018 Tc
+0.004 Tw
+(Bu \232rne\333imiz ileri d\237zey bir )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 208.5378 573.4036 Tm
+0 Tr
+0 g
+-0.079 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 231.3899 573.4036 Tm
+0 Tr
+0 g
+-0.018 Tc
+0.004 Tw
+(program\335 olacak. Amac\335m\335z )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 348.0312 573.4036 Tm
+0 Tr
+0 g
+-0.079 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 370.8834 573.4036 Tm
+0 Tr
+0 g
+-0.018 Tc
+0 Tw
+(program-)Tj
+-26.66862 -1.33334 TD
+0.133 Tw
+(laman\335n t\237m detaylar\335n\335 \232\333retmek olmad\335\333\335 i\215in bu program\335n ayr\335nt\335lar\335na)Tj
+0 -1.33333 TD
+0.094 Tw
+(girmeyece\333iz. Programc\335l\335k deneyimi olup bash programlamay\335 ayr\335nt\335l\335 ola-)Tj
+T*
+0.025 Tw
+(rak \232\333renmek isteyen kullan\335c\335lar\335n ba\337ka kaynaklara y\232nelmesi gerekecektir. )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9 0 0 9 90.8629 506.569 Tm
+0 Tr
+0 g
+-0.057 Tc
+0 Tw
+(#!/bin/bash)Tj
+0 -1.52222 TD
+-0.0538 Tc
+(#)Tj
+1.14801 0 Td
+-0.054 Tc
+0.056 Tw
+(lsx : Dizin yap\335s\335n\335 hiyerar\337ik olarak g\232r\237nt\237ler.)Tj
+-1.14801 -2.74445 TD
+(ara () {               # Fonksiyon tan\335m\335)Tj
+0.74074 -1.51111 TD
+-0.055 Tc
+(for DIZIN in `echo *` )Tj
+T*
+-0.075 Tc
+0 Tw
+(do )Tj
+0.59259 -1.51112 TD
+-0.097 Tc
+(if)Tj
+1.5389 0 TD
+-0.0552 Tc
+([)Tj
+1.14507 0 Td
+-0.055 Tc
+0.056 Tw
+(-d $DIZIN ] ; then)Tj
+-0.98026 -1.51112 TD
+-0.057 Tc
+(W_DUZEY=0  )Tj
+0 -1.51111 TD
+-0.054 Tc
+(while [ $W_DUZEY != $DUZEY ]  )Tj
+0 -1.51112 TD
+-0.075 Tc
+0 Tw
+(do )Tj
+0.66667 -1.51111 TD
+-0.057 Tc
+0.056 Tw
+(echo -n \322| \322 )Tj
+T*
+-0.055 Tc
+(W_DUZEY=`expr $W_DUZEY + 1` )Tj
+-0.66667 -1.51112 TD
+-0.064 Tc
+0 Tw
+(done )Tj
+0 -1.51111 TD
+-0.055 Tc
+0.056 Tw
+(if [ -L $DIZIN ] ; then  )Tj
+0.66667 -1.51111 TD
+-0.09 Tc
+[(echo \322+---$DIZIN\323 `ls -l $DIZIN | sed \324s/^.*\325$DIZIN\325)-385(/)14(/)14<D5>14(`)]TJ
+-0.66667 -3.02223 TD
+-0.064 Tc
+0 Tw
+(else )Tj
+0.66667 -1.51111 TD
+-0.056 Tc
+0.056 Tw
+(echo \322+---$DIZIN\323 )Tj
+T*
+-0.055 Tc
+(if cd $DIZIN ; then)Tj
+3.53242 -1.51111 TD
+(DUZEY=`expr $DUZEY + 1`)Tj
+T*
+-0.068 Tc
+0 Tw
+(ara )Tj
+T*
+-0.054 Tc
+0.056 Tw
+(DIR_SAYISI=`expr $DIR_SAYISI + 1` )Tj
+-3.53242 -1.51112 TD
+-0.075 Tc
+0 Tw
+(fi )Tj
+-1.70371 -1.51111 TD
+(fi )Tj
+-1.25926 -1.51111 TD
+(fi )Tj
+-0.74074 -1.51111 TD
+-0.064 Tc
+(done )Tj
+0 -1.51111 TD
+-0.062 Tc
+0.056 Tw
+(cd .. )Tj
+0 -1.51111 TD
+-0.055 Tc
+(if [ $DUZEY ] ; then )Tj
+1.80834 -1.51111 TD
+-0.059 Tc
+0 Tw
+(DEVAM=1 )Tj
+-1.8083 -1.5111 TD
+-0.075 Tc
+(fi )Tj
+1.2056 -1.5222 TD
+-0.055 Tc
+0.056 Tw
+(DUZEY=`expr $DUZEY - 1` )Tj
+-1.2056 -1.5222 TD
+-0.0975 Tc
+(})Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(270)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F4 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+Q
+
+endstream
+endobj
+28 0 obj
+<<
+/Length 3760
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+56.693 70.866 320.756 538.583 re
+f
+Q
+q
+BT
+/F3 1 Tf
+9 0 0 9 57.6929 602.3844 Tm
+0 Tr
+0 g
+0 Tc
+(#)Tj
+0 -1.51111 TD
+-0.0546 Tc
+(#)Tj
+1.14633 0 Td
+-0.055 Tc
+0.056 Tw
+(Ba\337l\335yoruz\311 (Ana program))Tj
+-1.14633 -1.51111 TD
+0 Tc
+(#)Tj
+T*
+-0.055 Tc
+0 Tw
+(CALISMA_DIZINI=`pwd`)Tj
+T*
+0.056 Tw
+(if [ $# = 0 ] ; then )Tj
+1.80834 -1.51112 TD
+-0.058 Tc
+(cd `pwd` )Tj
+-1.80834 -1.51111 TD
+-0.064 Tc
+0 Tw
+(else )Tj
+1.80834 -1.51112 TD
+-0.062 Tc
+0.056 Tw
+(cd $1 )Tj
+-1.80834 -1.51112 TD
+-0.075 Tc
+0 Tw
+(fi )Tj
+0 -2.62222 TD
+-0.054 Tc
+0.056 Tw
+(echo \322Ba\337lang\335\215 dizini : `pwd`\323 )Tj
+0 -1.51111 TD
+-0.059 Tc
+0 Tw
+(DEVAM=0 )Tj
+0 -1.51112 TD
+(DUZEY=0 )Tj
+T*
+-0.057 Tc
+(DIR_SAYISI=0 )Tj
+0 -1.51111 TD
+-0.058 Tc
+(W_DUZEY=0 )Tj
+T*
+-0.055 Tc
+0.056 Tw
+(while [ $DEVAM != 1 ] )Tj
+T*
+-0.075 Tc
+0 Tw
+(do )Tj
+1.80834 -1.51111 TD
+-0.068 Tc
+(ara )Tj
+-1.80834 -1.51111 TD
+-0.064 Tc
+(done )Tj
+T*
+-0.054 Tc
+0.056 Tw
+(echo \322Toplam $DIR_SAYISI dizin bulundu.\323)Tj
+-0.0975 Tc
+(#)'
+-0.0538 Tc
+(#)'
+1.14805 0 Td
+-0.054 Tc
+(Program ba\337lat\335ld\335\333\335ndaki \215al\335\337ma dizinine geri d\232n)Tj
+-1.14805 -1.51111 TD
+-0.056 Tc
+(cd $CALISMA_DIZINI)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 281.367 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.178 Tw
+(Yukardaki program\335 dikkatle incelerseniz C, PASCAL gibi genel ama\215l\335)Tj
+0 -1.33333 TD
+0.157 Tw
+(programlama dillerindeki komut yap\335lar\335n\335n e\337de\333erlerini, hatta \232zyinele)Tj
+30.04281 0 TD
+0 Tc
+(-)Tj
+-30.04281 -1.33334 TD
+-0.008 Tc
+-0.015 Tw
+(meli \()Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10.5 0 0 10.5 81.6531 253.367 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(recursive)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 118.0764 253.367 Tm
+0 Tr
+0 g
+-0.0077 Tc
+(\))Tj
+0.55258 0 Td
+-0.008 Tc
+-0.015 Tw
+(fonksiyonlar\335n dahi kullan\335labildi\333ini g\232receksiniz. Hat\335rlar)Tj
+23.73943 0 TD
+0 Tc
+(-)Tj
+-30.04281 -1.33333 TD
+-0.008 Tc
+0 Tw
+(san\335z, )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 84.0505 239.367 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 107.6601 239.367 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.026 Tw
+(kabu\333unun asl\335nda \215ok geli\337mi\337 bir programlama arac\335 oldu\333u)Tj
+25.28406 0 TD
+0 Tc
+(-)Tj
+-30.04284 -1.33334 TD
+-0.008 Tc
+0.025 Tw
+(nu daha \232nce de vurgulam\335\337t\335k.)Tj
+0 -2.55569 TD
+0.057 Tw
+(\336imdi bu )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 100.0157 198.5323 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 123.9564 198.5323 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.057 Tw
+(program\335n\335 bir UNIX komutu gibi kullanabilmek i\215in yap)Tj
+23.73205 0 TD
+0 Tc
+(-)Tj
+-30.04286 -1.33334 TD
+-0.008 Tc
+0.025 Tw
+(man\335z gerekenleri bir g\232zden ge\215irelim:)Tj
+0 -2.55568 TD
+0 Tw
+(\205ncelikle )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 102.6848 157.6976 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(bash)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 127.354 157.6976 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.127 Tw
+(kodunu i\215eren dosyan\335n \322\215al\335\337t\335r\335labilir\323 bir dosya olmas\335)Tj
+-6.63439 -1.33333 TD
+0 Tw
+(gerekir:)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 118.863 Tm
+0 Tr
+0 g
+-0.0563 Tc
+(chmod)Tj
+3.3175 0 Td
+(755)Tj
+2.8294 0 Td
+-0.056 Tc
+0 Tw
+(lsx)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 165.6929 118.863 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(veya)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 57.6929 103.4457 Tm
+0 Tr
+0 g
+-0.0563 Tc
+(chmod)Tj
+3.3175 0 Td
+(a+x)Tj
+2.8294 0 Td
+-0.056 Tc
+0 Tw
+(lsx)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 57.6929 82.0283 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(gibi komutlar bir dosyay\335 herkes taraf\335ndan \215al\335\337t\335r\335labilir hale getirilebilir.)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+13.53 0 0 11 378.4495 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(271)Tj
+ET
+1 g
+56.693 624.786 320.756 10.5 re
+f
+Q
+q
+BT
+/F4 1 Tf
+9.84 0 0 8 239.9298 627.3763 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Bash Kabu\333u ve Kabuk Programlar\335)Tj
+ET
+Q
+
+endstream
+endobj
+29 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace/DeviceGray
+/Filter/FlateDecode
+/Height 366
+/Subtype/Image
+/Type/XObject
+/Length 4694
+/Width 584
+>>
+stream
+X…í½«uGÙ‡7Ø‰ ••ØÄB°ğØRˆH
+Å ¢ Ñ·
+<ÁêËÔş%i‚Mš’&U! oTDßW«ão¾ÖºgÖÌ¬½ö9ûìuı²ç¾ç™µö:{]Ï|¾÷'„ÎÖıéwYİİ¯×óÓéw¿@Èèîãõ‚#4åè\÷Jİxàè§™T€nIzÅ+>âèy¦û¹8qôSp^ÿù×?şöç?İé«Ñ-é;k>#±¤`.9úú7¿õê÷ôÌëEäèt’‘SBÇ×ßÿePàF™v<rôòoßúí›¯¿öòKŸ?}<ptiªëş^&‹%ù¥Í•‚ŸéJí‚,ğqYÒ½¼ı`éFµ§j}©±ŞÌy¯­mÒ(öfí•‹9útPàæS­í½RüéIuÎd}û­?¼õëŸÿà•¯|áôéÈ‘Û[ò0-{Øø6‚onjo,?G™ó9ªİÉ¥™&;\¹~~tÿÉ ÀÍ'BÁËÄŸx“qôİ±?úû‹;u*ÒIsı9ŠMp!ù¼7á×ôQÈ*ãl·y(³ı‘>*I­SŞÜlh¤¤0}™a1µ´•bsÿÙ¿c¸­.©¶ã¦W¯ZŸ²Õ`ó{œwåúùÑG}$HNrEÊ;ceCƒŒ£¾ùë7ÿç'¯~ãËŸ=ıß‹;­å¤Œ£üÒ§øáº¿§>Óæñ·/-Tæ÷ñˆ©s>ey¨O‚:½ls“Ù³>“?1Ø¶1Ìï›_ÙìÉ*?aÛéÊÅãÚ‡~(JNrEÊ;c—OõGÿyöúÏ_ÿÉ÷^ùê?sºqw
+r(é?İ:{ êïoÉğ™kræPò™'×x9c0~Oğ1nşï0£Ï¤m^wş3}äòiÀğgtşd}|ÚçÊÅ}ğÁ"à$¸Q¤¼³1vùT?pô¯g¯ıàµW_ùÚ—>§	Ñoît37?zG%eÍ?úĞÓûOxû© Ê‘*[ÍCÁ„#{?÷©–¹4#M²Ìÿ%“¯·ôQYyeºÖ´-zèæòg÷1kl«ş•æGï¿ÿ¾^ıI.p£Hygc¬lh`9úÇ³—_yù_ıÒçİÄúWwúj¿R;ëµğ@é)3fÆò4A
+ñLó	GÎø”Õ„LåW‚eıQ(òiöï¨k‚r\ÓÇDÅƒ³œÊC×¾¬2?ZwåúùÑ{ƒ7ï‰/¿çåèoÏ^úÊK_ş¢z#qôÆ¾¹Ü?oú«•3’7ÅÕæÓùQü®2?rn(3¿­iY¹©³¦ªõ`úÔ©1)gæ*1÷åÉ•4´8Õ'ÏítåâqíİA›wE†WŠß=©ÎËÑŸŸ}ü¿ıçÿ«”~y§›U¶Xb÷=şD±3ÍÂåÍÇåUñºd\Æön¾lŒìâĞç
+TSÜ7B²½Ó'ï_•ÂÂĞå]™2q¥¨iÉÇBsÓ¡qICø—G'Ù1vv§+sôûAeÚñÀÑŸ^ıæWoüògÏªUÿ”)kG¯—^–?Øò–ë[_İùš–ëƒ7r8qô‹»L*ØùgZÙü1ZÓteã+<_ÛvN{ÉŸCó«Äèbm¯ğ|M£Ê*~,¤:C‘#!…Ğb½QèÊ9Ò*óQ¤¯F]ş	àh#G4z{äH?^û×«Õ©lZØ»`ÙäeBÆåd;oÜ}f iÔ4ªT6r¤ÚöKT‡w ³ô‚%E¯éÜ“¹GíkõÕèMËåÍ–óä!”÷aƒTéÒL“õ5h	G§“L#ı†ñ…d
+ã¿d¹.ºÀ‚âS²rqü²¥pl›_›qäëÆ&ÎÉxšÈäM†d
+½K·E8Ò/åAšp”~ßqlòÎeÆ(¸Øm,¾ ç¨¬ó¦3®B\²uº*t—¡"kb3ï\¦zkÕ YôCªï~Lû/×Ù¡Ğ¿(C$?wAÉQvA0f¾íŞ«Ï„ÉÊÅÌˆQ‹£ñÛ’uŞ2æ’³C¡¹1šåH¿S©ÅQÑ[¸”ìÈQÍ_0ílÿçM~;ïº.U&[v=.%›\º
+ËQÆÃğãguã<{ù#H¦#ªr$ãİì¸V¥cêj —ÕÁÑë5û
+e½/~xÈ¯¼ ì“Lç¥|ÅCËl¸‹É^0éSJ¹Ğ&âüØÌgM06G[8j.Â•Ö­Ú•Îk’µ¾ÌnuH½h?†şaH³¨Å\“¼ñE@šİsB;rÄùjqô¶Õµs„®•£B‰#ı¬ŸÅÊ®?Ù&/jDæÚõ[mâH£™‘á¨ú~*EWÌÑ‚kÑ¥û£]9ÚÜ¼ñe“µ5h÷ùQ¦	Gd“óEÎ¦*9?x¤ÍAï¼OorÜ8t¶Œ&c"Ï 7n19'ã]h"³îx=ÌzM¿¹Ùó›l3W¶®GãRÑ›x“JŠ–ŞdàTEû}•“¸!Zz<Œ‚£SÖÅìğ^e›GŞLG%o²}èi]s`jpT¹¿ğx= G'grH*ŒoËÙ¦ÅQ°gs4¸T™ìŠãaô İ—Uã*tT8ò&u:Y¾ÉQt5€f‡Ñqäß„~ıøF’_SŞÉ˜–#	¡eÕÅ×›]¡¼dì´9ŸD§\hc×\ä³&@Ê‘ª*#Ì’ƒV›ßtò!söéIHèÚ8ê½ıkß£ıáäĞã¯M9Bhı~6¡Õçkê…¶÷GĞp´‘E5è™î-!8ªp$6ºx˜}Hº%4Ç‘ÒÔUö³å­×goà]ˆ£î*ÍoÉ!8ZÉBp„àÁb½67ë–Û(]œfëŠâ×zS¬ËHxnƒ£Öı–›ëmœeBBOŠ£<ZV³‰£±`ŒòºistC©›°“1ò.Ön2NÉÈ¦Îç-šØ¡'Â‘ŞjşbË·j6¹íÙ[ÏÕn`!q©h’sÔ|"tå)Õœt8òuCg•š:›Ö8R½oâãJäzB•Q¯?*]¬›4ÎK6ôG!¡â¨PÙµÆµ5õš 'ÁQwµ_lzµ‘•ø²ƒ7M’«ü§ÊÉS´c„®£óWò»ë2wEGã#Gp„a½ÖÜİ–5k+G8š¬ÑÕwq4É#8jDyMÑ’ıQğ²î¥jëR0ì=ÃÑ,GJõS[—‚#8jsTFôGĞãqÔ[÷‡¨~”«»¢Cq„!8Bp„àhõÚš#8G2p„vå(àvçHûFi7i!8ZxjÛÆıìÜ!8Zzjû—ËJ\BpÔ‰*§mÎÅàhYÔçˆqZQwmfÆ5ùÄKè!G!8Ú½†àèâm¼ƒ£<‚#8Rõ¾iûhÜ?RŞåb!‚£m§¶>Ù‚#“;ØıSÛ”lÁQ3jœ¶¥dsšQŸ#!8Ê¢î
+ÍoŞëºQ‚#G]z½VİİFp´ ê¯¹„àhm´¬ÁQ?ªÕht³û“1ò.Ö#½øæ»åDöì­çĞa9Rª95èpäë†Î*5EGä¨ŒzıQébİ¤1‚£ö©íàÊˆqæşfölX™ÌÁ‡G"@#8‚£káÁ‚£GX¯•ZšoË¤ë¼ApTF&GŞäyG½¨ÇÑX€à¨Õ0l`*xGY÷ÒãÂh¦or	ÁÑÂS[³…-Gp´<ªÖÀ­Œàd6D½IvkÌS%zÂ!G!8Ú:ÏîOŸeÍòÁQ+š=3ƒ#8ÊyXU9šäõ£úákè‚GpTëe–¾²=GO_ášäô#ú#8‚#ôxõ(âØõè!G!8ºÄzÁ‘ª/ÉÑÆËĞ18Ê#8‚#UïË‘¶âV¤ÙM’uÁÑâSÛİÚsL~ÜºœÚÊÀm‰Ê8‚£-QŸ#!8Ê¢î
+ÍoŞëºQ‚#G]z½VİİFp´ ê¯¹„àhm´¬ÁQ?ªÕht³û“1ò.Ö#½øæ»åDöì­çĞa9Rª95èpäë†Î*5EGä¨ŒzıQébİ¤1‚£ö©íàÊˆqæşfölX™ÌÁ‡G"@#8‚£káÁ‚£GX¯•ZšoË¤ë¼ApTF&GŞäyG½¨ÇÑX€à¨Õ0l`*xGY÷ÒãÂh¦or	ÁÑÂS[³…-Gp´<ªÖÀ­Œàd6D½IvkÌS%zÂ!G!8Úg=3™–Cp4õ>\Bp´6ZVƒà¨Õj4º…)¸yë
+‡Ç‘^|óİ›­jQÜk4HÕ:,GJ5§|]vj:GeÔëJë&UÖk¥+; Æ58š[ø›Ù³ae2/zÂ= à]GÚq½z$cúG•ˆYzĞuÿW #s”ö‡4ùİ"ïz Ãr$6"5†:³=­"YGËOfmO”8*n€à¨Í¨¥
+GhÁÉl¨@p”EıuYHv\S^ƒ#„àÁ‚#GËçÙç®íx3tXö½ºıu?ÁÑF4hÛD.e›>
+5Îš3\t<ôâ;'³•#µ¶û£±…è )õOfSÓ`§]:"GeT«"ãğVv=£É®Ap´ädVh¹\h4£îZ¬œgg8Å¡ÄÙäĞr´¿àà]GzĞy6‚£}Ök2ÎÛ?êU!8êEyÛAptş9mÖÁÑÆsÚ¬!‚£GeD„.ÁQ§ÁÑâ…ÿâ¦è !G!8êÍ³»óê¸qäì´PQ¼™7skÀèĞÑ82¸T).òc½İå“Bt¤uÿÆNYç¶|ÁQ^:ØĞ$ø¼EÆQ4è69ÒûÏ˜çÈhı&pt4”*'³$*Ék+©Ş7ñ1‰£2ší†ı©:{Ïâ(N¡ü'EèF9êQ”F2ggBUÖ¯‹¨¥İG&¸#„àÁº¹õZ­]÷€ÁÑB&~GÓ3Ö,êq4É#8jDyİ’ıQğ²î¥ÍEy¾QİÈFpäóãöôÔvà:•ı‚#ôxõÖıÃá«å*´èP!G!8Úc½¶æÁ‘¡]9Ê#8‚£İ9Ò¾QÚMšDÚÆ¶q?;w–ÚÆ¾Çåò£—u¢Êi›s1‚#8Zõ9b\ƒ£VÔ]›™qM>1ä:GÁ‚#Gö_¯!8º8G/CÇà(àT½/GÚ>÷”w¹XˆàhÛ©­O6‡àÈäãvÿÔ6%›CpÔŒ§m)Ù‚£fÔçÈD²¨»B3Ã›÷Á:‡n”#„àÁ‚#G—^¯U&İqÖ­ÁQ'š=`cİG«#8‚#™³#8‚#™OmádÎ=µ…#8ÚÑÁ‘ÌÙÁ‘Ì†¨GûGGà!8Bp„àÁÑC¯×òvÃ¬[‘YË!8šDÏm‹<‚£^Ôãh,@pÔj60<‚£¬{™=µk.!8ZzjëÁÑ†¨ZGp´2‚#8’Ùõ&Ù­1O•è	s„!8Bp„àhë<»?}–5Ë/G­höÌà(çaATåh’GpÔê‡¯¡?
+ÁQ­—YzúÊö4m<}…#8j’ÓèÉQ!8B›8úw¦Mõ(âØõ(ıÑÈkÁ‚#ôd9:dàÇ‘æ¿¤ı×ıè@‰¢ Òƒr´ñ2t­‰¡ÒåÁ‘ª÷åHß·"Ín’¬sèÉsT_¯m#GPt¹ğ Ù­í1‡àÈäÇ­ëÉ©­ÁÑ–¨¬#8Úõ92zâ½mµGİšŞ¼Ö9ô´9*4r„¡‡×2ÁÚyĞu®×*“î8ëVˆà¨Í°±î‡£ÕqN+svGp$³ó©-İG¤Œkºk8™­ÚÂÑ­qäA’Û£2¢?ºm’¡39ºØz­GûGGà!8BÍÑÛVp„¶qT(q„ĞYòME…ÚªÑá8zg¢ç÷#ÔĞó1p„àÁº)şŸ/••
+endstream
+endobj
+30 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</2.0<<
+/CropRect[0.909 0.909 583.01703 364.33899]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-B\205L\206M 6:lsx)
+/Overprint false
+/Inks[/monochrome(Black) 1]
+/Size[584 368]
+/Version 2
+/Type/OPI
+/IncludedImageQuality 1
+>>
+>>
+/FormType 1
+/Name/Fm9
+/BBox[-0.28024 -1.2867 1.17836 2.09289]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Im4 29 0 R>>/ProcSet[/PDF/ImageB]>>
+/Type/XObject
+/Length 35
+>>
+stream
+/GS1 gs
+q
+1 0 0 1 0 0 cm
+/Im4 Do
+Q
+
+endstream
+endobj
+31 0 obj
+<<
+/Matrix[1 0 0 1 0 0]
+/OPI<</1.3<<
+/CropRect[1 1 583 364]
+/F(Macintosh HD:PUSULA BILGISAYAR KITAP YEDEK:KIM KORKAR LINUX'TAN?-3.BASKI:K.K. LINUX'TAN?-RES#15729E:LINUX-B\205L\206M 6:lsx)
+/Overprint false
+/ImageType[1 8]
+/Position[90.363 259.612 90.363 459.5 410.52399 459.5 410.52399 259.612]
+/ColorType/Process
+/Color[0 0 0 1(Black)]
+/Size[584 368]
+/Version 1.3
+/CropFixed[0.909 0.909 583.01703 364.33899]
+/Type/OPI
+/Resolution[72 72]
+>>
+>>
+/FormType 1
+/Name/Fm8
+/BBox[0 0 467.71698 680.31494]
+/Subtype/Form
+/Resources<</ExtGState<</GS1 2 0 R>>/XObject<</Fm9 30 0 R>>/ProcSet[/PDF]>>
+/Type/XObject
+/Length 62
+>>
+stream
+/GS1 gs
+q
+320.66061 0 0 201.3011 89.863 259.0139 cm
+/Fm9 Do
+Q
+
+endstream
+endobj
+32 0 obj
+<<
+/Length 2098
+>>
+stream
+/GS0 gs
+/GS1 gs
+q
+1 g
+89.863 70.866 321.161 538.583 re
+f
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 598.3385 Tm
+0 Tr
+0 g
+0.001 Tc
+0.085 Tw
+(Dosyaya herkes kolayca eri\337ebilsin diye dosya, kodu yazan programc\335n\335n)Tj
+0 -1.33333 TD
+0.021 Tc
+0.946 Tw
+(ki\337isel dizininden, )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 195.1139 584.3385 Tm
+0 Tr
+0 g
+-0.024 Tc
+0 Tw
+(/usr/local/bin)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 284.9661 584.3385 Tm
+0 Tr
+0 g
+0.021 Tc
+0.946 Tw
+(dizinine kopyalanmal\335d\335r. )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 570.3385 Tm
+0 Tr
+0 g
+-0.046 Tc
+0 Tw
+(/usr/local/bin)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 168.1412 570.3385 Tm
+0 Tr
+0 g
+0.001 Tc
+0.05 Tw
+(dizinine dosya kopyalayabilmek i\215in root kullan\335c\335 kim-)Tj
+-7.35984 -1.33333 TD
+0.025 Tw
+(li\333ine b\237r\237nmek gerekecektir:)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 90.8629 531.5039 Tm
+0 Tr
+0 g
+-0.068 Tc
+0.056 Tw
+(su -)Tj
+0 -1.47369 TD
+-0.054 Tc
+[(c)43(p)-849(/home/cayfer/lsx  /usr/local/bin)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 90.8629 494.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0 Tw
+(Art\335k )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 116.0021 494.0865 Tm
+0 Tr
+0 g
+-0.068 Tc
+0 Tw
+(PATH)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 139.5733 494.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.022 Tw
+(de\333i\337keninde  )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 200.9683 494.0865 Tm
+0 Tr
+0 g
+-0.056 Tc
+0 Tw
+(/usr/local/bin )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 279.4104 494.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.022 Tw
+(olan t\237m kullan\335c\335lar rahatl\335kla)Tj
+-17.9569 -1.33334 TD
+0 Tw
+(yeni )Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+9.5 0 0 9.5 111.0524 480.0865 Tm
+0 Tr
+0 g
+-0.075 Tc
+0 Tw
+(lsx)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10.5 0 0 10.5 129.4568 480.0865 Tm
+0 Tr
+0 g
+-0.008 Tc
+0.025 Tw
+(komutunuzu kullanabilecektir.)Tj
+ET
+Q
+q
+BT
+/F4 1 Tf
+13.53 0 0 11 70.8472 52.338 Tm
+0 Tr
+0 g
+0 Tc
+0 Tw
+(272)Tj
+ET
+1 g
+89.863 624.791 321.161 10.5 re
+f
+Q
+q
+BT
+/F4 1 Tf
+9.84 0 0 8 89.8629 627.3813 Tm
+0 Tr
+0 g
+-0.009 Tc
+0.022 Tw
+(Kim Korkar LINUX\325tan?)Tj
+ET
+1 g
+90.363 259.928 320.161 199.887 re
+f
+q
+90.363 259.928 320.161 199.887 re
+W n
+/Fm8 Do
+Q
+0 J 0 j 10 M []0 d 0.5 w 
+0 G
+90.113 259.678 320.661 200.387 re
+s
+Q
+
+endstream
+endobj
+33 0 obj
+<<
+/Nums[0<</St 257/S/D>>]
+>>
+endobj
+34 0 obj
+<<
+/Type/Encoding
+/Differences[32/space/exclam 40/parenleft/parenright 44/comma/hyphen/period/slash/zero/one/two 58/colon/semicolon 63/question 65/A/B/C/D/E 71/G/H/I 75/K/L/M/N/O/P 83/S/T/U/V/W/X/Y/Z 97/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p 114/r/s/t/u/v/w 121/y/z 130/Ccedilla 133/Odieresis 141/ccedilla 154/odieresis 159/udieresis 210/quotedblleft/quotedblright 213/quoteright 219/currency/guilsinglleft/guilsinglright/fi/fl]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+35 0 obj
+<<
+/Subtype/Type1C
+/Length 9944
+/Length1 9944
+>>
+stream
+  IATSOZ+SimonciniGaramond   @ø øøøøûûrú|úW
+ ‹‹
+ ‹‹       ³‘  &Ò %œ­Macromedia Fontographer 4.1.5 8/9/97Copyright [c] 1990 Adobe Systems Incorporated.  All Rights Reserved.Simoncini Garamond is a trademark of Simoncini S.A.SimonciniGaramond  H  - * / 6 9  J n M F U N T  L V B O l D S W E P Î Ú [ à C Z H Q 	 
+  # "   i w g . 4 % 0 $ G I ) ( , ½ K &  7 : 1   k  ±  8 X 5    ;  m J   Œ ê£=üÿc_Í,*–ºq÷x		c	Ä
++
+–&1ÃÊRéÇ`Ûò¡P‚» E]GÆXº•>²wa DÃköeÙª¾ ¹!p!ø"Q"µ"û#v#Ç$‡û*ÊøùœüıœÉÊù÷ıûw¡‡÷+ïŒ¼¶ÜŠˆ÷	²÷Noh?|jxxu„ƒqJ‡#p{‹Œˆ|ƒ•œß‡÷tä÷b÷”§ˆZ[Š^bVŒJmÇˆ«†„“€M‹ûû”û‡Mƒ€†„k†Oˆmû¬¤‡ÂÀŒ¿¿ÀŠˆÂ©û“—c÷{÷˜÷È’’”˜•Œ¥µ©ˆTVŠWWVŒTm÷ƒ³û{û˜û{µp‡Šq‰aˆm÷&­‡³­Œ§«®Šˆ°­^w€˜Š¤†÷mˆ÷DŠ÷÷Nûr÷9ûc÷$ûU¦ê÷&÷÷÷Ç””””œŒ¥‹©„x‹‰pŠvyŠ}ƒ‹Œ{uuŒum¶¤†’”ûûy7Šg‹owû5÷Qû*÷Sû ÷VnˆtŠ{‹x‹oŒfkĞ–•ûûß…ûA€}†„t†dˆiæøù@¼Š¦‡’†”„û‹û›‹û7B:û&‹û
+‹PÉ‹÷‹˜‹›ŒŒ£‹™‹÷¶Œ®£—•‘’Œ©¦£Œ©ˆGXŠio`ŒRmÚˆ‰füHE£T¼cdºÉwÚáÍ£º¸µ¶¡ÈØ—ø/Œ’—˜›Œ¤‹©ˆdiŠmreŒZmæø:‡ÒÀŒ¯¬½ŠˆÌ©K’s—gÂûR÷±÷G÷‚ª³™”ç—©ˆTbŠoiYŒHm«…±„„‹„†zlhS,û.&÷*XŞ‹›–©“È©ˆPXŠ^jXŒGm¹†¬ƒ ~š‚­]À7÷û?'ûP?]Ujjzzk€]ˆmÊºŒª«¼ŠˆÌ©D“h—š“”œ¥÷#÷e÷ û9®Vœl‹€tj€JŠmü$üœ‡¼±Œ¤£±Šˆ¿§h[‘‹÷W÷à’¾vs^s‚?„s«‚z‘[5ûEƒ^†h‡oÊùo™}§«¨¨«¨}šp}~†‚|€ƒzvû¬·—w¬³»Àµ˜¤¨¦£™ª°Às²[¤$Àt—{–„–…“ˆ—š®­£º½«nQ™¬…îf—e‘d‹/QXFZ¦dÂpè\°xt‹pbeg[qu”œxvŸ~§†°eû¨ûez°¯ƒ°Ô´¬À¥‚x—”~|{€~‰ˆ|ªÒg_&“„š˜–‹ª›}ollzrpo“›l{nü¡ùP¬Ÿ†‚‘”~=û#û~ûE‚^‡\‡oÌµŒœ£±Šˆ¿§h[‘‹÷W÷÷L÷	pjva}Z‚sûbø'âiebz_+;ã÷•Œ•Œ”•«ŒÀßÖ¹Šˆ›µ{¯lª¬i`›Wû1!ûûâ+÷ÖÉ§Ä»vŸJ÷…v‡0†û …~Š„‹“ ˜¢¥£¥¨©˜¬Ãµi[ûãøÑû…û ‹dA£f»²»°Ã€ l|m„n‹x~–¢…ˆ–Š¦‹³ÅŒÒŒ»¥÷µû‰£Š™˜Œ¤q|i~r~|zvr{k€y÷&¨ø	 ˆ˜‡’†–„~‹zûŒh‡rˆ`‡o¼¯Œ¢¨¬Šˆ¯§j~Œ‚‘‡”‰Š–›÷ «¯®›®¢ …œ |–vpje‹_‹B‹lŒ˜ˆ[ry‰Y…o³°Œ¬©«Šˆ®§kp‰‹®¤‘÷+‹¯¢‰Ÿ‡ª´¯›¨¢ …œ |–vpje‹_‹B‹lŒ˜ˆ[ry‰Y…o³°Œ¬©«Šˆ®§kp‰‹®¤‘÷+‹¯ô\¿-n]|‚€QXv½b¤P‹^kƒzxSYétvdjw]ˆsû¬·—w¬³»Àµ˜¤¨¦£™ª°Às²[¤$Àt—{–„–…“ˆ—š®­£º½«nQ™¬…îf—e‘d‹/QXFZ¦dÂpè\°xt‹pbeg[qu”œxvŸ~§†°eûü$Üû<ØÆ±Ã¿¾i¹^m|}nf×u‹plodS\œyû÷·‡º®Œ£Ÿ°ŠˆÀ©je¢¸a]Â]Á]Â¾¼°­¤œ°¤®˜®‹©ˆ^hŠtthŒ^m¤˜…€|}tnnihguf„÷÷,÷÷pjva}Z‚s¬Ÿ†‚‘”~=û#üh‡rˆ`‡oŞ¯Œ€šŠŠ¡‰¨‹§ar‡•‹®÷(·Š–‚Ë8»L—{‘ˆ‚z‡hmû÷Ãø"¥ŠœŠ’Š’‰‘‡‘†…U‹&‹<‰Y‡xZiazf‹P‹n±‹Ö‹­ì÷4fˆ[‰PŠs¬Šˆ‘…‡‹x‹Jˆ?‹X‹X‘e—r `²uÅ‹À‹Á¡Á¸“su‹v¡¨­”²¤K‹…Ô÷-÷ ÌbˆW‰KŠsûb÷±÷˜ûAJGSGr’vš{yœ¡‚§¶¾¤¼ÅZœ£r¨¤®§¨—…¤€w}|‹}„±À÷‹¿Õi°G4û.H{”ƒ° ¶¨–¡ š—œŸ‘£³ŸkLZû	rˆy†€n|^sfht ªÀÁ»÷·1û÷,øétvdjw]ˆs ˆ˜‡’†–„~‹zûŒh‡rˆ`‡oŞ¯Œ€šŠŠ¡‰¨‹§ar‡•‹®÷ «¸´›®¢ …œ |–vpje‹_‹B‹lŒ˜ˆ[ry‰Y…o³°Œ¬©«Šˆ®§kp‰‹®¤‘÷+‹¯ô\¿-bgwlX^üœ‡¼±Œ¤£±Šˆ¿§h[‘‹÷W÷à’¾vs^s‚?„s«‚z‘[5ûEƒ^†h‡oûbø"Ïvhf€dZc ´ln°}¸¾Æœ¹­­¦¦©˜¬® {k”•šƒ˜„–ˆ–‹‹””‹œ‹È[ª,‹G‹Ss_Za]vR‹F‹û	æ+÷‹Ê‹À£¶º}šû¬¯‡À³Œ¦¦³ŠˆÀ§Z`†’‹¬÷›­±¤œ–— Y´¡––¢˜‡˜‚š{•wlarYVétvdjw]ˆs ˆ˜‡’†–„~‹zûŒh‡rˆa‡oûO÷gy³œ—’÷ ÷ß¸°£ˆgpŠxwlŒbs˜Š‰£Š•‚zlwJc&]ûT÷`÷uÇ‹˜§°£ˆ_jŠvujŒ_s¬ŠŒ¢T÷.ü-øI˜–¬’Â tg†‘‹¯÷ö÷÷âpjva}Z‚s¬Ÿ†‚‘”~W0û—le‘\û!(%û\—a£hW®Ãq×Ì¾±°zv£„n÷ux‰_†EjrbzTdgœ®lj±zºÄòÍØæÂ¯xd—r‘^Lû÷¨—Yc£¼mpµ~¼Ã¼˜µ¤­¥°¬œ²Š»Š°t¦_¤b˜VŒHŒc„i}nv_huX‹ûˆ÷]PW²^Y¶ÃrÏĞÃ¤¾·´¹ŸÀÈÈy½g´ºbR¢Bû%(ûûbø"Ïvhf€dZc ´ln°}¸¾Æœ¹­­¦¦©˜¬® {k”•šƒ˜„–ˆ–‹‹””‹œ‹È[ª,‹G‹Ss_Za]vR‹F‹û	æ+÷‹Ê‹À£¶º}šû©ûz°¯ƒ°Ô´¬À¥‚x—”~|{€~‰ˆ|ªÒg_&“„š˜–‹ª›}ollzrpo“›l{nû÷¨—Yc£¼mpµ~¼Ã¼˜µ¤­¥°¬œ²Š»Š°t¦_¤b˜VŒHŒc„i}nv_huX‹ûˆ÷]PW²^Y¶ÃrÏĞÃ¤¾·´¹ŸÀÈÈy½g´ºbR¢Bû%(û÷£ø%n¢t¨¨¢¢¨¨t¢nnttnûRn¢t¨¨¢¢¨¨t¢nnttnûtª÷ğŠ¡‘º–Òr|Zylvz‚a…J‰@‰÷©ø¥û•‚…Œ†‚†–Šœs‚Z}Zy[¥š®š¡š”˜“Ÿ¦Œ÷ û©ü mû÷Ãø"¥ŠœŠ’Š’‰‘‡‘†…U‹&‹<‰Y‡xZiazf‹P‹n±‹Ö‹­ì÷4fˆ[‰PŠs¬Šˆ‘…‡‹x‹Jˆ?‹X‹X‘e—r `²uÅ‹À‹Á¡Á¸“su‹v¡¨­”²¤K‹…Ô÷-÷ ÌbˆW‰KŠs”÷ln¢t¨¨¢¢¨¨t¢nnttnûRn¢t¨¨¢¢¨¨t¢nnttn-øD÷N/G?4>V½Ú›Ë÷ª¶²›­ìÍ3ûûóÒg‚û^‹sˆŒ‰‰’œ—¢¦t°¼ÈÙÈ¥¿¶¯¶¾ÆÊx¾d²°g_Vhl†‚rv‚r|nv‹÷-÷÷pjva}Z‚s¬Ÿ†‚‘”~=û#ûWûb÷±ø&¡™ŠŠ‘š‡“‚|z€cuJtFtRt]T÷déxÄ˜Ÿ’´£ˆfjŠoloŒpsš–„~”–z`§F÷ û¡v_lKrkx‹€pŸ‹‚‚y‚„|ˆ~~•… °¨•Ÿ­¬»éÈ÷0÷÷¨£”›—¢£ˆhoŠvnrŒtsû=÷Ö¹{!„‹ffv˜˜–”—–±£—†‰¦‹çØÓæ²‚ªy ³€¤†•‹”‘©‘ˆ†û ‡p¦h˜_‹Yb|nkimzcZF§\ÂqUofxyv‹upµm»‡‰Elhgbq˜u¦zvª¹ÈãÍ¡¶·ªª›­°Îa­8`NÛ³tYetm]vzhgƒg\h–¢syœ‚Ÿ¬¥¨¿¥÷‘¹÷šHpiTkqŸ³vy¬‚­®Ğ­²»®§wd›k“fb-ûrÈµŒ¢«²Šˆ¸£Z‘`‰‹Î÷"s¦²¼ĞÃ¤½¸²¸Ÿ¾ÄÏxÀe±®f[O\\xd[êstjgx\†t°Š”‚fic‹]û\PŠTŠYŠo‚|xŠ^‡o÷"øh¬§¤¦¾¦¿½³wd¨¦f™[P.IC@:Y¼àéûÑ÷¬ûYÈgÎvÖzÊ‚Õ‹à‹à”ÕœÊ Ö¯Î½È|˜GD[CnBqJ~A‹8‹8˜A¥J¨B»CÏDš˜ûÑÀùw½N¯H @œL”A‹6‹6‚AzLv@gHYNš~ÏÒ»Ó¨Ô¥Ì˜Õ‹Ş‹Ş~ÕqÌnÔ[ÓGÒ|~ü$Õ¨lš{©«¤«¬¬{›knrmfw¡‡ÇÁŒºœä‡ÊÓÆ ´¹¶²¡ºÃòCÖû›î£ÂÆÖÃrµZ¨¡d\–UfO‡lFNŒVmÇˆ«†„“€M‹ûû”û‡Mƒ€†„k†Oˆm÷Sø¥¡Œœ÷+ÖOû"IWûju{“ƒŠªˆ÷ ÷–ÃŒ’ÌÀµ€t©«r›h]NnaRu}hT„A÷uÁ÷êøü—p›aŸP£D›U’drŠ€‚‹†‰Y)¨ì®ê´éàı ¼»Œ¹º´Šˆ¬©nj–z¿ûYøÌ„†¥‡ªm‡rs`vxŠvm6Rû*b!b a#m}{|ˆ_„o®²Œ¸·°Šˆª©6„¤¦¢×¹÷ÚÅ²¡›‹Š–Âû.™d’q‹{~q†ˆŠyŠh‰mûã÷”÷O‰Š•ŒŠŒ•ŸˆPjŠ„)wŒ‹ŒŒŠ‰wÆ¬Œ’í‡ü$Üû<ØÆ±Ã¿¾i¹^m|}nf×u‹plodS\œy„øŸlš{©«¤«¬¬{›knrmfû=ø	ùl>PeSWX­]¸©š™¨°?¡‹¦ª§²Ãºzû;>PeSWX­]¸©š™¨°?¡‹¦ª§²Ãºzû=÷ ødØÆ±Ã¿¾i¹^m|}nf×u‹plodS\œy÷;ØÆ±Ã¿¾i¹^m|}nf×u‹plodS\œyû=÷Ö¹{!„‹ffv˜˜–”—–±£—†‰¦‹çØÓæ²‚ªy ³€¤†•‹”‘©‘ˆ†û ‡p¦h˜_‹Yb|nkimzcZF§\ÂqUofxyv‹upµm»‡‰Elhgbq˜u¦zvª¹ÈãÍ¡¶·ªª›­°Îa­8`NÛ³tYetm]vzhgƒg\h–¢syœ‚Ÿ¬¥¨¿¥÷‘¹÷šHpiTkqŸ³vy¬‚­®Ğ­²»®§wd›k“fb®ø‰j}qpvtyr‚p‹p‹r”tp }¥‰¬sTaªn¤t©®‹®‹©—¤¢ª¨µÂs÷•øğ‡Æ·Œª±¼ŠˆÇ©*•J~ø †÷'ˆæ‹°‹Ô·Œ¸©ˆViŠ}tnŒjWû?EûR2ûdt³cåR÷X÷eïrÖ_ˆjŠu‹x‹nŒfm©›‹Šˆ•zj„!|ûG|ûJ+†„~‚‡O‡m¯­Œ«ª¶ŠˆÂ©lszv‰“‹Ò‹÷”÷5œ÷c÷%ûØŞû]¡=“Ÿ—¢– •˜”‘¥éÉ÷Aì÷‘’8ûûW*‰V†€ˆ„|†pˆ‰‹{Šl‰mû¿§lºÄ|ĞÜÊ¤¼¸°´ºÂêb¶ûAëSªf¦x¡|ƒ¡‹¦‹Ì¾¿ß‹·‹« tw–j^µ÷¦RP™OIWvbejh{c^^™e¨j«fÅcŞ`ä]·X‹S‹]zfipltga‹7‹\¶€â‡¬cû'÷¡‡Ç¶Œ¦Š÷‡Ô÷ñ³ÜÍ½È¤Øç÷dç<ÎÈD2ª!bû‡\d]ŒWmÇˆ«†„“€M‹ûû”û‡Mƒ€†„k†Oˆmøş÷öûk7JT`XHu9û‡àŠŠ÷Šé¾Ûßä¢Œè÷Şd=Æ¹N¢D<÷:¯÷òûk÷3û-÷i÷i÷3÷-÷kğkáJÔÚD0²ûû0d<DJBk5&ñ‘÷oô÷÷9×ÊpT¼ÂN¦4ûûq2WQX]Kq9>M¦ÁZTÈpâ÷®øñ÷@\€aqlax}lh„c>M¦ÁZTÈpâ÷÷¤ß¼ÈÆºÊ¨ÜîÏcL˜“g©÷¢CD—Eû0d<DJBk5&ûk÷3û-÷ißÔ›ªÊ™÷#fûãøÔMŒRXûEƒ^†h‡o¼±Œ¤»Šˆç§J[‘ƒ‹÷W÷>÷µû…÷4¼”±¤Ÿš•¡¬ dŸ–•”’’’””§t™^T\rZf`Rv: mwŠr‰n‡sû™‡Ş¯Œ€šŠŠ¡‰¨‹§ar‡•‹®÷ «¸´›®¢ …œ |–vpje‹_‹B‹lŒ˜ˆ[ry‰Y…o³°Œ¬©«Šˆ®§kp‰‹®¤‘÷+‹¯ô\¿-bgwl^c‹÷,÷÷pjva}Z‚s¬Ÿ†‚‘”~=û#üh‡rˆ`‡o÷Kø’‡¼»Œ¸´ÀŠˆÌ©Ok†’ƒ–‡É‹÷÷”÷É“–’«Ç©ˆJVŠb^[ŒZo÷‚´ûŒŠm‰O‰=@ŠDUQŒN‰ÇŠ©Š÷b÷”§ˆZ[Š^bVŒJmÇˆ«†„“€M‹ûû”û‡Mƒ€†„k†OˆmÌÀŒ´¸»Šˆ¼§û”—b÷²Œª¢õåÕª´‰†ÀtŒldû—´û‚o÷9øv÷®—›ŠŠ‰£›‹’ªŠƒ Nˆj††iiSz=IL§ÂPCÎgáö÷±ç×É¸ÂÈ¡Í÷ÚTû¥¬…÷1³1Ÿ0‹(3jH>7Aa.ûûk÷3û-÷iæßœ­Ù”—•˜’Œœ‹¦¿Š ‹™‘Ë¬¨œŒ©ˆSYŠ^jXŒGmÓøO‡Æ¶Œ¨¨¶ŠˆÆ©iv‚’Z³û÷–P»º²ÊÅÚÖÍÊ°­’Ÿ–«’¸©ˆ_fŠmû m¶ˆ¡…veZ@><;P\b}Œ÷ŠÂò©ˆK[Škk[ŒKmâˆ‘†Œf>Œ,‹û‹ûŠ-‰OŠx‡ƒ†€…p‡`ŠmË»Œ««»ŠˆË©#’ˆÀŠ÷›¦»aÒBÄP·[©f™z’~‹„‹„t…]†m÷:¯÷òûk÷3û-÷i÷i÷3÷-÷kğkáJÔÚD0²ûû0d<DJBk5&ñ‘÷oô÷÷9×ÊpT¼ÂN¦4ûûq2WQX]Kq9>M¦ÁZTÈpâ÷÷Íøn¢t¨¨¢¢¨¨t¢nnttnûRn¢t¨¨¢¢¨¨t¢nnttnü-’ûrÇ ´£ ¥¤ª—¾‹Ğ÷n÷à’¾vs^s‚?„s«‚z‘[5ûLû-{g;_”tÔùïo™}§«¨¨«¨}šp}~†‚|€ƒzv‰¡‡ĞæŒ÷÷ïŠˆÎ«÷Cjûguu,ûHs}• †ŠŠ °ŠŒÕ÷(Œ²°Œ®²§Š‰¶‡Œ‰8©Š·Š¯¨ŸŒ®Œ¼m`p~|q†Šˆs‹^X`ŒŒg÷˜‹˜‘”–š±ÈÊ­‹Š°…¢x’k—U¯÷(ˆ:ûŠûEbVŒJmÇˆ«†„“€M‹ûû”û‡Mƒ€†„k†OˆmüÛødØÆ±Ã¿¾i¹^m|}nf×u‹plodS\œyÁ•ù@Ğ†‹J¤÷aü£Y˜f‘t°”¬™¤Ÿ¼÷;Ä÷BÎ÷H Ä—©”• «Š©ˆ\eŠnjaŒWmªŒŠ“Š§ˆ™‹{‹Jûü1b:w²fëT÷.R÷3oæ‹¤‹™˜“¥À©ˆJ[Šnq_ŒNmÓø{ù@šŠ™‹šŠŸˆ•„‹‹xuX_:b>fOj^dÄbÒ`ŞdÔx³‹’‹›“Ò’©ˆS^Šio`ŒPm¥†¨†‚’~ÚûÓûÌ }a‹E‹E†d‚~€jƒVˆm»¾ŒÁº¾ŠˆÃ©Qi‘€’ƒ‡­‹Ê‹Ş‹¹Œ•÷÷`Ú÷¯»’•£’²©ˆhiŠjrdŒWmd÷÷»ˆ£¦Š¨ÒÇ°º½³¤ÀÌ÷+ãû W7‡‹jYSŒNm÷ƒ~³û{û˜û{µo‡Šp‰`ˆmÆ¿Œ¹¿ÀŠˆÂ©û“—c÷{÷š°è‹¯§’ÒÆ»|n®±k]OY{bklhgXyI~}Œ|gûO÷5÷ ¶È“ ÷ÍÄèĞmÇO¾ºTR¢Ohyƒz~¥d¶¨‹¨¨ªziª¬g›da>]jû$kˆ…yŒŒ|miiŒj¥Hûlš{©«¤«¬¬{›knrmfû¬¤‡ÂÀŒ¿¿ÀŠˆÂ©û“—c÷{÷˜÷È’’”˜•Œ¥µ©ˆTVŠWWVŒTm÷ƒ³û{û˜û{µp‡Šq‰aˆm÷ ù°n¢t¨¨¢¢¨¨t¢nnttnü$Õ¨lš{©«¤«¬¬{›knrmf÷Úlš{©«¤«¬¬{›knrmf®øñ÷@\€aqlax}lh„c>M¦ÁZTÈpâ÷÷¤ß¼ÈÆºÊ¨ÜîÏcL˜“g©÷¢CD—Eû0d<DJBk5&ûk÷3û-÷ißÔ›ªÊ™÷#fûçüz°¯ƒ°Ô´¬À¥‚x—”~|{€~‰ˆ|ªÒg_&“„š˜–‹ª›}ollzrpo“›l{nû™Œy¼÷æù~Zûæı~÷òùz³Œš›©š—”¸®õÈ÷;Ã÷/¯ëœ®›¬’’®‹©ˆgpŠxvkŒ`m˜ŠŠšˆ’ƒus3[û.Xû9d%qb`Şbçcğ÷÷ Ÿ³—“¸©zU‡‹splŒhmÀ†“†zpj6Jû#K÷%kß¡ ›–«Š©ˆ[gŠtreŒXmÇ„Š [Îû%¸#¤Le5mGrZxlhÖ`õX÷S÷)oá‹¤‹œš“©Œ©ˆ[gŠsshŒ\m»‡‡_÷wü´šh—g•h´’¤–Ÿššœº®Ú¾÷÷ûºÁøxÃy¾y½z¾iïzÅ‹œ‹””‘—‹—‹˜Œ£ˆ^iŠttiŒ^s·Š‰“vÅû.2û<*÷rrÅ~®‹–‘’œ¤£ˆ`kŠuvkŒ_s·†•‚¦N÷)ûí°—¤”˜Û÷-Ùûf­÷"÷ä¨Ğ”•¾£ˆbkŠvvlŒ`sªŠˆ“†ˆƒ‹‹|†p€d‚l„t…|Jû8‰÷6‡º¾ŒÄ¼ÀŠˆÄ©kszŒzŒ€ˆ’‡’‰œ‹¨ø¡º¶Â¹§†‚•˜€”dJ¦§÷Qr{„bƒBû³Jly“†˜r`ûP¦™ª™ª—Ÿ•–¢¡¤—§â¦‡rü›8‡„Z‡nˆt‰|Šmû*‡ÖÉŒ¼ÎÒŠˆÔ”«–«šªhz‚zƒqûš÷j÷`ŞÚµ×‹Ôë=×*de€vfbsjip`¤yÄº¿§ÄÒÁX<O\;-(û]ûhlû*®÷Óû¢5¹NV²¼pÅÌÁ¯Ô´°ÍÙå÷rèXÉºe^¢XT[qWbXKr/û÷ô‚û[^(0dl£¼snÄ|â÷÷ šÛª¾´¢ªŸ°â½ûûaû¬÷Y÷X÷“í–à•×²‹‹¶|¡n‹l‹|s‹Z‹ƒd’D’<+û¥Lû;lš{©«¤«¬¬{›knrmfw´‡÷ÅŒ÷²·Šˆ»Ä“Ë—ĞlSû#{’S„d†B‰ ‹x‹sŒnŒĞ÷ Û÷è÷ï÷'Ïë°º›ŠcmŠwûŞes‘—ikû>¨ º¨˜—ŸÚ”÷‹÷û9û‘û+ûqûûQš|û*÷ø¾®™­–¬’€û‹ûy‹û{µp‡Šq‰aˆmÎ½Œ­­½ŠˆÎ©û“—c÷{÷&÷&‘÷'r•hoQk;f”tû¿§lºÄ|ĞÜÊ¤¼¸°´ºÂêb¶ûAëSªf¦x¡|ƒ¡‹¦‹Ì¾¿ß‹·‹« tw–j^µ÷¦RP™OIWvbejh{c^^™e¨j«fÅcŞ`ä]·X‹S‹]zfipltga‹7‹\¶€â‡¬cû'êûuz°¯ƒ°Ô´¬À¥‚x—”~|{€~‰ˆ|ªÒg_&“„š˜–‹ª›}ollzrpo“›l{n÷ù
+endstream
+endobj
+36 0 obj
+<<
+/Ascent 963
+/FontFile3 35 0 R
+/FontName/IATSOZ+SimonciniGaramond
+/Flags 34
+/Descent -222
+/FontBBox[-121 -222 1000 963]
+/ItalicAngle 0
+/CapHeight 963
+/StemH 0
+/StemV 0
+/Type/FontDescriptor
+/XHeight 0
+>>
+endobj
+37 0 obj
+<<
+/BaseFont/IATSOZ+SimonciniGaramond
+/Name/F0
+/Widths[250 370 0 0 0 0 0 0 333 333 0 0 250 315 250 389 500 500 500 0 0 0 0 0 0 0 250 250 0 0 0 463 0 704 630 685 778 648 0 815 833 370 0 722 630 907 796 816 611 0 0 519 648 741 704 1000 741 722 630 0 0 0 0 0 0 444 556 444 556 444 315 481 538 260 241 519 260 796 538 519 556 0 370 370 315 538 463 704 0 444 426 0 0 0 0 0 0 0 685 0 0 816 0 0 0 0 0 0 0 444 0 0 0 0 0 0 0 0 0 0 0 0 519 0 0 0 0 538 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 481 481 0 258 0 0 0 0 0 481 370 260 519 370]
+/LastChar 223
+/FirstChar 32
+/FontDescriptor 36 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 34 0 R
+>>
+endobj
+38 0 obj
+<<
+/Type/Encoding
+/Differences[32/space 46/period 49/one 58/colon 97/a/b/c 101/e 103/g/h/i 107/k/l/m/n/o/p 114/r/s/t/u/v 121/y/z 141/ccedilla 221/guilsinglright 223/fl]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+39 0 obj
+<<
+/Subtype/Type1C
+/Length 3656
+/Length1 3656
+>>
+stream
+  RVIBBM+SimonciniGaramond-Bold   ?ø øøøøPûåúúg
+ ‹‹
+ ‹‹  ;  7  r‘  B %œ²ÃMacromedia Fontographer 4.1.5 8/9/97Copyright [c] 1990 Adobe Systems Incorporated.  All Rights Reserved.Simoncini Garamond is a trademark of Simoncini S.A.SimonciniGaramond BoldSimonciniGaramond    L B C V  P N U Z S M l D Q H I [ J n F  Î O W   T    ÑOÑKNœg¹LÚ+rÔ{RìO»	k	Ğ
+
+¯<¬%”û*ÊøùœüıœÉÊù÷ıûû¤ù:³ˆ‰vc-‹û)‹ûZˆû †z‰…„†ˆ‡Š‚‰~Šk·°Œ©§±Šˆ»«`„i÷_ŸŠ y¢hºD£b‹€‹€…uŠkÂ°Œ°ŠˆÂ¬xw˜¥xû,÷`çÒÀ²™’‘–š¨ˆZeŠqqeŒZk®Šœƒ~€€yupoikvg‚÷÷Y÷‘ÔnhnWwH‚kûO÷«÷Vtq\ow§·²³Ú¯3÷6K‚ƒ‚‡‚…œ®ªô‹Àº†¬€©zfšRû#:<v—€£Çª§Ã·œ¡«£š…~’‚zq‚‹s‰eû7d9O;P«mËÀ½ ´¸b›¢v©«¨›«¥¬ûù:³ˆ‘‰ŒvS-‹û‹"ˆû„û+˜š’š”•“•’–‘°p¹}Ä‹Ü‹È¢´º±µÄ‹Ò÷D× psˆ…vAU‹÷[÷‘ÔnhnWwH‚k÷<ü„Æ¼²˜¦¡‘œ×¾G(`‚hznlxr{lIj¿òû£ø»„[w…û$‹k`•jŸrp¡¬}¶Ã¿¤½¼“xrl°§¢®—¶«tŒ}†’‰Š‹’÷@ÉŒÄÀ@„R‡bŠgº„[•‰>‰û:vgjnexªÊ÷-Œæ¨B„R‡dŠgü$û­÷cNŸW³a^¶ÃuÑÊÂ±¸¾¶¥ÄÔÉw¿d´¸aS¡ELTxe]W`qRB÷³îª¼ÈÎ±7û+l[NHeÛ÷÷&£÷ş¶¤ûC-ˆT†zˆƒ…t‡k«­Œ¯§±Šˆ»«`„f÷l÷Ÿ°¦•¾štGûp€…„ˆ‡Š€ŠzŠk·±Œ«°¯Šˆ¯«[Œ†§÷¢¬ §•¢‹´ŸlMûaz‡‚††ˆ€ŠyŠk¸­Œ ±ŠˆÃ«^‡¦Â÷Àäa·7pp†pKR»h£P‹ei…€lHP‹·Œ¬¢nyb`uG‡kûãøÍ‹F…ûN‹dL¥l¿³ÀŸ´Î|©h€r…}‹~ƒ”‡ˆ’Šš¢zŞ÷L©«‰ˆ®Æû½³©axG\Z@npûb“øš˜„|”‚˜o Z©E¶,ÄûhArf|‹ƒ‹U¡x‹~‹w‚z†x‹w‹vœ€®‹Å‹³ °§¼°Ûº÷¸õ¯è§Û‘œ—“œ‹«ˆrtŠvyoŒdk¶ˆ”‰zav>bûr·r¿rÆtÀ€¨‹’‹’™¨‹«ˆVhŠzylŒ_kû¬£‡·°Œ©º½Šˆ¿«p|‹ˆŒz‡…ˆ”‹™÷‹¨ ›š•ˆ„’t|„“~˜…œ‹‹š‘•–’Œ˜‹ŒÊw¯`‹_‹oob6‰Ÿ‰±‹–›Œ¢Œ¨indbvV†kÊƒbû/ˆT†x‰…„†ˆ‡Š‚‰~Škü‘ù:¼ˆ’‰ŒvUR‹Nûª5ˆW†yˆ‚y…hˆkÃ³Œ£§±Šˆ»«`„i÷_÷5÷Y÷‘ÔngmTxB‚kü¬÷ş¶§ûP5ˆW†y‰…„†ˆ‡Š‚‰~Šk·°Œ©ª°Šˆ´«g‚i÷_Şá’åhx`\u?‰kûtøì{flƒq^iœ¬tv©€´À²’­™§ª› ›¥¢™}n[”¨s½ –˜¥­„¤~œ¢xM[LXv`ca^vO@S›[¬d`°»uÈËÄ¦À½y«û÷J÷]÷!§™¤’ ‹¬¤~q n–aT_ƒg{nlyr{lls™¦{€†²ÇûCü;¿¶Œ®®¶Šˆ¿«Xq˜¤ˆˆ¨‰»Î²Ÿ~šƒ”ˆ™†‰¤‹Î‹À¡´¸²¶À‹Ì‹Îz¿h°j®^S‹x‹z†|‚&M·Œ¬¢nceuK†kª‘§ûPûUû|¶c‡jû=÷K÷ÊÊœ«¬¨ŸsZ–‘ronHzji^tÀö÷KÎ‡„›„–‡‹–‹˜‹¥‹‡”ƒ‹‡‹k…N€j¨c™]‹^‹cgs^mua‹UK­]ÎnCes~z‹u`¥o¾€‰MtlojKÌg÷ÚÉ™¨·º©¢¶ÃÖ`°5\3‡‹‚r~‘˜š™›¨›‡˜›‰òÛÍç¨†Ÿ€•cµšüo\XhCen•Ÿvzœ‚ ¤š•—´Å‹œ¬¢ˆ†™£‚—zqû÷Æ‡¶«Œ¢¤®Šˆ·«fˆ¦Â÷ÀäZ·*jm†€pZ_‹÷O÷‘ÔnhnWwG‚k´ˆ‘‰ŒvUR‹Nûª5ˆW†y‰…„†ˆ‡Š‚‰~Šk·°Œ©¦²Šˆ¼«_„i÷_÷¤ªª˜ª»£iHûa{‡ƒ††ˆ€‰zŠkûbÙøacû1±¨Ê“÷!Bû=û6û	”nØÃŒ­µÇŠˆÚ¶©Œœ“Âg|`~p€‚~p…b‹G°Å°Å°Å¸Ò±Âª´„´ˆ<RŠf,€¯†hü¬÷ş¶§ûP5ˆW†y‰…„†ˆ‡Š‚‰~Šk·°Œ©ª°Šˆ´«g‚i÷_Şá’åhx`\u?‰k«÷|}•{˜ƒ£²²±·›†™—›~y“sddd_û‡¿t¾»€·Ç¹›ª«¦¦˜«²Çy£:²R¦fŸyš~–„˜‹˜‹ ¡®‹Æ‹¯mšNµöœ]\”\\d€tlirzj`eŸj´p‘‡±xÒh´wŸw‹w‹dwwc‹X‹b°lÖaû¢ûfv³µ¸±ª’š¤¦›™¡¦½m¤N€~‰ˆzªÌe](•„”•Œ•‹¬œrrn{lto“œhwgûOø4ízbiƒp3MÄà÷´ºŠ‰ÀÑu¾`«¢lc—[û2#û ûã8÷ÑÊ¥ÀÃt­û=÷½¢€v—”zuq€……‰ˆzfŠR~…’šÃ©µ¾ü$¾¿c¤m´¥ ”š˜›’ ¥³r©bWmeW÷£c¤m´¥ ”š˜›’ ¥³r©bWmeWûtøì{flƒq^iœ¬tv©€´À²’­™§ª› ›¥¢™}n[”¨s½ –˜¥­„¤~œ¢xM[LXv`ca^vO@S›[¬d`°»uÈËÄ¦À½y«û·û´v³µ¸±ª’š¤¦›™¡¦½m¤N€~‰ˆzªÌe](•„”•Œ•‹¬œrrn{lto“œhwgû¨÷şª‘§ûP5ˆW†y‰…„†ˆ‡Š‚‰~Šk·°Œ©¦²Šˆ¼«_„i÷_÷¤ªª˜ª»£iHûa{‡ƒ††ˆ€‰zŠk¶«Œ¢¤®Šˆ·«fˆ¦Â÷ÀäZ·*jm†€pIO‹·Œ¬¢nceuK†kûOø—‡ƒÏû/Äû¸ûÂç÷Á÷›¨”–œ‹«ˆdoŠyznŒ`k¸‰¡…€ˆŠ„ˆ‚zNr8k$‰}µtÆk×qÊ~­‹‹²‹«ˆPcŠvrjŒckû*÷Z÷_E‰[ˆr|‰j„LaÆÂŒ¾ÀÂŠˆÄµfŒt‚|ƒ“Š˜ˆ¯Šë‹÷/‹Šö÷ik“GVDg@w•lµ”ª’ lŒS‹<ûVü$¾¿c¤m´¥ ”š˜›’ ¥³r©bWmeWû‡¿t¾»€·Ç¹›ª«¦¦˜«²Çy£:²R¦fŸyš~–„˜‹˜‹ ¡®‹Æ‹¯mšNµöœ]\”\\d€tlirzj`eŸj´p‘‡±xÒh´wŸw‹w‹dwwc‹X‹b°lÖaû÷ù
+endstream
+endobj
+40 0 obj
+<<
+/Ascent 979
+/FontFile3 39 0 R
+/FontName/RVIBBM+SimonciniGaramond-Bold
+/Flags 262178
+/Descent -337
+/FontBBox[-59 -337 1003 979]
+/ItalicAngle 0
+/CapHeight 979
+/StemH 0
+/StemV 0
+/Type/FontDescriptor
+/XHeight 0
+>>
+endobj
+41 0 obj
+<<
+/BaseFont/RVIBBM+SimonciniGaramond-Bold
+/Name/F1
+/Widths[250 0 0 0 0 0 0 0 0 0 0 0 0 0 250 0 0 500 0 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 463 537 426 0 463 0 481 537 278 0 537 260 796 537 537 537 0 370 407 315 537 463 0 0 444 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 426 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 278 0 407]
+/LastChar 223
+/FirstChar 32
+/FontDescriptor 40 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 38 0 R
+>>
+endobj
+42 0 obj
+<<
+/Type/Encoding
+/Differences[32/space/exclam 63/question 66/B 70/F 75/K 84/T 97/a/b/c/d/e 103/g/h/i 107/k/l/m/n/o/p 114/r/s/t/u/v 121/y 141/ccedilla 159/udieresis 210/quotedblleft/quotedblright 219/currency 221/guilsinglright 223/fl]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+43 0 obj
+<<
+/Subtype/Type1C
+/Length 5310
+/Length1 5310
+>>
+stream
+   WZIRIN+SimonciniGaramond-Italic   @ø øøøøû&ûrú¶úH
+ ‹‹
+ ‹‹  G  C  Œ‘  ¸ %œ´ÅËMacromedia Fontographer 4.1.5 8/9/97Copyright [c] 1990 Adobe Systems Incorporated.  All Rights Reserved.Simoncini Garamond is a trademark of Simoncini S.A.SimonciniGaramond ItalicSimonciniGaramondItalic  !  T I F M D P N B O E  J U S Q i C g V H l Î n Z   w L 5 à  , # ' W #   ~Ö6›ˆÌhkã<²a¦8	A	í
+Ï1Ô{óq¸n	ßú¼gâû*ÊøùœüıœÉÊù÷ıûû¾÷ŠøLXd}przx‚wtr›]«H§P™br^wtdduÁ‹nrv€’‚™‚¦…°ÜÎµÔ¨|¸lÆnÄ|³¢·¡¡¶¦›N‹°”“œ™ƒ˜|—™xs’lûÍy’¨–¯š¶ Æ¶œ¦¦´©°«ª´²­¦‹´‹Ÿq‹X‹QzKjFjHojs‹€‹†‘‹˜œ‚“xr~}or›~¬¾¿µß¾¼Ü¤ÖĞ¯€§vŸšzw“tO@Lû0‰šÅÄ÷<î÷ª|™zf\‚Q‡u¥‡¨†™„‹€„ˆ€†zhûgûhûXû;i#{bÁyût÷ÎåcabwcRo¯Ô¨‘£–ŸÑÇ•¼›Ú¤²°‹½‹Åk¨J‹û‹û,ûM‹û‹6½VĞ‹‹¡¤•³œ®¥ª°z˜¹÷©XkgJt}db„a‚÷ÆÉÇÎ¦˜{jü÷÷0?Rdev…•”’¤˜³ô÷ÉÒ÷d°õ|™zf\‚Q‡u¥‡¨†™„‹€„ˆ€†zHûgRûF\û%|\„i‹w‹p˜}¤‹»‹ÆÀÑõwšû¬÷Ä÷V`]p[mv˜¥€…˜ˆ™šÄ¡Ê¶ĞÔ¸¸°¸–”†‚†vz˜‚¢‹œ‹”“‹œ‹Çw¢O‹D‹HdL<RBnF‹I‹3¯_Ô‹Ë‹É°ÆÕwœû=÷¾øLJOnPSQNnF>N_²ow¦«¯ÒÊ©ÆÁÀÄ¦ÍÔÉz¹h©¢pi—câû@vEbHFa]iXvy‘—|t€¨´Ä Ë¶Ğ×º¼±¾¿¥kL÷Ó÷Â¿¿ª¥•“‡‚‡ƒu|bn>a'Vû¹y²÷ºàÁÆ¶º¶±´ª¯¥¤˜™‹”‹†‹‹…ƒv|gi<Y"Hû»y®æµÒº½÷÷İÍ²‹”‹†‹‹qtaZ4eHo]t`€n‹~‹v–€¡‹‹¥•«Ÿ²¤­«©´zšPPcmxƒ‡’’™™£©¾©½©¾¸Ü¡Á‹¦‹¤~˜q‹g‹WmFNX^\[`V‰Âï¦Ï¯¡}–nfXmNJ\`hdri~y‰º÷¢Í‹¢œ“vunzhgtsttvs™|ûbø÷„}|vxst|€„‹†‹‰‹‘‹—’ ”¨œ¾¥Õ¡Ë›¾–±’£‹–[‡‡r‹†‰—‚}‘zSKa8B@5e;AT¤o¼ÆÒÙ÷0İTû0‚p†z‹„y”‚¨»µŞÍ|˜û¢7r~šª¾£Ê»ÖİÀ½´¼ –rcoLR53R^_lûøa÷MThl}„‡”‘™–£¶å®Ø¦Ë—§‘£‹ ‹¤€˜t‹J‹*9ûû7‰É÷5•¥‹—ƒ”{unzhgtsttvs™|¿Áª¥’ˆ†…„u|di1d%^û»y®í³Õ¶½¾Æº¹µ­°¨¥™š‹“‹‡‹‚‹ƒˆ†Tûa.oM‚v‡x‹z‹z’ƒ™‹¦¬°´§¤¤§¡©{™û*ø¦ù”zf\‚Q‡u¥‡¨†™‚‹~€‰~‡{NûƒyŸw•v‹RLc:FC8g;@O®d¾¯± µ³Ÿ §¯®¾t6€\x”¢¥™¦©  ©®²¼x—JXgjxƒ‡“””¯ÊÜ÷³Æ÷Z°ö|™üıjhz²÷÷!÷Yßª›xdTqIW><V[dbü$üÑ÷Ê™—´®¥œ˜‹’ˆ„ˆ†uYûe7qU€r†y‹‚‹n™}§‹º‹ÁµÆŞx—Taiop‚†”“—Á÷µç©Ëš­“¡‹”‹œ”t‹j‹Ue>>›|÷nø ptsju–€¡§¢¬¤ €–tûããøÓ"û´~f„r‹~t–¡œ¢•¨°£±®´¹}›{zvyrxlsu‹„‹‡‹’‹“—÷÷Âì’©.À÷GXûA„mû¾È÷¼ª¦´²—‡ƒƒ€ctBBû}»y¢Ê£Á£¸ ³­ÄºÕ¤²›Ÿ”‹‹Œ‰‹†‹‡‡u‹„‹{’ƒ˜‹Ÿ‹Ÿ²‹°‹¯t‹z‹txpdtigN[2wf‰¸÷#Æ”°‹šœ“xn]`5L™|û=¸ø¡£¥¯.ûßVûL~d„t‚‚‰w‡„u¶ªŒ ‹¢¬Šˆ·’¡]l|‹’’›’¦¹÷;¡t¨¯‹ÅÂ®ÒÀ¾Ğ¥ÏÏ½w¯d¡™qk’dx‰‡c¡Ózˆ~Š‚‹†‚Œ~v;P€d‚v…u÷f¥Ú²hFVyQfLGbai_dx®™›œ§î¥ç¤â›Œ—Œ”‹û™÷”ùl&KYGB`™v¨¦˜™§œt®‹¢´®¸Ò¼|œ÷-&KYGB`™v¨¦˜™§œt®‹¢´®¸Ò¼|œû*÷4ùd¥‡¨†™„‹€…ˆ†zhûXû0Iû\tF€\‹r‹u”z›†¢‹÷4‹÷[÷^‹÷/‹ª¤vxœu”p‹X‹UlSLd`iYnS‰ç÷ŠÏ÷N¸÷|™zf\‚Q‡ulı^l|›ªÀÔ÷ÚÚ¸¹´¡®±vaKhFDBEGOhXûb÷Z÷|~•€~˜…¢¯˜·¦¾Æª­©®¬›wbe^rVNnklj9V{|ƒ€„€•}{\ujwyz{|ƒ{‹x‹j¤p¾t·wº½‹÷‹àº‹Ò‹ ~p›z–n˜b™]›n–‘p˜~˜˜š’š™™Š’•Š˜¯¯Ÿ³¯³¸Ÿ¾Äª„¦}£¦¬…‹Œ’‘–šˆ“…l‡o‡{Š‡Š—yu‘r0/"û S d¶vcfîû4F³¼¥¨§Æª’†¾vêd®}œ}‹|‹gRm;‹÷tùÔHp]jJKh¬Î†mh“kšn`¡®v»äÅÀö¤oûÌ÷³ÅÅ®¨–’‡‚„†~‚z\4f>oH‚u†u‹v‹l™|¦‹®‹¿­ĞÏ·¶¶º´ÀPû5p†x‹€y”‚œ›‘˜œ£œ°°¼Ã~™TTko‚„ˆ‘Œš•¦Á÷/³÷¥ÒUo3mLkfûû=H`‹€‹…‘‹–‹”š” »ğ±Ø¨Âšª“£‹œ‹ €•u‹r‹kxdfoqrovn›}ûb÷Z÷|~•€~˜…¢¯˜·¦¾Æª­©®¬›wbe^rVNnklj9V{|ƒ€„€•}{\ujwyz{|ƒ{‹x‹j¤p¾t·wº½‹÷‹àº‹Ò‹ ~p›z–n˜b™]›n–‘p˜~˜˜š’š™™Š’•Š˜¯¯Ÿ³¯³¸Ÿ¾Äª„¦}£¦¬…‹Œ’‘–šˆ“…l‡o‡{Š‡Š—yu‘r0/"û S d¶vcfîû4F³¼¥¨§Æª’†¾vêd®}œ}‹|‹gRm;‹üÑ÷Ê™—´®¥œ˜‹’ˆ„ˆ†uYûe7qU€r†y‹‚‹n™}§‹º‹ÁµÆŞx—Taiop‚†”“—Á÷µç©Ëš­“¡‹”‹œ”t‹j‹Ue>>›|û¬÷Ä÷V`]p[mv˜¥€…˜ˆ™šÄ¡Ê¶ĞÔ¸¸°¸–”†‚†vz˜‚¢‹œ‹”“‹œ‹Çw¢O‹D‹HdL<RBnF‹I‹3¯_Ô‹Ë‹É°ÆÕwœûoûX™•’‹§™}nox}dwt‘—r|p©}©„ª‹¨¥‘– ¦š˜ ¦¶t¡]€Š‰‚±ÉmW5û¾÷ŠøLXd}przx‚wtr›]«H§P™br^wtdduÁ‹nrv€’‚™‚¦…°ÜÎµÔ¨|¸lÆnÄ|³¢·¡¡¶¦›N‹°”“œ™ƒ˜|—™xs’lûIü¢™•’‹§™}nox}dwt‘—r|p©}©„ª‹¨¥‘– ¦š˜ ¦¶t¡]€Š‰‚±ÉmW5ûb¬÷©–——œ ¨š™‹‹œ]™.—?‘H‹P‹@yTffttv€y‹|‹k—|‹v‹‹xr˜¤ÒÜÕ÷)åğ÷<¾÷ÒÀ{¦kv€~ps±g‹t`Jû,P$‰¯æƒİ|Öæyr¹la_X$^‚û=÷?÷¶å”‘——˜÷¹ËŞ‹÷‹òTÒ/‹G‹Of‹d‹|“„š‹§‹”•š¦™¤‹‹›†™¦w˜gXu†r€orHd_Brw…w…w…„~†ˆ€iû¢†bû*§¡¥§£}—prslts˜¦û™÷İùlp~}oz¢h‹tbh^DZšzğË½Ï‹Ô¶} nû-p~}oz¢h‹tbh^DZšzğË½Ï‹Ô¶} nûÍy¦å¥Ü¦Ó¶E¯X¨j¼P·m±‹³‹©¥‹²‹ €•u‹u‹€‹v‹~‘‹‡‹ˆ…„‹vXÌ÷9åÒœÀ©¼§¤­´…œ~˜›|u“p?1Hû"‰À÷5Ê÷?Ô÷I|™fz\‚Q‹‡u¥‡¨†™„‹€…ˆ†zBûƒ?ûo<û\Áyøø
+hllMpq€nƒk†wˆk‰`ˆğöÙÁÀ‹¨‹™‹sw÷‡Ò·ŒŒ±Œµ‰Ğˆ“§ft|…‚†‘”’Œ—œÄø¬÷W”¢”½ä‹¯‹’‡hG§§÷=wslƒ'û†\m|y‚”™s{^tSmG¨ìÀ˜•Ö¸©‰ˆš—‰‘†„‰ˆrƒ]]û·nû;^ƒn†{ˆ‰ˆ‡zˆlˆb‡ƒoûÌ÷³ÅÅ®¨–’‡‚„†~‚z\4f>oH‚u†u‹v‹l™|¦‹®‹¿­ĞÏ·¶¶º´ÀPû5p†x‹€y”‚œ›‘˜œ£œ°°¼Ã~™TTko‚„ˆ‘Œš•¦Á÷/³÷¥ÒUo3mLkfûû=H`‹€‹…‘‹–‹”š” »ğ±Ø¨Âšª“£‹œ‹ €•u‹r‹kxdfoqrovn›}ø÷œ¦ ¡¦¦v¡prtupp¢u¤ûF¦ ¡¦¦v¡prtupp¢u¤û¬÷N÷gö÷Á¤Ò˜µ‹–¤€˜vw}€v‚„z^|@Pû²¢ƒEûy§¡¥§£}—prslts˜¦®…‡Ê¶Œ£Ê³Šˆœ“§L{Œƒ’‹–›¤¤÷œâ”´¥‚¿PÙû¾D¶J®R¤¥Œ¦‹š‹¢Š¨ˆ“§T|Œ~“~™x¡d¿QŞVÖZÈ]¼ñßßÓÌÆÊÄ°©”Œ¯“§\ˆgŠp‹jkŒlƒo½‡—Š‘‡‹ƒgû¤ûR†£÷ŸãšÊ”³²¹“§hˆ_ŠU‹XcŒnƒo§‡›‰•‰Š–‡„ŠŠ}ˆpˆl€Hz%uûuût)‚cˆ†dˆ]‡ƒoR{‡Ä½Œ´“â‡´ÕË°ÂÉµªÃÒå[Æ+¦ç­¹ÀÓ¿u³^§£e\—SwM‡vkbŒZƒoÆ‡¡Š–„‹†Š„Š„Xyû lû8PûÓ•°g‡K„ƒoøz÷HtX^fjbUzH\t‘˜–²•Ì—Ô–Æ•¸‘¥›¤¬÷Ä]0û3øY²¬„~§¶v¡h[\{dlnhfRy?„ŒŒ~¢÷#ì˜½§-÷ùBÏ‡Š•„‹~…‰~ˆw_û‚iûFsû‚^†h‡g‡ƒoÑ³Œ•‹´Œ¹‰Àˆ“§[m|“‹š‘‹ŒÀ÷¶àÆŒ«‹¢—„}Š‰e‰xŠ†¨‡’·¬¢˜Ì’­ŒŒqyWƒt„Šfˆ†4Rˆq¬÷L–¾’­œ÷6½¤€uD©•×‘ºœ4ˆKŠ`‹L‹1Œû	ƒoûO­÷°ÂÈ°¦—’ˆ„†…z€nz_€l„x~f}g~f‚p†t‹y‹k§x¬‹Ù‹×·ÖäÑŞ®Û‹Ö‹Å{¨l‹r‹~}‹ow°d‹d+û-ûB(x“›˜–°¡ÈÃ÷0š¶“©‹ƒ”zxo|ngjqkjjd™}÷ù
+endstream
+endobj
+44 0 obj
+<<
+/Ascent 948
+/FontFile3 43 0 R
+/FontName/WZIRIN+SimonciniGaramond-Italic
+/Flags 98
+/Descent -222
+/FontBBox[-146 -222 1058 948]
+/ItalicAngle -12
+/CapHeight 948
+/StemH 0
+/StemV 0
+/Type/FontDescriptor
+/XHeight 0
+>>
+endobj
+45 0 obj
+<<
+/BaseFont/WZIRIN+SimonciniGaramond-Italic
+/Name/F2
+/Widths[250 370 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 481 0 0 593 0 0 0 556 0 0 0 0 685 0 0 0 0 0 0 0 0 630 0 0 0 0 0 0 0 0 0 0 0 0 444 500 370 500 426 0 444 519 278 0 519 278 778 537 481 481 0 352 352 315 519 463 0 0 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 370 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 519 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 389 389 0 0 0 0 0 0 0 444 0 278 0 352]
+/LastChar 223
+/FirstChar 32
+/FontDescriptor 44 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 42 0 R
+>>
+endobj
+46 0 obj
+<<
+/Type/Encoding
+/Differences[32/space/exclam 35/numbersign/dollar/percent/ampersand 40/parenleft/parenright/asterisk/plus 45/hyphen/period/slash/zero/one/two/three 53/five/six/seven/eight/nine/colon/semicolon 61/equal/greater 64/at/A/B/C/D/E/F 72/H/I 76/L/M/N/O/P 82/R/S/T/U/V/W/X/Y/Z/bracketleft/backslash/bracketright/asciicircum/underscore/grave/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p 114/r/s/t/u/v/w/x/y/z/braceleft/bar/braceright 141/ccedilla 154/odieresis 159/udieresis 201/ellipsis 208/endash 210/quotedblleft/quotedblright/quoteleft/quoteright 219/gbreve 221/dotlessi 223/scedilla]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+47 0 obj
+<<
+/Subtype/Type1C
+/Length 10513
+/Length1 10513
+>>
+stream
+  AXXYXN+CourierTU-Bold   Fø øøø ø!ûüıĞ&%
+ ˆ?‹‹
+ ˆ?‹‹   ã   ß  ¢’  )
+ 	L[biscedillagbreve3.1.3b3© 1990-99 Apple Computer Inc. © 1990-91 Bitstream Inc.Courier HalvfetCourierHalvfet  ^  C B T I  D U L < Z G F S ! Q V M >  J  E P O 1 " 5 )   9  3  N X    Y [  H = 0 . & W  % * 4 - :   ; @ # $    ‘ K o ?    6 / ] |   ‡ Ú à 	 
+ \ '  8 i w A  7 ^ y Îˆ `  # –¯ #…ãd›eÁ©"‰ÄûÆC¸		v	Ò
+I
+¯(_œ,vzŒ­*ÚeÀ8²ç0À6•ßJ‹BŠögéPbáHƒ>É"K”:í0‘ıF‡Ø8‰  t Ñ!e!Ì"*"­#+#©#ë$-$‹%%S%ô&¤ø×ñûşú”ş”øò÷÷)ù¯ù×ı¯ø×ù#ù[÷ìûû)û-+ûûû,÷ ÷/÷+ë÷÷ûq÷ø-ºy`ûO/hk<C²dÓ›ıø{CffD;­læ÷.°¡›¦Í2Çë^÷÷¥÷^÷Z÷™÷³ûX÷_û©+/iSKø×ú’÷oø÷™ûîû°û¤û=Gû OµcÊË÷;í‹ã÷ÆKûxš2E‘Kû³û:ûû\ûM÷û÷k÷÷³Ô÷H ¦vÎéæ¯«ØÒd²C{û†÷Uû.S<<q/'TµØâã¿÷'»Â„|Îø×÷ò™pçí}ö÷¥÷/÷÷]÷@-ØûÁ·wphû›Oª‹º‹ÇÇ¯ó‹÷‹÷,û#Â‹À‹ª¬‹Ä÷Ïn­Tdm{jo¨+0™4ûû! ûPû3÷.÷|kˆ¦‡­‡÷.vØf‹U‹OMb+‹û‹5¨JÆ•š| r±kd‹C‹qj‹3û7 rÄ²¯™¦®ø×øYùËø8¾|š^ûP/hk<C²dÒœıøzDffD;¬lç÷Œä¯«ÚÒf°C{÷·÷âëöğ±Sû?û·{CggC<®kä÷Œæ­«ÚÒf°Dzø	÷yû
+÷ûgû5_:\ø×ø×ú#ùúÀ++¤$ûÄûtûdû«û±÷rû]÷×÷™÷p÷	÷Äf¶ZhûMû‹û1ûAû÷÷;÷3÷÷÷0÷áa0ÀK°¨y¼Ğ¬±Ü÷8öo±CViqW{ø×øµùø÷~çh¬33hj/û~-/jn<<­kæéû”uûCœT·VFÇöd÷÷€÷pğòÈ^½T[ûB1‹#ûe·÷$÷”÷Åæ¯«ÚØhª/ûÅø×ø[ø³ùP¾|š^ûH2gi>D±cÒ›ıø{DgfD<®kã÷H¸šš¾÷b÷÷÷7û[Wwvq‹[K¯oâ÷‰ç®«ÚÓd¯>rûœ÷ÜÒÕËÌ´¢Ê—Ï˜›¡ÆÚi©0ûq/lm:[˜x´~ûgûRø×ù!úš÷*¶¥¨¼»q©bûÇ[kpdúod«p»÷Ç´¥©»¼qª`û*Ûø×øJùUœÒ²±ÓØh«/û’/hm<C²eÓ›÷Ãı>-û]û//hk<<®lçøJæ¯¬ØÚg«0^ø/úœÓ±±ÓØi«.û.im<C²eÓ›ûQü>ûHø>ø×ù:ú¬÷ ·»÷«ñy‹·Ç±¯Ãß>²û<ûØû'û™R!.im<>®jçõü]!.il><®kçø»æ¯«ÚØhª/û[ø]÷kæ¯¬ØØh«/ûkø×÷êø'ù÷¦£Ú÷‹ûh÷Uû´û×ûrû]û°û±÷rû]÷×÷¥÷fô÷Äh´ZjûUû‹û9û9(Ô÷(hø¯÷0ü¯÷®ãË÷%÷+ìDû¢ø×øÍø³÷÷ßÃË«ïIÇßÆÃØï8Ëûû%û	Nû0û%÷(¦v›gûi.km<<­læ¶üz?.il><®kçøÃæ­«ÚØiª0û€÷Øø×ùÚøhÈ´}¨Ä¶°¾ª|¨g¯ø÷äû÷%û™ûÔûPûŸü`üx÷Tû—÷ù÷(å½Ş¾uªgw)h‹Oûoû÷Yø÷çñ÷V÷A÷Ê.û7ƒx‹ƒû`ûûû[û4ìû÷ÃÂ˜§Êh÷'~gr„zGd·ØèÇÉçœ’ŠŠ”û’ø×ø<éRĞìl÷ ÷÷X÷`÷©÷û^÷Xû¥û)]0GÓ¦y™dû./jm<C±eÒ›şP0ik<<¬nçø<ç®ªØÚg«0û÷¤÷{ù÷êû û,û++ûûû,÷ ÷,÷,ê÷ ÷ø×ù˜ùUûµû<1û#aÆ÷8øe¦x›gûP.im<C±eÓœûâûŸñû÷k÷ç»ëË?o¡z°÷<ç®ªÛĞd²C{ù*¦v›gûQ/jm<C°eÓ›ø×ùu÷oú«¦u›fû¿/hk<>¯iæ÷ıøûk/kn<<®käù:æ­«ÚØjª/ûkø×øœûiû)_qlZZ¤n¶÷Çº¬¨°‘°j¨\ûÇ`rnZZ¥n·÷)û%ø×ùk´“ã˜¸k¥STjnV‡ƒ;û{~û	û‹û\û(Ó%÷%T÷LC‘‰÷^ÅZ‹V;Q\(û/´Ênˆ’‡•†™vÃg§W‹F‹lg‹4û.¡mÓ»Ÿ•¦Ÿ»s¸|¸ƒ|û|{P¢tÂÌ¨¥Ç˜÷o‘÷ƒ÷÷÷p÷/GáûLÔûNÒû¿u¨‹ÈÛÌ¼÷×ÊfG®R¨·Ò°®Î‘‰÷Šàs§J‹fs{n|d˜j•kø×ù†÷où*¦v›fûÁ/jm<<¯lä÷üzûk.il><¯kæù8æ¯«ÚØhª/ûkû$…"wpû?/tóö›š÷÷!s *ø×÷YøÓryxoûj›u¦ùÑ£¤¦§÷ªz›kıÑø×ú¤÷oú”¾}š^ûË/hk<>®iç÷û‘Ä@/¬,û§ûZûaû©ûŸ÷[û\÷™÷õ¼äÌEp {²÷-æ­«ÚÒg°Czüiø€÷ìûû)û-+ûûû,÷ ÷/÷+ë÷÷ø×øúùs÷1÷ûû3û4ûû	û0û0û÷	÷4÷3÷÷÷0÷gûÕûsû]û°û±÷qû]÷×÷Ø÷q÷]÷±÷°ûq÷]ûØø×ú÷q÷â÷#÷ûiû*Z+NÙ§wšfû>/hk<D±fÓœüx?ffB<¯kä÷Œä¯«ÚÔf°?÷µ÷Øã÷ó´Nû4ûµ?efB<°kä÷Šæ­«ÚÔf°@~ø×øsø<÷>÷Ü÷<÷÷•÷ˆû=÷ûÛü14gi>D±dÏœı~zFffD<®kã÷îà®«ÚØjª4$÷aø±÷"÷,àS' ;Vû1û"÷Ğø×úò÷oûÑùøËsa«Pü0gk<>¯jæÛû ı~zCefD<®kç÷–æ¯«Ú×g«0h¶÷	øD´û	h/hl>;®lç÷Áæ¯«ÚÒe°Czü ù~÷%ü:û¶÷%ø:ø×úLú[‘û_+§lÓ‹Öª®ß“÷¿†÷w‘3‹ığ3w…û‡€û¿ƒ8­gÖÊ°±Ë¤‘÷_÷eı~û<2hl<<¯kãøæä¯«ÚØg¬2û<ù~÷eø×øWúY›Ó²±ÓÚe«2û–0ik<C°eÒœı~zCefD;®lç÷–æ¯«ÚÒd°C{÷»÷Ûû»{CdfD;®lç÷–ç®«ÚÒe°Czù~œÒ°±ÓÚi«0û–0gk<C²eÓ›ûzûÛ÷zø×úÛ¢»‘¡£ÄR·Obpq:füİû‰‡yb‚m‹xRÃ_È´¦¥Ú¯øŞçø×øú÷şû6>ûûà<÷÷ßÙ÷÷7Öûø©û7@ûûà<÷÷ŞÙ÷÷9Öûø×ø{úYÏ®±ÏÚg«0û”0gk<B±fØ£÷üû¦ür?efB<­kæ÷}æ¯«ÚÓg°>Œ÷2÷s÷.ûsB‡ii‹C<¯kæ÷ æ¯«ÚÔe°?rû»ø!÷÷ï•×±°ÔÚf«2ût2gk<H­eÌ†ûûSû÷Sø×ù’÷iúoĞv¦Vzq†€bûŒGFzjk‹\KªgÂ–¡“®÷¨ıàûN0gl?@®lçøâç®ªÖ×eª2û6ø×ùôøµ÷+¿Ş÷÷)÷kû'÷û¯üa3fi>D²dĞœı~zDffD<¯kä÷–æ­«ÚÒf°C{÷œé¦£{n÷‰ü‰¤d¯w¸‹÷æ¯«ÚÓc¯>w€û7÷–ˆ‰‰z§zz–ü/ø>÷<÷Äa'&Qcû;û÷¯ø×ù¿øû?4û û	7è÷÷Şå÷÷Û/ûü÷ÜÃ÷—÷÷÷d¢¢«²éº¬‹È‹¿T û‹ü3‹û¥û½‹üT‹ûı÷Aûo÷¯‹÷¤‹÷G÷?‹÷“‹÷…û:÷Mûk‹$-bBJø×ù:ùìÊ`S¨>6DgGZÊ|œTû<lk>D¬dÊ™üz}LlfD<ªkØ÷wÚ©ªÛÓl¯L|÷ò÷³ÊÎÀ¦_2üÉp¢{¯÷>Ú©ªÛÒj°N|÷ò÷±ÈÎÀ¨_2üÉp {¯÷>Ú¨ªÛÒl°L}ø÷@íûI7@kOSø×÷ÇùUœÒ°±ÓØj«/û/jk>C°eÒœ÷ı˜F·mç‹ä¿«Îœóø÷	ü F·mæ‹ç¹©Ğ˜÷ùœÒ²±ÓØh«/û.im<C±eÓœ?ü€ûøsŞnšG‹Gny;t ü;ø€ø×øú÷şû6>ûûà>÷÷ßØ÷÷7×ûø×øu÷u÷Ã÷š÷5÷ Ö÷‹÷-÷yû2÷'ûûûjF#K_{j24­_Î²®¥¿«–•š“”¨°Ä¡Ğ‹÷‹ÄQ‹û‹6`536ü+üRTr]XN·hØùc¶˜”È“÷/˜Çj­PCfjG…ûòø×ù<ùú¦÷§•£’c3b„s¨û«û÷ƒ‚ƒ‹‚~q‚‰n9†|ˆ|‹„€—‚ ‡÷¢OûNû`‚‚…€‹‚ƒ• |ÑX›šƒ“‹“”‘›”÷÷‚÷ û‚“~•‚“‹“™‘—šÑ¾Ÿš˜–‹’”…–‚”ûL÷d÷¢Å •“‹—’ˆ˜†špß®…‘~‹††Š†û’ûø×ø”ùg¶ŸªÈÔk¯Gû†2ek<C³gÚª÷yûˆûû„xBffB<­kæ÷iÏ«­ÖÊw¨[‡÷÷!÷û!ƒ^wmFJ®fÌ÷†æ±«ÚÔc°>tû÷”÷e÷x²Û°®ÔÚg«2ûiJhgHGm·ûû!÷ø×ø}÷]øpø’®°¯‹®Òc­8üâ#€z#û,§kÖÏ«µàº÷Çüyü”ljyb‹fJ´hÛùò—ô÷'æn­FCru$ƒ…FûÚø×ù±ùB÷ÈÈâ÷÷[û)÷û|û{ûF-ûW­e¿º÷'è‹îèÁT,ûobû$wŠ‡†Š‚RƒnlV>¡rßˆ÷4„¸YûûEEû#û>å‹jF]^Jû÷?3÷÷·÷H÷1÷÷9Añû-»ø×øÏùu÷ë"û'û$+"ûû+ô÷$÷'ëô÷÷ŒéÛH2°ûû©ûZûVû£û›÷PûM÷ ïå¤Âê^ûONNûS8û‹zG^_K/îb÷m÷ó÷*÷÷¸ùEœÒ°±ÓØj«/û7dx}pWø×÷„Ûøİû°:¥s³‹ÇÆ¸Ã¢…¢t»üŞågÜo¥c‹NS_Rs‘u¢[ø×øúúo÷Aóû&û‹ûŒ"û'û@û?"÷(÷‹÷‹ó÷&÷@÷|ûßû~û˜üûÿ÷‚ûš÷Û÷ß÷}÷–øø û€÷™ûÜø×øüø”ûXøËp×dªF‹û00gk<C²eÓ›nı~{CffD<¯kä÷vä¯«ÚÒf°C{™øö÷%üZ G²oĞ‹Ğ°§Ï ÷&øZ™üö{CffD;­læ÷uæ­«ÚÒg°Czoù~›Ó²±ÓÚg«0û0Dck@sûSüËø×úúc"2«eØÖª¯æ÷tÔt:ıÇ4gi>D±dÏœı~zFffD<®kãùÇŞ Ó÷†æm­?>kg2ûüe÷¿÷DyD®gÏÓ©¯ä÷cš‰œ‹¿a±OGjf?ûD÷”øeø×øJùUœÒ²±ÓØh«/û’/hm<C²eÓ›÷«ıŒˆ†„S¢¸oÎÔ£“æ·÷½ùœÓ±±ÓØi«.û.im<C²eÓ›ûQü>ûHø>ø×øúúÁ÷#âû8û¤û¨4û8û#û#5÷8÷¨÷¤ã÷8÷!‰÷uûÄûSû’ü-ü-÷Sû“÷Ä÷Ç÷U÷“ø-ø,ûU÷“ûÇø×÷U÷ozCefD;®lç÷P÷÷lå¶Ü÷Hêñ÷S÷‹÷}2÷Mû5ëÃ0&¡û«PûP2ei>C±eÓœı~÷–ù‚Œ˜™Œ«÷‰÷ûûû”û	ûûRù‚ø×ù{úY÷<ç®¬ØÚk©,üæ/hm<>¯jæ÷<ı~û</hl><¯kæøæä±­Ø×g«0û<ù~ø×ùô‹°450û¤ûQû4ûxûEà/÷—G¦„¯‚¹€÷.fØU‹D‹/DVû‹û‹/½Wò‡“…–…›nÊfª`‹:‹nm‹3€ûŒ:¨oß‹¼¤™® jäæ{÷÷Ë÷@÷÷‰÷[û ÷ û”Ãzun‘û=®6¼‹È‹âÜÈ÷‹ë‹Óa´8†„…¢X¯rº‹Ö‹§¦‹Ú–‡÷Tˆà~¡>‹Ww~`wø×øúYáâ¯¬ØØe­6ü>6ei>>­jâãı~33jl><­kâúß Ó÷Çæj¯??mh/ûFü[ù~ø×øgúY™Ç«²ÒÚl«<ûš2il;C°eĞœ÷°ü¥ûmû/jn<<¯käøšä±­Ø×i«0û÷Š÷¡øˆ›Ğ±±ÓÛiª2ûx<nl;C«eÇû)ûÚû0÷Úø×ù±ø¿Sû™ûûûgrrˆk‰cˆ-†\k‹N‹WÂu÷ ‹ø1‹÷§÷½‹øU‹÷üûB÷oû¯‹û£‹ûGû?‹û“‹û„÷:ûN÷k‹óéµÔË‡÷Ñû91ûû;ç÷÷Öâ÷÷	ß0ûø×øúø­÷ß?ûû:Aûû7Ù÷ ÷ÜÕ÷÷x÷÷'È×ï÷÷_ûP÷+û›û›ûMû)ûaûÕ*÷'Kû+S7ûû$ûk÷Sû.÷£÷¨÷O÷-÷p÷!7÷û+Âûxø_÷Û@&"=Dûû9ÖğğİÖ÷ø×øw÷qø«ù›¤•®‹ªÄa²Gı(|…û	†û‚?®dÒÚ«®ç‘÷"÷Êü¯ı£{r€i‹nP¶fÏù)è ‘÷•÷–—Øh±D;hd3û6ûäø×yû»ûPñ÷Pûø×øLøš÷4÷cÓaûû>`ûhû*÷Åø’÷ã¾¸Ûó÷gû)÷û­ü`4gi>C°eĞœı~zFffD<®kãøJß÷%Î›°Ë÷ËÈó÷÷$Iåû%Àü’÷ê÷:÷Äe4/Ohû8û÷ø×ú4¸#3 ,ûäûˆûûûü÷û‘÷ñ÷—÷‰÷÷	Ìc½W_ûcû ‹û ûaû÷%÷™÷›÷÷"÷a÷ÒXû®C ¥uÃÚ¤¤ç‰÷˜‹ßrªJ‹`sy[pø×÷<úRfdLK°dÄúÄ®²ËÊh²RşûäRfbNL°cÄúÄ®²ËÊg²Sşø×ø_øw÷PûZg`z`‹4JÌàÊ«¼Î´÷·øğ·JN<ûWû+û4TK¨^Â3û3û K!‹û(ûK÷ û÷\÷÷	²Ëàªb›vƒ·‹ÚÎ¯­ÇÄmªSzXÉ°Ã£Ê˜ÔË–§ªÈÃjµbbgVfa8ve‚lƒtûƒ÷äˆ‡…’n³}­‹§‹¸«¨»‹¾‹òA°‹Â‹ÀÉ‹Ï‹¿k±`‹€‹‰w†ø×ùŞùı ûÉBhrm‹[R¯fÃ¤¦’³ù«÷ÿŒ’Ò«¯±¸¸f²A­ƒı¬øX¢t‘v‹SgeS[¦kÒhù ûÉø×ù†÷où*¦v›fûÁ/jm<<¯lä÷üzûk.il><¯kæù8æ¯«ÚØhª/ûkø×ùùUüâû‹^WûLû	Ÿ‹lHhkK&Ûe÷e÷Ã÷)÷÷©ùõ¦u›fü.im<>®jç÷âÆù3"wpû?0Ÿsôóœ—÷÷!r +ø×ÏøÁû/ryvo5h›w¦Ñ¤£¥¨áªylø×øúq÷Òû˜”ƒ•ˆ—‹¨¥¢ªŸ‚£{œûÉ÷ü{Ÿr–n‹oq€w|ûÇûüzxt‹zl¤t«˜š‘”–÷Ç÷’ø×ùm÷üÚÁZDCVZ;:U»ÔÓÁ»Ü÷,û=ûû	û/û1÷û÷?÷?÷÷÷1÷/û÷	û<÷†÷W£”œ¢¢²r§h‚‰‡‚ı2ûs‚zt‹vd¥j¬”–”ù4÷¡ükøJØÃWDCVZ;:U¼ÓÔÁ½Ü÷)û?ûûû0û1÷û÷?÷<÷÷÷0÷/û÷	û<ø×ø:!tü6û`upZX r·÷}ûyû`urZX¡p¶òxü‡V¬dºÂ«©ÃŒ ø÷tüƒW­g»Â©©ÃŸø÷¶¡¦¼¼u¦`û™÷yö¶¡¦¼¼u¦`(¢ø.“¾j®\RkmSŠtü6û¢ø.“¾j®\SmmS‡÷ı³•÷y÷ûyûø×øú÷Íû:F*(ÜD÷÷ÙÑïï>Íû÷ù¹•Ú[¹8:Y[<ƒ²ı`±j¾‹À°«·±ùø×ø,úY›Ó²±ÓÚe«2û–0gk<C±eÓœü›ûé÷û÷ä÷Õ÷÷!÷äø›œÒ°±ÓÚi«0û2hk<C°eÒ›üŸûLOCû+û+PÒ÷MøŸø×ùâø2üùJhÊ~š<‹û86ei>D²dÏ›ı~{DgfD<¯kâ÷³à¯«ÚØiª4Qø³ø4ıojË‹ïº““Êú œÏ±²ÒØg­4û°3hi>>®jãÂü»ø×øš/÷Ù÷U'ûUø×ùÑúÓüq÷«†…Œ†‹xz€w‚b5ŠŠ‹ŠŠ‰Š†Š‡ˆx•|›„øŸûN­Øø×ùcùq÷îÊ_¹NN`^KûîûàO[]SO¸`Ê÷àûîPºZÄÈ·¸Ê÷î÷àÊ¸¶ÇÇ^µLûàø×ú_ƒÂ¯{›fıWdrvf‡yû/‹„‰~‹†V¥rÃ»°©·’øBûúşuˆ„Š„‹z{š}÷M¬š•®–÷Øúúø×øDú¢øqß¦¦ßào§8ı#\zCüx&¨e×¶÷$İ‹à÷ß3ûû#5:û+/û4Å‹dLWVK ÷T÷Œ÷í÷N÷0÷·÷•û6÷Aû„NFr4÷{ø×÷6Û8 sÄ°°™¤¯ÌzÎ€Ğ‡ûa¤œ”Ë¯pZSloNBû¾‹|oz}tS÷#S÷÷0åÌ÷ğ?Òû €w‰‡n…ˆŠŠˆõ¦÷•÷.÷÷X÷@-ØûÁ·wphû›Oª‹º‹ÇÇ¯ó‹÷‹÷,û#Â‹À‹ª¬‹Ä÷Ïn­Tdm{jo¨+0™4ûû! ûPû3÷.÷|kˆ¦‡­‡÷.vØf‹U‹OMb+‹û‹5¨JÆ•š| r±kd‹C‹qj‹3ûø×øúùs÷1÷ûû3û4ûû	û0û0û÷	÷4÷3÷÷÷0÷gûÕûsû]û°û±÷qû]÷×÷Ø÷q÷]÷±÷°ûq÷]ûØ÷ø	HMMJCÄTÓÓÀÁÔÏRÆGüƒGNMJCÄTÓÓÀÁÔÏQÆHø×ù˜ùUûµû<1û#aÆ÷8øe¦x›gûP.im<C±eÓœûâûŸñû÷k÷ç»ëË?o¡z°÷<ç®ªÛĞd²C{ù*¦v›gûQ/jm<C°eÓ›ªøúHMMJCÄTÓÓÀÁÔÏRÆGüƒGNMJCÄTÓÓÀÁÔÏQÆHø×ùşÇP4Gû(û,ûS?ûcûtû‹éûz÷Iû]4ÚÑ]¿£ Ÿ¦¨,÷-`ß;÷7e÷6÷A÷U¸÷@÷ ÷\˜¤«¢²«Â›­‹™‹¦v¡p‹ø×÷É–nëû(·3Ûû7±û5ûCûW^û?û û\~rxksdjV{i‹|‹p w£‹¿‹Õ»Øà÷I÷]è÷z‹÷‹‹÷u?÷eû+÷P(÷2ÏO‹r‹uu‹pø×øüøaîÈ®Ö÷\÷'÷ ŸÎ–ŒŒ“Ü˜³°ÊÇ]³Dû(cGS[NyRû`ûû_I2zs†y‡~‡R|rk‹R‹J©jË€‹ŠŠ÷yÂF‹ûûûp¢HÊRVÄéjèÔ»´ÈÊe°@–|€„N—yš‹÷÷(÷hjÈ&Ìø×ú#úc"0ªg××«±ä÷tÔt:ıÇ6ei>D±dÏœı~zFffD<¯kâ÷¿â¯«Ú×h«3S÷¹÷CyC­hÏÓ©¯ä÷c®¿a±OGie@ûC÷”øeø×øÇ÷î_|^û"üœŠ„Š†‹|{—|¢ƒ×p’Š“ˆ‹ ™ ”÷¿øŞ—•‹’˜}”vû‚¸ø¹û7>ûûß=÷÷ßÙ÷÷7Öûø×÷ÚúY¥Ú¯®ÖÚi«0û†2gk<C±eÒ›îş’D”~Ó‹ºÄ—ß£÷Døæ÷Küæ¤4‚Ã‹ºÔ•šĞ’ëúœÒ°±ÓÚi«0û…/jl;@°hØ¦hüŞûøDwÎd¨G‹GakKxûüDgøŞø×úÁ€‰Œˆ{‚w€ûŠüs‡„‰„‹‚€—„œ÷X®”³–÷	ø<ŒŒ‹—š€–z’K¢ü€ˆŒ†|‚w€ûˆüs†‚ˆ‚‹†€–„œ÷Y¬•³—÷	ø<”Œ‘‹š€–w’N¢ø×ù­¢j€…bûü<ˆ†‹ˆ‹~|—œ†ËtŠŠ”‹›—”Ÿ–÷Šøq’“‹”–~“{ûXüj„cû	ü<Š†Šˆ‹~|•†ÊtŠŠ”‹›™•–÷‡øq’“‹”–~“{ûWø×ùeÁ€ˆŒ†|‚w€ûˆüs†‚ˆ‚‹†€–„œ÷Y¯•‘²–÷ø<”Œ‘‹š–x’L¢ø×øè¢j…bû	ü<Š†Šˆ‹~|•†ÊtŠŠ“‹›—”Ÿ–÷Šøq’“‹”–“{ûYø×øúY¦â¯¬ØØg­4û½3jl;C¯eÏœ÷Ëı÷…¢N³lÅ‹÷Ô’æ«÷Åù÷›Ò±²ÒÚi«0û0ik<<®lã¦ûŒıYû„ùYø×øøøa'JjNûhû(VDtp:({uoLG·cÖöö¶Ê¿»ÄÃ÷g÷÷	ºÏéš–Ã˜§®‹Æ‹Ãq¬Sšzu0]Î‹÷÷÷tsÉJÇÀR2ª(@adHJ£nì~Ö€¨mLKû'û\¯@ìNø×ú÷:ÍHŞÜÎÌŞŞHÍ::GG:ıÌ:ÎHŞÜÍÌŞŞIÍ:8HG:ø28ÍJÜŞÌÌŞŞJÍ8:II8ø×úîù·öo±CViqW{À++¤$ûÄûtûdû«û“÷JûR÷­gûa¤œ”Ë¯pZSloNBû¾‹|p{}tS÷!S÷÷0åÌ÷ğ?Òû €w‰‡n…ˆŠŠˆ÷÷¬—÷Yó÷Äf¶ZhûMû‹û1ûAû÷÷;÷3÷÷÷0÷áa0ÀK°¨y¼Ğ¬±Ü÷8ø×øÏùu÷ë"û'û$+"ûû+ô÷$÷'ëô÷÷ŒéÛH2°ûû©ûZûVû£û›÷PûM÷ ïå¤Âê^ûONNûS8û‹zG^_K/îb÷m÷ó÷*÷÷¸ùEœÒ°±ÓØj«/û7dx}pWüàøtû÷8 ÷o÷p÷7ô÷§ƒ˜wh\L|rp_:ûû9—¦_›o_Éhx}pÍù
+endstream
+endobj
+48 0 obj
+<<
+/Ascent 1829
+/FontFile3 47 0 R
+/FontName/AXXYXN+CourierTU-Bold
+/Flags 262178
+/Descent -828
+/FontBBox[-176 -404 769 893]
+/ItalicAngle 0
+/CapHeight 1829
+/StemH 0
+/StemV 0
+/Type/FontDescriptor
+/XHeight 0
+>>
+endobj
+49 0 obj
+<<
+/BaseFont/AXXYXN+CourierTU-Bold
+/Name/F3
+/Widths[600 600 0 600 600 600 600 0 600 600 600 600 0 600 600 600 600 600 600 600 0 600 600 600 600 600 600 600 0 600 600 0 600 600 600 600 600 600 600 0 600 600 0 0 600 600 600 600 600 0 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 0 600 600 600 600 600 600 600 600 600 600 600 600 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 600 0 0 0 0 0 0 0 0 0 0 0 0 600 0 0 0 0 600 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 600 0 0 0 0 0 0 600 0 600 600 600 600 0 0 0 0 0 600 0 600 0 600]
+/LastChar 223
+/FirstChar 32
+/FontDescriptor 48 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 46 0 R
+>>
+endobj
+50 0 obj
+<<
+/Type/Encoding
+/Differences[32/space 40/parenleft/parenright 44/comma/hyphen/period 48/zero/one/two/three/four/five/six/seven/eight/nine 59/semicolon 63/question 66/B 68/D/E 73/I 75/K/L 78/N/O/P 82/R/S/T/U 88/X 97/a/b/c/d/e 103/g/h/i 107/k/l/m/n/o/p 114/r/s/t/u/v 121/y/z 141/ccedilla 154/odieresis 159/udieresis 210/quotedblleft/quotedblright 213/quoteright 219/currency 221/guilsinglright 223/fl]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+51 0 obj
+<<
+/Subtype/Type1C
+/Length 4977
+/Length1 4977
+>>
+stream
+  LEUYUK+Univers-Condensed   ?ø øøøøhûuú|úq
+ ‹‹
+ ‹‹  4  0  ±‘  k &Ÿ°·ÀMacromedia Fontographer 4.1.5 21/1/97Copyright [c] 1987 Adobe Systems Incorporated. All rights reserved.Univers is a registered trademark of Linotype Company.Univers CondensedUniversCondensed  =      , J N  P S L B - * / 6 9  U O    # T I C V g W F 1 H M l    [ E Q Z  Î n  Ú 	 D 
+  &  à i w   % 4 5 3 0 ?   _ ¼ ×z£»¬×Qbq•ÌUëZÇ6`Ë´ÖJŠ		(	5	¡
+
+-
+N
+¸"HV¶Â<tİ2Na¬ÑõnšŞ[pâ8û*Êøù´üı´ÉÊù7÷ı7ûûbø4Ûû§ÌßÍßÌß´ÈŸÊ‹Î‹÷MÈû‹û‹OB“û	éÖŠ¦±ÂÄ¨lNVyTfQF*E+F*;ø	ûbÆùJüŞÁ”¨¦º²¤zh˜“t`M]†i‚ui}qzdTp®Ñ/U–c pi¦¹zÍØÀ¦À¨®•ÂÔ÷0[Ù*[\tn|‰÷`÷|ÛûØûb©øú÷œûVüúó÷MøúÛûû;ûb÷rÉks˜¦{}¡„§­µª” «š¥›±±¥{kš”vlai„o}up{s~kÄ÷Æ²“ª ªŸ¨•®‹´‹÷ FÍû‹û‹FI‹û ‹b•hŸn lªx²ƒ6‚`O‹û‹ûÌ@÷‹÷ÌÖ÷÷`Ç6”R³ltš¨|€¡…¦¬Ä©ºÃÃ©\Rj…p€un|t|l-÷Aø÷‘ü÷
+û©ø ÷š÷Ú#ûûÑˆ÷Ñ/ıfçü@÷,ø9üİø4÷çã/3Óø&÷è·”©š˜š ‘¥À¦jJûòİøâ]·/Rcu`t¶yd¡NLasZv‰Ê4dhlü$İ÷è¨‘£˜ —­š¤À¦jJûòİü@û*÷Äbnœ¬|}ª„ÅßÌ•¸¥ œ¤–®®¤€vœq•^J7„Q}lj|nzbHÊ¸š¨§°²ÑñäËw±ÀnU¥<<UqVnweK2%E°dn§¸|ÊûÑ÷1ø9üİ÷¾æ±¹×™‰ˆ¤à`l‡‚xqvs{f‰×ûb÷1÷¯÷Gû¯óûZ÷´÷<÷m'û.ûn‰øG9ıfÜ÷¯û*÷Ş÷û’hJ?qw”}~œ… ¦º ©´˜Ÿ’³ÈŒûå„¶ˆ³°÷‡ğT¾ûTa€tpns{d‰TäÀ†¨°Â²¥|m–’ykŠ^=P„d|Ptm]‹G‹û¹Tç‹È‹µ§£ÂBûbøJÛûù/ıf÷ùü÷Mùf/ıfçùfœø‡ùfüş‰û­øşûıfİù÷±ı÷ùf9dÙ÷œûYÒ9÷0÷0Òİ÷Yø^/üb@Vtmpwj~\\j˜¦wt©ÀÖøb/ü^-÷Üø
+÷V÷ğ&û*û¬û(÷¬!÷Yûğûdü
+ï÷3÷É÷<ûÉ÷ûlø
+ü@®øŸĞİ÷[û `û[ü‰øMŞûûO±mÖ•™Œœ —’ÊˆsŠŠju“œ€…”ˆ›¢÷É÷Éû÷9f*8û*ø@÷òÂ‚³y¤©vgšXHgxSk‡Ì4dhlü$İ÷¿î­½ĞÆ©jJûòİûb÷˜÷Kè–¤¢¨®· ¨”š¢´–·‹»‹òMË&‹û‹QFûéè‰¤¹¾¤€v˜—x‘urfgvfwowoxovlp‹tûİ‘<-#éóûb÷qùÉª[++l[MMl»ëëª»ÉÎWa{kjdfxTB8ŸN²fr¦¬~³Æ³¡¶Ÿ&†F‚h\~psbVq®Ğ/ûŠÏCóŞÂ°Ö¥š·“İ÷÷„ß|¶ÔrT°6d÷J÷æíÁ²ƒ{¤ªv›fVlpwtosi}^û÷–÷Ä÷Ô±^K>geDû÷t÷ ı÷%ÓÏ÷óZÅ(–Ş´Äê®«x¨{£yœx–pšg’^‹ûıf÷|ûbø!÷$·u°`©…b @°`¡u¢‹¢‹¶¬¤¸‹Á‹¥pŠUæº}°j¤n¢e–Z‹L‹\{mjtr€n‹h‹`¡f¶mˆ´vØc¶u¡t‹s‹XnqQ‹So«Ì.ûˆÅT÷÷	Æ¾òû*ø@÷úô^¿2GfyRk‡÷®9ıfİ÷½ğ­½ĞÇ©hDûêİû*÷5÷¥¼±”¥´š¦ ³´§zh™–o‘XAS‡c‚r`|mu^`o¥À~†¢ˆ¹Ïûi\§±t¼¼±š¨¤­²œÑğà„È|°Ær[¨C^fwbnˆ÷ 9ıfÜÇû*÷ê÷>d€muvyxu‚rRn­Ï÷ò9ü4¸`æÄ¶£º§Nâˆ²‰®ªø$9ûãû*÷é÷“S‡c„s^~nu`js˜¥|zª‚ÀØ¾±”¥¶š¦ ´¸¨t^™’tbO†÷P»ud£Sfksr`bvE'6•K bW¤¸qÊ¿° µ¡"VkiSYq£¼Š/ˆ_™iªs¨u°€¸‹È‹¸”¨­ œ±‹ÀøÀ:‡Mû÷…1À^îâÀ½à–ZV€hqPNh¥À‚Zûb÷8ö÷2ø5ûü@‰ûø@/÷*üû*÷,÷´ŒË”¸¥šŸ¡•©‹®‹£‚™ys”]‹GûY÷°M¶âÉs°³p[ŸF<UqVnweK2%E°dn§¸|Ê÷	ÅÁ÷Œ1Špƒt|z{xvp‹h‹r–| y¤‚¹‹Í÷°-÷Mù÷ Ÿ…~¨v™i\9`b6&÷ˆı÷Ò÷½¶˜¤¯¼­£ÀÔ÷HĞûûjıfçû*÷é÷“S‡c„s^~nu`js˜¥|zª‚ÀØ¾±”¥¶š¦ ´¸¨t^™’tbO†÷P»ud£Sfksr`bvE'6•K bW¤¸qÊ¿° µ¡"VkiSYq£¼Š/ˆ_™iªs¨u°€¸‹È‹¸”¨­ œ±‹ÀøÀ:‡Mü@÷,ùf9ıfİùfü@÷,ø9üİûb÷÷uïª½ÈÊª\.ûnQPJjÁ÷èû„Ê»£º«§´™ÁÏ÷/TÙûXfu`r‰÷Q ÉÔ¤ €uš˜x’tpçóDÌ"6TfBr|`„7ûû“9š_@¥ÂfŞûb÷rùU6TfBr|`„7ûû“9š_@¥ÂfŞŞÂ°Ö¥š·“İ÷÷„ß|¶ÔrT°6>¶¦pU˜“hAû2ˆQ…nP~on^^o¨Æ~…¨ˆÅä÷Õ“®Á˜¦¦¶ûb÷µùJ<T^dot3óÑüåçùJû™÷ïøûÁH÷eûpûı>÷ÓÎûz÷s÷ÿÖû*÷ç÷¥E‡Z„p\~ptb^m¡¶|‚¤‡³ÃÕ‘¾–§®™§œ´³¦vbš”qeZ÷Iˆ´nfŸ^C[nPr|f„N6&œE­dn¤±|¼¼²¢º§Oİùf9û û*÷”Äcp ´|‚¤‡±¼Ï¹¢À˜§¦¶¸©u`š”rcRA…X€oi}ozb,øT9ıLİ÷†b¨°w¸Ó»¨Æ¤š°’ÈàğzÑi²¨rešZZdt\o‰Çûbòø,÷?üRûSà÷yùL2ûü/‰ûø/ûÑÃ÷~÷pØûp>û*ø9÷ë÷RÇ$<UqVnweK2%E°dn§¸|Ê±­—£©²«ºŠÊ5Œd‚mwv}}|„{‹b‹nœ|¬}ª„Å‹ß‹Ì•¸¥œ ¤–®‹‹›„—}›x“oŠfàûxüT ˜¬›}ppx~e{u•pzc¯|¬„©‹©¥’™¡¤œ˜£ªºg¨\‚‰‡€‰¹Ç[L5œxûbø!÷$·u°`©…b @°`¡u¢‹¢‹¶¬¤¸‹Á‹¥pŠUæº}°j¤n¢e–Z‹L‹\{mjtr€n‹h‹`¡f¶mˆ´vØc¶u¡t‹s‹XnqQ‹So«Ì.ûˆÅT÷÷	Æ¾òû{û ˜¬›}ppx~e{u•pzc¯|¬„©‹©¥’™¡¤œ˜£ªºg¨\‚‰‡€‰¹Ç[L5œxü@÷2ó-#éóû*÷Äbnœ¬|}ª„ÅßÌ•¸¥ œ¤–®®¤€vœq•^J7„Q}lj|nzbHÊ¸š¨§°²ÑñäËw±ÀnU¥<<UqVnweK2%E°dn§¸|ÊbùT-#éó÷D-#éóü÷cû
+a÷Fv÷#ö÷¡÷)¸÷DNaûuBˆu8€@‹I‹K–B¡9„¡DµûÅû*ø9÷ë÷RÇ$<UqVnweK2%E°dn§¸|Ê±­—£©²«ºŠÊ5Œd‚mwv}}|„{‹b‹nœ|¬}ª„Å‹ß‹Ì•¸¥œ ¤–®‹‹›„—}›x“oŠfàü÷û
+µ÷¡Ò’¡İ–Ô‹Ë‹Í€ÖuŞˆ•uÔa÷N¸ûD¡û)û vû#aûFÅü@­ûËæ÷{$Wû{÷ù-#éóû*ø_Ûû²÷÷˜Ûû˜÷|÷¬Ûüıføü@­ûËæ÷{$Wû{û*÷ê÷>d€muvyxu‚rRn­Ï÷ò9ü4¸`æÄ¶£º§Nâˆ²‰®ªø$9ûãûø -#éó÷D-#éóûb÷jùeF9û[÷ ¶÷[÷;F9û[÷ ¶÷[ûbÊøŸĞİ÷[û `û[÷;Ğİ÷[û `û[ûb÷<÷×Ã±‚z ¢x–fU8haDeq˜¥}€†©Š´/V‘c–rP¥Ánİ÷ĞÎ÷Á´v¦t¨fV’°”§—™®§µ‹Ã‹÷LÇû‹û‹PL’ûçÖŠ¨±ÆË«gB6\e,“:ûbô÷÷*÷ıûıû,÷,;û=á÷=İÛ9øQûûXüQ;÷|d÷Cù÷ì·Sû$û&û9_Xû4øÆ/ı÷:÷ÚªÉ²¨ºšì÷'ö€×v¸ÔhK°,ûrıf-Ç÷k‰O“\i«OÉmçŒ÷)ŒÖÎ‹÷‹ÌoÀS¶W©W©W©S¬o±‹¶‹¯—¦¢›¥“ª‹Ö°_4Šë÷!‘HÑûLYzjebhwZMN§WÃb¿m¿m¿nÃi§d‹`‹=`d5‹i‹o”vr¡~­‹¸ 0û*™ùf;÷Rıçù÷RÛül-÷?ù÷¬¤tœšw’rmiƒo{usyrlû÷z÷ ûÊÏ¯lN]]^[’i–vë}¸ƒÊˆÜˆÑ»z¤|¡m™`’ßš»Êâ¾~´r«°l^Pûıfç÷à÷ d÷Å|÷0Òİ÷Y÷ÕxÄf´¶dR @û)=3û(ûûYÒ9÷0Ø]j˜¦wt©€ÀÖ÷ˆó·¿ää·W#ûˆ@€Vtmpwj~]÷rù
+endstream
+endobj
+52 0 obj
+<<
+/Ascent 989
+/FontFile3 51 0 R
+/FontName/LEUYUK+Univers-Condensed
+/Flags 32
+/Descent -225
+/FontBBox[-35 -225 1000 989]
+/ItalicAngle 0
+/CapHeight 989
+/StemH 0
+/StemV 0
+/Type/FontDescriptor
+/XHeight 0
+>>
+endobj
+53 0 obj
+<<
+/BaseFont/LEUYUK+Univers-Condensed
+/Name/F4
+/Widths[222 0 0 0 0 0 0 0 278 278 0 0 222 333 222 0 444 444 444 444 444 444 444 444 444 444 0 222 0 0 0 444 0 0 611 0 611 500 0 0 0 278 0 556 444 0 667 611 556 0 556 556 500 611 0 0 556 0 0 0 0 0 0 0 0 500 500 500 500 500 0 500 500 222 0 444 222 722 500 500 500 0 333 444 278 500 444 0 0 444 389 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 0 0 0 0 0 0 0 0 0 0 0 500 0 0 0 0 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 444 444 0 222 0 0 0 0 0 500 0 222 0 444]
+/LastChar 223
+/FirstChar 32
+/FontDescriptor 52 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 50 0 R
+>>
+endobj
+54 0 obj
+<<
+/Type/Encoding
+/Differences[32/space 40/parenleft/parenright 48/zero 55/seven 65/A/B 68/D 75/K 79/O/P 83/S 89/Y 97/a/b/c/d/e 103/g/h/i 107/k/l/m/n/o 114/r/s/t/u/v 121/y/z 130/Ccedilla 133/Odieresis 165/bullet 219/currency/guilsinglleft/guilsinglright 223/fl]
+/BaseEncoding/MacRomanEncoding
+>>
+endobj
+55 0 obj
+<<
+/Subtype/Type1C
+/Length 3552
+/Length1 3552
+>>
+stream
+  HQMMMQ+Univers-CondensedBold   ?ø øøøø8ûvú|ú]
+ ‹‹
+ ‹‹  @  <  ‘‘  Ú &Ÿ´»ÈMacromedia Fontographer 4.1.5 21/1/97Copyright [c] 1987 Adobe Systems Incorporated. All rights reserved.Univers is a registered trademark of Linotype Company.Univers CondensedBoldUniversCondensedBold  '  , B C V g  W F L 1 S P H N M l   t U 4 O : T % J n 	 Z E 0 
+ " ± ½ k D # [ I )   G Ï;v C¦Ó7“brƒõ-nå9¼'õ,S¿	0	g	œ
+O
+Ù
+öC¥Æóû*Êøù£üı£ÉÊù&÷ı&û-÷`ø1÷Éû*ıf÷+ø÷Aü÷>û^ø"÷^÷Øû:ûHûÉû*÷Á÷ˆRŠiˆ~a‚uvhhz¦À³—¤¢––¨º÷ñÂ€²t¤¬lSœ:R_€ulhrzbR÷¤–š“š“¡¢›„}”‘yrd7ŒO„hzUrpZ‹@‹ ¸Uä‹Æ‹·¥¨¾‘H÷†»‰ªš÷û*÷’Øoy£¼„ˆœŠ®ÂÊ´«’œ›¥¦{k“xbLTŠgˆz[ƒxsnûZ>÷Ã_¢³uÃÊµªÊŸ–¬ÅÜÚ†Ã€¬Èxb©MXexdq‰÷û!ıfû*÷Ã÷&ˆ°‰¬©ø)û!ûòWyqhhy¥¿÷òû!ü)i˜p¤wx¢©®Á³Ÿ´¤Xû*÷J÷ÌŒ²–¾’Ÿ¤«£›|m“‘t`LZŠjˆ{bƒyvonx¯ƒˆš‰¨¸÷÷ P‰¹xe¢SJ`oSu~i…S=7R–mRŸ·oÏ½¯Ÿ² *Szohdw£ºû'ÍY÷÷ËÅ÷ø¢ûûw÷U.ÆVçèËÁç”RZ€irSMg¤¼‚Rü@ûb÷"÷/÷øûAü‰Døû#÷üû*÷N÷É®¤›¨”™§¨Ÿ}p”|qfû÷¢<êÎt´mÂP¦4‹6‹RrlXuf€O‹8‹0—K¢d©YÄrß‹÷‹ÙÈ÷û#Owmc`v½ï÷¢û*÷V÷§÷û§÷3û3÷¬÷#÷uû'ûûi‰øBû!ıf÷!-÷kø÷×Ã§gBr„u}xv|yu7÷bû+ü÷÷+÷º÷÷ÎÒ÷!÷$KÓûû¤ıfûÑÃøü÷!÷§°‘¥–›¦¯–Âˆ÷J`rYt‰Ìûû*÷ÛW~­÷-Æ²’Ÿ¦”˜§§~p”’wdPû-~iW1ßÄ¤½©¢²—ËæŞ€Çu°¾lR¤66RrXluf€O80—K¢dY©Ärßû*÷J÷ÌŒ²–¾’Ÿ¤«£›|m“‘t`LZŠjˆ{bƒyvonx¯ƒˆš‰¨¸÷÷ P‰¹xe¢SJ`oSu~i…S=7R–mRŸ·oÏ½¯Ÿ² *Szohdw£ºû'ÍY÷÷ËÅ÷ø¢ûÓ÷Nøû!ü÷!÷ğÀ¦®®pVûğ÷÷ğÀ¦®®pVûğ÷!ø)ÏTµDT_v`k¶rf XUcwbr‰¾üÏùfıf÷!ùfû!ü÷eøû!ü÷!øûb÷rùW8TqWpr\/ûû•3 \J§ÄjááÄ¬Ì¨Ÿº•ã÷÷çsº¿pS¥8%¨œ{l’qEûûˆF…nj„y{ppz›¬„„¨ˆĞ÷÷Ñ¥ª’œ›¨ûbø*ùNüû ÷ƒûSüâ÷1÷>øÉ÷ûzø÷ıï;Û'';;''Û;ïïÛÛïüŠø6ÄûËr“tšwn£±|Àœ¤ªâŠ†ƒŠv~‘–…ˆ’‰›¢÷¢ÔâB÷#û!L;R4-ø“÷YÌqÁV¶ˆZ¨-ÃVªq­‹°‹¾¥¥¿‹º‹¢g‹B÷'÷%”EÓû)û3<GûN¥VÀ_ˆ»lêPÀj¥i‹h‹TrpX‹f‹r˜¤ƒ›‡©‹¶û+Š€‹ûÓG÷#ÕÃ–¢²Â¬§ÆŞû*÷Yøû!ü÷!÷ğÀ¦®®pVûğ÷!ø)ÏTµDUcwbr‰¾-÷X÷+÷÷^ølû.ûûÅû ÷Åû9÷Qülûûb§÷6‡I›]°pªu¼€Ï‹÷‹ÕÌ‹ä‹ºv±`ª~”c Hª`ŸvŸ‹ ‹¯›«‹”‹“Š‘‰„”sa÷¾{³g¦k¤a—V‹U‹^hw`ruf‹Y‹] f¶o³x³w³x¶v r‹n‹hzzh‹pz“›„…˜‰ŸŒ§ûd÷mø÷Ùº©rYš”lQ5,„K~ie|mx^Bøˆû+ü÷÷Š÷Óºé­›·“Öô÷}ãn¿ÊhKª.ûıfü÷eøû!ü÷!øû!÷mû÷!÷û!ûb§÷6‡I›]°pªu¼€Ï‹÷‹ÕÌ‹ä‹ºv±`ª~”c Hª`ŸvŸ‹ ‹¯›«‹”‹“Š‘‰„”sa÷¾{³g¦k¤a—V‹U‹^hw`ruf‹Y‹] f¶o³x³w³x¶v r‹n‹hzzh‹pz“›„…˜‰ŸŒ§ûÛûşz²®‚¨¬¦’š¢¤œ˜¤ª£x™—zv‘r„„Šˆƒ‰·ÅZI3¡x•—™‹¬œtpw}b|u–oxcü÷ù‡DûHhû# K—@¢4•h£A°ûÚ}Ï}Ï~Î{âƒÛ‹Ö‹ô¡÷$¶÷J<ûbçûS÷(÷WùLû?û÷‰C÷÷û ÷ü‘UûOû*÷ˆØnx£»ƒˆœŠ¯ÂÊ´«“›¦¥œ{k’xbLTŠhˆzZ„yso÷Z>ùfû!û‰²qeXMbmNx€j†S<:Q–jLŸµlÊÃ³¡·¢S÷d÷Åëcp µ~€®†ÎïïÎ–®µ˜¦ ³³¦va˜–hH''†H€ha~pvcû ÷Ó²Ø® ¹•á÷÷áv¹ØhC±ûûCe>hv]5ûû•5 ]>®Ód÷ü÷ûÒ÷H®÷#öËÖtâ®sÕf÷<™G™G™Hš4“;‹@‹"uû$`ûJÚd÷1´÷4÷b³û4÷3ûXùfû[û\ıf÷)÷k÷£û$Ğ÷ÌÔûÌ-÷ÅÕÁ°­°³Îèû)‰[ˆk‡|hwzm‹c‹p ~µ€®†Î‹ï‹ïÎ–®˜µ¦ ³‹¸‹œg‹+÷(÷4‘EÛû&ûCe>hv]5ûû•5 ]>®Ód÷û*ûPz²®‚¨¬¦’š¢¤œ˜¤ª£x™—zv‘r„„Šˆƒ‰·ÅZI3¡x•—™‹¬œtpw}b|u–oxcd÷Åëcp µ~€®†ÎïïÎ–®µ˜¦ ³³¦va˜–hH''†H€ha~pvcû ÷Ó²Ø® ¹•á÷÷áv¹ØhC±ûûCe>hv]5ûû•5 ]>®Ód÷­ú3û ÷÷ ûûEû ÷÷ ûü÷jùfû+ıf÷+ûùíû ÷÷ ûû*øZ÷Ù÷GÊû6RrXluf€O80—K¢dY©Ärß÷ĞÌ÷û!Duh`W~­÷-Æ²’Ÿ¦”˜§¸pB÷!d÷l÷ĞãÎ¬iFGhiF7÷a÷»è¾¯dVk‚sy{~|z„w&÷L÷ü÷÷)ÕË÷Á‚´y§v¬gŸX’İ›´ÀåÒv¾b¨£jZ—Iû ıf÷Ÿû™÷ÿøûá1÷SûZûÏ'÷ëåû`÷]÷Ïïû*øPø)ÏTµDUcwbr‰÷ û!ıf÷!÷ğÀ¦®®pVûğ÷!÷rù
+endstream
+endobj
+56 0 obj
+<<
+/Ascent 969
+/FontFile3 55 0 R
+/FontName/HQMMMQ+Univers-CondensedBold
+/Flags 262176
+/Descent -226
+/FontBBox[-83 -226 1000 969]
+/ItalicAngle 0
+/CapHeight 969
+/StemH 0
+/StemV 0
+/Type/FontDescriptor
+/XHeight 0
+>>
+endobj
+57 0 obj
+<<
+/BaseFont/HQMMMQ+Univers-CondensedBold
+/Name/F5
+/Widths[222 0 0 0 0 0 0 0 278 278 0 0 0 0 0 0 444 0 0 0 0 0 0 444 0 0 0 0 0 0 0 0 0 611 611 0 611 0 0 0 0 0 0 556 0 0 0 611 556 0 0 556 0 0 0 0 0 556 0 0 0 0 0 0 0 500 500 500 500 500 0 500 500 278 0 500 278 722 500 500 0 0 333 444 278 500 444 0 0 444 389 0 0 0 0 0 0 0 556 0 0 611 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 420 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 278 278 0 444]
+/LastChar 223
+/FirstChar 32
+/FontDescriptor 56 0 R
+/Type/Font
+/Subtype/Type1
+/Encoding 54 0 R
+>>
+endobj
+58 0 obj
+<<
+/Kids[59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R]
+/Type/Pages
+/Count 6
+/Parent 65 0 R
+>>
+endobj
+59 0 obj
+<<
+/Parent 58 0 R
+/Contents 3 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F5 57 0 R/F1 41 0 R/F4 53 0 R/F3 49 0 R/F2 45 0 R/F0 37 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+60 0 obj
+<<
+/Parent 58 0 R
+/Contents 4 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F5 57 0 R/F1 41 0 R/F4 53 0 R/F3 49 0 R/F2 45 0 R/F0 37 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+61 0 obj
+<<
+/Parent 58 0 R
+/Contents 5 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F4 53 0 R/F3 49 0 R/F2 45 0 R/F0 37 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+62 0 obj
+<<
+/Parent 58 0 R
+/Contents 9 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/XObject<</Fm0 8 0 R>>/ProcSet[/PDF/Text]/Font<</F1 41 0 R/F4 53 0 R/F3 49 0 R/F0 37 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+63 0 obj
+<<
+/Parent 58 0 R
+/Contents 13 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/XObject<</Fm2 12 0 R>>/ProcSet[/PDF/Text]/Font<</F5 57 0 R/F4 53 0 R/F3 49 0 R/F2 45 0 R/F0 37 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+64 0 obj
+<<
+/Parent 58 0 R
+/Contents 14 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F1 41 0 R/F4 53 0 R/F3 49 0 R/F0 37 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+66 0 obj
+<<
+/Kids[67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R]
+/Type/Pages
+/Count 6
+/Parent 65 0 R
+>>
+endobj
+67 0 obj
+<<
+/Parent 66 0 R
+/Contents 18 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/XObject<</Fm4 17 0 R>>/ProcSet[/PDF/Text]/Font<</F4 53 0 R/F3 49 0 R/F0 37 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+68 0 obj
+<<
+/Parent 66 0 R
+/Contents 19 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F5 57 0 R/F4 53 0 R/F3 49 0 R/F0 37 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+69 0 obj
+<<
+/Parent 66 0 R
+/Contents 22 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/XObject<</Fm6 21 0 R>>/ProcSet[/PDF/Text]/Font<</F5 57 0 R/F4 53 0 R/F3 49 0 R/F0 37 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+70 0 obj
+<<
+/Parent 66 0 R
+/Contents 23 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F4 53 0 R/F3 49 0 R/F2 45 0 R/F0 37 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+71 0 obj
+<<
+/Parent 66 0 R
+/Contents 24 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F5 57 0 R/F4 53 0 R/F3 49 0 R/F2 45 0 R/F0 37 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+72 0 obj
+<<
+/Parent 66 0 R
+/Contents 25 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F1 41 0 R/F5 57 0 R/F4 53 0 R/F3 49 0 R/F2 45 0 R/F0 37 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+73 0 obj
+<<
+/Kids[74 0 R 75 0 R 76 0 R 77 0 R]
+/Type/Pages
+/Count 4
+/Parent 65 0 R
+>>
+endobj
+74 0 obj
+<<
+/Parent 73 0 R
+/Contents 26 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F1 41 0 R/F4 53 0 R/F3 49 0 R/F0 37 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+75 0 obj
+<<
+/Parent 73 0 R
+/Contents 27 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F5 57 0 R/F4 53 0 R/F3 49 0 R/F0 37 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+76 0 obj
+<<
+/Parent 73 0 R
+/Contents 28 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/ProcSet[/PDF/Text]/Font<</F4 53 0 R/F3 49 0 R/F2 45 0 R/F0 37 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+77 0 obj
+<<
+/Parent 73 0 R
+/Contents 32 0 R
+/Resources<</ExtGState<</GS1 2 0 R/GS0 1 0 R>>/XObject<</Fm8 31 0 R>>/ProcSet[/PDF/Text]/Font<</F4 53 0 R/F3 49 0 R/F0 37 0 R>>>>
+/Type/Page
+/MediaBox[0 0 467.71701 680.315]
+>>
+endobj
+65 0 obj
+<<
+/Type/Pages
+/Kids[58 0 R 66 0 R 73 0 R]
+/Count 16
+>>
+endobj
+78 0 obj
+<<
+/Pages 65 0 R
+/PageLabels 33 0 R
+/Type/Catalog
+>>
+endobj
+79 0 obj
+<<
+/Producer(QuarkXPress(tm) 6.5)
+/Title<FEFF202220222022004B002E004B002E0020004C0049004E00550058002700540041004E003F002D00300037>
+/CreationDate(20080124121816)
+/XPressPrivate(%%DocumentProcessColors:\n%%EndComments)
+/Creator(QuarkXPress(tm) 6.5)
+>>
+endobj
+xref
+0 80
+0000000000 65535 f 
+0000000015 00000 n 
+0000000059 00000 n 
+0000000111 00000 n 
+0000005800 00000 n 
+0000012063 00000 n 
+0000018789 00000 n 
+0000020663 00000 n 
+0000021230 00000 n 
+0000021937 00000 n 
+0000028497 00000 n 
+0000032807 00000 n 
+0000033372 00000 n 
+0000034083 00000 n 
+0000040349 00000 n 
+0000046281 00000 n 
+0000053790 00000 n 
+0000054356 00000 n 
+0000055066 00000 n 
+0000058778 00000 n 
+0000064429 00000 n 
+0000064990 00000 n 
+0000065701 00000 n 
+0000070998 00000 n 
+0000075532 00000 n 
+0000080548 00000 n 
+0000087073 00000 n 
+0000093705 00000 n 
+0000096755 00000 n 
+0000100568 00000 n 
+0000105430 00000 n 
+0000106005 00000 n 
+0000106715 00000 n 
+0000108866 00000 n 
+0000108912 00000 n 
+0000109384 00000 n 
+0000119411 00000 n 
+0000119632 00000 n 
+0000120332 00000 n 
+0000120551 00000 n 
+0000124290 00000 n 
+0000124519 00000 n 
+0000125131 00000 n 
+0000125417 00000 n 
+0000130810 00000 n 
+0000131040 00000 n 
+0000131668 00000 n 
+0000132303 00000 n 
+0000142901 00000 n 
+0000143124 00000 n 
+0000143864 00000 n 
+0000144316 00000 n 
+0000149376 00000 n 
+0000149596 00000 n 
+0000150273 00000 n 
+0000150585 00000 n 
+0000154220 00000 n 
+0000154448 00000 n 
+0000155085 00000 n 
+0000155192 00000 n 
+0000155426 00000 n 
+0000155660 00000 n 
+0000155874 00000 n 
+0000156110 00000 n 
+0000156358 00000 n 
+0000159002 00000 n 
+0000156573 00000 n 
+0000156680 00000 n 
+0000156908 00000 n 
+0000157123 00000 n 
+0000157361 00000 n 
+0000157576 00000 n 
+0000157801 00000 n 
+0000158036 00000 n 
+0000158129 00000 n 
+0000158344 00000 n 
+0000158559 00000 n 
+0000158774 00000 n 
+0000159074 00000 n 
+0000159143 00000 n 
+trailer
+<<
+/Size 80
+/Root 78 0 R
+/Info 79 0 R
+/ID[<1B52CCF7A6F47985C99841E972C447FA><1B52CCF7A6F47985C99841E972C447FA>]
+>>
+startxref
+159409
+%%EOF
